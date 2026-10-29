@@ -181,7 +181,7 @@
     const photo = imgs.length
       ? '<img src="' + esc(imgs[0]) + '" alt="Ảnh ' + esc(titleOf(l)) + '" loading="lazy">'
       : '<span class="noimg">' + ROOM_ICON + '</span>';
-    return '<article class="card ' + (i % 2 ? 'sb' : 'sa') + '" style="animation-delay:' + Math.min(i, 12) * 0.06 + 's" data-id="' + esc(l.id) + '">' +
+    return '<article class="card ' + (i % 2 ? 'sb' : 'sa') + (saved ? ' is-saved' : '') + '" style="animation-delay:' + Math.min(i, 12) * 0.06 + 's" data-id="' + esc(l.id) + '">' +
       PEEK +
       '<button class="photo" type="button" data-open="' + esc(l.id) + '" aria-label="Xem chi tiết ' + esc(titleOf(l)) + '">' + photo +
         (l.kind ? '<span class="badge">' + esc(l.kind) + '</span>' : '') +
@@ -235,6 +235,8 @@
     $('#savedCount').textContent = String(S.saved.size);
     btn.setAttribute('aria-pressed', String(!was));
     btn.querySelector('path').setAttribute('fill', was ? '#FFFFFF' : '#FF5C9A');
+    const own = btn.closest('.card');
+    if (own) own.classList.toggle('is-saved', !was);      // tai mèo hiện khi thả tim, mất khi bỏ tim
     if (!was) {
       btn.classList.remove('pop'); void btn.offsetWidth; btn.classList.add('pop');
       const card = btn.closest('.card');
@@ -263,6 +265,8 @@
     $('#dDesc').textContent = l.description || '';
     $('#dZalo').textContent = 'Nhắn Zalo hỏi phòng #' + l.id;
     const imgs = l.images || [];
+    VIEW.imgs = imgs;
+    VIEW.i = 0;
     const main = $('#dImg');
     const thumbs = $('#dThumbs');
     if (imgs.length) {
@@ -272,8 +276,9 @@
       thumbs.innerHTML = imgs.length > 1 ? imgs.map((src, i) =>
         '<button type="button" aria-label="Ảnh ' + (i + 1) + '" aria-current="' + (i === 0) + '" data-src="' + esc(src) + '"><img src="' + esc(src) + '" alt="" loading="lazy"></button>'
       ).join('') : '';
-      thumbs.querySelectorAll('button').forEach((b) => b.addEventListener('click', () => {
+      thumbs.querySelectorAll('button').forEach((b, bi) => b.addEventListener('click', () => {
         main.src = b.dataset.src;
+        VIEW.i = bi;
         thumbs.querySelectorAll('button').forEach((x) => x.setAttribute('aria-current', String(x === b)));
       }));
     } else {
@@ -283,8 +288,67 @@
     if (typeof dlg.showModal === 'function') dlg.showModal(); else dlg.setAttribute('open', '');
   }
 
+  // ---------- xem ảnh lớn: đè lên thông tin phòng, có nút quay lại + ảnh trước/sau ----------
+  const VIEW = { imgs: [], i: 0 };
+
+  function showView() {
+    const n = VIEW.imgs.length;
+    $('#vImg').src = VIEW.imgs[VIEW.i];
+    $('#vCount').textContent = (VIEW.i + 1) + ' / ' + n;
+    $('#vPrev').hidden = n < 2;
+    $('#vNext').hidden = n < 2;
+  }
+
+  function openViewer(i) {
+    if (!VIEW.imgs.length) return;
+    VIEW.i = i;
+    showView();
+    const v = $('#viewer');
+    if (typeof v.showModal === 'function') v.showModal(); else v.setAttribute('open', '');
+  }
+
+  function stepView(d) {
+    const n = VIEW.imgs.length;
+    if (n < 2) return;
+    VIEW.i = (VIEW.i + d + n) % n;
+    showView();
+  }
+
+  function closeViewer() {
+    const v = $('#viewer');
+    v.close ? v.close() : v.removeAttribute('open');
+    // ảnh lớn trong khung thông tin đi theo ảnh vừa xem
+    const main = $('#dImg');
+    if (VIEW.imgs.length) main.src = VIEW.imgs[VIEW.i];
+    $('#dThumbs').querySelectorAll('button').forEach((x, xi) => x.setAttribute('aria-current', String(xi === VIEW.i)));
+  }
+
+  function bindViewer() {
+    $('#dImg').addEventListener('click', () => openViewer(VIEW.i));
+    $('#vBack').addEventListener('click', closeViewer);
+    $('#vPrev').addEventListener('click', (e) => { e.stopPropagation(); stepView(-1); });
+    $('#vNext').addEventListener('click', (e) => { e.stopPropagation(); stepView(1); });
+    const v = $('#viewer');
+    v.addEventListener('cancel', (e) => { e.preventDefault(); closeViewer(); });   // phím Esc = quay lại
+    v.addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowRight') stepView(1);
+      if (e.key === 'ArrowLeft') stepView(-1);
+    });
+    // vuốt trái/phải trên điện thoại
+    let x0 = null;
+    const st = $('#vStage');
+    st.addEventListener('touchstart', (e) => { x0 = e.touches[0].clientX; }, { passive: true });
+    st.addEventListener('touchend', (e) => {
+      if (x0 === null) return;
+      const dx = e.changedTouches[0].clientX - x0;
+      if (Math.abs(dx) > 40) stepView(dx < 0 ? 1 : -1);
+      x0 = null;
+    });
+  }
+
   // ---------- gắn sự kiện ----------
   function bindStatic() {
+    bindViewer();
     $('#reset').addEventListener('click', () => {
       Object.assign(S, { district: 'Tất cả', ward: 'Tất cả', kind: 'Tất cả', layout: 'Tất cả', maxPrice: PRICE_CAP, onlySaved: false });
       S.amen.clear();
