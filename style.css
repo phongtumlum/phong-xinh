@@ -1,0 +1,224 @@
+/* Phòng Xinh — giao diện mẫu E (Kawaii Sticker) */
+:root{
+  --ink:#141013; --pink:#FFB3D1; --pink2:#FF8FB8; --hot:#FF5C9A; --blush:#FFE3EE;
+  --bg:#FFF1F7; --dot:#FFCFE2; --muted:#6B4A58; --white:#fff;
+}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+html{scroll-behavior:smooth}
+body{margin:0; color:var(--ink); font-family:'Nunito',sans-serif; background-color:var(--bg);
+  background-image:radial-gradient(var(--dot) 2.5px, transparent 2.5px); background-size:26px 26px; overflow-x:hidden}
+button{font-family:inherit; cursor:pointer; color:var(--ink)}
+a{color:inherit}
+img{display:block; max-width:100%}
+input[type=range]{accent-color:var(--ink)}
+.baloo{font-family:'Baloo 2',sans-serif}
+.sr{position:absolute!important; width:1px; height:1px; overflow:hidden; clip:rect(0 0 0 0); white-space:nowrap}
+
+/* ---------- keyframes ---------- */
+@keyframes float{0%,100%{transform:translateY(0) rotate(-4deg)}50%{transform:translateY(-14px) rotate(4deg)}}
+@keyframes float2{0%,100%{transform:translateY(0) rotate(5deg)}50%{transform:translateY(-10px) rotate(-5deg)}}
+@keyframes wave{0%,100%{transform:rotate(-14deg)}50%{transform:rotate(22deg)}}
+@keyframes blink{0%,92%,100%{transform:scaleY(1)}95%{transform:scaleY(.1)}}
+@keyframes popheart{0%{transform:scale(.4)}55%{transform:scale(1.5)}100%{transform:scale(1)}}
+@keyframes wiggle{0%,100%{transform:rotate(0)}25%{transform:rotate(-4deg)}75%{transform:rotate(4deg)}}
+@keyframes pop-in{0%{opacity:0; transform:scale(.7) translateY(20px)}70%{opacity:1; transform:scale(1.04)}100%{opacity:1; transform:none}}
+@keyframes marq{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+@keyframes pa{0%{transform:scale(.3) rotate(-30deg); opacity:0}60%{transform:scale(1.2) rotate(8deg); opacity:1}100%{transform:scale(1) rotate(0); opacity:1}}
+@keyframes pb{0%{transform:scale(.3) rotate(-30deg); opacity:0}60%{transform:scale(1.2) rotate(8deg); opacity:1}100%{transform:scale(1) rotate(0); opacity:1}}
+@keyframes bubble{0%{transform:translateY(0) scale(.6); opacity:0}12%{opacity:.8}100%{transform:translateY(-3600px) scale(1.25); opacity:0}}
+@keyframes tail{0%,100%{transform:rotate(-8deg)}50%{transform:rotate(14deg)}}
+@keyframes shake{0%,100%{transform:rotate(0)}20%{transform:rotate(-8deg)}40%{transform:rotate(8deg)}60%{transform:rotate(-5deg)}80%{transform:rotate(5deg)}}
+@keyframes f1{0%{transform:translate(0,0) scale(.4); opacity:1}100%{transform:translate(-46px,-70px) scale(1.1); opacity:0}}
+@keyframes f2{0%{transform:translate(0,0) scale(.4); opacity:1}100%{transform:translate(-10px,-86px) scale(1.2); opacity:0}}
+@keyframes f3{0%{transform:translate(0,0) scale(.4); opacity:1}100%{transform:translate(40px,-74px) scale(1); opacity:0}}
+@keyframes f4{0%{transform:translate(0,0) scale(.4); opacity:1}100%{transform:translate(-60px,-24px) scale(.9); opacity:0}}
+@keyframes f5{0%{transform:translate(0,0) scale(.4); opacity:1}100%{transform:translate(58px,-34px) scale(1); opacity:0}}
+@keyframes f6{0%{transform:translate(0,0) scale(.4); opacity:1}100%{transform:translate(8px,-50px) scale(1.3); opacity:0}}
+@keyframes wl{0%,100%{transform:translateY(0) rotate(0)}50%{transform:translateY(-12px) rotate(-3deg)}}
+@keyframes rainbow{0%{background-position:0% 50%}100%{background-position:300% 50%}}
+@keyframes twinkle{0%,100%{opacity:.15; transform:scale(.5) rotate(0)}50%{opacity:1; transform:scale(1.15) rotate(30deg)}}
+@keyframes pp{0%{left:0; transform:translateX(0)}100%{left:100%; transform:translateX(-100%)}}
+@keyframes walk{0%{left:0; transform:scaleX(1)}47%{left:calc(100% - 76px); transform:scaleX(1)}50%{left:calc(100% - 76px); transform:scaleX(-1)}97%{left:0; transform:scaleX(-1)}100%{left:0; transform:scaleX(1)}}
+@keyframes hop{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+@keyframes bgshift{0%,100%{background-color:#FFB3D1}50%{background-color:#FFCBE4}}
+@keyframes sweep{0%{left:-60%}60%,100%{left:130%}}
+@keyframes wagk{from{transform:rotate(-18deg)}to{transform:rotate(18deg)}}
+
+/* ---------- motion classes ---------- */
+.fl1{animation:float 4.6s ease-in-out infinite}
+.fl2{animation:float2 5.4s ease-in-out infinite}
+.paw{transform-box:fill-box; transform-origin:20% 90%; animation:wave 1.6s ease-in-out infinite}
+.eye{transform-box:fill-box; transform-origin:center; animation:blink 4.2s infinite}
+.tailw{transform-box:fill-box; transform-origin:0% 100%; animation:tail 1.8s ease-in-out infinite}
+.pa{animation:pa .55s cubic-bezier(.3,1.6,.5,1) both}
+.pb{animation:pb .55s cubic-bezier(.3,1.6,.5,1) both}
+.bub{position:absolute; bottom:-60px; border-radius:50%; background:rgba(255,143,184,.3); border:2px solid rgba(20,16,19,.10); pointer-events:none; animation:bubble linear infinite; z-index:0}
+.wl{display:inline-block; animation:wl 1.8s ease-in-out infinite}
+.rainbow{background:linear-gradient(90deg,#FF5C9A,#FFA6CD,#C084FC,#FF5C9A,#FFA6CD); background-size:300% 100%; -webkit-background-clip:text; background-clip:text; -webkit-text-fill-color:transparent; color:transparent; -webkit-text-stroke:2.5px var(--ink); animation:rainbow 4s linear infinite}
+.rainbow.pa{animation:pa .55s cubic-bezier(.3,1.6,.5,1) both, rainbow 4s linear infinite}
+.rainbow.pb{animation:pb .55s cubic-bezier(.3,1.6,.5,1) both, rainbow 4s linear infinite}
+.tw{position:absolute; pointer-events:none; animation:twinkle 2.6s ease-in-out infinite}
+.twi{display:inline-block; animation:twinkle 2.6s ease-in-out infinite}
+.walker{position:absolute; bottom:0; animation:walk 16s linear infinite}
+.hop{animation:hop .5s ease-in-out infinite}
+.hop2{animation:hop .32s ease-in-out infinite}
+.wag{transform-box:fill-box; transform-origin:100% 100%; animation:wagk .25s ease-in-out infinite alternate}
+.bgshift{animation:bgshift 6s ease-in-out infinite}
+.shine{position:relative; overflow:hidden}
+.shine::after{content:''; position:absolute; top:0; left:-60%; width:40%; height:100%; background:linear-gradient(90deg,transparent,rgba(255,255,255,.6),transparent); transform:skewX(-20deg); animation:sweep 3.2s ease-in-out infinite; pointer-events:none}
+.mq,.tape{display:flex; width:max-content; animation:marq linear infinite}
+.mq{animation-duration:40s}
+.tape.rev{animation-direction:reverse}
+.btnk{transition:transform .2s cubic-bezier(.3,1.8,.5,1), box-shadow .2s ease}
+.btnk:hover{transform:translateY(-3px) scale(1.05); animation:wiggle .5s ease}
+.btnk:active{transform:translate(3px,3px) scale(.98); box-shadow:0 0 0 var(--ink)!important}
+
+/* Tôn trọng cài đặt "giảm chuyển động" chỉ khi site.json đặt motion = "system" */
+@media (prefers-reduced-motion: reduce){
+  .rm .fl1,.rm .fl2,.rm .paw,.rm .eye,.rm .tailw,.rm .mq,.rm .card,.rm .btnk:hover,.rm .pa,.rm .pb,.rm .bub,.rm .bh,.rm .wl,.rm .rainbow,.rm .tw,.rm .twi,.rm .pp,.rm .walker,.rm .hop,.rm .hop2,.rm .wag,.rm .bgshift,.rm .tape,.rm .shine::after{animation:none!important}
+  .rm .tw,.rm .twi{opacity:.8}
+}
+
+/* ---------- layout ---------- */
+.wrap{position:relative; z-index:1; width:100%; max-width:1180px; margin:0 auto; padding:24px 32px 48px; display:flex; flex-direction:column; gap:28px}
+.ticker{position:relative; z-index:1; background:var(--ink); color:var(--dot); overflow:hidden}
+.ticker .mq{padding:11px 0; font-family:'Baloo 2',sans-serif; font-weight:700; font-size:15px; white-space:nowrap}
+.ticker .mq span{padding-right:22px}
+
+.nav{display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:12px}
+.brand{display:flex; align-items:center; gap:10px; background:#fff; border:3px solid var(--ink); border-radius:999px; padding:8px 18px 8px 10px; box-shadow:4px 4px 0 var(--pink2); text-decoration:none}
+.brand-dot{width:34px; height:34px; border-radius:50%; background:var(--pink2); border:3px solid var(--ink); display:inline-flex; align-items:center; justify-content:center}
+.brand-name{font-family:'Baloo 2',sans-serif; font-weight:800; font-size:22px; line-height:1}
+.nav-right{display:flex; flex-wrap:wrap; align-items:center; gap:10px}
+.pill{background:#fff; border:3px solid var(--ink); border-radius:999px; padding:9px 16px; font-weight:800; font-size:14px}
+.btn-dark{display:inline-block; text-decoration:none; background:var(--ink); color:#fff; font-weight:800; font-size:15px; padding:13px 22px; border-radius:999px; box-shadow:4px 4px 0 var(--pink2); border:0; text-align:center}
+.btn-light{display:inline-block; text-decoration:none; background:#fff; border:3px solid var(--ink); font-weight:800; font-size:15px; padding:11px 22px; border-radius:999px; box-shadow:4px 4px 0 var(--ink); text-align:center}
+
+/* hero */
+.hero{position:relative; background:var(--pink); border:3px solid var(--ink); border-radius:44px; box-shadow:8px 8px 0 var(--ink); padding:48px 48px 40px; display:flex; flex-wrap:wrap; align-items:center; gap:24px; overflow:hidden}
+.hero-text{flex:1 1 480px; min-width:0; display:flex; flex-direction:column; gap:20px; position:relative; z-index:2}
+.hot{align-self:flex-start; max-width:100%; display:flex; align-items:center; gap:8px; background:#fff; border:3px solid var(--ink); border-radius:999px; padding:5px 16px 5px 5px; transform:rotate(-2deg); box-shadow:3px 3px 0 var(--ink)}
+.hot b{flex-shrink:0; background:var(--ink); color:var(--dot); font-weight:800; font-size:12px; letter-spacing:.06em; padding:5px 10px; border-radius:999px}
+.hot span{display:inline-block; font-weight:800; font-size:15px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap}
+.hero h1{margin:0; font-family:'Baloo 2',sans-serif; font-weight:800; font-size:72px; line-height:.98; letter-spacing:-0.02em}
+.hero h1 .word{display:inline-block}
+.hero h1 .heart{color:#fff; -webkit-text-stroke:3px var(--ink)}
+.hero p{margin:0; font-size:19px; line-height:1.5; font-weight:600; max-width:480px}
+.hero-cta{display:flex; flex-wrap:wrap; gap:12px}
+.hero-art{flex:1 1 320px; min-width:0; display:flex; align-items:center; justify-content:center; position:relative; height:360px}
+.slot{position:absolute; z-index:3}
+.slot svg{display:none; filter:drop-shadow(3px 4px 0 var(--ink))}
+.slot svg.on{display:block}
+.say{position:absolute; top:-10px; left:-34px; z-index:4; background:#fff; border:3px solid var(--ink); border-radius:18px; padding:6px 14px; font-family:'Baloo 2',sans-serif; font-weight:800; font-size:15px; white-space:nowrap; box-shadow:3px 3px 0 var(--ink)}
+.mood{display:none}
+.mood.on{display:inline}
+.pawf{position:absolute; left:0; top:0; margin:-24px 0 0 -24px; width:48px; height:48px; opacity:0; transition:left .35s cubic-bezier(.2,.8,.2,1), top .35s cubic-bezier(.2,.8,.2,1), opacity .25s ease; pointer-events:none; z-index:5; filter:drop-shadow(2px 3px 0 var(--ink))}
+
+/* tapes */
+.tapes{position:relative; height:170px; margin:-4px -32px -10px; overflow:hidden}
+.tapebar{position:absolute; left:-5%; right:-5%; border-top:3px solid var(--ink); border-bottom:3px solid var(--ink)}
+.tapebar.t1{top:26px; transform:rotate(-3deg); background:var(--ink)}
+.tapebar.t2{top:84px; transform:rotate(2.5deg); background:var(--pink2)}
+.tape{padding:12px 0}
+.tape span{display:inline-flex; align-items:center; gap:18px; padding-right:18px; font-family:'Baloo 2',sans-serif; font-weight:800; font-size:26px; line-height:1.2; white-space:nowrap}
+.t1 .tape span{color:var(--dot)}
+.t2 .tape span{color:var(--ink)}
+
+/* filters */
+.filters{position:relative; background:#fff; border:3px solid var(--ink); border-radius:36px; box-shadow:7px 7px 0 var(--pink2); padding:28px; display:flex; flex-direction:column; gap:22px}
+.walkers{position:absolute; left:28px; right:28px; top:-61px; height:60px; pointer-events:none}
+.fhead{display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap}
+.fhead h2{margin:0; font-family:'Baloo 2',sans-serif; font-weight:800; font-size:32px}
+.group{display:flex; flex-direction:column; gap:10px; min-width:0}
+.group-label{font-family:'Baloo 2',sans-serif; font-weight:700; font-size:17px}
+.chips{display:flex; flex-wrap:wrap; gap:10px}
+.chip{background:#fff; border:3px solid var(--ink); box-shadow:3px 3px 0 var(--ink); font-size:15px; font-weight:800; padding:9px 18px; border-radius:999px; min-height:44px}
+.chip[aria-pressed="true"]{background:var(--pink2); box-shadow:0 0 0 var(--ink)}
+.two{display:grid; grid-template-columns:repeat(auto-fit, minmax(300px, 1fr)); gap:24px}
+.price-badge{background:var(--pink); border:2.5px solid var(--ink); border-radius:999px; padding:2px 12px; font-weight:800}
+.range{width:100%; height:44px; margin:0}
+
+/* ping-pong */
+.ppw{position:relative; overflow:hidden; background:#fff; border:3px solid var(--ink); border-radius:999px; height:56px; box-shadow:4px 4px 0 var(--ink)}
+.pp{position:absolute; top:8px; white-space:nowrap; display:flex; align-items:center; gap:10px; padding:0 18px; font-family:'Baloo 2',sans-serif; font-weight:800; font-size:24px; line-height:34px; animation:pp 7s ease-in-out infinite alternate}
+.pp .rainbow{-webkit-text-stroke:1.5px var(--ink)}
+
+/* results */
+.rhead{display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap}
+.rhead h2{margin:0; font-family:'Baloo 2',sans-serif; font-weight:800; font-size:40px; line-height:1}
+.updated{background:#fff; border:3px dashed var(--ink); border-radius:999px; padding:7px 14px; font-size:13px; font-weight:800}
+.grid{display:grid; grid-template-columns:repeat(auto-fill, minmax(280px, 1fr)); gap:34px 26px; padding:22px 6px 6px}
+.empty{background:var(--pink); border:3px solid var(--ink); border-radius:36px; box-shadow:7px 7px 0 var(--ink); padding:48px 32px; text-align:center; display:flex; flex-direction:column; gap:12px; align-items:center}
+.empty b{font-family:'Baloo 2',sans-serif; font-weight:800; font-size:30px}
+
+.card{position:relative; background:#fff; border:3px solid var(--ink); border-radius:32px; box-shadow:6px 8px 0 var(--pink); padding:12px; display:flex; flex-direction:column; gap:14px; min-width:0;
+  transition:transform .3s cubic-bezier(.3,1.8,.5,1), box-shadow .3s ease; animation:pop-in .6s both}
+.card.sa{transform:rotate(-1.2deg)}
+.card.sb{transform:rotate(1.2deg)}
+.card:hover{transform:rotate(0) scale(1.03) translateY(-6px); box-shadow:9px 11px 0 var(--pink2)}
+.peek{position:absolute; top:-6px; left:26px; width:56px; height:30px; transform:translateY(14px); opacity:0; transition:transform .3s cubic-bezier(.3,1.8,.5,1), opacity .2s ease; pointer-events:none; z-index:-1}
+.card:hover .peek{transform:translateY(-22px); opacity:1}
+.photo{position:relative; height:200px; border-radius:22px; background:var(--blush); border:3px solid var(--ink); overflow:hidden; padding:0; width:100%; display:block}
+.photo img{width:100%; height:100%; object-fit:cover; transition:transform .4s ease}
+.card:hover .photo img{transform:scale(1.06)}
+.photo .noimg{width:100%; height:100%; display:flex; align-items:center; justify-content:center}
+.badge{position:absolute; top:10px; left:10px; background:var(--ink); color:#fff; font-size:12px; font-weight:800; padding:6px 12px; border-radius:999px}
+.newb{position:absolute; bottom:10px; left:10px; background:#fff; border:2.5px solid var(--ink); font-family:'Baloo 2',sans-serif; font-weight:800; font-size:13px; padding:2px 12px; border-radius:999px; transform:rotate(-5deg)}
+.count{position:absolute; bottom:10px; right:10px; background:rgba(20,16,19,.75); color:#fff; font-size:12px; font-weight:800; padding:4px 10px; border-radius:999px}
+.heartbtn{position:absolute; top:20px; right:20px; width:44px; height:44px; border-radius:50%; background:#fff; border:3px solid var(--ink); display:inline-flex; align-items:center; justify-content:center; padding:0; z-index:2}
+.heartbtn.pop svg{animation:popheart .45s cubic-bezier(.3,1.8,.5,1)}
+.burst{position:absolute; top:32px; right:32px; width:0; height:0; z-index:3; pointer-events:none}
+.bh{position:absolute; width:22px; height:22px; opacity:0}
+.bh1{animation:f1 .85s ease-out both}.bh2{animation:f2 .85s ease-out both}.bh3{animation:f3 .85s ease-out both}
+.bh4{animation:f4 .85s ease-out both}.bh5{animation:f5 .85s ease-out both}.bh6{animation:f6 .85s ease-out both}
+.body{padding:0 8px 8px; display:flex; flex-direction:column; gap:10px}
+.prow{display:flex; align-items:baseline; justify-content:space-between; gap:8px}
+.price{display:inline-flex; align-items:center; gap:6px; font-family:'Baloo 2',sans-serif; font-weight:800; font-size:30px; letter-spacing:-0.02em; line-height:1.1}
+.layoutpill{font-size:14px; font-weight:800; background:var(--blush); border:2px solid var(--ink); border-radius:999px; padding:2px 10px; white-space:nowrap}
+.card h3{margin:0; font-size:17px; font-weight:800; line-height:1.3}
+.where{font-size:14px; font-weight:600; color:var(--muted)}
+.amen{display:flex; flex-wrap:wrap; gap:6px}
+.amen span{background:#fff; border:2px solid var(--ink); font-size:12px; font-weight:700; padding:3px 9px; border-radius:999px}
+.cardcta{display:flex; gap:8px; margin-top:4px}
+.cardcta .btn-dark{flex:1; padding:13px 12px}
+.cardcta .btn-light{padding:10px 14px}
+
+/* detail dialog */
+dialog.detail{width:min(860px, calc(100% - 24px)); max-height:calc(100% - 24px); padding:0; border:3px solid var(--ink); border-radius:32px; box-shadow:8px 8px 0 var(--ink); background:#fff}
+dialog.detail::backdrop{background:rgba(20,16,19,.55)}
+.dwrap{display:flex; flex-direction:column; gap:16px; padding:20px}
+.dtop{display:flex; justify-content:space-between; align-items:flex-start; gap:12px}
+.dtop h3{margin:0; font-family:'Baloo 2',sans-serif; font-weight:800; font-size:28px; line-height:1.1}
+.close{width:44px; height:44px; border-radius:50%; border:3px solid var(--ink); background:#fff; font-size:22px; font-weight:800; flex-shrink:0}
+.dmain{width:100%; max-height:62vh; object-fit:contain; background:var(--blush); border:3px solid var(--ink); border-radius:22px}
+.thumbs{display:flex; gap:8px; overflow-x:auto; padding-bottom:4px}
+.thumbs button{flex:0 0 auto; width:76px; height:60px; padding:0; border-radius:12px; border:3px solid transparent; overflow:hidden; background:var(--blush)}
+.thumbs button[aria-current="true"]{border-color:var(--ink)}
+.thumbs img{width:100%; height:100%; object-fit:cover}
+.desc{white-space:pre-line; font-size:16px; line-height:1.6; background:var(--bg); border-radius:18px; padding:14px 16px; margin:0}
+
+/* footer */
+.foot{position:relative; overflow:hidden; background:var(--ink); color:#fff; border-radius:44px; padding:44px; display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:24px; margin-top:12px}
+.foot b{display:block; font-family:'Baloo 2',sans-serif; font-weight:800; font-size:42px; line-height:1}
+.foot span{display:block; margin-top:8px; font-size:17px; line-height:1.5; font-weight:600; color:#FFD9E8}
+.foot .btn-pink{text-decoration:none; background:var(--pink2); color:var(--ink); font-weight:800; padding:16px 28px; border-radius:999px; border:3px solid #fff}
+
+/* ---------- điện thoại ---------- */
+@media (max-width:700px){
+  .wrap{padding:16px 16px 40px; gap:22px}
+  .hero{padding:28px 22px 24px; border-radius:32px}
+  .hero h1{font-size:46px}
+  .hero p{font-size:17px}
+  .hero-art{height:280px; flex-basis:100%}
+  .hero-art .mascot svg{width:200px; height:200px}
+  .tapes{height:140px; margin:-4px -16px -10px}
+  .tape span{font-size:20px}
+  .tapebar.t2{top:72px}
+  .filters{padding:20px 16px}
+  .fhead h2{font-size:26px}
+  .rhead h2{font-size:30px}
+  .foot{padding:28px 22px; border-radius:32px}
+  .foot b{font-size:30px}
+  .pp{font-size:18px}
+}
