@@ -464,7 +464,7 @@
   "price": 4200000,
   "price_max": 5500000,
   "area": null,
-  "district": null,
+  "district": "Quận 10",
   "ward": null,
   "street": "2 Tô Hiến Thành",
   "type": null,
