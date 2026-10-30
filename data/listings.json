@@ -256,6 +256,31 @@
   "updated": 1793296234
  },
  {
+  "id": 27,
+  "price": 5900000,
+  "price_max": 5900000,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Tô Hiến Thành",
+  "type": null,
+  "layout": null,
+  "kind": null,
+  "amenities": [],
+  "description": "Nhi Vnest\n5tr9 Tô Hiến Thành, Quận 10",
+  "images": [
+   "data/img/hd_766b90a994f6880d.jpg",
+   "data/img/hd_ee3d71a9ffadb5c7.jpg",
+   "data/img/hd_3da6877754974e88.jpg",
+   "data/img/hd_402b0a05dabad162.jpg",
+   "data/img/hd_2a5688ce0d58008f.jpg",
+   "data/img/hd_6f2420ad784c8926.jpg",
+   "data/img/hd_88a9d30d3ec17c06.jpg",
+   "data/img/hd_11439cc8b95f9e23.jpg"
+  ],
+  "updated": 1793296105
+ },
+ {
   "id": 19,
   "price": 4200000,
   "price_max": 5500000,
