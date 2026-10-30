@@ -1,5 +1,30 @@
 [
  {
+  "id": 44,
+  "price": 3000000,
+  "price_max": 4000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": null,
+  "street": "Nguyễn Bặc",
+  "type": null,
+  "layout": "Studio",
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Tin nhắn chưa đọc\nNguyễn Bặc\nĐiện 4k\nnước 100k\ndv 150k/p\nxe Íree\n( Tân Bình - 3.000 - 4.000 )",
+  "images": [
+   "data/img/hd_708964d363e750e9.jpg",
+   "data/img/hd_5085ef93b83f749a.jpg",
+   "data/img/hd_ef7b310b89d1abca.jpg",
+   "data/img/hd_406e83d828d884fa.jpg"
+  ],
+  "updated": 1793372987
+ },
+ {
   "id": 40,
   "price": 6500000,
   "price_max": 6500000,
