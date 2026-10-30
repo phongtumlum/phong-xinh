@@ -140,6 +140,33 @@
   "updated": 1793296522
  },
  {
+  "id": 32,
+  "price": 6200000,
+  "price_max": 6200000,
+  "area": null,
+  "district": "Quận 5",
+  "ward": null,
+  "street": "Gò Công",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "kind": null,
+  "amenities": [
+   "máy giặt riêng",
+   "bếp"
+  ],
+  "description": "Cập nhật tình trạng trống phòng\nGò công Q5\n202 : 1PN tách bếp có máy giặt riêng giá 6tr2\nAll\n( Quận 5 - 6.000 - 7.000 - 1PN)",
+  "images": [
+   "data/img/hd_16385c90d6fe5e7e.jpg",
+   "data/img/hd_1ddfad53c9d5996b.jpg",
+   "data/img/hd_a5d6bf221d19ce85.jpg",
+   "data/img/hd_bf6bec6c59d2373d.jpg",
+   "data/img/hd_93802f93bfc44623.jpg",
+   "data/img/hd_2f398e86db6c27fd.jpg",
+   "data/img/hd_4c6042eb30077b64.jpg"
+  ],
+  "updated": 1793296410
+ },
+ {
   "id": 19,
   "price": 4200000,
   "price_max": 5500000,
