@@ -215,6 +215,24 @@
   "updated": 1793296290
  },
  {
+  "id": 29,
+  "price": 4000000,
+  "price_max": 5000000,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "Phú Nhuận",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "kind": null,
+  "amenities": [
+   "gác"
+  ],
+  "description": "( Phú Nhuận - 4.000 - 5.000 - Duplex )",
+  "images": [],
+  "updated": 1793296287
+ },
+ {
   "id": 19,
   "price": 4200000,
   "price_max": 5500000,
