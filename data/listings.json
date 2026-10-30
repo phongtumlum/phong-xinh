@@ -167,6 +167,30 @@
   "updated": 1793296410
  },
  {
+  "id": 31,
+  "price": 6900000,
+  "price_max": 6900000,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Lê Văn Sỹ",
+  "type": null,
+  "layout": null,
+  "kind": null,
+  "amenities": [
+   "vân tay"
+  ],
+  "description": "Lê văn sỹ Q3\nTrệt: 6tr9\nCuối tháng 10 trống\nĐiện: 4K\nNước: 100k / người\nDV: 200/ phòng\nFree nước nóng. Máy giặt cửa vân tay.\n( Quận 3 - 6.000 - 7.000)",
+  "images": [
+   "data/img/hd_e3329c3fbcd67187.jpg",
+   "data/img/hd_2a3b067d1b6f962a.jpg",
+   "data/img/hd_47bf31c3c882cfab.jpg",
+   "data/img/hd_7ed8482f921e16eb.jpg",
+   "data/img/hd_8070a15626ae03da.jpg"
+  ],
+  "updated": 1793296341
+ },
+ {
   "id": 19,
   "price": 4200000,
   "price_max": 5500000,
