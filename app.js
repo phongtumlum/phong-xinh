@@ -120,12 +120,11 @@
   }
 
   // các quận chính có nút riêng; quận còn lại (và tin chưa rõ quận) gom vào "Quận khác"
-  const MAIN_DISTRICTS = ['Quận 1', 'Quận 3', 'Quận 10', 'Bình Thạnh', 'Phú Nhuận', 'Tân Bình'];
+  const MAIN_DISTRICTS = ['Quận 1', 'Quận 3', 'Quận 5', 'Quận 10', 'Bình Thạnh', 'Phú Nhuận', 'Tân Bình'];
   const OTHER = 'Quận khác';
   const isMain = (d) => MAIN_DISTRICTS.indexOf(d) !== -1;
   function districtChips() {
-    const have = new Set(LIST.map((l) => l.district));
-    return ['Tất cả'].concat(MAIN_DISTRICTS.filter((d) => have.has(d)), [OTHER]);
+    return ['Tất cả'].concat(MAIN_DISTRICTS, [OTHER]);           // luôn hiện đủ, "Quận khác" ở cuối
   }
 
   function renderFilters() {
@@ -140,18 +139,6 @@
       wardGroup.hidden = true;
     }
     chips($('#fLayout'), ['Tất cả'].concat(LAYOUT_ORDER), S.layout, (v) => { S.layout = v; renderAll(); });
-    chips($('#fKind'), ['Tất cả'].concat(KIND_ORDER), S.kind, (v) => { S.kind = v; renderAll(); });
-
-    const amenAll = Array.from(new Set(LIST.flatMap((l) => l.amenities || [])));
-    const amenBox = $('#fAmen');
-    amenBox.innerHTML = amenAll.map((a) =>
-      '<button class="chip btnk" type="button" aria-pressed="' + S.amen.has(a) + '" data-v="' + esc(a) + '">' + esc(cap(a)) + '</button>'
-    ).join('');
-    amenBox.querySelectorAll('button').forEach((b) => b.addEventListener('click', () => {
-      const v = b.dataset.v;
-      if (S.amen.has(v)) S.amen.delete(v); else S.amen.add(v);
-      renderAll();
-    }));
     $('#onlySaved').setAttribute('aria-pressed', String(S.onlySaved));
     $('#savedCount').textContent = String(S.saved.size);
   }
@@ -368,8 +355,33 @@
   }
 
   // ---------- gắn sự kiện ----------
+  // ---------- ĐIỀU ĐẶC BIỆT: hộp quà ----------
+  function bindGift() {
+    const btn = $('#giftBtn');
+    const box = $('#special');
+    const msg = $('#giftMsg');
+    if (!btn || !box || !msg) return;
+    btn.addEventListener('click', () => {
+      const open = !box.classList.contains('open');
+      box.classList.toggle('open', open);
+      btn.setAttribute('aria-expanded', String(open));
+      msg.hidden = !open;
+      $('#giftHint').textContent = open ? 'Đóng quà lại' : 'Bấm mở quà nè!';
+      if (open) {
+        const burst = document.createElement('div');
+        burst.className = 'burst giftburst';
+        burst.setAttribute('aria-hidden', 'true');
+        const shapes = [[HEART, '#FF2D55'], [STAR, '#FFD23F'], [HEART, '#FF5C9A'], [STAR, '#fff'], [HEART, '#FF2D55'], [HEART, '#FFB3D1']];
+        burst.innerHTML = shapes.map((x, i) => '<svg class="bh bh' + (i + 1) + '" viewBox="0 0 24 24"><path d="' + x[0] + '" fill="' + x[1] + '" stroke="#141013" stroke-width="2"/></svg>').join('');
+        btn.appendChild(burst);
+        setTimeout(() => burst.remove(), 950);
+      }
+    });
+  }
+
   function bindStatic() {
     bindViewer();
+    bindGift();
     $('#reset').addEventListener('click', () => {
       Object.assign(S, { district: 'Tất cả', ward: 'Tất cả', kind: 'Tất cả', layout: 'Tất cả', maxPrice: null, onlySaved: false });
       S.amen.clear();

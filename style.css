@@ -250,3 +250,54 @@ dialog.viewer::backdrop{background:#141013}
 .pricebox input::placeholder{color:var(--muted); font-weight:700}
 .pricebox span{font-weight:800; font-size:16px}
 .orig{font-size:14px; font-weight:700; color:var(--muted); text-decoration:line-through; white-space:nowrap}
+
+/* nút "Đã lưu" trên thanh đầu trang = lọc phòng đã thả tim */
+button.pill{cursor:pointer; font:inherit; font-weight:800; font-size:14px}
+button.pill[aria-pressed="true"]{background:var(--hot); color:#fff}
+
+/* ĐIỀU ĐẶC BIỆT */
+@property --spin{syntax:'<angle>'; initial-value:0deg; inherits:false}
+@keyframes spinborder{to{--spin:360deg}}
+@keyframes giftbob{0%,100%{transform:translateY(0) rotate(0)}20%{transform:translateY(-6px) rotate(-6deg)}40%{transform:translateY(0) rotate(5deg)}60%{transform:translateY(-3px) rotate(-3deg)}80%{transform:translateY(0) rotate(0)}}
+@keyframes lidopen{0%{transform:translateY(0) rotate(0)}100%{transform:translate(-12px,-22px) rotate(-18deg)}}
+@keyframes titleshine{0%{background-position:0% 50%}100%{background-position:200% 50%}}
+@keyframes heartbeat{0%,100%{transform:scale(1)}30%{transform:scale(1.28)}60%{transform:scale(.95)}}
+@keyframes hintbounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+.special{position:relative; border-radius:28px; padding:4px; margin-top:6px;
+  background:conic-gradient(from var(--spin), #FF5C9A, #FFD23F, #8FD3FF, #B69CFF, #FF5C9A);
+  animation:spinborder 4s linear infinite; box-shadow:5px 5px 0 var(--ink)}
+.sp-inner{position:relative; overflow:hidden; background-color:#1B1218; border-radius:24px; padding:22px 18px 22px; display:flex; flex-direction:column; align-items:center; gap:10px; text-align:center;
+  background-image:radial-gradient(#3A2430 1.4px, transparent 1.6px); background-size:16px 16px}
+.sp-inner > *:not(.bulbs){position:relative; z-index:1}
+.bulbs{position:absolute; inset:8px; pointer-events:none}
+.bulb{position:absolute; width:9px; height:9px; border-radius:50%; background:#FFD23F; box-shadow:0 0 8px #FFD23F; animation:bulbtwk 1s infinite alternate}
+@keyframes bulbtwk{from{opacity:.25; transform:scale(.7)}to{opacity:1; transform:scale(1.1)}}
+.sp-head{display:flex; align-items:center; gap:8px; margin-bottom:10px}
+.sp-title{margin:0; font-family:'Baloo 2','Nunito',sans-serif; font-weight:800; font-size:clamp(26px,6vw,34px); letter-spacing:.06em; color:#FFE3EE;
+  text-shadow:0 0 6px #FF5C9A,0 0 14px #FF5C9A,0 0 28px #FF2D55; animation:neonflick 2.4s infinite, neonpulse 1.6s ease-in-out infinite}
+/* chữ neon: chớp tắt như đèn biển hiệu + phồng nhẹ, đổi sắc hồng -> vàng */
+@keyframes neonflick{0%,17%,21%,24%,52%,56%,100%{opacity:1}19%,23%,54%{opacity:.25}}
+@keyframes neonpulse{0%,100%{transform:scale(1); color:#FFE3EE; text-shadow:0 0 6px #FF5C9A,0 0 14px #FF5C9A,0 0 28px #FF2D55}
+  50%{transform:scale(1.07); color:#FFF6C2; text-shadow:0 0 8px #FFD23F,0 0 20px #FF5C9A,0 0 40px #FF2D55}}
+.sp-star{animation:twinkle 1.8s ease-in-out infinite}
+.sp-star.s2{animation-delay:-.9s}
+.giftbtn{position:relative; background:none; border:0; padding:4px 10px; display:flex; flex-direction:column; align-items:center; gap:4px}
+.giftbtn .gift{animation:giftbob 2.4s ease-in-out infinite; transform-origin:50% 90%; overflow:visible}
+.giftbtn .lid{transform-box:fill-box; transform-origin:50% 100%}
+.special.open .giftbtn .gift{animation:none}
+.special.open .giftbtn .lid{animation:lidopen .5s cubic-bezier(.3,1.6,.5,1) forwards}
+.gift-hint{font-weight:800; font-size:15px; background:var(--hot); color:#fff; border-radius:999px; padding:5px 14px; animation:hintbounce 1.4s ease-in-out infinite}
+.special.open .gift-hint{background:#fff; color:var(--ink); border:2px solid var(--ink); animation:none}
+.giftbtn:focus-visible{outline:3px dashed #FFD23F; outline-offset:4px; border-radius:18px}
+.giftmsg{max-width:640px; background:var(--blush); border:3px solid var(--ink); border-radius:20px; padding:16px 18px; text-align:left;
+  animation:pop-in .45s cubic-bezier(.3,1.4,.5,1) both; display:flex; flex-direction:column; gap:10px}
+.giftmsg p{margin:0; font-size:16.5px; font-weight:700; line-height:1.55}
+.giftmsg .gift-amt{background:#FFD23F; border:2px solid var(--ink); border-radius:8px; padding:0 6px; white-space:nowrap}
+.giftmsg .zalo-link{align-self:center}
+.hearts{display:inline-flex; gap:2px; vertical-align:middle}
+.hearts .rh{animation:heartbeat 1.1s ease-in-out infinite}
+.giftburst{left:50%; top:40%; right:auto}
+@media (prefers-reduced-motion: reduce){
+  .special,.sp-title,.sp-star,.giftbtn .gift,.gift-hint,.hearts .rh,.bulb{animation:none!important}
+  .special.open .giftbtn .lid{animation:none; transform:translate(-12px,-22px) rotate(-18deg)}
+}

@@ -35,7 +35,7 @@
 <span class="brand-name" id="brandName">phòng xinh</span>
 </a>
 <div class="nav-right">
-<span class="pill">Đã lưu: <span id="savedCount">0</span></span>
+<button class="pill btnk" type="button" id="onlySaved" aria-pressed="false" title="Chỉ xem phòng đã thả tim">♥ Đã lưu: <span id="savedCount">0</span></button>
 <a class="btn-dark btnk shine zalo-link" href="https://zalo.me/" target="_blank" rel="noopener">Nhắn Zalo</a>
 </div>
 </header>
@@ -125,16 +125,42 @@
 <div class="group"><span class="group-label" id="lbLayout">Mấy phòng ngủ nè?</span><div class="chips" id="fLayout" role="group" aria-labelledby="lbLayout"></div></div>
 
 
-<div class="two">
 <div class="group">
 <label class="group-label" for="price">Giá cần tìm:</label>
 <div class="pricebox"><input id="price" type="text" inputmode="decimal" autocomplete="off" placeholder="vd: 7" aria-describedby="priceUnit"><span id="priceUnit">triệu đổ lại</span></div>
 </div>
-<div class="group"><span class="group-label" id="lbKind">Loại hình</span><div class="chips" id="fKind" role="group" aria-labelledby="lbKind"></div></div>
-</div>
 
-<div class="group"><span class="group-label" id="lbAmen">Phải có gì nữa không?</span>
-<div class="chips" role="group" aria-labelledby="lbAmen"><span id="fAmen" style="display:contents"></span><button class="chip btnk" type="button" id="onlySaved" aria-pressed="false">Chỉ phòng đã thả tim</button></div>
+<!-- ĐIỀU ĐẶC BIỆT: hộp quà bấm vào hiện lời nhắn -->
+<div class="special" id="special">
+<div class="sp-inner">
+<div class="bulbs" aria-hidden="true"><span class="bulb" style="left:6%;top:8%;animation-delay:0s"></span><span class="bulb" style="left:22%;top:4%;animation-delay:.5s"></span><span class="bulb" style="left:40%;top:6%;animation-delay:0s"></span><span class="bulb" style="left:60%;top:4%;animation-delay:.5s"></span><span class="bulb" style="left:78%;top:7%;animation-delay:0s"></span><span class="bulb" style="left:94%;top:10%;animation-delay:.5s"></span><span class="bulb" style="left:96%;top:40%;animation-delay:0s"></span><span class="bulb" style="left:94%;top:72%;animation-delay:.5s"></span><span class="bulb" style="left:80%;top:94%;animation-delay:0s"></span><span class="bulb" style="left:58%;top:96%;animation-delay:.5s"></span><span class="bulb" style="left:36%;top:95%;animation-delay:0s"></span><span class="bulb" style="left:14%;top:93%;animation-delay:.5s"></span><span class="bulb" style="left:3%;top:70%;animation-delay:0s"></span><span class="bulb" style="left:4%;top:40%;animation-delay:.5s"></span></div>
+<div class="sp-head">
+<svg class="sp-star s1" width="22" height="22" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 0C13 8 16 11 24 12C16 13 13 16 12 24C11 16 8 13 0 12C8 11 11 8 12 0Z" fill="#FF5C9A"/></svg>
+<h3 class="sp-title">ĐIỀU ĐẶC BIỆT</h3>
+<svg class="sp-star s2" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 0C13 8 16 11 24 12C16 13 13 16 12 24C11 16 8 13 0 12C8 11 11 8 12 0Z" fill="#FFD23F"/></svg>
+</div>
+<button class="giftbtn" id="giftBtn" type="button" aria-expanded="false" aria-controls="giftMsg">
+<svg class="gift" width="112" height="112" viewBox="0 0 120 120" aria-hidden="true">
+<ellipse cx="60" cy="112" rx="38" ry="6" fill="#141013" opacity=".15"/>
+<rect x="20" y="52" width="80" height="56" rx="8" fill="#FF5C9A" stroke="#141013" stroke-width="4"/>
+<rect x="53" y="52" width="14" height="56" fill="#FFD23F" stroke="#141013" stroke-width="4"/>
+<circle cx="38" cy="74" r="4" fill="#fff" opacity=".7"/><circle cx="84" cy="90" r="3" fill="#fff" opacity=".7"/><circle cx="34" cy="96" r="2.5" fill="#fff" opacity=".7"/>
+<g class="lid">
+<rect x="14" y="36" width="92" height="20" rx="6" fill="#FF8FB8" stroke="#141013" stroke-width="4"/>
+<rect x="53" y="36" width="14" height="20" fill="#FFD23F" stroke="#141013" stroke-width="4"/>
+<path d="M60 36 C46 12 26 18 34 30 C38 36 52 36 60 36Z" fill="#FFD23F" stroke="#141013" stroke-width="4" stroke-linejoin="round"/>
+<path d="M60 36 C74 12 94 18 86 30 C82 36 68 36 60 36Z" fill="#FFD23F" stroke="#141013" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="60" cy="35" r="6" fill="#FFD23F" stroke="#141013" stroke-width="4"/>
+</g>
+</svg>
+<span class="gift-hint" id="giftHint">Bấm mở quà nè!</span>
+</button>
+<div class="giftmsg" id="giftMsg" hidden>
+<p>Mấy bà cứ tìm phòng theo nhu cầu mình nhé, giá hiện tại là giá chủ nhà đưa ra, vẫn còn thương lượng nha.</p>
+<p>Hiện tại có rất rất nhiều phòng tui chưa có update lên kịp, vậy nên lỡ may trên này chưa có phòng đó nhưng mí Bà muốn chốt qua tui thì tui sẽ gửi lại 1 món quà nho nhỏ từ <b class="gift-amt">500K - 1 Triệu</b> tùy theo giá trị phòng và hđ nhaaa! Cảm ơn nhóoo <span class="hearts" aria-label="3 trái tim"><svg class="rh" style="animation-delay:0s" width="22" height="22" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-8-5.3-8-11a4.5 4.5 0 0 1 8-2.8A4.5 4.5 0 0 1 20 10c0 5.7-8 11-8 11z" fill="#FF2D55" stroke="#141013" stroke-width="1.6" stroke-linejoin="round"/></svg><svg class="rh" style="animation-delay:0.18s" width="22" height="22" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-8-5.3-8-11a4.5 4.5 0 0 1 8-2.8A4.5 4.5 0 0 1 20 10c0 5.7-8 11-8 11z" fill="#FF2D55" stroke="#141013" stroke-width="1.6" stroke-linejoin="round"/></svg><svg class="rh" style="animation-delay:0.36s" width="22" height="22" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-8-5.3-8-11a4.5 4.5 0 0 1 8-2.8A4.5 4.5 0 0 1 20 10c0 5.7-8 11-8 11z" fill="#FF2D55" stroke="#141013" stroke-width="1.6" stroke-linejoin="round"/></svg></span></p>
+<a class="btn-dark btnk shine zalo-link" href="https://zalo.me/" target="_blank" rel="noopener">Nhắn Zalo cho tui liền</a>
+</div>
+</div>
 </div>
 </section>
 
