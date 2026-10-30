@@ -233,6 +233,29 @@
   "updated": 1793296287
  },
  {
+  "id": 28,
+  "price": 4500000,
+  "price_max": 4500000,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": "Phường 2",
+  "street": "Cù Lao",
+  "type": null,
+  "layout": null,
+  "kind": null,
+  "amenities": [],
+  "description": "3 Đ/c: Cù Lao, P2, Phú Nhuận\nPhòng 301 giá 4tr5 (ngày 1/11 trống)\n3 biện 3k9, nước 100k, dịch vụ 200k, xe 100k/chiếc",
+  "images": [
+   "data/img/hd_fcc430d36ef6daf5.jpg",
+   "data/img/hd_0cf6f22dd989231c.jpg",
+   "data/img/hd_b43909022c8798fd.jpg",
+   "data/img/hd_8b71b44da6629f0c.jpg",
+   "data/img/hd_0b9bb8ca27d62281.jpg",
+   "data/img/9f50caea903abbad.jpg"
+  ],
+  "updated": 1793296234
+ },
+ {
   "id": 19,
   "price": 4200000,
   "price_max": 5500000,
