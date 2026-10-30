@@ -1,5 +1,29 @@
 [
  {
+  "id": 5,
+  "price": 5000000,
+  "price_max": 5000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 11",
+  "ward": null,
+  "street": "Lữ Gia",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "gác"
+  ],
+  "description": "Thanh Hùng Vnest\nDuplex 5tr mới làm xong - 5tr - giáp Q10",
+  "images": [
+   "data/img/hd_e1bcc163b17fe35c.jpg"
+  ],
+  "updated": 1793351991
+ },
+ {
   "id": 4,
   "price": 5900000,
   "price_max": 5900000,
