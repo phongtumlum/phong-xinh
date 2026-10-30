@@ -1,5 +1,65 @@
 [
  {
+  "id": 55,
+  "price": 5300000,
+  "price_max": 5300000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "221 Trần Huy Liệu",
+  "type": null,
+  "layout": "Studio",
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "221 Trần Huy Liệu, Phú Nhuận\nĐiện 4k/kwh, nước 100k/người, dịch vụ 200k/phòng, free xe\n5tr3 khách ở 1 người giá thương lượng",
+  "images": [
+   "data/img/hd_c4edecd2755ed16f.jpg",
+   "data/img/hd_4a52b8c5c684abe6.jpg",
+   "data/img/hd_37d8b89a6db3fb08.jpg"
+  ],
+  "updated": 1793374210
+ },
+ {
+  "id": 54,
+  "price": 5200000,
+  "price_max": 7700000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": "Phường 7",
+  "street": "122 Đỗ Tấn Phong",
+  "type": null,
+  "layout": "Studio",
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "ban công"
+  ],
+  "description": "Giảm còn 7tr7 có ban công, máy giặt riêng\n122 Đỗ Tấn Phong, Phú Nhuận (F9-QPN)\nQuy mô: Thang máy\nĐiện 4k, Nước 25k/m3\nDịch vụ 200k/phòng\nP07 - 5tr2 cửa số lầu 3 thang bộ",
+  "images": [
+   "data/img/hd_b8f1e86977302fc1.jpg",
+   "data/img/hd_6d829483c8abef23.jpg",
+   "data/img/hd_6d7755cb4c7c7bda.jpg",
+   "data/img/hd_4b4f5388e5ce5cb1.jpg",
+   "data/img/hd_47b1a5e6250b610b.jpg",
+   "data/img/hd_65c20a22f68da84d.jpg",
+   "data/img/hd_730a745877c32bbf.jpg",
+   "data/img/hd_c98c5e7035b5bbde.jpg",
+   "data/img/hd_e0f5cf74b131bb09.jpg",
+   "data/img/hd_5a5e2af63e9d8153.jpg",
+   "data/img/hd_1aecbdeb03e619a8.jpg",
+   "data/img/hd_9d431aaa96004c24.jpg"
+  ],
+  "updated": 1793374097
+ },
+ {
   "id": 53,
   "price": 6000000,
   "price_max": 6000000,
