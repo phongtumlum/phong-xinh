@@ -302,6 +302,29 @@
   "updated": 1793296066
  },
  {
+  "id": 25,
+  "price": 4900000,
+  "price_max": 4900000,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Đồng Nai",
+  "type": null,
+  "layout": null,
+  "kind": null,
+  "amenities": [],
+  "description": "4tr9 Đồng Nai Q10",
+  "images": [
+   "data/img/hd_b29b3a0f9a1771cc.jpg",
+   "data/img/hd_a6d3c655276614af.jpg",
+   "data/img/hd_cd845c5e65727a72.jpg",
+   "data/img/hd_c48a9a76bf02ea3c.jpg",
+   "data/img/hd_7b3e0b6f8c84fa3d.jpg",
+   "data/img/hd_7bcf472d058bece6.jpg"
+  ],
+  "updated": 1793296006
+ },
+ {
   "id": 19,
   "price": 4200000,
   "price_max": 5500000,
