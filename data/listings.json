@@ -367,6 +367,35 @@
   "updated": 1793360388
  },
  {
+  "id": 25,
+  "price": 5800000,
+  "price_max": 5800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 11",
+  "ward": null,
+  "street": "Hàn Hải Nguyên",
+  "type": null,
+  "layout": "Gác (duplex)",
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "gác"
+  ],
+  "description": "5tr8 Hàn Hải Nguyên, Quận T1",
+  "images": [
+   "data/img/hd_4a6f140af123fe19.jpg",
+   "data/img/hd_46e7b744e05c7f38.jpg",
+   "data/img/hd_df89947990235d19.jpg",
+   "data/img/hd_8fb4657c49ad0b0d.jpg",
+   "data/img/hd_db4a8b70aed0fccc.jpg",
+   "data/img/hd_8bb46c3bae5784a3.jpg"
+  ],
+  "updated": 1793360317
+ },
+ {
   "id": 20,
   "price": 6500000,
   "price_max": 6500000,
