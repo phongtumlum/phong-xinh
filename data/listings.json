@@ -45,6 +45,27 @@
   "updated": 1793297124
  },
  {
+  "id": 34,
+  "price": 6000000,
+  "price_max": 6000000,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Tô Hiến Thành",
+  "type": null,
+  "layout": null,
+  "kind": null,
+  "amenities": [],
+  "description": "Giảm còn 6tr\n273/ Tô Hiến Thành, Quận 10\nToà nhà thang bộ, giặt phơi\nĐiện 4k, nước 30k/khối, net 100k/phòng, pdv 150k/người, xe free 2 chiếc",
+  "images": [
+   "data/img/hd_61bb7f71b01f0bb2.jpg",
+   "data/img/hd_ad4578cb9d8a3ade.jpg",
+   "data/img/hd_ba3230973001f7d9.jpg",
+   "data/img/hd_6f2edc1ca3aae89f.jpg"
+  ],
+  "updated": 1793296627
+ },
+ {
   "id": 19,
   "price": 4200000,
   "price_max": 5500000,
