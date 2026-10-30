@@ -1,5 +1,107 @@
 [
  {
+  "id": 40,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "601/ CMT8",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "bếp"
+  ],
+  "description": "Trống sẵn 1PN mã 203 lầu 2 giá 6tr5\n1PN tách bếp có máy giặt riêng\nĐịa chỉ 601/ CMT8, Quận 10. Đi hẻm 130 Hồ Bá Kiện gần hơn",
+  "images": [
+   "data/img/hd_4074ad0203057eb0.jpg",
+   "data/img/hd_47479a52ce5120ec.jpg",
+   "data/img/hd_3a1a5f5113d18cda.jpg",
+   "data/img/hd_00c4afff00e8d048.jpg",
+   "data/img/hd_4c00a8a6866bfd25.jpg",
+   "data/img/hd_22f1b21c416fa771.jpg",
+   "data/img/hd_8023632a7502005b.jpg",
+   "data/img/hd_b04d1f91a1ab90bd.jpg",
+   "data/img/hd_f992059ae32c1592.jpg",
+   "data/img/hd_d71a44297ba1f1b3.jpg",
+   "data/img/hd_dcce05cc19f01bcd.jpg",
+   "data/img/1207aba3e79969f9.jpg"
+  ],
+  "updated": 1793361892
+ },
+ {
+  "id": 39,
+  "price": 5300000,
+  "price_max": 5300000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "207 Nguyễn Trọng Tuyển",
+  "type": null,
+  "layout": "1PN",
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "cửa sổ",
+   "máy lạnh",
+   "bếp"
+  ],
+  "description": "5tr3 ban công, cửa sổ, lầu 4 thang bộ\n207 Nguyễn Trọng Tuyển, Phú Nhuận\nĐiện: 4k/Kwh, Nước: 100k/người, Dịch vụ: 200k/phòng, Xe: free 2 chiếc\nThú cưng: thương lượng cam kết\nCó máy giặt sấy chung, phơi sân thượng\nNội thất: Máy lạnh, kệ bếp, tủ đồ, giường nệm",
+  "images": [
+   "data/img/hd_e19f45f0a5b1af94.jpg",
+   "data/img/hd_471f1a13b52b5b19.jpg",
+   "data/img/hd_c577315ddb6930ee.jpg",
+   "data/img/hd_5f71f42227254512.jpg",
+   "data/img/hd_f0d80687b4a74b43.jpg",
+   "data/img/hd_814ce36038cdb7bf.jpg",
+   "data/img/hd_8bc4d1ffb52a2a1d.jpg",
+   "data/img/hd_269a716dc1244e98.jpg",
+   "data/img/hd_4824cc8d34a46c7c.jpg",
+   "data/img/hd_84bbe9aba9673b9b.jpg",
+   "data/img/hd_c10aa2334c4b7d80.jpg",
+   "data/img/hd_bf9a188be34ddecf.jpg"
+  ],
+  "updated": 1793361764
+ },
+ {
+  "id": 38,
+  "price": 4200000,
+  "price_max": 4200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 11",
+  "ward": null,
+  "street": "Lạc Long Quân",
+  "type": null,
+  "layout": "Studio",
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "lạc long quân q11 4,2tr\n(Quận 11 - 3.000 - 4.000)",
+  "images": [
+   "data/img/hd_8409f417d91b81e8.jpg",
+   "data/img/hd_29aa823c9d3bdb18.jpg",
+   "data/img/hd_8409f417d91b81e8.jpg",
+   "data/img/hd_aa40e3baf310d210.jpg",
+   "data/img/hd_69a53f33e6ea3fcf.jpg",
+   "data/img/hd_3bfc74cd33d4d906.jpg",
+   "data/img/hd_12082315f4a1bc16.jpg"
+  ],
+  "updated": 1793361563
+ },
+ {
   "id": 37,
   "price": 4500000,
   "price_max": 4500000,
@@ -81,6 +183,42 @@
    "data/img/hd_06fdf1bef1f2255f.jpg"
   ],
   "updated": 1793361412
+ },
+ {
+  "id": 34,
+  "price": 6300000,
+  "price_max": 6300000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Nơ Trang Long Bình Thạnh",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "gác"
+  ],
+  "description": "Giá 6tr3\nđiện: 4k\nnước: 100k/ng\ndv: 100k/ng\nxe: free\nNơ Trang Long, Bình Thạnh.\nNội thất như hình.\nNhà có thang máy, máy giặt, máy sấy.\n( Bình Thạnh - 6.000 - 7.000 - Duplex - Ban Công )",
+  "images": [
+   "data/img/hd_1ec5aceb47dad73e.jpg",
+   "data/img/hd_5d53e933534aa711.jpg",
+   "data/img/hd_7a7964e2eb3a5395.jpg",
+   "data/img/hd_a7b9a77e64fd02e3.jpg",
+   "data/img/hd_d5d3eca081dfe1c0.jpg",
+   "data/img/hd_08fad5ee86fd7372.jpg",
+   "data/img/hd_11dd154cad07dd17.jpg",
+   "data/img/hd_a9489a0e04cc9fe7.jpg",
+   "data/img/hd_2bed0a686c72acd2.jpg",
+   "data/img/hd_5be48d6132ffc9ab.jpg",
+   "data/img/hd_f7fee03631663bc9.jpg",
+   "data/img/hd_e8e520ebe1680309.jpg"
+  ],
+  "updated": 1793361305
  },
  {
   "id": 33,
@@ -377,6 +515,40 @@
   "updated": 1793358749
  },
  {
+  "id": 9,
+  "price": 7800000,
+  "price_max": 7800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "199/61A1 Lê Quang Định",
+  "type": "căn hộ",
+  "layout": "Studio",
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "nuôi thú cưng",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "KHAI TRƯƠNG CĂN HỘ MỚI 100% FULL NỘI THẤT Q. BÌNH THẠNH\nAddress: 199/61A1 Lê Quang Định, Bình Thạnh\nTiên ích\nMáy giặt + sấy riêng. Thang máy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\n3CỌC 1.5 THÁNG. KO NUÔI PET\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: Free 2 xe\nGiá 7tr8 (Trống sẵn phòng ở lầu 2 - 201)",
+  "images": [
+   "data/img/hd_468e6324b1ea19a4.jpg",
+   "data/img/hd_49b0201147659a81.jpg",
+   "data/img/hd_537fad0881be2cb9.jpg",
+   "data/img/hd_ad1a10bda218df77.jpg",
+   "data/img/hd_7b4293f7a26803e9.jpg",
+   "data/img/hd_e955a97cbb1acc83.jpg",
+   "data/img/hd_adf6adec85026be1.jpg",
+   "data/img/aa69f267e4a29df0.jpg"
+  ],
+  "updated": 1793358648
+ },
+ {
   "id": 8,
   "price": 6200000,
   "price_max": 6200000,
@@ -406,6 +578,34 @@
    "data/img/hd_4c6042eb30077b64.jpg"
   ],
   "updated": 1793356967
+ },
+ {
+  "id": 7,
+  "price": 6900000,
+  "price_max": 6900000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Lê Văn Sỹ",
+  "type": null,
+  "layout": "Studio",
+  "kind": null,
+  "elevator": null,
+  "available": "Trống cuối tháng 10",
+  "available_date": null,
+  "amenities": [
+   "vân tay"
+  ],
+  "description": "Lê văn sỹ Q3\nTrệt: 6tr9\nCuối tháng 10 trống\nĐiện: 4K\nNước: 100k / người\nDV: 200/ phòng\nFree nước nóng. Máy giặt cửa vân tay.\n( Quận 3 - 6.000 - 7.000)",
+  "images": [
+   "data/img/hd_e3329c3fbcd67187.jpg",
+   "data/img/hd_2a3b067d1b6f962a.jpg",
+   "data/img/hd_47bf31c3c882cfab.jpg",
+   "data/img/hd_7ed8482f921e16eb.jpg",
+   "data/img/hd_8070a15626ae03da.jpg"
+  ],
+  "updated": 1793356920
  },
  {
   "id": 6,
