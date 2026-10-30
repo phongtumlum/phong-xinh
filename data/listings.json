@@ -1,1 +1,31 @@
-[]
+[
+ {
+  "id": 1,
+  "price": 5900000,
+  "price_max": 5900000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Đồng Nai",
+  "type": null,
+  "layout": "Gác (duplex)",
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "5tr9 Đồng Nai Q10",
+  "images": [
+   "data/img/hd_df439b7d6d616757.jpg",
+   "data/img/hd_3073191744a3708b.jpg",
+   "data/img/hd_0ccab573cdca73ca.jpg",
+   "data/img/hd_2e3a559088036dab.jpg",
+   "data/img/hd_f3f1a0b82a4305d5.jpg",
+   "data/img/hd_569e7f6375ff3bf2.jpg",
+   "data/img/hd_47afe859b40fea4f.jpg",
+   "data/img/hd_7a5145390fede01e.jpg"
+  ],
+  "updated": 1793351678
+ }
+]
