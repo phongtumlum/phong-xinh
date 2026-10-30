@@ -336,6 +336,37 @@
   "updated": 1793360489
  },
  {
+  "id": 26,
+  "price": 7200000,
+  "price_max": 7200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 11",
+  "ward": null,
+  "street": "Hàn Hải Nguyên",
+  "type": null,
+  "layout": "1PN",
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "7tr2 Hàn Hải Nguyên, Quận T1",
+  "images": [
+   "data/img/hd_75f780077d2a9d18.jpg",
+   "data/img/hd_08b3142aec857f06.jpg",
+   "data/img/hd_941b9fa1c4c0be98.jpg",
+   "data/img/hd_941b9fa1c4c0be98.jpg",
+   "data/img/hd_941b9fa1c4c0be98.jpg",
+   "data/img/hd_f8eafcef70d605a8.jpg",
+   "data/img/hd_12af08777c9163c9.jpg",
+   "data/img/hd_ac801f39a22440ef.jpg",
+   "data/img/hd_7e1bc7ee5459bda7.jpg",
+   "data/img/hd_f349aee75f13b279.jpg"
+  ],
+  "updated": 1793360388
+ },
+ {
   "id": 20,
   "price": 6500000,
   "price_max": 6500000,
