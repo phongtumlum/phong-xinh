@@ -266,19 +266,35 @@ button.pill[aria-pressed="true"]{background:var(--hot); color:#fff}
 .special{position:relative; border-radius:28px; padding:4px; margin-top:6px;
   background:conic-gradient(from var(--spin), #FF5C9A, #FFD23F, #8FD3FF, #B69CFF, #FF5C9A);
   animation:spinborder 4s linear infinite; box-shadow:5px 5px 0 var(--ink)}
-.sp-inner{position:relative; overflow:hidden; background-color:#1B1218; border-radius:24px; padding:22px 18px 22px; display:flex; flex-direction:column; align-items:center; gap:10px; text-align:center;
+.sp-inner{position:relative; overflow:hidden; background-color:#1B1218; border-radius:24px; padding:22px 18px 34px; min-height:300px; display:flex; flex-direction:column; align-items:center; gap:10px; text-align:center;
   background-image:radial-gradient(#3A2430 1.4px, transparent 1.6px); background-size:16px 16px}
-.sp-inner > *:not(.bulbs){position:relative; z-index:1}
+.sp-inner > *:not(.bulbs):not(.sp-float):not(.sp-cat){position:relative; z-index:2}
+.special.open .sp-cat{opacity:0; transition:opacity .3s}
 .bulbs{position:absolute; inset:8px; pointer-events:none}
 .bulb{position:absolute; width:9px; height:9px; border-radius:50%; background:#FFD23F; box-shadow:0 0 8px #FFD23F; animation:bulbtwk 1s infinite alternate}
 @keyframes bulbtwk{from{opacity:.25; transform:scale(.7)}to{opacity:1; transform:scale(1.1)}}
 .sp-head{display:flex; align-items:center; gap:8px; margin-bottom:10px}
 .sp-title{margin:0; font-family:'Baloo 2','Nunito',sans-serif; font-weight:800; font-size:clamp(26px,6vw,34px); letter-spacing:.06em; color:#FFE3EE;
-  text-shadow:0 0 6px #FF5C9A,0 0 14px #FF5C9A,0 0 28px #FF2D55; animation:neonflick 2.4s infinite, neonpulse 1.6s ease-in-out infinite}
-/* chữ neon: chớp tắt như đèn biển hiệu + phồng nhẹ, đổi sắc hồng -> vàng */
-@keyframes neonflick{0%,17%,21%,24%,52%,56%,100%{opacity:1}19%,23%,54%{opacity:.25}}
-@keyframes neonpulse{0%,100%{transform:scale(1); color:#FFE3EE; text-shadow:0 0 6px #FF5C9A,0 0 14px #FF5C9A,0 0 28px #FF2D55}
-  50%{transform:scale(1.07); color:#FFF6C2; text-shadow:0 0 8px #FFD23F,0 0 20px #FF5C9A,0 0 40px #FF2D55}}
+  animation:neonflick 3.2s infinite}
+/* từng chữ sáng dần - mờ dần nối nhau như dây đèn lấp lánh, quầng sáng hồng/vàng "thở" */
+.sp-word span{display:inline-block; animation:glowbreath 2.2s ease-in-out infinite}
+.sp-word .sp-gap{width:.3em; animation:none}
+@keyframes glowbreath{
+  0%,100%{color:#FFE3EE; opacity:.55; text-shadow:0 0 2px #FF5C9A}
+  50%{color:#FFFFFF; opacity:1; transform:translateY(-3px); text-shadow:0 0 6px #fff,0 0 14px #FFD23F,0 0 26px #FF5C9A,0 0 44px #FF2D55}}
+@keyframes neonflick{0%,30%,33%,36%,70%,73%,100%{filter:none}31.5%,34.5%,71.5%{filter:brightness(.45)}}
+/* tim + sao bay lên trong khung đen */
+.sp-float{position:absolute; inset:0; pointer-events:none; z-index:0}
+.sp-float .fl{position:absolute; bottom:-26px; opacity:0; animation:sprise linear infinite}
+@keyframes sprise{0%{transform:translateY(0) scale(.6) rotate(-12deg); opacity:0}12%{opacity:.95}
+  50%{transform:translateY(-140px) translateX(10px) scale(1) rotate(10deg)}100%{transform:translateY(-300px) translateX(-8px) scale(1.1) rotate(-8deg); opacity:0}}
+/* mèo con thò đầu ở góc dưới, vẫy tay, chớp mắt */
+.sp-cat{position:absolute; left:10px; bottom:-8px; z-index:1; animation:sppeek 3.4s ease-in-out infinite}
+.sp-cat .sp-paw{transform-box:fill-box; transform-origin:50% 100%; animation:sppaw .7s ease-in-out infinite}
+.sp-cat .sp-eye{transform-box:fill-box; transform-origin:center; animation:speye 3.6s infinite}
+@keyframes sppeek{0%,100%{transform:translateY(8px) rotate(-4deg)}50%{transform:translateY(0) rotate(3deg)}}
+@keyframes sppaw{0%,100%{transform:rotate(-20deg)}50%{transform:rotate(20deg)}}
+@keyframes speye{0%,92%,100%{transform:scaleY(1)}95%{transform:scaleY(.1)}}
 .sp-star{animation:twinkle 1.8s ease-in-out infinite}
 .sp-star.s2{animation-delay:-.9s}
 .giftbtn{position:relative; background:none; border:0; padding:4px 10px; display:flex; flex-direction:column; align-items:center; gap:4px}
@@ -298,6 +314,7 @@ button.pill[aria-pressed="true"]{background:var(--hot); color:#fff}
 .hearts .rh{animation:heartbeat 1.1s ease-in-out infinite}
 .giftburst{left:50%; top:40%; right:auto}
 @media (prefers-reduced-motion: reduce){
-  .special,.sp-title,.sp-star,.giftbtn .gift,.gift-hint,.hearts .rh,.bulb{animation:none!important}
-  .special.open .giftbtn .lid{animation:none; transform:translate(-12px,-22px) rotate(-18deg)}
+  .rm .special,.rm .sp-title,.rm .sp-word span,.rm .sp-star,.rm .giftbtn .gift,.rm .gift-hint,.rm .hearts .rh,.rm .bulb,
+  .rm .sp-float .fl,.rm .sp-cat,.rm .sp-cat *{animation:none!important}
+  .rm .special.open .giftbtn .lid{animation:none; transform:translate(-12px,-22px) rotate(-18deg)}
 }
