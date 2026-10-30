@@ -312,6 +312,30 @@
   "updated": 1793361092
  },
  {
+  "id": 27,
+  "price": 5000000,
+  "price_max": 5000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Tô Hiến Thành",
+  "type": null,
+  "layout": "Studio",
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "5tr Tô Hiến Thành",
+  "images": [
+   "data/img/hd_c05af39f4aec19d2.jpg",
+   "data/img/hd_454645364860e256.jpg",
+   "data/img/hd_4e2d9ba1f6030be7.jpg"
+  ],
+  "updated": 1793360489
+ },
+ {
   "id": 20,
   "price": 6500000,
   "price_max": 6500000,
