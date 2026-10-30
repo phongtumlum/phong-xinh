@@ -236,3 +236,17 @@ dialog.viewer::backdrop{background:#141013}
 .vprev{left:12px} .vnext{right:12px}
 .vnav[hidden]{display:none}
 @media (max-width:600px){.vnav{width:44px; height:44px; font-size:28px} .vprev{left:6px} .vnext{right:6px}}
+/* giá deal, thang, ngày trống */
+.deal{font-size:13px; font-weight:800; color:var(--ink); background:#FFE36E; border:2px solid var(--ink); border-radius:999px; padding:1px 9px; white-space:nowrap}
+.facts{display:flex; flex-wrap:wrap; gap:6px}
+.fact{display:inline-flex; align-items:center; gap:5px; font-size:12.5px; font-weight:800; padding:3px 10px; border-radius:999px; border:2px solid var(--ink); background:#fff; white-space:nowrap}
+.fact::before{content:""; width:8px; height:8px; border-radius:50%; background:var(--ink)}
+.fact.ready{background:#D9F7E4}
+.fact.ready::before{background:#1E9E5A}
+.fact.soon::before{background:#FF5C9A}
+.pricebox{display:flex; align-items:center; gap:10px; flex-wrap:wrap}
+.pricebox input{width:120px; height:48px; font:inherit; font-size:20px; font-weight:800; text-align:center; color:var(--ink); background:#fff; border:2.5px solid var(--ink); border-radius:999px; box-shadow:3px 3px 0 var(--ink); outline:none}
+.pricebox input:focus{background:var(--blush)}
+.pricebox input::placeholder{color:var(--muted); font-weight:700}
+.pricebox span{font-weight:800; font-size:16px}
+.orig{font-size:14px; font-weight:700; color:var(--muted); text-decoration:line-through; white-space:nowrap}

@@ -40,7 +40,7 @@
     set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) { /* trình duyệt chặn lưu: bỏ qua */ } }
   };
   const S = {
-    district: 'Tất cả', ward: 'Tất cả', kind: 'Tất cả', layout: 'Tất cả',
+    district: 'Tất cả', ward: 'Tất cả', kind: 'Tất cả', layout: 'Tất cả', lift: 'Tất cả', avail: 'Tất cả',
     maxPrice: null, amen: new Set(), onlySaved: false,
     saved: new Set(store.get('px_saved', []))
   };
@@ -101,12 +101,8 @@
   }
 
   function setupPrice() {
-    const prices = LIST.map((l) => l.price).filter((p) => p > 0);
-    PRICE_CAP = Math.max(5, Math.ceil(Math.max(0, ...prices) / 1e6));
-    const r = $('#price');
-    r.max = String(PRICE_CAP);
-    r.value = String(PRICE_CAP);
-    S.maxPrice = PRICE_CAP;
+    S.maxPrice = null;                      // ô trống = mọi mức giá
+    $('#price').value = '';
   }
 
   // ---------- bộ lọc ----------
@@ -123,10 +119,19 @@
     return ['Tất cả'].concat(ordered);
   }
 
+  // các quận chính có nút riêng; quận còn lại (và tin chưa rõ quận) gom vào "Quận khác"
+  const MAIN_DISTRICTS = ['Quận 1', 'Quận 3', 'Quận 10', 'Bình Thạnh', 'Phú Nhuận', 'Tân Bình'];
+  const OTHER = 'Quận khác';
+  const isMain = (d) => MAIN_DISTRICTS.indexOf(d) !== -1;
+  function districtChips() {
+    const have = new Set(LIST.map((l) => l.district));
+    return ['Tất cả'].concat(MAIN_DISTRICTS.filter((d) => have.has(d)), [OTHER]);
+  }
+
   function renderFilters() {
-    chips($('#fDistrict'), present('district'), S.district, (v) => { S.district = v; S.ward = 'Tất cả'; renderAll(); });
+    chips($('#fDistrict'), districtChips(), S.district, (v) => { S.district = v; S.ward = 'Tất cả'; renderAll(); });
     const wardGroup = $('#wardGroup');
-    if (S.district !== 'Tất cả') {
+    if (S.district !== 'Tất cả' && S.district !== OTHER) {
       const wards = Array.from(new Set(LIST.filter((l) => l.district === S.district).map((l) => l.ward).filter(Boolean)))
         .sort((a, b) => a.localeCompare(b, 'vi', { numeric: true }));
       wardGroup.hidden = wards.length === 0;
@@ -148,17 +153,16 @@
       renderAll();
     }));
     $('#onlySaved').setAttribute('aria-pressed', String(S.onlySaved));
-    $('#priceLabel').textContent = S.maxPrice >= PRICE_CAP ? 'Mọi mức giá' : million(S.maxPrice * 1e6) + ' triệu';
     $('#savedCount').textContent = String(S.saved.size);
   }
 
   function filtered() {
     return LIST.filter((l) =>
-      (S.district === 'Tất cả' || l.district === S.district) &&
+      (S.district === 'Tất cả' || (S.district === OTHER ? !isMain(l.district) : l.district === S.district)) &&
       (S.ward === 'Tất cả' || l.ward === S.ward) &&
       (S.kind === 'Tất cả' || l.kind === S.kind) &&
       (S.layout === 'Tất cả' || l.layout === S.layout) &&
-      (S.maxPrice >= PRICE_CAP || !l.price || l.price <= S.maxPrice * 1e6) &&
+      (!S.maxPrice || !l.price || effPrice(l) <= S.maxPrice * 1e6 + 1) &&
       Array.from(S.amen).every((a) => (l.amenities || []).indexOf(a) !== -1) &&
       (!S.onlySaved || S.saved.has(l.id))
     );
@@ -167,8 +171,22 @@
   // ---------- thẻ phòng ----------
   const titleOf = (l) => [l.layout || l.kind || 'Phòng cho thuê', l.street].filter(Boolean).join(' · ');
   const whereOf = (l) => [l.ward, l.district].filter(Boolean).join(', ') || 'TP. Hồ Chí Minh';
+  const todayISO = () => { const d = new Date(); return d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0'); };
+  // 'Trống 1/11' tự thành 'Trống sẵn' khi đã tới ngày
+  const availOf = (l) => (l.available_date && l.available_date <= todayISO()) ? 'Trống sẵn' : (l.available || '');
+  const isReady = (l) => availOf(l) === 'Trống sẵn';
+  // có giá deal -> giá deal là giá đại diện của căn (hiện to, dùng để lọc); giá gốc gạch ngang bên cạnh
+  const hasDeal = (l) => !!(l.price_deal && l.price && l.price_deal < l.price);
+  const effPrice = (l) => hasDeal(l) ? l.price_deal : l.price;
+  const origOf = (l) => hasDeal(l) ? million(l.price) + ' triệu' : '';
+  const factsHTML = (l) => {
+    const a = availOf(l);
+    return (a ? '<span class="fact ' + (isReady(l) ? 'ready' : 'soon') + '">' + esc(a) + '</span>' : '') +
+      (l.elevator ? '<span class="fact">' + esc(l.elevator) + '</span>' : '');
+  };
   const priceOf = (l) => {
     if (!l.price) return 'Giá liên hệ';
+    if (hasDeal(l)) return million(l.price_deal) + ' triệu';
     let s = million(l.price);
     if (l.price_max && l.price_max !== l.price) s += ' – ' + million(l.price_max);
     return s + ' triệu';
@@ -193,7 +211,9 @@
       '</button>' +
       '<div class="body">' +
         '<div class="prow"><span class="price">' + esc(priceOf(l)) + '<svg class="twi" aria-hidden="true" width="18" height="18" viewBox="0 0 24 24"><path d="' + SPARK + '" fill="#FF5C9A"/></svg></span>' +
+        (origOf(l) ? '<s class="orig" aria-label="Giá gốc ' + esc(origOf(l)) + '">' + esc(origOf(l)) + '</s>' : '') +
         (l.layout ? '<span class="layoutpill">' + esc(l.layout) + '</span>' : '') + '</div>' +
+        (factsHTML(l) ? '<div class="facts">' + factsHTML(l) + '</div>' : '') +
         '<h3>' + esc(titleOf(l)) + ' <span style="color:var(--muted); font-weight:700">#' + esc(l.id) + '</span></h3>' +
         '<span class="where">' + esc(whereOf(l)) + '</span>' +
         ((l.amenities || []).length ? '<div class="amen">' + l.amenities.map((a) => '<span>' + esc(cap(a)) + '</span>').join('') + '</div>' : '') +
@@ -258,7 +278,8 @@
     const dlg = $('#detail');
     $('#dTitle').textContent = titleOf(l) + ' · #' + l.id;
     $('#dWhere').textContent = whereOf(l);
-    $('#dPrice').textContent = priceOf(l);
+    $('#dPrice').innerHTML = esc(priceOf(l)) + (origOf(l) ? ' <s class="orig">giá gốc ' + esc(origOf(l)) + '</s>' : '');
+    $('#dFacts').innerHTML = factsHTML(l);
     $('#dLayout').textContent = l.layout || '';
     $('#dLayout').hidden = !l.layout;
     $('#dAmen').innerHTML = (l.amenities || []).map((a) => '<span>' + esc(cap(a)) + '</span>').join('');
@@ -350,15 +371,17 @@
   function bindStatic() {
     bindViewer();
     $('#reset').addEventListener('click', () => {
-      Object.assign(S, { district: 'Tất cả', ward: 'Tất cả', kind: 'Tất cả', layout: 'Tất cả', maxPrice: PRICE_CAP, onlySaved: false });
+      Object.assign(S, { district: 'Tất cả', ward: 'Tất cả', kind: 'Tất cả', layout: 'Tất cả', maxPrice: null, onlySaved: false });
       S.amen.clear();
-      $('#price').value = String(PRICE_CAP);
+      $('#price').value = '';
       renderAll();
     });
     $('#onlySaved').addEventListener('click', () => { S.onlySaved = !S.onlySaved; renderAll(); });
     $('#price').addEventListener('input', (e) => {
-      S.maxPrice = parseFloat(e.target.value);
-      $('#priceLabel').textContent = S.maxPrice >= PRICE_CAP ? 'Mọi mức giá' : million(S.maxPrice * 1e6) + ' triệu';
+      // khách gõ "7", "7,5", "7.5" hoặc "7tr5" -> số triệu; xoá trống = mọi mức giá
+      const raw = String(e.target.value || '').toLowerCase().replace(/\s/g, '');
+      const m = raw.match(/^(\d{1,3})(?:[.,](\d{1,2})|tr(\d{1,2})|triệu)?/);
+      S.maxPrice = m ? parseFloat(m[1] + '.' + (m[2] || m[3] || '0')) : null;
       renderGrid();
     });
     $('#grid').addEventListener('click', (e) => {

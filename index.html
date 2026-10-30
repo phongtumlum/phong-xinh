@@ -124,10 +124,11 @@
 <div class="group" id="wardGroup" hidden><span class="group-label" id="lbWard">Phường nào?</span><div class="chips" id="fWard" role="group" aria-labelledby="lbWard"></div></div>
 <div class="group"><span class="group-label" id="lbLayout">Mấy phòng ngủ nè?</span><div class="chips" id="fLayout" role="group" aria-labelledby="lbLayout"></div></div>
 
+
 <div class="two">
 <div class="group">
-<label class="group-label" for="price">Giá tối đa: <span class="price-badge" id="priceLabel">Mọi mức giá</span></label>
-<input class="range" id="price" type="range" min="1" max="15" step="0.5" value="15">
+<label class="group-label" for="price">Giá cần tìm:</label>
+<div class="pricebox"><input id="price" type="text" inputmode="decimal" autocomplete="off" placeholder="vd: 7" aria-describedby="priceUnit"><span id="priceUnit">triệu đổ lại</span></div>
 </div>
 <div class="group"><span class="group-label" id="lbKind">Loại hình</span><div class="chips" id="fKind" role="group" aria-labelledby="lbKind"></div></div>
 </div>
@@ -185,6 +186,7 @@
 <img class="dmain" id="dImg" alt="" hidden>
 <div class="thumbs" id="dThumbs"></div>
 <div class="prow"><span class="price" id="dPrice"></span><span class="layoutpill" id="dLayout"></span></div>
+<div class="facts" id="dFacts"></div>
 <div class="amen" id="dAmen"></div>
 <p class="desc" id="dDesc"></p>
 <a class="btn-dark btnk shine zalo-link" href="https://zalo.me/" target="_blank" rel="noopener" id="dZalo">Nhắn Zalo hỏi phòng này</a>
