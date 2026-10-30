@@ -191,6 +191,30 @@
   "updated": 1793296341
  },
  {
+  "id": 30,
+  "price": 6500000,
+  "price_max": 6500000,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "Đỗ Quang Đầu",
+  "type": null,
+  "layout": null,
+  "kind": null,
+  "amenities": [
+   "full nội thất"
+  ],
+  "description": "Cập Nhật Đỗ Quang Đầu ( Ngay Bùi Viện )\nPHÒNG TRỐNG SẴN\nMã Phòng : 302 - 6.500.000 ( Full Nội Thất )\nĐiện : 4k... Nước : 100k..... Pdv : 200k/p\n( Quận 1 - 6.000 - 7.000)",
+  "images": [
+   "data/img/hd_0a39adc23267ff7a.jpg",
+   "data/img/hd_0aa693767e91f328.jpg",
+   "data/img/hd_c0a46068586b9f48.jpg",
+   "data/img/hd_a089d050fdae3fb0.jpg",
+   "data/img/6154ad631363ca4c.jpg"
+  ],
+  "updated": 1793296290
+ },
+ {
   "id": 19,
   "price": 4200000,
   "price_max": 5500000,
