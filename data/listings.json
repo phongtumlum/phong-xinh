@@ -1,5 +1,35 @@
 [
  {
+  "id": 51,
+  "price": 7700000,
+  "price_max": 7700000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "158 Võ Thị Sáu",
+  "type": "chung cư",
+  "layout": "Studio",
+  "kind": "Chung cư",
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "nuôi thú cưng"
+  ],
+  "description": "CHUNG CƯ MINI VÕ THỊ SÁU QUẬN 3\n158 Võ Thị Sáu, Quận 3\nGiá 7tr7 - Thang máy\nxe 100k/chiếc\nđiện 4k/kwh\nô nước 150k/người\ndịch vụ: 200k/phòng (rác, lau dọn hành lang, wifi, thang máy...v...V)\nĐược nuôi pet",
+  "images": [
+   "data/img/hd_ad271b18e53e3e73.jpg",
+   "data/img/hd_9026390db4959e31.jpg",
+   "data/img/hd_c9967381159dae1b.jpg",
+   "data/img/hd_57f680ffa1221ba7.jpg",
+   "data/img/hd_5963e1cb813f7b56.jpg",
+   "data/img/hd_4b060ff4a1e1b04a.jpg",
+   "data/img/hd_45741990f6d73fc3.jpg"
+  ],
+  "updated": 1793373839
+ },
+ {
   "id": 49,
   "price": 16000000,
   "price_max": 16000000,
