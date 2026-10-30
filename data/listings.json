@@ -25,6 +25,26 @@
   "updated": 1793297232
  },
  {
+  "id": 37,
+  "price": 5300000,
+  "price_max": 5300000,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "221 Trần Huy Liệu",
+  "type": null,
+  "layout": null,
+  "kind": null,
+  "amenities": [],
+  "description": "221 Trần Huy Liệu, Phú Nhuận\nĐiện 4k/kwh, nước 100k/người, dịch vụ 200k/phòng, free xe\n5tr3 khách ở 1 người giá thương lượng",
+  "images": [
+   "data/img/hd_c4edecd2755ed16f.jpg",
+   "data/img/hd_4a52b8c5c684abe6.jpg",
+   "data/img/hd_37d8b89a6db3fb08.jpg"
+  ],
+  "updated": 1793297124
+ },
+ {
   "id": 19,
   "price": 4200000,
   "price_max": 5500000,
