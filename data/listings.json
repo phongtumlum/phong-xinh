@@ -1,5 +1,41 @@
 [
  {
+  "id": 119,
+  "price": 8400000,
+  "price_max": 8400000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "170 Ung Văn Khiêm",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "TRỐNG CĂN 1PHÒNG NGỦ FULL NỘI THẤT SIÊU ĐẸP Q. BÌNH THANH\nAddress: 170 Ung Văn Khiêm, Bình thạnh\nTiên ích\nMáy Giặt Riêng. Thang Máy\n1PN trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 150k/người\nDịch vụ: 200k/phòng\nPhí xe: 100k/ chiếc\nGiá 8tr4 (Trống sẵn 2 phòng ở lầu 3 & lầu 7 - Mã 02)",
+  "images": [
+   "data/img/hd_7edb6c0efd38907a.jpg",
+   "data/img/hd_ef9589d896123a3c.jpg",
+   "data/img/hd_cfc6338b6f5a343f.jpg",
+   "data/img/3c8f7811bc9650b7.jpg",
+   "data/img/acb927b6c1c0e544.jpg",
+   "data/img/3504ceec5e1bed69.jpg",
+   "data/img/a7667b6628bb521c.jpg",
+   "data/img/6ec31cfe5d304837.jpg",
+   "data/img/ce6b3446bc0eae4e.jpg",
+   "data/img/0b41bbc70f427ae4.jpg"
+  ],
+  "updated": 1793455718
+ },
+ {
   "id": 115,
   "price": 11500000,
   "price_max": 11500000,
