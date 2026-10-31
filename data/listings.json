@@ -1,5 +1,46 @@
 [
  {
+  "id": 104,
+  "price": 5200000,
+  "price_max": 5200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": "Phường 8",
+  "street": "173 Trần Huy Liệu",
+  "type": null,
+  "layout": "Gác (duplex)",
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "gác",
+   "máy lạnh",
+   "bếp",
+   "nuôi thú cưng"
+  ],
+  "description": "5tr2 gác, ban công + cửa số\n173 Trần Huy Liệu, Phường 8, Phú Nhuận\nĐiện: 4k/kwh\nNước: 120k/người\nDịch vụ: 200k/phòng\nXe free 2 chiếc\nCho nuôi pet, không xe điện\nTối đa 4 người 2 xe\nNội thất: máy lạnh, kệ bếp",
+  "images": [
+   "data/img/hd_a9099d2e3d4acf21.jpg",
+   "data/img/hd_86e55845ba2aeaba.jpg",
+   "data/img/hd_10981bb23d2fbb26.jpg",
+   "data/img/hd_368b478937e8e039.jpg",
+   "data/img/hd_081173aef9007bed.jpg",
+   "data/img/hd_303223d705fc25a5.jpg",
+   "data/img/hd_a525916c83eba79e.jpg",
+   "data/img/hd_efb149d60bf4e1d6.jpg",
+   "data/img/hd_a8efbcab2c5370cc.jpg",
+   "data/img/hd_c4c76f032585c40c.jpg",
+   "data/img/hd_1da91879c5271e29.jpg",
+   "data/img/hd_7726383ec3cccf3c.jpg",
+   "data/img/8ea61bacd3c6f59a.jpg",
+   "data/img/9169f9283add4688.jpg"
+  ],
+  "updated": 1793445499
+ },
+ {
   "id": 101,
   "price": 8000000,
   "price_max": 9000000,
