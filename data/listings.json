@@ -735,6 +735,38 @@
   "updated": 1793444646
  },
  {
+  "id": 92,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": null,
+  "street": "Tân Trang Tân Bình",
+  "type": null,
+  "layout": "Studio",
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Tân Trang, Tân Bình\nPhòng trống: 201\nGia 6tr5",
+  "images": [
+   "data/img/hd_3c80cf950a52a34d.jpg",
+   "data/img/hd_549c557949ad7b8c.jpg",
+   "data/img/hd_325a697eef5dce2f.jpg",
+   "data/img/hd_94310ac39f0071d5.jpg",
+   "data/img/hd_5fae984818546f8a.jpg",
+   "data/img/hd_32d946228aca3bfd.jpg",
+   "data/img/hd_f9de69075efe1ceb.jpg",
+   "data/img/hd_bbbc4fd338d19372.jpg",
+   "data/img/hd_8a05d27e88506fee.jpg",
+   "data/img/hd_7ca64709de730e35.jpg",
+   "data/img/hd_35519aa433684ebc.jpg"
+  ],
+  "updated": 1793444384
+ },
+ {
   "id": 91,
   "price": 4500000,
   "price_max": 4500000,
