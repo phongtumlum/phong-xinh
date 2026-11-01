@@ -617,6 +617,41 @@
   "updated": 1793445499
  },
  {
+  "id": 103,
+  "price": 6000000,
+  "price_max": 7000000,
+  "price_deal": null,
+  "area": 35.0,
+  "district": "Quận 3",
+  "ward": "Phường 14",
+  "street": "Trần Quang Diệu",
+  "type": null,
+  "layout": "Studio",
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "giờ giấc tự do",
+   "vân tay"
+  ],
+  "description": "Trần Quang Diệu P.14 Quận 3. Hẻm xe hơi lớn.\nPhòng 35m2 Lầu 2.5 ( qua lầu lửng)\nGóc Lê Văn Sỹ - Trần Quang Diệu - Trần Huy Liệu . Sát Phú Nhuận, gần các khu Trung tâm thương mại, chợ,\nHẻm xe hơi rộng rãi khu dân trí. An tâm cho phòng chống PCCC.\nRa vào tự do bằng khóa vân tay và không chung chủ.\nĐiện 4000, nước 100k, phí dv 200k . Xe 100k\n( Quận 3 - 6.000 - 7.000 - Ban Công )",
+  "images": [
+   "data/img/hd_fc675c68f8e294ae.jpg",
+   "data/img/hd_6c91b0d4b5259908.jpg",
+   "data/img/hd_f5a126c848656e3a.jpg",
+   "data/img/hd_7c72cfa1797d18f7.jpg",
+   "data/img/hd_00c5f4a77f5370f4.jpg",
+   "data/img/hd_dd81fa3e695a4a4a.jpg",
+   "data/img/hd_8ad447ee39f2d41c.jpg",
+   "data/img/hd_8ad447ee39f2d41c.jpg",
+   "data/img/hd_eb868f265a7906c7.jpg",
+   "data/img/hd_7a8b05a64ab20820.jpg"
+  ],
+  "updated": 1793445266
+ },
+ {
   "id": 102,
   "price": 6000000,
   "price_max": 6000000,
