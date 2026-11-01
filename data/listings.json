@@ -735,6 +735,62 @@
   "updated": 1793444646
  },
  {
+  "id": 91,
+  "price": 4500000,
+  "price_max": 4500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": null,
+  "street": "Âu Cơ",
+  "type": null,
+  "layout": "Gác (duplex)",
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "gác"
+  ],
+  "description": "Âu Cơ Quận Tân bình\n4.500.000",
+  "images": [
+   "data/img/hd_01ab1467fdf4a542.jpg",
+   "data/img/hd_877cc03d2189cbe6.jpg",
+   "data/img/hd_cdc5570f41f02e6e.jpg",
+   "data/img/hd_7f1acfcff75d3fae.jpg",
+   "data/img/hd_ddff0f6c9f31941c.jpg"
+  ],
+  "updated": 1793444331
+ },
+ {
+  "id": 90,
+  "price": 5200000,
+  "price_max": 5200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": null,
+  "street": "Hiệp Nhất Tân Bình",
+  "type": null,
+  "layout": "Gác (duplex)",
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "gác"
+  ],
+  "description": "P204 - Lầu 2 thang máy - 5,2tr - Trống sẵn",
+  "images": [
+   "data/img/hd_424e3d3e023f45e1.jpg",
+   "data/img/hd_80125238ef94c39d.jpg",
+   "data/img/hd_3a6cd0e076d945b3.jpg",
+   "data/img/hd_6a2a23c40c7a9ea2.jpg",
+   "data/img/hd_a7081652a1887398.jpg"
+  ],
+  "updated": 1793444274
+ },
+ {
   "id": 89,
   "price": 5300000,
   "price_max": 5800000,
@@ -875,6 +931,39 @@
    "data/img/hd_a37997da0cb938ee.jpg"
   ],
   "updated": 1793443948
+ },
+ {
+  "id": 85,
+  "price": 4800000,
+  "price_max": 5000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 11",
+  "ward": null,
+  "street": "Hàn Hải Nguyên",
+  "type": null,
+  "layout": "Gác (duplex)",
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "gác"
+  ],
+  "description": "Hàn hải nguyên, Q11\n5tr\nHàn Hải Nguyên, Q11\n4tr8",
+  "images": [
+   "data/img/hd_5c4ebc02319cc5aa.jpg",
+   "data/img/hd_641b4c4967d46045.jpg",
+   "data/img/hd_defd84fad5878cf8.jpg",
+   "data/img/hd_defd84fad5878cf8.jpg",
+   "data/img/hd_6159444bfb5e6195.jpg",
+   "data/img/hd_5cdc6d0f1d8fc41c.jpg",
+   "data/img/hd_32e6280529c462c2.jpg",
+   "data/img/hd_c62bf469df948d28.jpg",
+   "data/img/hd_9a9da609ce5e74b8.jpg",
+   "data/img/hd_6bdd42f9c3206954.jpg"
+  ],
+  "updated": 1793443852
  },
  {
   "id": 83,
