@@ -669,6 +669,45 @@
   "updated": 1793445134
  },
  {
+  "id": 99,
+  "price": 8000000,
+  "price_max": 8000000,
+  "price_deal": null,
+  "area": 36.0,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "3 Tháng 2",
+  "type": null,
+  "layout": "Studio",
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "full nội thất",
+   "bếp"
+  ],
+  "description": "đường 3/2 Q10\nPhòng bancon lầu 3 rộng 36m giá 8tr. - Full nội thất: Máy sấy chung , máy giặt\nriêng\n2 người, Free 2 xe máy\nĐiện 4k, nước 120k, phí dịch vụ 200k\nKý 12 tháng\nKhông xe điện , bếp ga, thú cưng\n( Quận 10 - 7.000 - 8.000 - Ban Công )",
+  "images": [
+   "data/img/hd_867ecb310f639af0.jpg",
+   "data/img/hd_f25efb2ffe66c697.jpg",
+   "data/img/hd_04a68513bfdf4546.jpg",
+   "data/img/hd_1a150cc05a11dcd8.jpg",
+   "data/img/hd_04a68513bfdf4546.jpg",
+   "data/img/hd_f68137a9842a8235.jpg",
+   "data/img/hd_9c5258a3a4c683a6.jpg",
+   "data/img/hd_f0f4ab60c93092ca.jpg",
+   "data/img/hd_1b41df2e858fedd2.jpg",
+   "data/img/hd_56e815d81033904a.jpg",
+   "data/img/hd_3c3d2f174e76f5ad.jpg",
+   "data/img/hd_7292447c6a4c30fb.jpg",
+   "data/img/hd_56b2e9347dbc740c.jpg",
+   "data/img/hd_068fdc847433137b.jpg"
+  ],
+  "updated": 1793445013
+ },
+ {
   "id": 98,
   "price": 6200000,
   "price_max": 6200000,
