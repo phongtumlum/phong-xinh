@@ -698,6 +698,37 @@
   "updated": 1793444781
  },
  {
+  "id": 94,
+  "price": 5200000,
+  "price_max": 5200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường Gia Định",
+  "street": "Vũ Tùng",
+  "type": null,
+  "layout": "Studio",
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 19/11",
+  "available_date": "2026-11-19",
+  "amenities": [
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp"
+  ],
+  "description": "Vũ Tùng, Phường Gia Định, TP. HCM #3\nPhòng 203 giá 5tr2 ( khách Sang Phòng 19/11 có thể vào ở được ) xem phòng sau 8h tối.\nNội thất: tủ quần áo, kệ bếp, máy lạnh,\ntủ lạnh thêm 300k/tháng\nTối đa 2 xe\nĐiện 4k,nước 120k , dvu 200k, xe 200k\n( Bình Thạnh - 5.000 - 6.000)",
+  "images": [
+   "data/img/hd_93c222515c2f3b1d.jpg",
+   "data/img/hd_4eb66e6e443bfe89.jpg",
+   "data/img/hd_148982cfb154f06e.jpg",
+   "data/img/hd_9caba0662420c80e.jpg",
+   "data/img/hd_fa5594683ac31f84.jpg",
+   "data/img/hd_c7c2276c23bac1bb.jpg"
+  ],
+  "updated": 1793444718
+ },
+ {
   "id": 93,
   "price": 6000000,
   "price_max": 6200000,
