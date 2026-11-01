@@ -669,6 +669,35 @@
   "updated": 1793445134
  },
  {
+  "id": 98,
+  "price": 6200000,
+  "price_max": 6200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": "Phường Tân Định",
+  "street": "Trần Quang Khải",
+  "type": null,
+  "layout": "Studio",
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 1/11",
+  "available_date": "2026-11-01",
+  "amenities": [],
+  "description": "Trần Quang Khải, Phường Tân Định, Q†1\nGiá: 6.200.000\nĐiện 4k\nNước 150k/người\nPhí dịch vụ 200k/phòng\nXe free (giới hạn 1 xe)\nGiặt sấy free\nMã phòng: 1.2\nNgày trống: 1/11\n( Quận 1 - 6.000 - 7.000)",
+  "images": [
+   "data/img/hd_2cbdcfc9f4979abc.jpg",
+   "data/img/hd_5b211519df23fdc4.jpg",
+   "data/img/hd_b999e7c6b169a846.jpg",
+   "data/img/hd_c54acab7e502e7da.jpg",
+   "data/img/hd_a83869595a1332e4.jpg",
+   "data/img/hd_099018398c7b60f7.jpg",
+   "data/img/hd_028e2e42078bc344.jpg",
+   "data/img/6d06073a9f481ee2.jpg"
+  ],
+  "updated": 1793444934
+ },
+ {
   "id": 97,
   "price": 6200000,
   "price_max": 6200000,
