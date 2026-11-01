@@ -669,6 +669,41 @@
   "updated": 1793445134
  },
  {
+  "id": 97,
+  "price": 6200000,
+  "price_max": 6200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Cách Mạng Tháng 8",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "bếp"
+  ],
+  "description": "Đã trống sẵn, ở liền được\n1pn mã 203 lầu 2. Giá 6,2tr\n1PN tách bếp.\ncmt8 Quận 10.\n( Quận 10 - 6.000 - 7.000 - 1PN)",
+  "images": [
+   "data/img/hd_7ff7140a536f9970.jpg",
+   "data/img/hd_21a36479247674ae.jpg",
+   "data/img/hd_a2065e463b074807.jpg",
+   "data/img/hd_f8395ba9fbcd56ac.jpg",
+   "data/img/hd_aed596632069af92.jpg",
+   "data/img/hd_b08191e6f0db8a63.jpg",
+   "data/img/hd_083304c84afc93fd.jpg",
+   "data/img/hd_cd6bd7b62cf188b1.jpg",
+   "data/img/hd_76215e9b6e1ec568.jpg",
+   "data/img/hd_259f6d223c49a77e.jpg",
+   "data/img/hd_d07582d8e1068e25.jpg",
+   "data/img/hd_31d280a238bdf55f.jpg"
+  ],
+  "updated": 1793444827
+ },
+ {
   "id": 95,
   "price": 4600000,
   "price_max": 4600000,
