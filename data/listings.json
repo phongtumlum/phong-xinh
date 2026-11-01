@@ -218,6 +218,33 @@
   "updated": 1793455718
  },
  {
+  "id": 116,
+  "price": 5000000,
+  "price_max": 5000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "50 Đào Duy Anh",
+  "type": null,
+  "layout": "Studio",
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "5tr cửa số lớn, thang máy\n50 Đào Duy Anh, Phú Nhuận (F9-QPN)\nĐiện 4k, Nước 100k/người\nDvu 200k/phòng, Free xe\nKhu giặt, khu phơi: sân thượng",
+  "images": [
+   "data/img/hd_120f1e7d27fcae3d.jpg",
+   "data/img/hd_b01792bf4d3c3f85.jpg",
+   "data/img/hd_5f6d49e9fa19f41c.jpg",
+   "data/img/hd_46a76584e7a7c7c0.jpg",
+   "data/img/hd_46a76584e7a7c7c0.jpg",
+   "data/img/hd_47cd353a73e5f931.jpg"
+  ],
+  "updated": 1793447928
+ },
+ {
   "id": 115,
   "price": 11500000,
   "price_max": 11500000,
