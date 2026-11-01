@@ -617,6 +617,37 @@
   "updated": 1793445499
  },
  {
+  "id": 102,
+  "price": 6000000,
+  "price_max": 6000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 5",
+  "ward": "Phường T",
+  "street": "Trần Hưng Đạo",
+  "type": null,
+  "layout": "Studio",
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt chung",
+   "ban công",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "trần hưng đạo phường T1 quận 5.\nMã phòng 401 giá 6tr\ncó ban công và cửa số\nfull nội thất ( nội thất mới 100% ,)\nDv 200 k, nước 150k/1 người , điện 4k\nTiện ích ; cửa cổng vân tay, camera an ninh ngoài cửa + trong nhà , máy giặt chung .\n( Quận 5 - 5.000 - 6.000 - Ban Công )",
+  "images": [
+   "data/img/hd_cad246131ceebf2f.jpg",
+   "data/img/hd_8ca24ae53268a977.jpg",
+   "data/img/hd_c08929a4889a250d.jpg",
+   "data/img/hd_9eb6c7acfb7074e8.jpg"
+  ],
+  "updated": 1793445218
+ },
+ {
   "id": 101,
   "price": 8000000,
   "price_max": 9000000,
