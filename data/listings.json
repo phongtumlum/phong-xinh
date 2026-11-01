@@ -218,6 +218,35 @@
   "updated": 1793455718
  },
  {
+  "id": 118,
+  "price": 4500000,
+  "price_max": 4500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": null,
+  "street": "403 Trường Chinh",
+  "type": null,
+  "layout": "1PN",
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "4tr5 thương lượng được 100-200K\n403 Trường Chinh, Tân Bình (khu eTown, K300, Bàu Cát...)\nŸ$Điện 3.800/kwh, nước 100k/người, dvu 150k/phòng, xe free",
+  "images": [
+   "data/img/hd_940b561b6bef0087.jpg",
+   "data/img/hd_a43f36ba5364ef09.jpg",
+   "data/img/hd_3027b622f68c842d.jpg",
+   "data/img/hd_d86dc1df2c48eaa0.jpg",
+   "data/img/hd_45d740462945fbf5.jpg",
+   "data/img/hd_aa319f202d4d3895.jpg",
+   "data/img/hd_0600994a7f35e79a.jpg",
+   "data/img/2a3cc26419237a7f.jpg"
+  ],
+  "updated": 1793454887
+ },
+ {
   "id": 116,
   "price": 5000000,
   "price_max": 5000000,
