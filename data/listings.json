@@ -576,6 +576,37 @@
   "updated": 1793446027
  },
  {
+  "id": 105,
+  "price": 6600000,
+  "price_max": 6600000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "24 Cư Xá Trần Quang Diệu",
+  "type": "căn hộ",
+  "layout": "Studio",
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bếp",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ MỚI SETUP FULL NỘI THẤT QUẬN 3\nAddress: 24 Cư xá Trần Quang Diệu, Q3\nTiên ích\nMáy giặt + sân phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: Free 2 xe\nGiá 6tr6 (Trống sẵn phòng ở lầu 1 - L0I)\nLưu ý: Phòng hiện tại là giường tủ kết hợp, kệ bếp giống ảnh, không có máy giặt riêng, diện tích nhỏ hơn\nphòng trên ảnh chút",
+  "images": [
+   "data/img/hd_c9650f9de73b1ca2.jpg",
+   "data/img/hd_8002844b566df61b.jpg",
+   "data/img/hd_1cadf0cd48db9dce.jpg",
+   "data/img/hd_1641761a9c56e3de.jpg"
+  ],
+  "updated": 1793445979
+ },
+ {
   "id": 104,
   "price": 5200000,
   "price_max": 5200000,
