@@ -1,5 +1,40 @@
 [
  {
+  "id": 194,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 19",
+  "street": "206/69/ Xô Viết Nghệ Tĩnh",
+  "type": "studio",
+  "layout": "Studio",
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO FULL NỘI THẤT Q. BÌNH THẠNH (GIÁP QUẬN 1)\nAddress: 206/69/ Xô Viết Nghệ Tĩnh, P19, Bình Thạnh (hẻm 2 xe máy)\nTiên ích\nMáy Giặt, sân phơi. Thang bộ\nPhòng trang bị full nội thất (Kệ bếp, Nệm, Tủ quần áo, Máy lạnh, khoá cửa vân tay, tủ lạnh)\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: free 2 xe\nGiá 6tr5 (Trống sẵn phòng ở lầu 2 - 202)",
+  "images": [
+   "data/img/hd_99bf169f1012a8f5.jpg",
+   "data/img/hd_5204368d01988549.jpg",
+   "data/img/hd_827f98e1c05c1249.jpg",
+   "data/img/hd_2ebf6544d53ab37d.jpg",
+   "data/img/hd_3b39ddb8e4b17e7d.jpg",
+   "data/img/hd_9e5400a44067517a.jpg",
+   "data/img/hd_7602c95f195b6879.jpg",
+   "data/img/hd_3b62ef2e678ccef4.jpg"
+  ],
+  "updated": 1793732416
+ },
+ {
   "id": 193,
   "price": 8500000,
   "price_max": 8500000,
