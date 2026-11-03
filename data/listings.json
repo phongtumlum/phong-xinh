@@ -1,5 +1,71 @@
 [
  {
+  "id": 181,
+  "price": 8000000,
+  "price_max": 9000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "Cầm Bá Thước",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [
+   "máy giặt chung",
+   "ban công",
+   "nuôi thú cưng",
+   "bảo vệ"
+  ],
+  "description": "Cầm Bá Thước,Ph7 , Quận Phú Nhuận\nGiá 8triu7 1/12 trống\nIÑHẻm cụt, khu vực an ninh,thang bộ , máy giặt chung trệt và sân thượng, nước nóng NLMT\nGiới hạn 2 người 2 xe, ko nuôi pet, ko nhận xe điện\nĐiện: 4k/kwh\nNước: 100k/ người\ns%Dv: 200k/ phòng\nXe: Free 2\ncó phòng cho ở liền nếu khách cần\n( Phú Nhuận - 8.000 - 9.000 - 1PN - Ban Công )",
+  "images": [
+   "data/img/hd_b32bd99771d5eb57.jpg",
+   "data/img/hd_b32bd99771d5eb57.jpg",
+   "data/img/hd_c599365921307560.jpg",
+   "data/img/hd_1f90242919c6a326.jpg",
+   "data/img/hd_8076a63b4af944fb.jpg",
+   "data/img/hd_f8ecb2167b88a204.jpg"
+  ],
+  "updated": 1793715134
+ },
+ {
+  "id": 180,
+  "price": 5200000,
+  "price_max": 5200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "Cô Bắc",
+  "type": "studio",
+  "layout": "Studio",
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "Tin nhắn chưa đọc\nCô Bắc, Phú Nhuận\nGiá thuê: 5tr2\nbề Phí phát sinh: Điện: 4k/kwh; Nước: 100k/người; Dịch vụ: 200k/phòng.\nđầ Dạng phòng: Studio ban công\nØ trời gian trống: trống sẵn\n( Phú Nhuận - 5.000 - 6.000 - Ban Công )",
+  "images": [
+   "data/img/hd_8e9c6e1d7c79bbbc.jpg",
+   "data/img/hd_526ea94581a619ff.jpg",
+   "data/img/hd_4a7aba98ce5ee6e0.jpg",
+   "data/img/hd_a02e06464ccd83e0.jpg",
+   "data/img/hd_96a349bfb1ecd18e.jpg",
+   "data/img/hd_a0c2b239c9061e5e.jpg",
+   "data/img/hd_23ec7b0513ee27ca.jpg",
+   "data/img/hd_5b888cc75ccf3dfc.jpg",
+   "data/img/hd_87e8db7f7c9dc4a5.jpg",
+   "data/img/dbb455cb10e605cd.jpg",
+   "data/img/hd_f45fcba70c0cc2e0.jpg"
+  ],
+  "updated": 1793715049
+ },
+ {
   "id": 169,
   "price": 12800000,
   "price_max": 19900000,
