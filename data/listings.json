@@ -1,5 +1,39 @@
 [
  {
+  "id": 184,
+  "price": 7200000,
+  "price_max": 7200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "443/64 Điện Biên Phủ",
+  "type": "studio",
+  "layout": "Studio",
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "STUDIO CÓ MÁY GIẶT RIÊNG FULL NỘI THẤT MỚI 99.9% QUẬN 3\nAddress: 443/64 Điện Biên Phủ, Q3 (Đia chỉ cũ 69/21 Cao Thắng)\nTiên ích\nMáy Giặt riêng. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: Free 1-2 xe\nGiá 7tr2 (Trống sẵn phòng ở lầu 3 - 303)",
+  "images": [
+   "data/img/hd_cbc50d41003e22a1.jpg",
+   "data/img/hd_34591a6a1db3622d.jpg",
+   "data/img/hd_e4445af81dbbd9da.jpg",
+   "data/img/hd_fb0ae4782730eb36.jpg",
+   "data/img/hd_74ec00419d2b6178.jpg",
+   "data/img/hd_1dbc2638ec1836f2.jpg",
+   "data/img/hd_5c1b11ff4d3dd9d8.jpg",
+   "data/img/64b4d91cb5eb12ca.jpg"
+  ],
+  "updated": 1793717414
+ },
+ {
   "id": 181,
   "price": 8000000,
   "price_max": 9000000,
