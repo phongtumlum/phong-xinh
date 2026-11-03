@@ -1,5 +1,40 @@
 [
  {
+  "id": 133,
+  "price": 5200000,
+  "price_max": 5200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": null,
+  "street": "736/13 Cách Mạng Tháng 8",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "gác",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ DUPLEX (GÁC) FULL NỘI THẤT MỚI 100% Q. TÂN BÌNH\nĐịa chỉ: 736/13 Cách Mạng Tháng 8, Tân Bình (giáp Quận 10)\nTiên ích\nMáy giặt + sân phơi. Thang bộ\nPhòng trang bị full nội thất có gác tiện nghi. Khu vực an ninh, ra vào vân tay\nPhí\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 100k/ Tháng\nPhí xe: Free 2 xe\nGiá 5tr2 (trống phòng Mới 100% ở Trệt - G01)",
+  "images": [
+   "data/img/fbf2ce0ea6ce0810.jpg",
+   "data/img/ba40bd763bae3930.jpg",
+   "data/img/aa3ee93419f62fa7.jpg",
+   "data/img/2c7db323041494da.jpg",
+   "data/img/67ab80b285a5c708.jpg",
+   "data/img/1b8a3d25fb5e3b5a.jpg",
+   "data/img/76d8e4e0729fb720.jpg",
+   "data/img/hd_da11a919f9371e96.jpg",
+   "data/img/38ec085e05fe0c54.jpg"
+  ],
+  "updated": 1793704118
+ },
+ {
   "id": 132,
   "price": 8500000,
   "price_max": 8500000,
