@@ -1,5 +1,41 @@
 [
  {
+  "id": 132,
+  "price": 8500000,
+  "price_max": 8500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường 2",
+  "street": "66/25 Phổ Quang",
+  "type": "studio",
+  "layout": "Studio",
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "STUDIO MỚI 100% FULL NỘI THẤT Q. TÂN BÌNH\nAddress: 66/25 Phổ Quang, P2, Tân Bình (gần cv Hoàng Văn Thụ)\nTiên ích\nMáy Giặt riêng. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 120k/người\nDịch vụ: 200k/phòng\nPhí xe: free 2 xe\nGiá 8tr5 (trống phòng balcon ở lầu 3 - Mã 2B)",
+  "images": [
+   "data/img/hd_0a0889210d08d649.jpg",
+   "data/img/hd_d44842a6f4a44b1f.jpg",
+   "data/img/hd_15b0ae8d8d0100bf.jpg",
+   "data/img/hd_aa128b4044481daa.jpg",
+   "data/img/hd_729005bf28e6b574.jpg",
+   "data/img/hd_730d3490645deb7f.jpg",
+   "data/img/hd_17f4d12e58ff044c.jpg",
+   "data/img/hd_c00321ad552fff58.jpg",
+   "data/img/hd_9c191d69dc082387.jpg",
+   "data/img/28e67ccef30e18f3.jpg"
+  ],
+  "updated": 1793703927
+ },
+ {
   "id": 131,
   "price": 8800000,
   "price_max": 8800000,
