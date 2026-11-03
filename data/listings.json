@@ -1,5 +1,39 @@
 [
  {
+  "id": 193,
+  "price": 8500000,
+  "price_max": 8500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 25",
+  "street": "29/16 Tân Cảng",
+  "type": "studio",
+  "layout": "Studio",
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO BALCON FULL NỘI THẤT Q. BÌNH THẠNH\nAddress: 29/16 Tân Cảng, P25, Bình Thạnh\nTiên ích\nMáy Giặt, sân phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: free 2 xe\nGiá 8tr5 (Ngày 1/12 trồn phòng ở lầu 2 - 201)",
+  "images": [
+   "data/img/hd_5eba020fb35dee11.jpg",
+   "data/img/hd_646c13efcb8002cc.jpg",
+   "data/img/hd_1313a608afd3e6c7.jpg",
+   "data/img/hd_804ffffff55ca95b.jpg",
+   "data/img/hd_14977f6cf4f68cdf.jpg",
+   "data/img/hd_f72238a84a5f5092.jpg",
+   "data/img/hd_c402dbc477028fe2.jpg",
+   "data/img/hd_010307f1f3403e08.jpg",
+   "data/img/hd_2e7ab381d0ad5112.jpg"
+  ],
+  "updated": 1793732297
+ },
+ {
   "id": 192,
   "price": 6500000,
   "price_max": 6500000,
