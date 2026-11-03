@@ -1,5 +1,145 @@
 [
  {
+  "id": 130,
+  "price": 6800000,
+  "price_max": 6800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "216 Vạn Kiếp",
+  "type": "studio",
+  "layout": "Studio",
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO FULL NỘI THẤT Q. BÌNH THẠNH\nAddress: 216 Vạn Kiếp, Bình Thạnh\nTiên ích\nMáy giặt + sân phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nCOC 1.5 THÁNG\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: Free 2 xe\nGiá 6tr8 (Trống sẵn phòng ở lầu 2)\nUu tiên 1 xe",
+  "images": [
+   "data/img/hd_9cffafbfd7a99e04.jpg",
+   "data/img/hd_2ea13b421de71e91.jpg",
+   "data/img/hd_8a46873465fbc9f1.jpg",
+   "data/img/hd_5a416cee1ab1de95.jpg",
+   "data/img/hd_ef81063c4a9c4f07.jpg",
+   "data/img/hd_a83062361b621eb7.jpg",
+   "data/img/hd_bb83641ca6a18474.jpg"
+  ],
+  "updated": 1793703771
+ },
+ {
+  "id": 128,
+  "price": 6000000,
+  "price_max": 6000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "19/43 Cô Bắc",
+  "type": "studio",
+  "layout": "Studio",
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "gác",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO MỚI FULL NỘI THẤT Q. PHÚ NHUẬN\nAddress: 19/43 Cô Bắc, q.Phú Nhuận\nTiên ích\nThang bộ, máy giặt + sân phơi\nPhòng trang bị full nội thất có gác tiện nghi. Khu vực an ninh, vân tay\nĐiện: 3k8/kwh, Nước: 100k/người\nDịch vụ: 150k/ phòng, Free 2 xe\nGiá 6tr (trống phòng balcon ở lầu 2)",
+  "images": [
+   "data/img/hd_4577c1b32596412d.jpg",
+   "data/img/hd_d2de4f0b46893333.jpg",
+   "data/img/hd_05c7479eb33f2707.jpg",
+   "data/img/hd_049abdfd3184da63.jpg",
+   "data/img/hd_572b07d022a0a1b3.jpg",
+   "data/img/hd_d6cd874d362d9add.jpg",
+   "data/img/hd_3f1eb07ec1cd4e65.jpg",
+   "data/img/hd_f2ac3645015efebb.jpg",
+   "data/img/hd_0721b9123ce73f4f.jpg"
+  ],
+  "updated": 1793703586
+ },
+ {
+  "id": 127,
+  "price": 8500000,
+  "price_max": 8500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 19",
+  "street": "52A Huỳnh Mẫn Đạt",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "TRỐNG CĂN 1PHÒNG NGỦ FULL NỘI THẤT Q. BÌNH THANH\nĐịa chỉ: 52A Huỳnh Mẫn Đạt, P.19, Q. Bình Thạnh (giáp Quận 1)\nTiên ích\nMáy giặt + sân phơi. Thang Máy\n1PN trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k3/kwh, Nước: 150k/người\nDịch vụ: 200k/phòng\nPhí xe: Free 2 xe\nGiá 8tr5 (Trống sẵn phòng)",
+  "images": [
+   "data/img/hd_299a6c223409ea6d.jpg",
+   "data/img/hd_b125040af4c493db.jpg",
+   "data/img/hd_37bb49f8b1fbf58f.jpg",
+   "data/img/hd_8ee1f043f2c3c899.jpg",
+   "data/img/hd_810961103ee9e5c4.jpg",
+   "data/img/hd_68f04719bea3d2ac.jpg",
+   "data/img/hd_07b594e04378efcb.jpg",
+   "data/img/hd_70a48227e46346a6.jpg",
+   "data/img/hd_8cc84c85f35f40c6.jpg",
+   "data/img/hd_636a2ccbd49e1c06.jpg",
+   "data/img/hd_41d579515d2b81de.jpg",
+   "data/img/hd_d704b23cdc6c9cab.jpg"
+  ],
+  "updated": 1793703480
+ },
+ {
+  "id": 126,
+  "price": 7000000,
+  "price_max": 7000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 11",
+  "street": "273/47 Nguyễn Văn Đậu",
+  "type": "studio",
+  "layout": "Studio",
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 30/11",
+  "available_date": "2026-11-30",
+  "amenities": [
+   "full nội thất",
+   "chỗ để xe",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO FULL NỘI THẤT MỚI 100% Q.BÌNH THẠNH\nAddress: 273/47 Nguyễn Văn Đậu , Phường 11 , Quận Bình Thạnh\nTiên ích\ntf~ Thang máy, hầm xe, khu giặt sấy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay, cửa phòng khoá từ\nĐiện: 4k/kwh, Nước: 150k/người\nDịch vụ: 100k/người\nPhí xe: 100k/c (Tối đa 3 xe)\nGiá 7tr (Ngày 30/11 trống phòng balcon ở lầu 1 - 101)",
+  "images": [
+   "data/img/hd_f92bb0abf0e8f395.jpg",
+   "data/img/hd_c9ef047e7e4a5455.jpg",
+   "data/img/hd_c9ef047e7e4a5455.jpg",
+   "data/img/hd_7bbf14690bfd2af0.jpg",
+   "data/img/hd_b77255b3952bdbc2.jpg",
+   "data/img/hd_b89dd823a35335d2.jpg",
+   "data/img/hd_7e3753319ea63c5a.jpg",
+   "data/img/hd_4f2a5a1cc12ff2cb.jpg",
+   "data/img/hd_527309443b71c78b.jpg",
+   "data/img/addfe4338938b14f.jpg"
+  ],
+  "updated": 1793703386
+ },
+ {
   "id": 124,
   "price": 6800000,
   "price_max": 6800000,
@@ -2610,28 +2750,6 @@
   "updated": 1793361507
  },
  {
-  "id": 36,
-  "price": 6000000,
-  "price_max": 7000000,
-  "price_deal": null,
-  "area": null,
-  "district": "Phú Nhuận",
-  "ward": null,
-  "street": "1 Pn",
-  "type": "căn hộ",
-  "layout": "1PN",
-  "kind": null,
-  "elevator": null,
-  "available": null,
-  "available_date": null,
-  "amenities": [
-   "ban công"
-  ],
-  "description": "( Phú Nhuận - 6.000 - 7.000 - 1Pn - Ban Công )",
-  "images": [],
-  "updated": 1793361506
- },
- {
   "id": 35,
   "price": 6500000,
   "price_max": 6500000,
@@ -2639,7 +2757,7 @@
   "area": null,
   "district": "Phú Nhuận",
   "ward": null,
-  "street": "Cô Giang Phú Nhuận",
+  "street": "Cô Giang",
   "type": "căn hộ",
   "layout": "1PN",
   "kind": null,
@@ -2903,6 +3021,43 @@
    "data/img/hd_522829caeb59a183.jpg"
   ],
   "updated": 1793360181
+ },
+ {
+  "id": 18,
+  "price": 5900000,
+  "price_max": 5900000,
+  "price_deal": 5700000,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "75/9C nguyễn đình chiều",
+  "type": "studio",
+  "layout": "Studio",
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO MỚI 100% FULL NỘI THẤT Q. PHÚ NHUẬN\nAddress: 75/9C nguyễn đình chiều, Phú Nhuận\nTiên ích\nMáy giặt + sấy. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 150k/phòng\nPhí xe: Free max 1xe\nGiá 5tr9 fix sâu còn 5tr7 (trống phòng balcon thoáng ở lầu 1 - 101)",
+  "images": [
+   "data/img/318a191a14b6948a.jpg",
+   "data/img/43c2d70e0d12e3e0.jpg",
+   "data/img/28b6abbf394641cb.jpg",
+   "data/img/379e968c8be5f1d3.jpg",
+   "data/img/25639cf0a09378e7.jpg",
+   "data/img/a0f8b01d524d9d94.jpg",
+   "data/img/82ce14db3ce123f9.jpg",
+   "data/img/f47690775b4b1207.jpg",
+   "data/img/0dcc20313e8ab88d.jpg",
+   "data/img/345edbfd6b554366.jpg",
+   "data/img/5ec7d1eba8c14c2f.jpg",
+   "data/img/b469af2e546441ce.jpg"
+  ],
+  "updated": 1793359854
  },
  {
   "id": 20,
