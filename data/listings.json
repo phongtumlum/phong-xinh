@@ -1,5 +1,70 @@
 [
  {
+  "id": 192,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "629 Điện Biên Phủ",
+  "type": "studio",
+  "layout": "Studio",
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "STUDIO BALCON FULL NỘI THẤT Q. BÌNH THẠNH\nĐịa chỉ: 629 Điện Biên Phủ, Bình Thạnh (gần Tân Cảng, landmark)\nTiên ích\nMáy giặt + sân phơi. Thang bôk\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/ Tháng\nPhí xe: Xe gửi cạnh nhà\nGiá fix 6tr5 (Trống sẵn phòng ở lầu 2 - 201)",
+  "images": [
+   "data/img/hd_d9d6eb0bb371112d.jpg",
+   "data/img/hd_e85e426b0453b4c9.jpg",
+   "data/img/hd_aae5efa07d6ac107.jpg",
+   "data/img/hd_7e059bf48cf9a13a.jpg",
+   "data/img/e0cbcf1373d48c4c.jpg"
+  ],
+  "updated": 1793731318
+ },
+ {
+  "id": 191,
+  "price": 5900000,
+  "price_max": 5900000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 2",
+  "street": "194/48 Bạch Đằng",
+  "type": "studio",
+  "layout": "Studio",
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "STUDIO BALCON MỚI SETUP FULL NỘI THẤT Q. BÌNH THẠNH\nAddress: 194/48 Bạch Đằng, P2, Q. Bình Thạnh\nTiện ích\nMáy giặt + sân phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: Free 2 xe\nGiá fix 5tr9 (trống phòng balcon ở lầu 2 - 202)",
+  "images": [
+   "data/img/596cfb4ea7a4beb6.jpg",
+   "data/img/64bd450a975262bb.jpg",
+   "data/img/a6340b7ae0711e6c.jpg",
+   "data/img/1a5d999fa686b015.jpg",
+   "data/img/a7e9d756cc1c1305.jpg",
+   "data/img/d4130f3860c672c7.jpg",
+   "data/img/hd_f7737d5879cada68.jpg",
+   "data/img/hd_f7737d5879cada68.jpg",
+   "data/img/hd_88f3b1a44968b9c8.jpg",
+   "data/img/hd_2aeb0e8cdcf35aee.jpg"
+  ],
+  "updated": 1793731246
+ },
+ {
   "id": 190,
   "price": 9000000,
   "price_max": 10000000,
