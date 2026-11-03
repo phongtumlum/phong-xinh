@@ -1,5 +1,92 @@
 [
  {
+  "id": 141,
+  "price": 6000000,
+  "price_max": 6000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "Nguyễn Trãi",
+  "type": "studio",
+  "layout": "Studio",
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Nguyễn Trãi q1\nStudio: 6tr\nLầu 3, thang máy",
+  "images": [
+   "data/img/hd_a7e2b7469b04ba52.jpg",
+   "data/img/hd_eea598c4418cd4f6.jpg",
+   "data/img/hd_126028b392a8e9e6.jpg",
+   "data/img/hd_6e8dde0737eea209.jpg",
+   "data/img/hd_08106843f5cbeb98.jpg",
+   "data/img/hd_3475a39684fa1914.jpg",
+   "data/img/hd_0289ef6d20242202.jpg",
+   "data/img/hd_31461c7052d18118.jpg"
+  ],
+  "updated": 1793704792
+ },
+ {
+  "id": 140,
+  "price": 6200000,
+  "price_max": 6200000,
+  "price_deal": 6000000,
+  "area": null,
+  "district": "Quận 10",
+  "ward": "Phường 12",
+  "street": "Hòa Hưng",
+  "type": null,
+  "layout": "Gác (duplex)",
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "gác",
+   "full nội thất"
+  ],
+  "description": "HÒA HƯNG, P12, QUẬN 10\nGiá: 6tr2 ( Giảm còn 6tr cho 6th đầu )\nGác, Cửa số trời, Full NT",
+  "images": [
+   "data/img/hd_3a7e258728bd1431.jpg",
+   "data/img/hd_3a7e258728bd1431.jpg",
+   "data/img/hd_523304deece38764.jpg",
+   "data/img/hd_9283546f33dad946.jpg",
+   "data/img/hd_b089902d23d7e802.jpg"
+  ],
+  "updated": 1793704745
+ },
+ {
+  "id": 139,
+  "price": 4700000,
+  "price_max": 4700000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": "Phường 13",
+  "street": "Hoà Hưng",
+  "type": "studio",
+  "layout": "Studio",
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "cửa sổ",
+   "full nội thất"
+  ],
+  "description": "Hoà Hưng, P. 13, q10\nCĂN HỘ FULL NỘI THẤT CỬA SỔ TRỜI PHÒNG STUDIO - 4.7Tr",
+  "images": [
+   "data/img/hd_d7ffc7b56028faf2.jpg",
+   "data/img/hd_d7ffc7b56028faf2.jpg",
+   "data/img/hd_d1a2c4801283c7c8.jpg",
+   "data/img/hd_aafe1e815932b67c.jpg",
+   "data/img/hd_aafe1e815932b67c.jpg"
+  ],
+  "updated": 1793704698
+ },
+ {
   "id": 133,
   "price": 5200000,
   "price_max": 5200000,
