@@ -757,6 +757,67 @@
   "updated": 1793705572
  },
  {
+  "id": 149,
+  "price": 4700000,
+  "price_max": 4700000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": "Phường 2",
+  "street": "Lê Văn Sỹ",
+  "type": null,
+  "layout": "Studio",
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [
+   "máy lạnh",
+   "bếp"
+  ],
+  "description": "Lê Văn Sỹ,Q3\nĐiện 4k\nNước 100k/người\nDv 200k/Phòng\nXe free(q xe) - không xe điện\nNội thất: Giường ,nệm, tủ áo quần,máy lạnh,kệ bếp\nSắp Trống ngày 1/12 trống\nMã Phòng p02 (phòng lầu 1)\nẤ Ý Giá 4tr7\n(Quận 3 - 4.000 - 5.000)",
+  "images": [
+   "data/img/hd_3463e591e2425269.jpg",
+   "data/img/hd_11732fb21d320234.jpg",
+   "data/img/hd_18a6ec90790811fa.jpg",
+   "data/img/hd_5e29941aaee3fcbf.jpg"
+  ],
+  "updated": 1793705529
+ },
+ {
+  "id": 148,
+  "price": 7500000,
+  "price_max": 7500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Cách Mạng Tháng Tám",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "G02 giá 7.5tr\ncmt8 Q10\n(Quận 10 - 7.000 - 8.000 - 1Pn)",
+  "images": [
+   "data/img/9bcfa01acd2090f9.jpg",
+   "data/img/hd_30f53bbd7cb13115.jpg",
+   "data/img/hd_eb3cc0d2399f9c74.jpg",
+   "data/img/hd_3291b9e6f9366821.jpg",
+   "data/img/hd_d36322e2ad09fb2a.jpg",
+   "data/img/hd_85635149685e796c.jpg",
+   "data/img/hd_18ce643fbb1a7197.jpg",
+   "data/img/hd_4b86ff088c3c8feb.jpg",
+   "data/img/hd_209824e319d0e987.jpg",
+   "data/img/hd_964e0444ed806b44.jpg",
+   "data/img/hd_0361d33de76fe0ff.jpg",
+   "data/img/hd_2566a4a8465e9f81.jpg"
+  ],
+  "updated": 1793705422
+ },
+ {
   "id": 147,
   "price": 8500000,
   "price_max": 8500000,
@@ -830,6 +891,65 @@
    "data/img/hd_7c07848f53b237c7.jpg"
   ],
   "updated": 1793705151
+ },
+ {
+  "id": 143,
+  "price": 5400000,
+  "price_max": 5400000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "Trần Quang Khải",
+  "type": null,
+  "layout": "Studio",
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 5/11",
+  "available_date": "2026-11-05",
+  "amenities": [
+   "full nội thất"
+  ],
+  "description": "Trần Quang Khải Quận 1\nMã phòng : 202 ( 5/11 phòng trống)\nPhòng full nội thất giặt sấy dưới trệt\ngiá : 5tr4",
+  "images": [
+   "data/img/hd_0eb613f94829bf21.jpg",
+   "data/img/hd_23efe0b4ff07480b.jpg",
+   "data/img/hd_b87655e447178c2c.jpg"
+  ],
+  "updated": 1793704969
+ },
+ {
+  "id": 142,
+  "price": 5200000,
+  "price_max": 5200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "Trần Khánh Dư",
+  "type": null,
+  "layout": "Studio",
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất"
+  ],
+  "description": "Trần Khánh Dư - Quận 1\nfull nội thất — chỉ 5tr2/ tháng, free 1 xe",
+  "images": [
+   "data/img/hd_761d540012da2612.jpg",
+   "data/img/hd_f68554e803d0b18c.jpg",
+   "data/img/hd_611e62e477cefaf8.jpg",
+   "data/img/hd_bc426a3a67a1ad82.jpg",
+   "data/img/hd_61a4dbe3fe06db2b.jpg",
+   "data/img/hd_2736e33c8b63fc07.jpg",
+   "data/img/hd_68c72a8e59f6e3c3.jpg",
+   "data/img/hd_b14c82827ee5374a.jpg",
+   "data/img/hd_cf4cb43c7996a0ee.jpg",
+   "data/img/hd_b6d37829e272905b.jpg"
+  ],
+  "updated": 1793704869
  },
  {
   "id": 141,
@@ -917,6 +1037,74 @@
    "data/img/hd_aafe1e815932b67c.jpg"
   ],
   "updated": 1793704698
+ },
+ {
+  "id": 138,
+  "price": 5000000,
+  "price_max": 5000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 11",
+  "ward": null,
+  "street": "Phan Xích Long",
+  "type": null,
+  "layout": "Studio",
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [],
+  "description": "5tr - Giáp q10 - trống sẵn",
+  "images": [
+   "data/img/hd_ecf352fc5e4b5e01.jpg",
+   "data/img/hd_c4b9c6f25addd374.jpg"
+  ],
+  "updated": 1793704648
+ },
+ {
+  "id": 136,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": null,
+  "street": "Lê Văn Sỹ",
+  "type": null,
+  "layout": "1PN",
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "6tr5 lê văn sỹ, lầu 2 thang\nbộ, có nội thất cơ bản",
+  "images": [
+   "data/img/805abaeceb9d922a.jpg"
+  ],
+  "updated": 1793704621
+ },
+ {
+  "id": 135,
+  "price": 6000000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": null,
+  "street": "Bắc Hải",
+  "type": null,
+  "layout": "Studio",
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Bắc Hải , Tân Bình\nGiá thuê 6.000.000 chốt\n6tr5 thang máy, hẻm ô tô, sạch sẽ",
+  "images": [
+   "data/img/3e9d35bdc835c9bc.jpg",
+   "data/img/hd_ea275c20e89175f0.jpg"
+  ],
+  "updated": 1793704596
  },
  {
   "id": 133,
@@ -1058,6 +1246,38 @@
    "data/img/hd_bb83641ca6a18474.jpg"
   ],
   "updated": 1793703771
+ },
+ {
+  "id": 129,
+  "price": 6800000,
+  "price_max": 6800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "Phan Đình Phùng",
+  "type": "studio",
+  "layout": "Studio",
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "cửa sổ"
+  ],
+  "description": "TRỐNG STUDIO BALCON ĐỨNG THOÁNG MÁT QUẬN PHÚ NHUẬN\nEilĐia chỉ: 270/2/ Phan Đình Phùng, Phú nhuận\nĐặc điểm: ấ“ Nhà mới có thang máy, cửa sổ thoáng mát. Có máy giặt + sân phơi\nMDich vụ\nĐiện 4k/kw, nước 120k/người\nPDV: 200k/ phòng. Free 2 xe\nGiá 6tr8 (Trống sẵn phòng ở lầu 1 - 101)",
+  "images": [
+   "data/img/hd_2212b8c483d5fe75.jpg",
+   "data/img/hd_a284f07e26e9fce5.jpg",
+   "data/img/hd_75c5d9f95522b545.jpg",
+   "data/img/hd_9d6ccc6e53c6bd25.jpg",
+   "data/img/hd_1ff8d63e2156b7f2.jpg",
+   "data/img/hd_cd5d8faf4f3b7c3b.jpg",
+   "data/img/hd_135624b25a56b6bf.jpg",
+   "data/img/hd_c0e26b9260343cd7.jpg",
+   "data/img/923b6bc42e086505.jpg"
+  ],
+  "updated": 1793703675
  },
  {
   "id": 128,
