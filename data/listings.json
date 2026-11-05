@@ -1,5 +1,163 @@
 [
  {
+  "id": 239,
+  "price": 7500000,
+  "price_max": 7500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Nam Kỳ Khởi Nghĩa",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "Nam Kỳ Khởi Nghĩa giá 7tr5\n( Quận 3 - 6.000 - 7.000 - 1PN - Ban Công )",
+  "images": [
+   "data/img/hd_a28c2c833d544db4.jpg",
+   "data/img/hd_225bdf1646190830.jpg",
+   "data/img/hd_ec0cb2064033fd91.jpg",
+   "data/img/hd_927991665d3f1f6e.jpg",
+   "data/img/hd_663b26c7d8130840.jpg",
+   "data/img/hd_96947bd591a95c53.jpg",
+   "data/img/hd_310794933266e049.jpg",
+   "data/img/hd_310794933266e049.jpg"
+  ],
+  "updated": 1793863717
+ },
+ {
+  "id": 238,
+  "price": 7500000,
+  "price_max": 7500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường Đức Nhuận",
+  "street": "Bùi Đình Tuý",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "gác",
+   "full nội thất"
+  ],
+  "description": "Đăng Lưu P.Đức Nhuận PN - thang máy\nŸ Điện 4k, Nước 100k, Dvu 200k/2 người\nP101: 7.500.000 ( trống sẵn)\nBùi Đình Tuý\nPhòng 202 ( lầu 2\nthang bộ ). Giá 7.500.000đ\nđiện: 4k\nnước 120k /người\ndịch vụ 150k /phòng\nxe free , không pet,\nkhông nước ngoài\nFull nội thất (máy giặt\nriêng).. duplex ban công\n( Bình Thạnh - 7.000 - 8.000 - Ban Công )\n( Bình Thạnh - 7.000 - 8.000 - Duplex )",
+  "images": [
+   "data/img/hd_aa217265910574ef.jpg",
+   "data/img/hd_7cbd7e29a810a090.jpg",
+   "data/img/hd_0abfbc7daa8cd8bc.jpg",
+   "data/img/hd_bc72160fb7f0ac53.jpg",
+   "data/img/f1282e666ab6b520.jpg",
+   "data/img/e8b6579cf90591a9.jpg"
+  ],
+  "updated": 1793863662
+ },
+ {
+  "id": 235,
+  "price": 8500000,
+  "price_max": 8500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "201 Duplex",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "ban công",
+   "gác"
+  ],
+  "description": "Bắc Hải trống căn 201 Duplex ban công lớn, máy giặt riêng giá 8tr5 nha mn ơi\nĐiện 4k, nước 150k/ng, Dv 200k/p\n( Quận 10 - 8.000 - 9.000 - Duplex - Ban Công )",
+  "images": [
+   "data/img/hd_52acff44fdd2eaf3.jpg",
+   "data/img/hd_729a08caf8e53782.jpg",
+   "data/img/hd_9ea123e4ed72c146.jpg",
+   "data/img/hd_35396708f3fb8c3c.jpg",
+   "data/img/hd_7a3b7b4505880938.jpg",
+   "data/img/hd_67964a6db08867a2.jpg",
+   "data/img/hd_2cef7dea19c8cfa3.jpg",
+   "data/img/835ef58f7a27de83.jpg"
+  ],
+  "updated": 1793863517
+ },
+ {
+  "id": 234,
+  "price": 8500000,
+  "price_max": 8500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": "Phường Đakao",
+  "street": "Nguyễn Huy Tự",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "NGUYỄN HUY TỰ, P.ĐAKAO, Q1\n1 Phòng ngủ - Ban công\nmã 201: 8.500.000\nCHI PHÍ\nĐiện: 4.000/kwh\nNước: 100.000/ng\nphí dv: 200.000/phòng\nNhận tối đa 2 xe.\n( Quận 1 - 8.000 - 9.000 - 1PN - Ban Công )",
+  "images": [
+   "data/img/hd_e6e20030560a82d1.jpg",
+   "data/img/hd_9fd5b96b0dc3dacb.jpg",
+   "data/img/hd_8a830bf15092db82.jpg",
+   "data/img/hd_be0bfa6e2aa556f4.jpg",
+   "data/img/hd_6d9e7947b2c1ffc8.jpg",
+   "data/img/hd_9b6c659917219cd1.jpg",
+   "data/img/hd_378e7dfa6cec995d.jpg",
+   "data/img/hd_1cbcb033e41fa124.jpg",
+   "data/img/hd_73426814928b03e8.jpg",
+   "data/img/hd_7d62e63e08e0ea51.jpg",
+   "data/img/hd_32a614911732f69e.jpg"
+  ],
+  "updated": 1793863421
+ },
+ {
+  "id": 232,
+  "price": 7200000,
+  "price_max": 7200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "Phạm Ngũ Lão",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất"
+  ],
+  "description": "PHẠM NGŨ LÃO, QUẬN 1\nGiá: 7TR2\nCST,Full NT.\ntrống: L0ƠI, 101\n( Quận 1 - 7.000 - 8.000 - 1PN )",
+  "images": [
+   "data/img/hd_c6402a2c104cc038.jpg",
+   "data/img/hd_45e2338fd4b2801a.jpg",
+   "data/img/hd_958385a002a98ae2.jpg",
+   "data/img/hd_f43e862b51ec09d3.jpg",
+   "data/img/hd_434ac98dfd04a68a.jpg",
+   "data/img/hd_448cb3f2d538d0ae.jpg"
+  ],
+  "updated": 1793863288
+ },
+ {
   "id": 229,
   "price": 5500000,
   "price_max": 5500000,
