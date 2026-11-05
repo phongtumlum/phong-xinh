@@ -1,5 +1,102 @@
 [
  {
+  "id": 221,
+  "price": 5600000,
+  "price_max": 6400000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": "Phường 4",
+  "street": "88 Nguyễn Đình Chiểu",
+  "type": "studio",
+  "layout": "Studio",
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO MỚI 100% FULL NỘI THẤT Q. PHÚ NHUẬN\nAddress: 88 Nguyễn Đình Chiểu, P4, Phú Nhuận (sát Phan Xích Long)\nTiên ích\nMáy giặt + sân phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: 100k/ chiếc\nGiá 6tr4 (Ngày 5/12 trống phòng balcon ở lầu 1)\nPass phòng\nGiá 5tr6 (Trống sẵn phòng ở lầu 2 - 202)",
+  "images": [
+   "data/img/hd_61f74c5f127d00ca.jpg",
+   "data/img/hd_a612fc08f504b484.jpg",
+   "data/img/hd_e9808e2a54ad91ac.jpg",
+   "data/img/hd_8f945b482c994217.jpg",
+   "data/img/hd_160da228ef25f132.jpg",
+   "data/img/hd_bc67f4994893921f.jpg",
+   "data/img/hd_ac2cd9334cdfc8d4.jpg",
+   "data/img/hd_f8bd222d010c36d3.jpg",
+   "data/img/hd_f8bd222d010c36d3.jpg",
+   "data/img/hd_dcde1c50276beb49.jpg",
+   "data/img/hd_aefb9f871a79e035.jpg",
+   "data/img/hd_f6652991d61c0303.jpg",
+   "data/img/hd_18438faf32f6251d.jpg"
+  ],
+  "updated": 1793862017
+ },
+ {
+  "id": 220,
+  "price": 6200000,
+  "price_max": 6200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường 11",
+  "street": "955 Lạc Long Quân",
+  "type": "studio",
+  "layout": "Studio",
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bếp",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "STUDIO XA BẾP MỚI FULL NỘI THẤT TÂN BÌNH\nAddress: 955 Lạc Long Quân, P11, Tân Bình (sát quận 10)\nTiên ích\nMáy giặt/ phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: Free 2 xe\nGiá 6tr2 (Trống phòng ở Trệt - Pass phòng checkin linh hoạt)",
+  "images": [
+   "data/img/83cbd529130954fe.jpg"
+  ],
+  "updated": 1793862007
+ },
+ {
+  "id": 219,
+  "price": 5000000,
+  "price_max": 5000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": null,
+  "street": "1357/6 Hoàng Sa",
+  "type": "studio",
+  "layout": "Studio",
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "STUDIO FULL NỘI THẤT Q. TÂN BÌNH (SÁT BỜ KÈ)\nAddress: 1357/6 Hoàng Sa, Q. Tân Bình (giáp Quận 3, Quận 10)\nTiên ích\nMáy giặt + sân phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 120k/người\nDịch vụ: 200k/phòng\nPhí xe: Free 1xe\nGiá 5tr (Trống sẵn phòng ở lầu 2 - 204)\nCó nệm",
+  "images": [
+   "data/img/hd_1451bd96fc8b23fa.jpg",
+   "data/img/hd_86d05cecde521d28.jpg",
+   "data/img/hd_b7a30962f18011d8.jpg",
+   "data/img/hd_1c9b8db0bccf4968.jpg",
+   "data/img/hd_64b09f8f735c33d3.jpg",
+   "data/img/hd_70b54608de63f25b.jpg",
+   "data/img/hd_b0ed2621e3289559.jpg"
+  ],
+  "updated": 1793861938
+ },
+ {
   "id": 218,
   "price": 7200000,
   "price_max": 8800000,
