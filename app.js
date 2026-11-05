@@ -183,15 +183,17 @@
     const saved = S.saved.has(l.id);
     const isNew = l.updated && (Date.now() / 1000 - l.updated) < NEW_SECONDS;
     const imgs = l.images || [];
-    const photo = imgs.length
-      ? '<img src="' + esc(imgs[0]) + '" alt="Ảnh ' + esc(titleOf(l)) + '" loading="lazy">'
+    const vids = l.videos || [];
+    const cover = imgs[0] || (vids[0] && vids[0].poster);
+    const photo = cover
+      ? '<img src="' + esc(cover) + '" alt="Ảnh ' + esc(titleOf(l)) + '" loading="lazy">'
       : '<span class="noimg">' + ROOM_ICON + '</span>';
     return '<article class="card ' + (i % 2 ? 'sb' : 'sa') + (saved ? ' is-saved' : '') + '" style="animation-delay:' + Math.min(i, 12) * 0.06 + 's" data-id="' + esc(l.id) + '">' +
       PEEK +
       '<button class="photo" type="button" data-open="' + esc(l.id) + '" aria-label="Xem chi tiết ' + esc(titleOf(l)) + '">' + photo +
         (l.kind ? '<span class="badge">' + esc(l.kind) + '</span>' : '') +
         (isNew ? '<span class="newb">mới toanh!</span>' : '') +
-        (imgs.length > 1 ? '<span class="count">' + imgs.length + ' ảnh</span>' : '') +
+        (imgs.length > 1 || vids.length ? '<span class="count">' + (vids.length ? '▶ video · ' : '') + imgs.length + ' ảnh</span>' : '') +
       '</button>' +
       '<button class="heartbtn" type="button" aria-pressed="' + saved + '" aria-label="Thả tim lưu phòng #' + esc(l.id) + '" data-save="' + esc(l.id) + '">' +
         '<svg width="22" height="22" viewBox="0 0 24 24" aria-hidden="true"><path d="' + HEART + '" fill="' + (saved ? '#FF5C9A' : '#FFFFFF') + '" stroke="#141013" stroke-width="2.2" stroke-linejoin="round"/></svg>' +
@@ -272,43 +274,73 @@
     $('#dAmen').innerHTML = (l.amenities || []).map((a) => '<span>' + esc(cap(a)) + '</span>').join('');
     $('#dDesc').textContent = l.description || '';
     $('#dZalo').textContent = 'Nhắn Zalo hỏi phòng #' + l.id;
-    const imgs = l.images || [];
-    VIEW.imgs = imgs;
+    // video (nếu có) đứng đầu, sau đó tới ảnh
+    const items = (l.videos || []).map((v) => ({ t: 'v', src: v.src, poster: v.poster }))
+      .concat((l.images || []).map((src) => ({ t: 'i', src: src })));
+    VIEW.items = items;
     VIEW.i = 0;
-    const main = $('#dImg');
+    VIEW.alt = 'Ảnh ' + titleOf(l);
     const thumbs = $('#dThumbs');
-    if (imgs.length) {
-      main.hidden = false;
-      main.src = imgs[0];
-      main.alt = 'Ảnh ' + titleOf(l);
-      thumbs.innerHTML = imgs.length > 1 ? imgs.map((src, i) =>
-        '<button type="button" aria-label="Ảnh ' + (i + 1) + '" aria-current="' + (i === 0) + '" data-src="' + esc(src) + '"><img src="' + esc(src) + '" alt="" loading="lazy"></button>'
+    if (items.length) {
+      showMain(0);
+      thumbs.innerHTML = items.length > 1 ? items.map((it, i) =>
+        '<button type="button" class="' + (it.t === 'v' ? 'isvid' : '') + '" aria-label="' + (it.t === 'v' ? 'Video' : 'Ảnh ' + (i + 1)) + '" aria-current="' + (i === 0) + '">' +
+        '<img src="' + esc(it.t === 'v' ? (it.poster || '') : it.src) + '" alt="" loading="lazy"></button>'
       ).join('') : '';
-      thumbs.querySelectorAll('button').forEach((b, bi) => b.addEventListener('click', () => {
-        main.src = b.dataset.src;
-        VIEW.i = bi;
-        thumbs.querySelectorAll('button').forEach((x) => x.setAttribute('aria-current', String(x === b)));
-      }));
+      thumbs.querySelectorAll('button').forEach((b, bi) => b.addEventListener('click', () => showMain(bi)));
     } else {
-      main.hidden = true;
+      $('#dImg').hidden = true;
+      stopVid($('#dVid'), true);
       thumbs.innerHTML = '';
     }
     if (typeof dlg.showModal === 'function') dlg.showModal(); else dlg.setAttribute('open', '');
   }
 
   // ---------- xem ảnh lớn: đè lên thông tin phòng, có nút quay lại + ảnh trước/sau ----------
-  const VIEW = { imgs: [], i: 0 };
+  const VIEW = { items: [], i: 0, alt: '' };
+
+  function stopVid(v, hide) {
+    try { v.pause(); } catch (e) { /* bỏ qua */ }
+    if (hide) { v.hidden = true; v.removeAttribute('src'); v.load && v.load(); }
+  }
+
+  // hiện ảnh/video thứ i trong khung thông tin phòng
+  function showMain(i) {
+    VIEW.i = i;
+    const it = VIEW.items[i];
+    const img = $('#dImg');
+    const vid = $('#dVid');
+    if (it.t === 'v') {
+      img.hidden = true;
+      if (vid.getAttribute('src') !== it.src) { vid.src = it.src; vid.poster = it.poster || ''; }
+      vid.hidden = false;
+    } else {
+      stopVid(vid, true);
+      img.src = it.src; img.alt = VIEW.alt; img.hidden = false;
+    }
+    $('#dThumbs').querySelectorAll('button').forEach((x, xi) => x.setAttribute('aria-current', String(xi === i)));
+  }
 
   function showView() {
-    const n = VIEW.imgs.length;
-    $('#vImg').src = VIEW.imgs[VIEW.i];
+    const n = VIEW.items.length;
+    const it = VIEW.items[VIEW.i];
+    const img = $('#vImg');
+    const vid = $('#vVid');
+    if (it.t === 'v') {
+      img.hidden = true;
+      vid.src = it.src; vid.poster = it.poster || ''; vid.hidden = false;
+    } else {
+      stopVid(vid, true);
+      img.src = it.src; img.hidden = false;
+    }
     $('#vCount').textContent = (VIEW.i + 1) + ' / ' + n;
     $('#vPrev').hidden = n < 2;
     $('#vNext').hidden = n < 2;
   }
 
   function openViewer(i) {
-    if (!VIEW.imgs.length) return;
+    if (!VIEW.items.length) return;
+    stopVid($('#dVid'), false);
     VIEW.i = i;
     showView();
     const v = $('#viewer');
@@ -316,7 +348,7 @@
   }
 
   function stepView(d) {
-    const n = VIEW.imgs.length;
+    const n = VIEW.items.length;
     if (n < 2) return;
     VIEW.i = (VIEW.i + d + n) % n;
     showView();
@@ -324,15 +356,14 @@
 
   function closeViewer() {
     const v = $('#viewer');
+    stopVid($('#vVid'), true);
     v.close ? v.close() : v.removeAttribute('open');
-    // ảnh lớn trong khung thông tin đi theo ảnh vừa xem
-    const main = $('#dImg');
-    if (VIEW.imgs.length) main.src = VIEW.imgs[VIEW.i];
-    $('#dThumbs').querySelectorAll('button').forEach((x, xi) => x.setAttribute('aria-current', String(xi === VIEW.i)));
+    if (VIEW.items.length) showMain(VIEW.i);       // khung thông tin đi theo ảnh/video vừa xem
   }
 
   function bindViewer() {
     $('#dImg').addEventListener('click', () => openViewer(VIEW.i));
+    $('#detail').addEventListener('close', () => stopVid($('#dVid'), true));   // đóng chi tiết thì tắt video
     $('#vBack').addEventListener('click', closeViewer);
     $('#vPrev').addEventListener('click', (e) => { e.stopPropagation(); stepView(-1); });
     $('#vNext').addEventListener('click', (e) => { e.stopPropagation(); stepView(1); });
