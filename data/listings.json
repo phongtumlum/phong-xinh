@@ -1,5 +1,74 @@
 [
  {
+  "id": 242,
+  "price": 11000000,
+  "price_max": 11000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "750/ Nguyễn Kiệm",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt chung"
+  ],
+  "description": "Địa chỉ: 750/ Nguyễn Kiệm, Phú Nhuận\nThang bộ lầu 1\nĐiện 3k8,Nước 100k/người\nDv 150k/phòng, Xe free\nMáy giặt chung sân phơi\n2PN khu sân bay giá 11tr",
+  "images": [
+   "data/img/hd_f212184c1f9eab6b.jpg",
+   "data/img/hd_bb8b7ec9dc00baf8.jpg",
+   "data/img/hd_09e37f95d2f4210a.jpg",
+   "data/img/hd_57bd06c8d91ee826.jpg",
+   "data/img/hd_722f02dacf9a13d9.jpg",
+   "data/img/hd_7746de7202e8ce5b.jpg",
+   "data/img/hd_19741d0c77742caf.jpg"
+  ],
+  "updated": 1793864092
+ },
+ {
+  "id": 240,
+  "price": 5500000,
+  "price_max": 15000000,
+  "price_deal": 4500000,
+  "area": 75.0,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "189 Lê Văn Sỹ",
+  "type": "nhà nguyên căn",
+  "layout": "2PN",
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt chung",
+   "ban công",
+   "cửa sổ",
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp"
+  ],
+  "description": "CHO THUÊ NHÀ NGUYÊN\nCĂN MỚI 100%\nGiá thuê 15tr/tháng - 2PN\n3WC\n76/ Phan Tây Hồ, Phú\nNhuận\nS: 2m7 x 9m - 1 trệt 2 lầu\nTổng diện tích sử dụng 3\nsàn là 75m2\nVào nội thất theo nhu cầu\nkhách\nTrệt: bếp, nhà xe, phòng\nkhách, WC\nLầu 1: 1 phòng ngủ ban\ncông và WC\nLầu 2: 1 phòng ngủ ban\ncông và WC\nTin nhắn chưa đọc\nGiảm giá còn 4tr5, ban công cửa số\n189 Lê Văn Sỹ, Phú Nhuận\nNội thất: kệ bếp trên dưới\nMáy lạnh + 400k/tháng\nTủ lạnh +300k/tháng\nĐiện: 3k8/kwh\nNước: 100k/người\nDvu: 200k/phòng\nXe free 2 chiếc\nCó máy giặt chung phơi lầu 3\n5tr5 cửa sổ trời, thang máy",
+  "images": [
+   "data/img/a2b1d25234590c02.jpg",
+   "data/img/hd_0c624b883b37db08.jpg",
+   "data/img/hd_e1889a14572fb74c.jpg",
+   "data/img/hd_49d94969133040d8.jpg",
+   "data/img/hd_0930f0c668ee89bb.jpg",
+   "data/img/hd_94a312da5a2a7711.jpg",
+   "data/img/hd_07d02c25959c2093.jpg",
+   "data/img/hd_e07ddeba9e8782e9.jpg",
+   "data/img/hd_9b3887137df92847.jpg",
+   "data/img/302917220c953acb.jpg",
+   "data/img/396c5b6dcfe144f1.jpg"
+  ],
+  "updated": 1793863927
+ },
+ {
   "id": 239,
   "price": 7500000,
   "price_max": 7500000,
