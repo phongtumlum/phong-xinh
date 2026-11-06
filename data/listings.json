@@ -1,5 +1,69 @@
 [
  {
+  "id": 270,
+  "price": 6200000,
+  "price_max": 6200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": null,
+  "street": "Phạm Văn Hai",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "gác"
+  ],
+  "description": "Phạm Văn Hai G01 duplex siêuu rộng 6tr2 còn thương lượng\n( Tân Bình - 6.000 - 7.000 - 1PN - Ban Công )\n( Tân Bình - 5.000 - 6.000 - Duplex )",
+  "images": [
+   "data/img/hd_968f51612bfad753.jpg",
+   "data/img/hd_968f51612bfad753.jpg",
+   "data/img/hd_2d43e8edecf31198.jpg",
+   "data/img/hd_f5c26ea02d51be5b.jpg",
+   "data/img/hd_1b517c9b83a331c4.jpg",
+   "data/img/hd_29b35a782fe4d985.jpg",
+   "data/img/hd_38959fad725bc74e.jpg",
+   "data/img/hd_a9e49e5472f53761.jpg",
+   "data/img/hd_a9e49e5472f53761.jpg",
+   "data/img/hd_a67befa82d0fede8.jpg",
+   "data/img/hd_11ced84b54983c47.jpg",
+   "data/img/hd_11ced84b54983c47.jpg"
+  ],
+  "videos": [],
+  "updated": 1793939009
+ },
+ {
+  "id": 268,
+  "price": 4500000,
+  "price_max": 4500000,
+  "price_deal": null,
+  "area": 20.0,
+  "district": "Quận 10",
+  "ward": "Phường 15",
+  "street": "Hồ Bá Kiện",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "gác"
+  ],
+  "description": "Hồ Bá Kiện, P15, Q10.\nPhòng 102 lầu trệt, rộng 20m2, gác cao như hình. Nội thất cơ bản\nGiá 4tr5 (tối đa 2 xe)\nĐiện 4000\nNước 120\nDv 200\nĐANG TRỐNG\n( Quận 10 - 4.000 - 5.000 - Duplex )",
+  "images": [
+   "data/img/hd_11f109e825079fa6.jpg",
+   "data/img/hd_632adae092baae37.jpg",
+   "data/img/hd_d93fba29ffb47a05.jpg"
+  ],
+  "videos": [],
+  "updated": 1793938839
+ },
+ {
   "id": 260,
   "price": 6000000,
   "price_max": 6000000,
@@ -749,11 +813,14 @@
    "data/img/hd_aa217265910574ef.jpg",
    "data/img/hd_7cbd7e29a810a090.jpg",
    "data/img/hd_0abfbc7daa8cd8bc.jpg",
-   "data/img/hd_bc72160fb7f0ac53.jpg",
-   "data/img/f1282e666ab6b520.jpg",
-   "data/img/e8b6579cf90591a9.jpg"
+   "data/img/hd_bc72160fb7f0ac53.jpg"
   ],
-  "videos": [],
+  "videos": [
+   {
+    "src": "data/vid/v_9800e3c76f21cce2.mp4",
+    "poster": "data/vid/v_9800e3c76f21cce2.jpg"
+   }
+  ],
   "updated": 1793863662
  },
  {
