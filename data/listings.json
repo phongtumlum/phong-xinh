@@ -1,5 +1,150 @@
 [
  {
+  "id": 260,
+  "price": 6000000,
+  "price_max": 6000000,
+  "price_deal": null,
+  "area": 40.0,
+  "district": "Bình Thạnh",
+  "ward": "Phường 7",
+  "street": "42/57a Hoàng Hoa Thám",
+  "type": "căn hộ",
+  "layout": "Gác (duplex)",
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "gác",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ FULL NỘI THẤT Q. BÌNH THẠNH\nAddress: 42/57a Hoàng Hoa Thám, P7, Bình Thạnh\nTiên ích\nMáy Giặt riêng + Sấy chung. Thang máy. Phòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay, bảo vệ\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: free max 1 xe (Nhiều xe hơn gửi cách nhà 40m)\nGiá 6tr (Trống phòng Gác - nhận 1 xe)\nPhòng xem trực tiếp đẹp x2 lần hình chụp",
+  "images": [
+   "data/img/hd_2304479b8ed2f021.jpg",
+   "data/img/hd_4719d349f589ab29.jpg",
+   "data/img/hd_05d46249b502d750.jpg",
+   "data/img/hd_0dfefe0333291c55.jpg"
+  ],
+  "videos": [],
+  "updated": 1793937998
+ },
+ {
+  "id": 259,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường 4",
+  "street": "9B Lam Sơn",
+  "type": "studio",
+  "layout": "Studio",
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bếp",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "STUDIO XA BẾP MỚI SETUP FULL NỘI THẤT MỚI KENG Q. TÂN BÌNH\nAddress: 9B Lam Sơn, P4, Tân Bình\n(Gần sân bay)\nTiên ích\nmáy giặt + sân phơi. Thang bộ\nPhòng trang bị full nội thất tiện nghi. Khu vực an ninh, ra vào vân tay\nĐiện: 3k8/kwh, Nước: 100k/người\nDịch vụ: 100k/ 1 người. free 2 xe\nGiá 6tr5 (Trống sẵn phòng balcon ở lầu 2 - 201)",
+  "images": [
+   "data/img/hd_661cd56ad6411615.jpg",
+   "data/img/hd_ef1321858b6af2a1.jpg",
+   "data/img/hd_040595645ac7c4fe.jpg",
+   "data/img/hd_cd5611f582bdde11.jpg",
+   "data/img/hd_040595645ac7c4fe.jpg",
+   "data/img/hd_ab05c65c4a3559e8.jpg",
+   "data/img/hd_55d082ca8820bad7.jpg",
+   "data/img/hd_89281fccbddcc200.jpg"
+  ],
+  "videos": [],
+  "updated": 1793937921
+ },
+ {
+  "id": 258,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường 4",
+  "street": "8/8 Nguyễn Đình Khơi P4",
+  "type": "studio",
+  "layout": "Studio",
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 30/11",
+  "available_date": "2026-11-30",
+  "amenities": [
+   "full nội thất",
+   "chỗ để xe"
+  ],
+  "description": "CĂN HỘ STUDIO FULL NỘI THẤT NGAY Q. TÂN BÌNH\nĐịa chỉ: 8/8 Nguyễn Đình Khơi P4 Tân Bình\nĐặc điểm: ấf~ Hầm xe rộng rãi, có thang máy, Gần công viên hoàng văn thụ. Phòng trang bị full nội thất đầy\nđủ tiện nghỉ\nĐiện 4k, Nước 100k/người\nDịch vụ 200k/ phòng, Free 2 xe\nGiá 6tr5 (Ngày 30/11 trống phòng ở lầu 1 - 101)",
+  "images": [
+   "data/img/hd_dfd8a28f995af91b.jpg",
+   "data/img/hd_08d9bf4f55dc7a12.jpg",
+   "data/img/hd_ec00fa6020cc6317.jpg",
+   "data/img/hd_e42bf968c149ab40.jpg",
+   "data/img/hd_c3581edffc18b1b9.jpg",
+   "data/img/hd_731d5f2ba1719e52.jpg",
+   "data/img/hd_d166600d7310bcfe.jpg",
+   "data/img/hd_2623c8548dfac42f.jpg",
+   "data/img/hd_02bcc29203ce84ff.jpg"
+  ],
+  "videos": [],
+  "updated": 1793937834
+ },
+ {
+  "id": 257,
+  "price": 6200000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường 5",
+  "street": "1219/18 Hoàng Sa",
+  "type": "studio",
+  "layout": "Studio",
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp"
+  ],
+  "description": "STUDIO MỚI XÂY NGAY TÂN BÌNH\nAddress: 1219/18 Hoàng Sa, P5, Tân Bình\nTiên ích\nMáy giặt + sân phơi. Thang bộ\nPhòng trang bị nội thất (máy lạnh, kệ bếp, rèm, giường, tủ đồ, nệm, tủ lạnh 2 cánh)\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 150k/phòng\nPhí xe: Free 2 xe\nGiá 6tr5 (trống sẵn phòng balcon đứng ở lầu 1 - 102)\nGiá 6tr2 (Trống sẵn phòng có hiên sau ở Trệt - P001)\nrull nội thất có nệm, tủ lạnh",
+  "images": [
+   "data/img/hd_af98312fc33e9695.jpg",
+   "data/img/hd_f9da1dcb91b9c152.jpg",
+   "data/img/hd_aa8409843c32dae0.jpg",
+   "data/img/hd_2b52e564e389f450.jpg",
+   "data/img/hd_78e1b9016595c7f4.jpg",
+   "data/img/hd_e6e07315a8925213.jpg",
+   "data/img/hd_a05a219cc9f322d7.jpg",
+   "data/img/hd_865a09501e7dd912.jpg",
+   "data/img/hd_1b409a7a4172846a.jpg",
+   "data/img/hd_2bf919a115f588d2.jpg",
+   "data/img/hd_205fe24f254eeeb5.jpg",
+   "data/img/hd_60a40afcd42081bb.jpg",
+   "data/img/hd_c4116b9f4b8eeedd.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_a16bf644ed707c52.mp4",
+    "poster": "data/vid/v_a16bf644ed707c52.jpg"
+   }
+  ],
+  "updated": 1793937695
+ },
+ {
   "id": 255,
   "price": 10800000,
   "price_max": 10800000,
@@ -4692,10 +4837,14 @@
    "data/img/hd_8ae33665c6bc2bbf.jpg",
    "data/img/hd_b33fa7fdedb6d29c.jpg",
    "data/img/hd_1b6544acf6282b07.jpg",
-   "data/img/hd_355c302a55acc879.jpg",
-   "data/img/2267a7b637ab370c.jpg"
+   "data/img/hd_355c302a55acc879.jpg"
   ],
-  "videos": [],
+  "videos": [
+   {
+    "src": "data/vid/v_1f21d3b7b446b762.mp4",
+    "poster": "data/vid/v_1f21d3b7b446b762.jpg"
+   }
+  ],
   "updated": 1793443460
  },
  {
