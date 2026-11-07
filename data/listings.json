@@ -1,5 +1,195 @@
 [
  {
+  "id": 338,
+  "price": 9000000,
+  "price_max": 9000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": "Phường 15",
+  "street": "40/44 Nguyễn Giản",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bếp",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "1 PHÒNG NGỦ TÁCH BẾP CÓ BALCON FULL NỘI THẤT QUẬN 10\nAddress: 40/44 Nguyễn Giản , Phường 15, Q10\nTiên ích\nMáy giặt riêng. Thang bộ\n1PN trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: 100k/ chiếc\nGiá 9tr (trống sẵn phòng ở lầu 3 - 3.2)",
+  "images": [
+   "data/img/hd_749ccd3eabc8a9f3.jpg",
+   "data/img/hd_5526c4d3a68043d5.jpg",
+   "data/img/hd_f610a37a29c6f1cb.jpg",
+   "data/img/hd_f610a37a29c6f1cb.jpg",
+   "data/img/hd_59afafb754567ef3.jpg",
+   "data/img/hd_fe38c7b5ad1a8ffb.jpg",
+   "data/img/hd_14e42dcd287697c8.jpg",
+   "data/img/hd_b1d917e95f465d15.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_94a644e9870bfcc1.mp4",
+    "poster": "data/vid/v_94a644e9870bfcc1.jpg"
+   }
+  ],
+  "updated": 1794069077
+ },
+ {
+  "id": 336,
+  "price": 8500000,
+  "price_max": 8500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": "Phường Dakao",
+  "street": "18B/92 Nguyễn Thị Minh Khai",
+  "type": "studio",
+  "layout": "Studio",
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống 6/12",
+  "available_date": "2026-12-06",
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO MỚI SETUP FULL NỘI THẤT GIÁ MỀM QUẬN 1\nAddress: 18B/92 Nguyễn Thị Minh Khai, P. Dakao, Q1\nTiên ích\nMáy Giặt, sân phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k2, Nước: 150k/người\nDịch vụ: 200k/phòng\nNhận khách 0 xe (nếu có xe tự túc gữi cách nhà 2 căn giá 350k/ chiếc)\nGiá 8tr5 (Ngày 6/12 trống phòng ở lầu 2 - 201)\nXem phong sau ngay 15/11",
+  "images": [
+   "data/img/hd_d3e29e9e61a26cef.jpg",
+   "data/img/hd_fc8b0446d231a096.jpg",
+   "data/img/hd_055850d69edea3be.jpg",
+   "data/img/hd_fd6366c9c2b3151e.jpg",
+   "data/img/hd_5e97fdceaa24ed04.jpg",
+   "data/img/hd_a635d79581c6e3fe.jpg",
+   "data/img/hd_7416544206f8e0ee.jpg",
+   "data/img/hd_fd37079cc4aa107b.jpg",
+   "data/img/hd_751c93d79b799325.jpg",
+   "data/img/hd_12cb7f3125f1bfd0.jpg",
+   "data/img/hd_163c039aeae1040b.jpg",
+   "data/img/hd_0fff935378cdcf14.jpg",
+   "data/img/hd_ea406e1e7647b771.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_a7f9d1b958ac90c1.mp4",
+    "poster": "data/vid/v_a7f9d1b958ac90c1.jpg"
+   }
+  ],
+  "updated": 1794068949
+ },
+ {
+  "id": 335,
+  "price": 8800000,
+  "price_max": 8800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": "Phường Đakao",
+  "street": "4/13C Nguyễn Thị Minh Khai",
+  "type": "studio",
+  "layout": "Studio",
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [
+   "full nội thất",
+   "bếp",
+   "chỗ để xe"
+  ],
+  "description": "CĂN HỘ STUDIO XA BẾP MỚI KENG NGAY QUẬN †1\nĐịa chỉ: 4/13C Nguyễn Thị Minh Khai, P. ĐaKao, Q1\nMiiện ích\nđ? Toà có Thang máy, hầm xe, có máy giặt/ máy sấy + sân phơi. Phòng trang bị đầy đủ nội thất\n4ÿĐiện 4k/kw, Nước 100k/người\nDịch vụ: 200k / phòng (Free dọn phòng 1I/ tuần), free 2 xe\nGiá 8tr8 (Ngày 1/12 trống phòng ở lầu 3 - 303)",
+  "images": [
+   "data/img/hd_85fa4c8457239197.jpg",
+   "data/img/hd_3ce5bd41bcb4b681.jpg",
+   "data/img/hd_aa64931595729caa.jpg",
+   "data/img/hd_18af630f8bcc2db0.jpg",
+   "data/img/hd_e45f9174b78377d5.jpg",
+   "data/img/hd_1ca33ea45f2d6743.jpg",
+   "data/img/hd_6b233bdd30039dcb.jpg",
+   "data/img/hd_301d40d35b20610d.jpg"
+  ],
+  "videos": [],
+  "updated": 1794068876
+ },
+ {
+  "id": 334,
+  "price": 8500000,
+  "price_max": 14500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": "Phường Tân Định",
+  "street": "21 Đặng Dung",
+  "type": "studio",
+  "layout": "Studio",
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "tủ lạnh",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "KHAI TRƯƠNG CĂN HỘ MỚI 100% FULL NỘI THẤT QUẬN 1\nĐịa chỉ: 21 Đặng Dung, P. Tân Định, Q1\nTiên ích\nMáy giặt/ sấy riêng. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/ Tháng\nPhí xe: 100k/ chiếc\nGiá 14tr5 (Trống sẵn 1 phòng ngủ balcon mới 100% ở lầu 2 - 201)\nĐang setup nội thất\nGiá 14tr5 (Trống sẵn phòng Studio balcon ở lầu 2 - Mã 101)\nGiá 1itr (Trống sẵn 1 phòng ngủ - còn thiếu sofa, tủ lạnh 2 cánh)\ns Giá 8tr7 (Trống sẵn phòng Studio ở lầu 2 - Mã 102)\nGiá 8tr5 (Trống sẵn phòng Studio ở lầu 3 - Mã 202)",
+  "images": [
+   "data/img/hd_5dcd7efe9cf5b17c.jpg",
+   "data/img/hd_adcb5f29442742a1.jpg",
+   "data/img/hd_4c0f0f8990006f78.jpg",
+   "data/img/hd_c4fb4d6e7dda6545.jpg",
+   "data/img/hd_bc9567ff08e18dd3.jpg",
+   "data/img/hd_dccc45761f31e8dc.jpg",
+   "data/img/hd_80fa0d5207f206e0.jpg",
+   "data/img/hd_f978be949fcaca56.jpg",
+   "data/img/hd_fa8030dfc1216d1e.jpg",
+   "data/img/hd_0d90c40251edbb7d.jpg",
+   "data/img/hd_672805d072393d8c.jpg",
+   "data/img/hd_6f9382ed2dcaaa8e.jpg",
+   "data/img/hd_16d8d0b9d490aba1.jpg",
+   "data/img/hd_4810e822c4af682f.jpg",
+   "data/img/hd_caca87d352e2280a.jpg",
+   "data/img/4ec837100448d37b.jpg",
+   "data/img/b5692734e10a3f8a.jpg",
+   "data/img/11e50e94dcbc48ca.jpg",
+   "data/img/82510106a118fe58.jpg",
+   "data/img/0ce9d7edc25550d9.jpg",
+   "data/img/014c340cc97b1c0f.jpg",
+   "data/img/c2b1a6ff56703119.jpg",
+   "data/img/83e2b80626610b62.jpg",
+   "data/img/5c4a93499b82d251.jpg",
+   "data/img/631a349adac1b53c.jpg",
+   "data/img/95134fa6c67e62c4.jpg",
+   "data/img/cf502042051f54cb.jpg",
+   "data/img/43f508c336c32b48.jpg",
+   "data/img/b4a4d6fdb4f64cc5.jpg",
+   "data/img/879c62e00f4cd41c.jpg",
+   "data/img/09d00d577bc6d178.jpg",
+   "data/img/182b991b5ec3de40.jpg",
+   "data/img/d742ab25023c2370.jpg",
+   "data/img/aaf80d1415301581.jpg",
+   "data/img/997e5310fec50b63.jpg",
+   "data/img/2e4189d7d352abac.jpg",
+   "data/img/e6a360d4f7d96528.jpg",
+   "data/img/93da646d660a8551.jpg",
+   "data/img/3a1394578b9e88ea.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_d2e4faf34003a11a.mp4",
+    "poster": "data/vid/v_d2e4faf34003a11a.jpg"
+   }
+  ],
+  "updated": 1794068731
+ },
+ {
   "id": 327,
   "price": 12000000,
   "price_max": 12000000,
