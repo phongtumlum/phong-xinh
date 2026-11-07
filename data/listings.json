@@ -1,5 +1,103 @@
 [
  {
+  "id": 322,
+  "price": 5300000,
+  "price_max": 5300000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Võ Văn Tần",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 30/11",
+  "available_date": "2026-11-30",
+  "amenities": [
+   "máy giặt riêng",
+   "gác",
+   "full nội thất"
+  ],
+  "description": "À 30/11 TRỐNG ( Vui lòng hẹn trước)\nẾ› Đc: Võ Văn Tần, Quận 3\nsỹ Mã phòng P001- full nội thất, máy giặt riêng.\nGiá phòng 5TR3\nFree 2 xe ( KO NHẬN XE ĐIỆN)\nĐiện 4k\nNước 100k/ng\nf= Dv 200k/1 phòng\n( Quận 3 - 5.000 - 6.000 - Duplex )",
+  "images": [
+   "data/img/hd_e7e14de68770d7b6.jpg",
+   "data/img/hd_0aecf26a394f0e5e.jpg",
+   "data/img/hd_20fb7e69ed10928f.jpg",
+   "data/img/5d09aec5e6386fdb.jpg",
+   "data/img/02fae3b4c9ab3c92.jpg",
+   "data/img/ebddaadee2f17bc0.jpg"
+  ],
+  "videos": [],
+  "updated": 1794066917
+ },
+ {
+  "id": 320,
+  "price": 6400000,
+  "price_max": 6400000,
+  "price_deal": null,
+  "area": 30.0,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Nguyễn Tiểu La",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "gác"
+  ],
+  "description": "Đầu tháng T1 trống lại căn Nguyễn Tiểu La, q10, lầu 3 thang bộ, mã 301 giá 6tr4 30m2\nĐiện 4k\nNước 150k/ng\nDịch vụ 200k/p\nXe free 1xe, xe thứ 2 150k\nTối đa 2xe\nCọc 1.5t\n( Quận 10 - 6.000 - 7.000 - Duplex )",
+  "images": [
+   "data/img/hd_2b21bb5dba5f26d7.jpg",
+   "data/img/hd_48ea5cd9255c4abe.jpg",
+   "data/img/hd_48ea5cd9255c4abe.jpg",
+   "data/img/hd_ffc6b7e5a7ec0fa6.jpg",
+   "data/img/hd_88c9e58cd4b41897.jpg",
+   "data/img/hd_f18b7d9f48910b33.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_071513e4b6c0ecd5.mp4",
+    "poster": "data/vid/v_071513e4b6c0ecd5.jpg"
+   }
+  ],
+  "updated": 1794066848
+ },
+ {
+  "id": 316,
+  "price": 8500000,
+  "price_max": 8500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường 11",
+  "street": "Phạm Phú Thứ",
+  "type": "nhà nguyên căn",
+  "layout": "2PN",
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất"
+  ],
+  "description": "8tr5 ( trệt , 2pn, 1pk, 1pb. lối đi riêng, như nhà nguyên căn ) ( cuối tháng trống)\nPhạm Phú Thứ, P11, Tân Bình\nFull nội thất như ảnh\nĐiện: 4k\nNước: 100k/người\nđộ Dịch vụ: 200k/phòng\nXe : dựng trong nhà luôn\n( Tân Bình - 8.000 - 9.000 - 2PN)",
+  "images": [
+   "data/img/hd_449af9df83f68b9d.jpg",
+   "data/img/hd_c3e4c630b971d80f.jpg",
+   "data/img/hd_0778ca5b186fcc34.jpg",
+   "data/img/hd_4e4e88c2df0a6170.jpg",
+   "data/img/hd_40d466bfa9f49431.jpg",
+   "data/img/hd_fd659c4aa034b7eb.jpg",
+   "data/img/hd_009a29b5a81936e6.jpg"
+  ],
+  "videos": [],
+  "updated": 1794066662
+ },
+ {
   "id": 313,
   "price": 5500000,
   "price_max": 7000000,
