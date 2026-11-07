@@ -1,5 +1,41 @@
 [
  {
+  "id": 327,
+  "price": 12000000,
+  "price_max": 12000000,
+  "price_deal": null,
+  "area": 48.0,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "411 Lê Văn Sỹ",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "1PN ban công + 1PK rộng giá 12tr\nP102 - 48m2 - Lầu 1\n411 Lê Văn Sỹ, Quận 3",
+  "images": [
+   "data/img/hd_61e29c06765a94cc.jpg",
+   "data/img/hd_97320423dee0b205.jpg",
+   "data/img/hd_585733df8d9a3611.jpg",
+   "data/img/hd_fb53b868c5730153.jpg",
+   "data/img/hd_a7cc34566ef4a7f1.jpg",
+   "data/img/hd_1d70960439be7c5e.jpg",
+   "data/img/hd_3fe426310d9de4d0.jpg",
+   "data/img/hd_65e96fb363b5fbff.jpg",
+   "data/img/hd_deebb53393ea05c7.jpg",
+   "data/img/hd_d6d6db261f71148a.jpg",
+   "data/img/hd_1a6a29a7ca137056.jpg",
+   "data/img/hd_e0dbc447096c7930.jpg"
+  ],
+  "videos": [],
+  "updated": 1794067767
+ },
+ {
   "id": 322,
   "price": 5300000,
   "price_max": 5300000,
