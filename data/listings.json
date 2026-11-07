@@ -1,5 +1,39 @@
 [
  {
+  "id": 313,
+  "price": 5500000,
+  "price_max": 7000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Trần Văn Đang",
+  "type": "nhà nguyên căn",
+  "layout": "2PN",
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Trần Văn Đang, quận 3\n5tr5\n2pn giá 6tr nguyên căn |\n7tr - 1pn - q3 siêu to",
+  "images": [
+   "data/img/hd_60bbea427ed43440.jpg",
+   "data/img/hd_389d300f12c2e543.jpg",
+   "data/img/hd_5937d5e3da90a103.jpg",
+   "data/img/hd_5937d5e3da90a103.jpg",
+   "data/img/hd_34e65efb03ce39ec.jpg",
+   "data/img/hd_a86b10fb76f78686.jpg",
+   "data/img/hd_df8520d47018df28.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_aff7037a99503682.mp4",
+    "poster": "data/vid/v_aff7037a99503682.jpg"
+   }
+  ],
+  "updated": 1794066254
+ },
+ {
   "id": 307,
   "price": 5500000,
   "price_max": 5500000,
