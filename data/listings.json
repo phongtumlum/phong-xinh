@@ -1,5 +1,134 @@
 [
  {
+  "id": 377,
+  "price": 5300000,
+  "price_max": 6200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "80/67 Hoàng Hoa Thám",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "gác",
+   "full nội thất",
+   "máy lạnh",
+   "tủ lạnh",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ DUPLEX/ GÁC FULL NỘI THẤT Q. BÌNH THẠNH\nĐịa chỉ: 80/67 Hoàng Hoa Thám, Bình Thạnh\nTiên ích\nMáy giặt + sân phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/ Tháng x 2 người (người T3 + 100k). Sấy: 50k/ ngừoi\nPhí xe: Free 1-2 xe\nGiá 6tr2 (Trống sẵn 2 phòng đang setup ở lầu 1 & lầu 2 - Mã 04)\nNội thất có sẵn: giường nệm, tủ đồ, tủ lạnh, máy lạnh, bàn ghế\nGiá 5tr3 (Trống sẵn phòng đang setup ở lầu 1 - Mã 02)\nNội thất có sẵn: giường nệm, tủ đồ, tủ lạnh, máy lạnh, bàn ghế",
+  "images": [
+   "data/img/hd_e577318f8cb7e49a.jpg",
+   "data/img/hd_5b3dcd1a36e29a45.jpg",
+   "data/img/hd_a3b012a55c67bab7.jpg",
+   "data/img/hd_9aa828e70828efad.jpg",
+   "data/img/hd_29ae38218ef9151a.jpg",
+   "data/img/hd_46939634c0f1b4a5.jpg",
+   "data/img/hd_6f500fbc81e77e54.jpg",
+   "data/img/hd_0fd62c7851c2a39f.jpg",
+   "data/img/hd_c34a57744c1a0c0b.jpg",
+   "data/img/hd_a6b840719486fbd6.jpg",
+   "data/img/hd_9a5c0220e8e8c993.jpg",
+   "data/img/hd_fd1533e0b3374d7d.jpg",
+   "data/img/hd_65613814b68b19bf.jpg",
+   "data/img/hd_cf4d0343b2f9aa07.jpg",
+   "data/img/hd_d16e5f692bf4bf40.jpg",
+   "data/img/413e705b11c628a9.jpg",
+   "data/img/c2cda466823811eb.jpg",
+   "data/img/0d1d73febeae4265.jpg",
+   "data/img/d2b9f2d449a70452.jpg",
+   "data/img/78ce60b84633d754.jpg",
+   "data/img/b30ed8978da91ba7.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_3098105fa0ca85a8.mp4",
+    "poster": "data/vid/v_3098105fa0ca85a8.jpg"
+   }
+  ],
+  "updated": 1794180675
+ },
+ {
+  "id": 376,
+  "price": 5500000,
+  "price_max": 5500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "413 Nguyễn Kiệm",
+  "type": "studio",
+  "layout": "Studio",
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [],
+  "description": "CĂN HỘ STUDIO ĐẸP NGAY PHÚ NHUẬN\nElĐia chỉ: 413 Nguyễn Kiệm, Q. Phú Nhuận (hẻm thông Hoàng Văn Thụ)\nĐặc điểm: ấẾ“ Khu vực yên tĩnh vị trị trung tâm, gần chợ siêu thị, có Thang máy + khoá thẻ từ\nĐiện 4k/kwh, Nước 150k/ người\ntf~ PDV: 200k/ phòng, Free 2 xe\nGiá 5tr5 (trống sẵn phòng ở lầu 1 - 102)\nGiá 5tr5 (Ngày 30/11 trống phòng ở lầu 1 - 102)",
+  "images": [
+   "data/img/hd_ff1f908d68ad0280.jpg",
+   "data/img/hd_c983c3cd10c772b7.jpg",
+   "data/img/hd_52e85bc7472f3e88.jpg",
+   "data/img/hd_9ce63bdf05ee2991.jpg",
+   "data/img/hd_28f912d8af8eb44d.jpg",
+   "data/img/hd_358e35fa876d8411.jpg",
+   "data/img/hd_4e575ce119148254.jpg",
+   "data/img/hd_d3d1af6e6e6626fa.jpg",
+   "data/img/hd_7326def3d28c5872.jpg",
+   "data/img/hd_768a21fafa39632d.jpg",
+   "data/img/hd_2e611be488212022.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_bf95079b432d0fa9.mp4",
+    "poster": "data/vid/v_bf95079b432d0fa9.jpg"
+   }
+  ],
+  "updated": 1794180550
+ },
+ {
+  "id": 375,
+  "price": 4600000,
+  "price_max": 4600000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường 2",
+  "street": "B22/33 Bạch Đằng",
+  "type": "studio",
+  "layout": "Studio",
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bếp",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "STUDIO TÁCH BẾP FULL NỘI THẤT Q. TÂN BÌNH\nAddress: B22/33 Bạch Đằng, P2, Tân Bình\nTiên ích\nMáy giặt + sân phơi. Thang Máy\nPhòng trang bị full nội thất. Khu vực an ninh, khoá vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 150k/phòng\nPhí xe: free 2 xe\nGiá 4tr6 (Trống sẵn phòng ở lầu 2 - 204)",
+  "images": [
+   "data/img/hd_9176e6aaefa2bc37.jpg",
+   "data/img/hd_be6f0c62c3673c61.jpg",
+   "data/img/hd_2f0e365dc01cc83a.jpg",
+   "data/img/hd_b7720b92f870085f.jpg",
+   "data/img/hd_3e5101372a4bbbdb.jpg",
+   "data/img/hd_491a10345a22d4a1.jpg",
+   "data/img/hd_d9d0a71e07eb42fc.jpg",
+   "data/img/hd_b6f880f7b15011bc.jpg",
+   "data/img/hd_fac802c96dfd74e1.jpg"
+  ],
+  "videos": [],
+  "updated": 1794180462
+ },
+ {
   "id": 374,
   "price": 7000000,
   "price_max": 7200000,
