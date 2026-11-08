@@ -1,5 +1,47 @@
 [
  {
+  "id": 357,
+  "price": 5500000,
+  "price_max": 5500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 22",
+  "street": "49/24/ Nguyễn Hữu Cảnh",
+  "type": "studio",
+  "layout": "Studio",
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO MỚI FULL NỘI THẤT Q. BÌNH THẠNH\nAddress: 49/24/ Nguyễn Hữu Cảnh, P22, Q. Bình Thạnh (Giáp Q1)\nTiên ích\nMáy giặt + sấy. Thang bộ\nPhòng trang bị full nội thất mới. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: free max 2 xe\nGiá fix 5tr5 (Trống sẵn phòng ở Trệt - G01)\nGiá fix 5tr5 (Trống sẵn phòng ở lầu 2 - 202)\nTin nhắn đã được thu hồi",
+  "images": [
+   "data/img/36157fd867bac9a9.jpg",
+   "data/img/3d2a1fe1ba6b37dc.jpg",
+   "data/img/4bb8085828e5f1f4.jpg",
+   "data/img/5cf4251c6fe80819.jpg",
+   "data/img/207822b93b93a88c.jpg",
+   "data/img/5e489c2c0ddc7736.jpg",
+   "data/img/c12fd979e58f1c6c.jpg",
+   "data/img/1e82b4c40f602c7a.jpg",
+   "data/img/957f772c641e2e60.jpg",
+   "data/img/d29d136d0a8b88e0.jpg",
+   "data/img/f23f399a59119e93.jpg",
+   "data/img/272cb557d657fe44.jpg",
+   "data/img/772c26843d9e14ca.jpg",
+   "data/img/e7499bdee968fd31.jpg",
+   "data/img/a64d0c4b2c481975.jpg",
+   "data/img/00c09dc2f65cdd47.jpg"
+  ],
+  "videos": [],
+  "updated": 1794151019
+ },
+ {
   "id": 356,
   "price": 8000000,
   "price_max": 8000000,
