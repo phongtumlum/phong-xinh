@@ -1,5 +1,74 @@
 [
  {
+  "id": 368,
+  "price": 8500000,
+  "price_max": 8500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "368/6H Lê Hồng Phong",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "TRỐNG CĂN 1 PHÒNG NGỦ FULL NỘI THẤT ĐẸP QUẬN 10\nAddress: 368/6H Lê Hồng Phong, Q10\nTiên ích\nMáy giặt + sân phơi. Thang Máy\n1PN trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: Free 2 xe\nGiá 8tr5 (trống phòng lầu lửng sáng thoáng - Có lối đi riêng)\nCó 2 giường nếu ko dùng có thể gỡ 1 giường ra",
+  "images": [
+   "data/img/hd_86c592ac29613119.jpg",
+   "data/img/hd_a76e4670b00c62fe.jpg",
+   "data/img/hd_848edc37b5c87f9d.jpg",
+   "data/img/hd_29d42146ee0cfa83.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_8715ae580685124b.mp4",
+    "poster": "data/vid/v_8715ae580685124b.jpg"
+   }
+  ],
+  "updated": 1794152850
+ },
+ {
+  "id": 367,
+  "price": 7900000,
+  "price_max": 7900000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": "Phường 14",
+  "street": "7B/105 Thành Thái",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [
+   "chỗ để xe"
+  ],
+  "description": "CĂN HỘ 1 PHÒNG NGỦ BALCON ĐẸP NGAY QUẬN 10\nETlĐia chỉ: 7B/105 Thành Thái, P14, Q10\nĐặc điểm:#? Nhà ra vào thẻ từ, có thang máy, hầm xe rộng, hẻm xe hơi. Giặt/ sấy chung + sân phơi\nĐiện 4k/kwh, Nước 100k/người\nPDV: 200k/ phòng, xe: 150k/c\nGiá 7tr9 (Ngày 1/12 trống phòng ở lầu 3 - 301)",
+  "images": [
+   "data/img/hd_d996a4b2822e99ce.jpg",
+   "data/img/hd_f8c3dfcb042741f4.jpg",
+   "data/img/hd_9b6a5e273ce26268.jpg",
+   "data/img/hd_f99ff404413f20b4.jpg",
+   "data/img/hd_601547d94ef44a16.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_55e22b86aa1ded8a.mp4",
+    "poster": "data/vid/v_55e22b86aa1ded8a.jpg"
+   }
+  ],
+  "updated": 1794152792
+ },
+ {
   "id": 357,
   "price": 5500000,
   "price_max": 5500000,
