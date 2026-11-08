@@ -1,5 +1,134 @@
 [
  {
+  "id": 382,
+  "price": 7500000,
+  "price_max": 7500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": "Phường Tân Sơn",
+  "street": "136 Lê Minh Xuân",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "ban công",
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp"
+  ],
+  "description": "Địa chỉ: 136 Lê Minh Xuân, P. Tân Sơn Nhất (ngay Lý Thường Kiệt, Bắc Hải Quận 10)\nChi phí\nĐiện 3.800/kwh\nNước: 100.000đ/người\nDịch vụ: 200.000đ/tháng\nPhòng ở được tối đa 4 người\nXe: free 2 chiếc\n1-2 chiếc còn lại muốn free thì để sang nhà khác (cách 3 căn nhà)\nNội thất: 2 máy lạnh, 2 giường nệm, tủ lạnh, máy giặt riêng, kệ bếp trên dưới\nCó máy sấy chung cho các phòng mặt sau\n1PN 7tr5 ban công tách bếp",
+  "images": [
+   "data/img/hd_bb3b41ecb2a2465e.jpg",
+   "data/img/hd_0e0018a3eb833ee8.jpg",
+   "data/img/hd_d5a5e456b9d69b8e.jpg",
+   "data/img/hd_f0daa2059804dc3b.jpg",
+   "data/img/hd_eca24879aa4a13f1.jpg",
+   "data/img/hd_cbe8a30a1937b2ee.jpg",
+   "data/img/hd_18fd5cd539931d72.jpg",
+   "data/img/hd_c727a731d8566d2a.jpg",
+   "data/img/hd_750576b07e055c41.jpg",
+   "data/img/hd_cebc6f34c3ff3f8e.jpg",
+   "data/img/hd_63e3b4fb99043d5d.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_f9424dbdc59f2a51.mp4",
+    "poster": "data/vid/v_f9424dbdc59f2a51.jpg"
+   }
+  ],
+  "updated": 1794181737
+ },
+ {
+  "id": 379,
+  "price": 7500000,
+  "price_max": 7500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "86 Thích Quảng Đức",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "86 Thích Quảng Đức, Phú Nhuận (F5-QPN)\nQuy mô: thang máy\nĐiện 4k, Nước 100k/người\nDvu 200k/tháng, Free 2 xe\n1PN 7tr5",
+  "images": [
+   "data/img/hd_5017dd4c3c8d92df.jpg",
+   "data/img/hd_13bab463f20b6b70.jpg",
+   "data/img/hd_430f1018f4e30ae7.jpg",
+   "data/img/hd_ad22d471d7b60cda.jpg",
+   "data/img/hd_e729982bcb4c28ad.jpg",
+   "data/img/hd_c7e7a1b213325610.jpg",
+   "data/img/hd_d6321e9974707ff5.jpg",
+   "data/img/hd_623198bc58cc4c0b.jpg",
+   "data/img/hd_09565c26f143e848.jpg",
+   "data/img/hd_93b1f1871d959bca.jpg",
+   "data/img/hd_e8534cd16d16f189.jpg",
+   "data/img/hd_61e4bfa372483bf1.jpg",
+   "data/img/hd_5a8d7184c2013f4c.jpg",
+   "data/img/hd_a4a8056e1cca159e.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_2ea9e922c2e05a54.mp4",
+    "poster": "data/vid/v_2ea9e922c2e05a54.jpg"
+   }
+  ],
+  "updated": 1794181366
+ },
+ {
+  "id": 378,
+  "price": 8000000,
+  "price_max": 8500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "127 Hoàng Văn Thụ",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "Tin nhắn chưa đọc\n8tr5 ban công, cửa số. Dự án mới\n127 Hoàng Văn Thụ, Phú Nhuận (F8-QPN)\nThang bộ\nMáy giặt sấy mỗi tầng 2\nXe đậu trệt trước\nĐiện 4k, Nước 100k/người\nDvu 200k/phòng, Free 1 xe, Xe t2 +100k\n2PN 8tr",
+  "images": [
+   "data/img/hd_ef459417d200836b.jpg",
+   "data/img/hd_4c721ffc23b99334.jpg",
+   "data/img/hd_1b76805e98a71a28.jpg",
+   "data/img/hd_a86971f1f0b22cbe.jpg",
+   "data/img/hd_041dac5f225ca0a9.jpg",
+   "data/img/hd_e9941502e0b0ff98.jpg",
+   "data/img/hd_815df3b3e4bd3660.jpg",
+   "data/img/hd_431371e11117ccd9.jpg",
+   "data/img/hd_d5c0607578c237f7.jpg",
+   "data/img/hd_8ff409e94f48c844.jpg",
+   "data/img/hd_d1c7c1b687f93073.jpg",
+   "data/img/hd_37a594541b4a7979.jpg",
+   "data/img/hd_016aeff84b42c6c3.jpg",
+   "data/img/hd_fc2f77df920b544b.jpg",
+   "data/img/hd_c04402388f23d55f.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_28daa86b214960ca.mp4",
+    "poster": "data/vid/v_28daa86b214960ca.jpg"
+   }
+  ],
+  "updated": 1794181225
+ },
+ {
   "id": 377,
   "price": 5300000,
   "price_max": 6200000,
