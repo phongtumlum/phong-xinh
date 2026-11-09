@@ -1,5 +1,282 @@
 [
  {
+  "id": 432,
+  "price": 10500000,
+  "price_max": 10500000,
+  "price_deal": null,
+  "area": 45.0,
+  "district": "Tân Bình",
+  "ward": "Phường 2",
+  "street": "11F Bạch Đằng",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "TRỐNG 2 PHÒNG NGỦ 2WC 45M2 SIÊU ĐẸP Q. TÂN BÌNH\nAddress: 11F Bạch Đằng, P2, Tân Bình (Khu sân bay)\nTiện ích\nMáy giặt + sấy. Thang MÁY\n2PN trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 150k/ Tháng\nPhí xe: free 3 xe\nGiá 10tr5 (Trống sẵn 2 phòng ngủ 2wc ở lầu 4 - P08)",
+  "images": [
+   "data/img/hd_9835b72cb90376d5.jpg",
+   "data/img/hd_b109af05c0c65572.jpg",
+   "data/img/hd_4fb7ef6d367e795c.jpg",
+   "data/img/hd_3c1e21a3f9fe7a56.jpg",
+   "data/img/hd_b196ba9a8a5bb998.jpg",
+   "data/img/hd_710efc15a687adcb.jpg",
+   "data/img/hd_6d50d3b0fa3f7ff3.jpg",
+   "data/img/hd_9288dca1a72680cc.jpg",
+   "data/img/hd_57b5cd59e83b60bb.jpg",
+   "data/img/hd_1d519201b07a5ecb.jpg",
+   "data/img/hd_fa62eb582dd58722.jpg",
+   "data/img/hd_4397d5d38fcec951.jpg",
+   "data/img/hd_6e795e51ffc85d63.jpg",
+   "data/img/hd_41492a4e5885cc42.jpg",
+   "data/img/hd_251fdf2829a0792c.jpg",
+   "data/img/0c14aa2b81a1d88c.jpg",
+   "data/img/93c79e680a7c0e56.jpg",
+   "data/img/77adb63154639a6c.jpg"
+  ],
+  "videos": [],
+  "updated": 1794240410
+ },
+ {
+  "id": 431,
+  "price": 15000000,
+  "price_max": 35000000,
+  "price_deal": null,
+  "area": 20.0,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "120 TRÀẦN HƯNG ĐẠO",
+  "type": "nhà nguyên căn",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất"
+  ],
+  "description": "NHÀ NGUYÊN CĂN FULL NỘI THẤT SIÊU ĐẸP QUẬN 1\nĐịa chỉ: 120 TRÀẦN HƯNG ĐẠO, Q1 (PHỐ TÂY BÙI VIỆN)\nTiên ích\nThang bộ. Cấu trúc: 1 Trệt 2 lầu 1 sân thượng, 2 phòng ngủ 3wc\nk Hẻm 3m thẳng 1 trục, cách MT 20m, thông Bùi Viện - Cống Quỳnh - trung tâm Q†\nĐiện, nước giá nhà nước\nGiá 15tr (Trống sẵn nhà mới xây 100% chưa khai thác)\nCó cho thuê lại làm airbnb tự khai thác tối đa lợi nhuận trên 35tr/ tháng",
+  "images": [
+   "data/img/hd_3fa5d5fffb83bdcb.jpg",
+   "data/img/hd_40c7d0690ef75007.jpg",
+   "data/img/hd_0e1b5b79b42f7826.jpg",
+   "data/img/hd_0683ea35b13e1b11.jpg",
+   "data/img/hd_5671247931d33666.jpg",
+   "data/img/hd_31ccb7522445b911.jpg",
+   "data/img/hd_c732d24669f6bf8a.jpg",
+   "data/img/hd_0b48f7eb68e78ab1.jpg",
+   "data/img/hd_b45adbfb72647b85.jpg",
+   "data/img/hd_584da7b6dd01e5e9.jpg",
+   "data/img/hd_a04ec87e4f68333d.jpg",
+   "data/img/hd_a4b5a382915274c1.jpg",
+   "data/img/hd_af4ce99fc525b893.jpg",
+   "data/img/hd_b01ea2916ab923d5.jpg",
+   "data/img/hd_1de915c1391bfe91.jpg",
+   "data/img/77c0aa4e0ce11912.jpg",
+   "data/img/7b9186cf5f048f1f.jpg",
+   "data/img/70b5a58d78628eac.jpg",
+   "data/img/4ab84998da50062c.jpg",
+   "data/img/ee0a75a98f191c79.jpg",
+   "data/img/0af877078ab7c83d.jpg",
+   "data/img/34e15d211d382833.jpg",
+   "data/img/79dd046439b5fe47.jpg",
+   "data/img/a97192afb23362e0.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_9d480e9c21f3021f.mp4",
+    "poster": "data/vid/v_9d480e9c21f3021f.jpg"
+   }
+  ],
+  "updated": 1794240250
+ },
+ {
+  "id": 430,
+  "price": 26000000,
+  "price_max": 26000000,
+  "price_deal": null,
+  "area": 70.0,
+  "district": "Quận 1",
+  "ward": "Phường Dakao",
+  "street": "32D Nguyễn Văn Thủ",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 12/12",
+  "available_date": "2026-12-12",
+  "amenities": [
+   "chỗ để xe",
+   "nuôi thú cưng",
+   "bảo vệ"
+  ],
+  "description": "Căn Hộ 2 PHÒNG NGỦ 1WC SMART HOME SANG TRỌNG NGAY QUẬN 1\nĐia chỉ: 32D Nguyễn Văn Thủ, P. Dakao, Quận 1\nĐặc điểm\nTòa nhà có thang máy, bãi xe ô tô, sảnh chờ, lễ tân, bảo vệ 24/7\nFree dọn phòng 3 lần/ tuần, giặt sấy, thay dra giường 1 lần/ tuần\nMu\nĐiện 4k/kwh, còn lại free hết\n3KO NUÔI PET\nGiá 26tr (Ngày 12/12 trống 2 phòng 70m2 ở lầu 5 - Mã 01)\nMã 502 đẹp nhất của toà",
+  "images": [
+   "data/img/hd_3bed8bb079399453.jpg",
+   "data/img/hd_011a5a0bbb21fef1.jpg",
+   "data/img/hd_f413cd93705595e4.jpg",
+   "data/img/hd_a1f4e3671ff9374a.jpg",
+   "data/img/hd_9f6122fba572a17e.jpg",
+   "data/img/hd_e6cf9a43ed4d5bfe.jpg",
+   "data/img/hd_5023e2bef5d961b2.jpg",
+   "data/img/hd_fa9d32ef9df5f31f.jpg",
+   "data/img/hd_98584aecad9aa69b.jpg",
+   "data/img/hd_8f878aae26fdb86d.jpg",
+   "data/img/hd_55c0fdb05c132e15.jpg",
+   "data/img/hd_ea9ee107093d3b39.jpg",
+   "data/img/hd_4e8a373246787d41.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_329319540b27a58f.mp4",
+    "poster": "data/vid/v_329319540b27a58f.jpg"
+   }
+  ],
+  "updated": 1794240110
+ },
+ {
+  "id": 429,
+  "price": 10000000,
+  "price_max": 10000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": null,
+  "street": "99/46 Nguyễn Thái Bình",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "2 PHÒNG NGỦ RIÊNG BIỆT 1 LẦU MỚI SETUP FULL NỘI THẤT TÂN BÌNH\nĐịa chỉ: 99/46 Nguyễn Thái Bình, Tân Bình (gần cv Hoàng Văn Thụ)\nTiên ích\nMáy giặt + sân phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/ Tháng\nFree 2 xe (xe thứ 3 +150k)\nGiá 10tr (Trống sẵn 2 phòng ngủ có 2 ban công siêu to ở lầu 3 - 301)",
+  "images": [
+   "data/img/hd_b2f29233de8d0393.jpg",
+   "data/img/hd_17f04ce717447ce3.jpg",
+   "data/img/hd_abdb0f5da6fcaca3.jpg",
+   "data/img/hd_faf019a3232a6c45.jpg",
+   "data/img/hd_37815205e0133971.jpg",
+   "data/img/hd_7c263e86541a70d6.jpg",
+   "data/img/hd_765f0d33570172da.jpg",
+   "data/img/hd_8b1dacf995f34212.jpg",
+   "data/img/hd_4cf0fd9ab9328847.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_2c86d6d6e6274901.mp4",
+    "poster": "data/vid/v_2c86d6d6e6274901.jpg"
+   }
+  ],
+  "updated": 1794239999
+ },
+ {
+  "id": 428,
+  "price": 9800000,
+  "price_max": 9800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "19 Trần Bình Trọng",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "chỗ để xe",
+   "nuôi thú cưng",
+   "vân tay"
+  ],
+  "description": "2 2 PHÒNG NGỦ MÁY GIẶT RIÊNG MỚI 100% Q. BÌNH THẠNH\nAddress: 19 Trần Bình Trọng, Q. Bình Thạnh\nĐặc điểm: ẤẾ“ phòng mới full nội thất, Có máy giặt riêng, cho nuôi Pet. Hầm xe, thang máy, ra vào Vân Tay\nĐiện 4k/kWh, Nước 100k/ người\nDịch vụ 300k/ Tháng, FREE 2 xe\nGiá 9tr8 (Trống sẵn phòng)",
+  "images": [
+   "data/img/hd_7887acc745b93665.jpg",
+   "data/img/hd_44a0d62ef00675f1.jpg",
+   "data/img/hd_63887e5848cb7395.jpg",
+   "data/img/hd_1af0d649eabb3a3a.jpg",
+   "data/img/hd_cf1686c1224d6daa.jpg",
+   "data/img/hd_df12f6e30dd4b016.jpg",
+   "data/img/hd_cd199acafa2bfea2.jpg",
+   "data/img/hd_927e1578a7b508b8.jpg",
+   "data/img/hd_d2092a8556b16dcb.jpg",
+   "data/img/hd_356541937b35e1d7.jpg",
+   "data/img/hd_36b0175d2f24488a.jpg",
+   "data/img/hd_0fef4b74e080b396.jpg",
+   "data/img/hd_0ff06269129a42b7.jpg",
+   "data/img/hd_826188f7ea82608a.jpg"
+  ],
+  "videos": [],
+  "updated": 1794239879
+ },
+ {
+  "id": 427,
+  "price": 14500000,
+  "price_max": 14500000,
+  "price_deal": 14000000,
+  "area": null,
+  "district": "Quận 4",
+  "ward": null,
+  "street": "150 Tôn Đản",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "Tin nhắn chưa đọc\nBei\nCĂN HỘ 2 PHÒNG NGỦ CỬA SỐ FULL NỘI THẤT MỚI QUẬN 4\nAddress: 150 Tôn Đản, Q4 (giáp Quận 1, Quận 7)\nĐặc điểm\nŒ Khu vực an ninh, ra vào vân tay, thang Máy. Có máy giặt + sân phơi\n2PN + 1 phòng khách trang bị đầy đủ nội thất mới hiện đại, tiện nghi\nĐiện 4k/kwh, Nước 150k/ người\nPDV 200k/ Tháng. Xe 100k/ chiếc\nGiá 14tr5 kí HĐ 1 năm giảm còn 14tr\n(Trống sẵn phòng ở lầu 1 - 101)",
+  "images": [
+   "data/img/hd_9380c8cef48a5636.jpg",
+   "data/img/hd_c8888da1f6b5d3e3.jpg",
+   "data/img/hd_47b74eaca42f79d0.jpg",
+   "data/img/hd_1f6f0e3ff557d46d.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_1b05ed82d920f05d.mp4",
+    "poster": "data/vid/v_1b05ed82d920f05d.jpg"
+   }
+  ],
+  "updated": 1794239826
+ },
+ {
   "id": 426,
   "price": 7700000,
   "price_max": 7900000,
