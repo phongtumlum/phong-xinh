@@ -1,5 +1,81 @@
 [
  {
+  "id": 403,
+  "price": 5400000,
+  "price_max": 5400000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "176/15 Đặng Văn Ngữ",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt chung",
+   "gác",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO FULL NỘI THẤT Q. PHÚ NHUẬN\nAddress: 176/15 Đặng Văn Ngữ, Q.Phú nhuận\nTiên ích\nthang bộ, máy giặt chung free\nPhòng trang bị full nội thất có gác tiện nghi. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 150k/ phòng\nPhí xe: free tối đa 2 xe\nGiá 5tr4 (Trống sẵn phòng ở lầu 2 - 202)",
+  "images": [
+   "data/img/hd_b2052a694e8ed7c5.jpg",
+   "data/img/hd_a5b6e56efbf05cae.jpg",
+   "data/img/hd_ff8b2758d6462e86.jpg",
+   "data/img/hd_bfab7310a368dfac.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_ec84279620c470d6.mp4",
+    "poster": "data/vid/v_ec84279620c470d6.jpg"
+   }
+  ],
+  "updated": 1794237449
+ },
+ {
+  "id": 402,
+  "price": 6200000,
+  "price_max": 6200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": null,
+  "street": "99/46 Nguyễn Thái Bình",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO MỚI SETUP FULL NỘI THẤT Q. TÂN BÌNH\nĐịa chỉ: 99/46 Nguyễn Thái Bình, Tân Bình (gần cv Hoàng Văn Thụ)\nTiên ích\nMáy giặt + sân phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/ Tháng\nFree 2 xe (xe thứ 3 +150k)\nGiá 6tr2 (Trống sẵn phòng ở Trệt có sân sau thoáng - G02)",
+  "images": [
+   "data/img/hd_4a0c3e928c78ecdd.jpg",
+   "data/img/hd_a0aac8083ea9a184.jpg",
+   "data/img/hd_ff5da1dea6a4414f.jpg",
+   "data/img/hd_a2f1d1fdb6eb9c7c.jpg",
+   "data/img/hd_97a6e9ed301bb487.jpg",
+   "data/img/hd_141dae5e2c2f4017.jpg",
+   "data/img/hd_a7ec9f4b1b5aca4a.jpg"
+  ],
+  "videos": [],
+  "updated": 1794237386
+ },
+ {
   "id": 400,
   "price": 10000000,
   "price_max": 10000000,
