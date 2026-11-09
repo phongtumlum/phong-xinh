@@ -1,5 +1,222 @@
 [
  {
+  "id": 400,
+  "price": 10000000,
+  "price_max": 10000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 13",
+  "street": "270/6 Nguyễn Xí",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "KHAI TRƯƠNG CĂN HỘ FULL NỘI THẤT SIÊU ĐẸP BÌNH THANH\nAddress: 270/6 Nguyễn Xí, P13, Bình Thạnh\nTiên ích\nMáy Giặt Riêng/ Sấy. Thang Máy\n1PN trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: 100k/ chiếc\nGiá fix sâu 10tr (Trống sẵn phòng balcon ở lầu 2 - 202)",
+  "images": [
+   "data/img/hd_c1cca186865f5ac0.jpg",
+   "data/img/hd_c7e74506b847a6cc.jpg",
+   "data/img/hd_2f97e53f9b75075e.jpg",
+   "data/img/hd_32e0021e3b3ca13c.jpg",
+   "data/img/hd_114ce6f5ad43254b.jpg",
+   "data/img/hd_d1ae31020e31895d.jpg",
+   "data/img/hd_d1ae31020e31895d.jpg",
+   "data/img/hd_cb2ab9a9d8514747.jpg",
+   "data/img/hd_573893bf26e0382b.jpg",
+   "data/img/hd_e5769856dafabf85.jpg",
+   "data/img/hd_17f7c12feb457e59.jpg",
+   "data/img/hd_ac196aa8086d8cbd.jpg",
+   "data/img/hd_7c987b023ce1b0a8.jpg",
+   "data/img/hd_0819fec2848be8e8.jpg",
+   "data/img/hd_c279e226a92f1e29.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_b5538b54455336ae.mp4",
+    "poster": "data/vid/v_b5538b54455336ae.jpg"
+   }
+  ],
+  "updated": 1794237078
+ },
+ {
+  "id": 399,
+  "price": 11500000,
+  "price_max": 11500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": null,
+  "street": "343 Nguyễn Trọng Tuyển",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "KHAI TRƯƠNG CĂN HỘ STUDIO MỚI XÂY FULL NỘI THẤT Q. TÂN BÌNH\nAddress: 343 Nguyễn Trọng Tuyển, Tân Bình (giáp Phú Nhuận)\nTiên ích\nMáy Giặt riêng. Thang Máy\nPhòng trang bị full nội thất. Khu vực an ninh, vân tay, bảo vệ 24/7, lễ tân\nFree dọn phòng 2 lần/ tuần, nhận xe điện. 3 KO NUỒI PET\nĐiện: 4k/kwh, Nước: 150k/người\nPDV: 200k/phòng. Xe 100k/ chiếc\nGiá 11tr5 (Ngày 1/12 trống phòng balcon - Trục 02)",
+  "images": [
+   "data/img/hd_fd95e9024b2dcf38.jpg",
+   "data/img/hd_278a108fcff3eb2a.jpg",
+   "data/img/hd_489e8c96b980ab53.jpg",
+   "data/img/hd_fcac116dbef6983e.jpg",
+   "data/img/hd_700522a61b690abe.jpg",
+   "data/img/hd_e672d75f0a50693d.jpg",
+   "data/img/hd_24c35f52122ad689.jpg",
+   "data/img/hd_4a95d5735fe4bb0f.jpg",
+   "data/img/hd_1f9431e4fc217756.jpg",
+   "data/img/hd_f87e6a3f48b01d23.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_d459ea186c207e8f.mp4",
+    "poster": "data/vid/v_d459ea186c207e8f.jpg"
+   }
+  ],
+  "updated": 1794236967
+ },
+ {
+  "id": 398,
+  "price": 7200000,
+  "price_max": 7200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": "Phường 2",
+  "street": "70 Hoa Hồng",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO MỚI SETUP FULL NỘI THẤT Q. PHÚ NHUẬN\nAddress: 70 Hoa Hồng, P2, Phú Nhuận\nTiên ích\nMáy giặt + sấy. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: free 2 xe\nGiá 7tr2 (Trống sẵn phòng balcon ở lầu 3 - 301)",
+  "images": [
+   "data/img/hd_75aa30c14b46c1b0.jpg",
+   "data/img/hd_5af3a80dd5591a34.jpg",
+   "data/img/hd_29d24cca9ade7974.jpg",
+   "data/img/hd_641d25464fecca02.jpg",
+   "data/img/hd_d1ea511400ec50c6.jpg",
+   "data/img/hd_e3a1189c717af601.jpg",
+   "data/img/hd_9fde8e11a670af55.jpg",
+   "data/img/hd_42a7fe1ccba9b566.jpg",
+   "data/img/hd_c65277a808a36fc1.jpg",
+   "data/img/hd_f9ae8aac8d23c945.jpg",
+   "data/img/hd_0e03f3e49dfa0f25.jpg"
+  ],
+  "videos": [],
+  "updated": 1794236871
+ },
+ {
+  "id": 397,
+  "price": 6300000,
+  "price_max": 6300000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "578/72 Lê Quang Định",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO FULL NỘI THẤT Q. BÌNH THẠNH\nAddress: 578/72 Lê Quang định, Bình Thạnh\nTiên ích\nMáy giặt riêng. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: Free 2 xe\nGiá 6tr3 (trống phòng ở lầu 1 - 103)",
+  "images": [
+   "data/img/hd_abb62198303d1366.jpg",
+   "data/img/hd_a5920439e83c30f6.jpg",
+   "data/img/hd_fe63102e962d8346.jpg",
+   "data/img/hd_cccaf19ccccfbdf3.jpg",
+   "data/img/hd_273fdbd09782851a.jpg",
+   "data/img/hd_4cbfb15a9b716582.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_92d92bb85a71b2cf.mp4",
+    "poster": "data/vid/v_92d92bb85a71b2cf.jpg"
+   }
+  ],
+  "updated": 1794236785
+ },
+ {
+  "id": 395,
+  "price": 9000000,
+  "price_max": 9000000,
+  "price_deal": null,
+  "area": 37.0,
+  "district": "Tân Bình",
+  "ward": "Phường 2",
+  "street": "159 Bạch Đằng",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "KHAI TRƯƠNG CĂN HỘ MỚI FULL NỘI THẤT SIÊU ĐẸP Q. TÂN BÌNH\nAddress: 159 Bạch Đằng, P2, Q.Tân Bình (khu sân bay)\nTiên ích\nMáy Giặt riêng. Thang máy\n1PN + 1 phòng khách trang bị full nội thất. Khu vực an ninh, khoá vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 150k/người\nPhí xe: free 2 xe, xe t3 +100k\nxv Cọc 1,5 tháng\nGiá 9tr (Trống phòng Studio balcon 37m2 sau ở lầu 1 - 102)",
+  "images": [
+   "data/img/hd_cfc8169cd27144f8.jpg",
+   "data/img/hd_88c6dca1ff7a2379.jpg",
+   "data/img/hd_84a6f5f20ab4f688.jpg",
+   "data/img/hd_3e81d78ec8bc2da6.jpg",
+   "data/img/hd_ff7070aead5723ca.jpg",
+   "data/img/hd_ab8e711d37ff0e7d.jpg",
+   "data/img/hd_68ca00353fc65bd7.jpg",
+   "data/img/hd_56529cf0778a9497.jpg",
+   "data/img/hd_702fb01c748cba32.jpg",
+   "data/img/hd_65ee2eb58d9e62ed.jpg",
+   "data/img/hd_400ffe28de714772.jpg"
+  ],
+  "videos": [],
+  "updated": 1794236683
+ },
+ {
   "id": 394,
   "price": 8900000,
   "price_max": 8900000,
