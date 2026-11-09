@@ -1,5 +1,43 @@
 [
  {
+  "id": 420,
+  "price": 3500000,
+  "price_max": 3700000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "620 Nguyễn Kiệm",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp"
+  ],
+  "description": "3tr5 -> 3tr7 DỰ ÁN MỚI\nđầ 620 Nguyễn Kiệm, Phú Nhuận\nNội thất có tủ bếp\nMáy lạnh +300k/tháng\nTủ lạnh +200k/tháng\nDién 3.800d/kwh\nNước 25k/m3\nRác 30k/phòng\nWifi 100k/phòng\nMáy giặc 80k/người\nXe free",
+  "images": [
+   "data/img/hd_5c1736a2a899b6d6.jpg",
+   "data/img/hd_dfb247dcfb976a59.jpg",
+   "data/img/hd_dfb247dcfb976a59.jpg",
+   "data/img/hd_985135b38d658573.jpg",
+   "data/img/hd_25badbb3eddba362.jpg",
+   "data/img/hd_f09c57f7249617f8.jpg",
+   "data/img/hd_cde71601d7d12652.jpg",
+   "data/img/hd_101b768b6a4f2370.jpg"
+  ],
+  "videos": [],
+  "updated": 1794238844
+ },
+ {
   "id": 416,
   "price": 4500000,
   "price_max": 5500000,
