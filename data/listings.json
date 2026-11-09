@@ -1,5 +1,96 @@
 [
  {
+  "id": 416,
+  "price": 4500000,
+  "price_max": 5500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "52 Bùi Văn Thêm",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "cửa sổ"
+  ],
+  "description": "5tr5 ban công chill, dự án mới\n52 Bùi Văn Thêm, Phú Nhuận\nĐiện: 3.500/kwh\nNước: 100.000/người\nPhí dịch vụ: 150.000/phòng, 3ng ở thêm phí dịch vụ\nXe: ~350.000/tháng (gửi bãi ngoài đối diện)\nPet: không\nXe điện: không\n4tr5 cửa sổ, dự án mới\n52 Bùi Văn Thêm, Phú Nhuận\nĐiện: 3.500/kwh\nNước: 100.000/người\nPhí dịch vụ: 150.000/phòng, 3ng ở thêm phí dịch vụ\nXe: ~350.000/tháng (gửi bãi ngoài đối diện)\nPet: không\nXe điện: không",
+  "images": [
+   "data/img/hd_fdaeeffedc381349.jpg",
+   "data/img/hd_bac337e5cbe72832.jpg",
+   "data/img/hd_f5ae0af32205c9e3.jpg",
+   "data/img/hd_7f41b2034cbea046.jpg",
+   "data/img/hd_5ef2951066444ba6.jpg",
+   "data/img/hd_d231898d46008533.jpg",
+   "data/img/hd_eb281b4708121b5d.jpg",
+   "data/img/hd_00e0cdf8145c8c6b.jpg",
+   "data/img/hd_1cd0dde33ee647c3.jpg",
+   "data/img/hd_3370c22c06971938.jpg",
+   "data/img/hd_021045acdcc9f8b2.jpg",
+   "data/img/hd_94e5f7c3f956832b.jpg",
+   "data/img/hd_cbde1f98b1105002.jpg",
+   "data/img/hd_2ea6dabee84a0fd9.jpg",
+   "data/img/hd_e1d07deccc7cc58f.jpg",
+   "data/img/1988c4981669ec10.jpg",
+   "data/img/e1b6c1558916ab5b.jpg",
+   "data/img/8f10d7ac0b3cec49.jpg",
+   "data/img/de4801ca7bf9ee2c.jpg",
+   "data/img/d0f87497a360afd6.jpg",
+   "data/img/5d48a9ae91918aa9.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_31d64604428655a8.mp4",
+    "poster": "data/vid/v_31d64604428655a8.jpg"
+   }
+  ],
+  "updated": 1794238550
+ },
+ {
+  "id": 415,
+  "price": 6600000,
+  "price_max": 6600000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "3 Nguyễn Văn Trỗi",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "full nội thất"
+  ],
+  "description": "Tin nhắn chưa đọc\n6tr6 ban công, phòng rộng\n3 Nguyễn Văn Trỗi, Phú Nhuận (ngay Cầu Công Lý, Hoàng Sa, Quận 1...)\nFull nội thất 401\nLẦU 4 THANG BỘ\nXÍ Diện: 4.000k/kwh\nđ Nước: 100k/Người\npr Dv: 200k/phong\nXe free 2 xe",
+  "images": [
+   "data/img/hd_ba7974266826e078.jpg",
+   "data/img/hd_4f79d9af5e758004.jpg",
+   "data/img/hd_56ac055c41cbed94.jpg",
+   "data/img/hd_4f9bb9aaba954cc3.jpg",
+   "data/img/hd_d065fb47dd2a82ce.jpg",
+   "data/img/hd_3b43f6ddd65223e6.jpg",
+   "data/img/hd_0e10a69e6ec32577.jpg"
+  ],
+  "videos": [],
+  "updated": 1794238491
+ },
+ {
   "id": 413,
   "price": 5800000,
   "price_max": 5800000,
