@@ -1,5 +1,75 @@
 [
  {
+  "id": 406,
+  "price": 5800000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": "Phường 11",
+  "street": "502 Full",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "cửa sổ",
+   "full nội thất",
+   "bảo vệ"
+  ],
+  "description": "mặt tiền đường Đỗ Thị Lời, P11, Quận 3\nMã phòng: 402 full cửa sổ, thang máy cao cấp, camera từng tầng\nGiá phòng: 6.5 triệu fix 6 triệu cho HĐ 1 năm\nLý thường kiệt Quận T1\nGiá 5.800.000\nPhòng ban công 502 Full nội thất\nThang máy",
+  "images": [
+   "data/img/hd_79045c955e8e72c2.jpg",
+   "data/img/hd_5d5076519c7fb9c2.jpg",
+   "data/img/hd_e6450568c1c50a1f.jpg",
+   "data/img/hd_397aaff61d2b74e4.jpg",
+   "data/img/hd_8e575aea8921a5d8.jpg",
+   "data/img/hd_0466d67c32d204d1.jpg",
+   "data/img/hd_13412f2ae881a7a3.jpg",
+   "data/img/hd_f92ff5ef5c74ae52.jpg",
+   "data/img/hd_a04cc9b2bb80af2c.jpg",
+   "data/img/hd_f5f21966eb466b5a.jpg"
+  ],
+  "videos": [],
+  "updated": 1794237726
+ },
+ {
+  "id": 404,
+  "price": 5700000,
+  "price_max": 5700000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Tô Hiến Thành",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "cửa sổ",
+   "máy lạnh",
+   "tủ lạnh"
+  ],
+  "description": "Tin nhắn chưa đọc\ntô hiến thành quận 10\n101-5.700.000\nsẵn máy lạnh,tủ lạnh,giường tủ,cửa sổ đã được lắp full rèm",
+  "images": [],
+  "videos": [],
+  "updated": 1794237650
+ },
+ {
   "id": 403,
   "price": 5400000,
   "price_max": 5400000,
