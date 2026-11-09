@@ -1,5 +1,246 @@
 [
  {
+  "id": 443,
+  "price": 5600000,
+  "price_max": 5600000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Tô Hiến Thành",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [],
+  "description": "5tr6 Tô Hiến Thành Q10\nthang máy\nTrống 1/12\nMã căn hộ: T10087101\nOO",
+  "images": [
+   "data/img/hd_f0a8f8be691e0586.jpg",
+   "data/img/hd_7fa7736a19ba9622.jpg",
+   "data/img/hd_13f0873e7f850274.jpg",
+   "data/img/hd_0127c75ea2943b90.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_fc4e6ea51f9b8fa9.mp4",
+    "poster": "data/vid/v_fc4e6ea51f9b8fa9.jpg"
+   }
+  ],
+  "updated": 1794241759
+ },
+ {
+  "id": 441,
+  "price": 3900000,
+  "price_max": 6600000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Điện Biên Phủ",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng"
+  ],
+  "description": "6tr6 Điện Biên Phủ Q3 gần Q10, Q5\nthang máy - máy giặt riêng\nTrống 1/12\nMã căn hộ: T 976 4439 D1\nLý Nam Đế gần Q10\nTrống 201 giá 5tr5 thương lượng\nMã căn hộ: T11032201\nD1\nTrần Văn Đang Q3 gần Q10\nÁ8Giá 3tr9 Ở LIỀN GIẢM THÊM\nTrống sẵn\nMã căn hộ: T 4439 D1",
+  "images": [
+   "data/img/hd_34b48be75b6f4bc3.jpg",
+   "data/img/hd_453e57eb8b859038.jpg",
+   "data/img/hd_b56462ea21351a02.jpg",
+   "data/img/hd_39404f13a0671c12.jpg",
+   "data/img/hd_6e14440810e12a06.jpg",
+   "data/img/hd_d68ca7a4b1d0e884.jpg",
+   "data/img/hd_744d74d40a3ccb4e.jpg",
+   "data/img/hd_c00db262ff6b7ad8.jpg",
+   "data/img/hd_122b616d8e7337d3.jpg",
+   "data/img/hd_5247f6403abc4e26.jpg",
+   "data/img/hd_1146335ae47a8923.jpg",
+   "data/img/hd_f1b17f9e2aac93ae.jpg",
+   "data/img/hd_68419ebfb585fdff.jpg",
+   "data/img/hd_54d1fb69a64bad6d.jpg",
+   "data/img/hd_f99b6774ff816451.jpg",
+   "data/img/5f9d01d61c252496.jpg",
+   "data/img/79462a0fb325b1c4.jpg",
+   "data/img/ea7ffbee5ee7b2f3.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_1d1ac30c27fe9b5b.mp4",
+    "poster": "data/vid/v_1d1ac30c27fe9b5b.jpg"
+   }
+  ],
+  "updated": 1794241603
+ },
+ {
+  "id": 440,
+  "price": 4500000,
+  "price_max": 4500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Nguyễn Đình Chiều",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "4tr5 Nguyễn Đình Chiều Q3 gần Q10, Q5\nban công\nTrống sẵn\nMã căn hộ: T 976 4439 D1",
+  "images": [
+   "data/img/hd_15b2fd74911fc9aa.jpg",
+   "data/img/hd_7fa1ebf4abd6fb75.jpg",
+   "data/img/hd_f1e93f738616031b.jpg",
+   "data/img/hd_d2cace2b689c4e6f.jpg"
+  ],
+  "videos": [],
+  "updated": 1794241566
+ },
+ {
+  "id": 439,
+  "price": 7000000,
+  "price_max": 7000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "Lê Thị Riêng",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "7tr Lê Thị Riêng Q1 gần Q3, Q5\nMã căn hộ: T 4439 D1",
+  "images": [
+   "data/img/hd_9537dbc7c6476f3c.jpg",
+   "data/img/hd_274b8e2f3ee255c0.jpg",
+   "data/img/hd_5512d8f588573d2b.jpg",
+   "data/img/hd_763c0e1fb44d7f55.jpg"
+  ],
+  "videos": [],
+  "updated": 1794241531
+ },
+ {
+  "id": 438,
+  "price": 4600000,
+  "price_max": 4600000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Lê Văn Sỹ",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "4tr6 Lê Văn Sỹ Q3 gần Q10\nMã căn hộ: T 976 4439 D1",
+  "images": [
+   "data/img/hd_20dfda026aa300d3.jpg",
+   "data/img/hd_d47b0e6931ec498a.jpg",
+   "data/img/hd_299f5075359b21a5.jpg",
+   "data/img/hd_d39606919d974b4d.jpg",
+   "data/img/hd_3d27f563c1c12606.jpg",
+   "data/img/hd_60a360a3497f646c.jpg",
+   "data/img/hd_60a360a3497f646c.jpg"
+  ],
+  "videos": [],
+  "updated": 1794241467
+ },
+ {
+  "id": 437,
+  "price": 5200000,
+  "price_max": 5200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Lê Văn Sỹ",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "5tr2 Lê Văn Sỹ Q3 gần Q10\nMã căn hộ: T 976 4439 D1",
+  "images": [
+   "data/img/hd_7542b10c2d438ce0.jpg",
+   "data/img/hd_733109a30db9ef35.jpg",
+   "data/img/hd_6a7b5530aea5beec.jpg",
+   "data/img/hd_411286a1b6a392ea.jpg"
+  ],
+  "videos": [],
+  "updated": 1794241432
+ },
+ {
+  "id": 435,
+  "price": 3500000,
+  "price_max": 3500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 8",
+  "ward": null,
+  "street": "Đông Hồ",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 1/11",
+  "available_date": "2026-11-01",
+  "amenities": [],
+  "description": "Tin nhắn đã được thu hồi\n3tr5 Đông Hồ Q8 gần Q5\nthang máy\nTrống T1/11\nMã căn hộ: T 976 4439 D1",
+  "images": [
+   "data/img/hd_76682257007da69e.jpg",
+   "data/img/hd_67e68387113b33d1.jpg",
+   "data/img/hd_f3f4238f16c3f4eb.jpg",
+   "data/img/hd_4ef1f324b1472b3c.jpg"
+  ],
+  "videos": [],
+  "updated": 1794241397
+ },
+ {
   "id": 434,
   "price": 18000000,
   "price_max": 18000000,
