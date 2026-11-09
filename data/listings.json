@@ -1,5 +1,124 @@
 [
  {
+  "id": 394,
+  "price": 8900000,
+  "price_max": 8900000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường 2",
+  "street": "54 Sầm Sơn",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "TRỐNG CĂN 2 PHÒNG NGỦ FULL NỘI THẤT ĐẸP Q. TÂN BÌNH\nĐịa chỉ: 54 Sầm Sơn, P2, Tân Bình (khu sân bay)\nTiên ích\nMáy giặt + sân phơi. Thang Máy\n2PN trang bị full nội thất đầy đủ tiện nghỉ. Khu vực an ninh, vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 150k/ người\nPhí xe: Free 3 xe\nGiá 8tr9 (Ngày 1/12 trống phòng ở lầu lửng có lối đi riêng)",
+  "images": [
+   "data/img/hd_b6ad2d17a8f37f78.jpg",
+   "data/img/hd_438c9aaac48416e2.jpg",
+   "data/img/hd_5c4df29a84809f4f.jpg",
+   "data/img/hd_01fa6e414637c3a0.jpg",
+   "data/img/hd_3473b2aa42130085.jpg",
+   "data/img/hd_c3638449cda525f0.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_ee9a6ee89dda2e6c.mp4",
+    "poster": "data/vid/v_ee9a6ee89dda2e6c.jpg"
+   }
+  ],
+  "updated": 1794183251
+ },
+ {
+  "id": 393,
+  "price": 10500000,
+  "price_max": 10500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 5",
+  "ward": null,
+  "street": "307 Hùng Vương",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 30/11",
+  "available_date": "2026-11-30",
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "2 PHÒNG NGỦ FULL NỘI THẤT SIÊU ĐẸP QUẬN 5 (GIÁP QUẬN 10)\nĐịa chỉ: 307 Hùng Vương, Q5 (ngay Nguyễn Tri Phương)\nTiên ích\nMáy giặt riêng. Thang Máy\n2PN trang bị full nội thất đầy đủ tiện nghỉ. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/ tháng\nPhí xe: Free 2 xe\nGiá 10tr5 (Ngày 30/11 trống phòng ở lầu 3)",
+  "images": [
+   "data/img/hd_0c7ac377e0447719.jpg",
+   "data/img/hd_f3db54c8a1bb27a2.jpg",
+   "data/img/hd_f7e1c44707d23529.jpg",
+   "data/img/hd_b936dc77b553efc0.jpg",
+   "data/img/hd_720f9f097a072c03.jpg",
+   "data/img/hd_ac5b7ef94cee96e6.jpg",
+   "data/img/hd_b1adf5c228dfdb53.jpg",
+   "data/img/hd_472b4d01ce6165a2.jpg",
+   "data/img/hd_d7ef73c0aa587376.jpg",
+   "data/img/hd_3e1f027125cb0999.jpg",
+   "data/img/hd_4cb408a34de48592.jpg",
+   "data/img/hd_c475b6c8fd7a787f.jpg"
+  ],
+  "videos": [],
+  "updated": 1794183152
+ },
+ {
+  "id": 392,
+  "price": 12500000,
+  "price_max": 12500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường 4",
+  "street": "94 Út Tịch",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "TRỐNG 2 PHÒNG NGỦ 1WC FULL NỘI THẤT SIÊU ĐẸP Q. TÂN BÌNH\nAddress: 94 Út Tịch, P4, Q.Tân Bình\nTiên ích\nMáy giặt/ sấy. Thang Máy\n2Pn trang bị full nội thất đầy đủ tiện nghi. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nFree Dịch vụ, Free 1-2 xe\nGiá 12tr5 (Trống sẵn 2 phòng ngủ 2Wc balcon ở lầu 3)",
+  "images": [
+   "data/img/hd_5c588133029731e2.jpg",
+   "data/img/hd_6417f4eb0971cd3a.jpg",
+   "data/img/hd_fdf69e7bec249495.jpg",
+   "data/img/hd_f885b4f2390348fb.jpg",
+   "data/img/hd_fec18d7bfa977aed.jpg",
+   "data/img/hd_b7135e7be9fdbbd0.jpg",
+   "data/img/hd_00b716ad3d5c9119.jpg",
+   "data/img/hd_d62ab640dc1cbb40.jpg",
+   "data/img/hd_942b64cf81366bf1.jpg",
+   "data/img/hd_e9459e42b5e25f37.jpg",
+   "data/img/hd_2f22a02a5d6abbc5.jpg",
+   "data/img/hd_406a4e609674497f.jpg",
+   "data/img/hd_5e06ff6b4ad0c0a3.jpg",
+   "data/img/hd_7c8e10d62d76f91e.jpg",
+   "data/img/hd_ed5b1cffc0fac374.jpg",
+   "data/img/0dc5c6eafb7b7a9b.jpg",
+   "data/img/f87cbed7b3852be5.jpg"
+  ],
+  "videos": [],
+  "updated": 1794183020
+ },
+ {
   "id": 391,
   "price": 7500000,
   "price_max": 7500000,
