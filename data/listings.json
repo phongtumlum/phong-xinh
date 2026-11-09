@@ -1,5 +1,55 @@
 [
  {
+  "id": 446,
+  "price": 6300000,
+  "price_max": 6300000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "47 Hoa Lan",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "TRỐNG 1 PHÒNG NGỦ FULL NỘI THẤT Q. PHÚ NHUẬN\nAddress: 47 Hoa Lan, Phú Nhuận (khu Phan Xích Long)\nTiên ích\nMáy giặt riêng/ sấy. Thang bộ\n1PN trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 150k/người\nDịch vụ: 200k/phòng\nFree 1 xe, xe t2 +200k\nGiá 6tr3 (Trống sẵn 1 phòng ngủ ở lầu 3 - 302)\nGiá 6tr3 (Trống sẵn phòng Studio ở lầu 3 - 302)",
+  "images": [
+   "data/img/hd_2e664f495f85676b.jpg",
+   "data/img/hd_5ef2b433b724f427.jpg",
+   "data/img/hd_8a6920a194784fdc.jpg",
+   "data/img/hd_cb97db10f2d0596b.jpg",
+   "data/img/hd_1eb599d88a31f319.jpg",
+   "data/img/hd_e9958fb3d41a7714.jpg",
+   "data/img/hd_d1ceb37a3901e8dd.jpg",
+   "data/img/hd_10ac280a76486f5a.jpg",
+   "data/img/hd_1e395d0eeabdb168.jpg",
+   "data/img/hd_85a3b19b37052296.jpg",
+   "data/img/hd_d725c0ced1def7f7.jpg",
+   "data/img/hd_bf937a33a039a911.jpg",
+   "data/img/hd_e08c5a5f007bafa7.jpg",
+   "data/img/hd_2d27925952ffc56a.jpg",
+   "data/img/hd_065df029a29994f4.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_e30db61bc4b725b3.mp4",
+    "poster": "data/vid/v_e30db61bc4b725b3.jpg"
+   }
+  ],
+  "updated": 1794265547
+ },
+ {
   "id": 443,
   "price": 5600000,
   "price_max": 5600000,
