@@ -1,5 +1,206 @@
 [
  {
+  "id": 426,
+  "price": 7700000,
+  "price_max": 7900000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": "Phường Nguyễn Thái",
+  "street": "246 Nguyễn Công Trứ",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [
+   "cửa sổ",
+   "chỗ để xe",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO CỬA SỔ NGAY TRUNG TÂM QUẬN 1\nĐịa chỉ: 246 Nguyễn công Trứ, P. Nguyễn Thái bình, Q1\nĐặc điểm\ncó bãi xe, camera an ninh. Cửa vân tay, nhà có thang máy. Máy giặt/ sấy/ phơi chung\nPDV: 200k/ phòng; xe 100k/chiếc\nGiá 7tr9 (Ngày 1/12 trống phòng ở lầu 1 - 101)\nGiá 7tr7 (Ngày 1/12 trống phòng ở lầu 7 - 701)",
+  "images": [
+   "data/img/hd_53477fbfb6395d4e.jpg",
+   "data/img/hd_cad30ef7f410e7f7.jpg",
+   "data/img/hd_e8386d3c3d0212e8.jpg",
+   "data/img/hd_cbeef2e1d32fe4ea.jpg",
+   "data/img/hd_e348ddbb41234c5b.jpg",
+   "data/img/hd_e348ddbb41234c5b.jpg",
+   "data/img/hd_3f3ebc5181064956.jpg",
+   "data/img/hd_780be4b5dad6f90f.jpg",
+   "data/img/hd_780be4b5dad6f90f.jpg",
+   "data/img/hd_d4907bf6df24c9c2.jpg",
+   "data/img/hd_d4907bf6df24c9c2.jpg"
+  ],
+  "videos": [],
+  "updated": 1794239481
+ },
+ {
+  "id": 425,
+  "price": 9800000,
+  "price_max": 9800000,
+  "price_deal": null,
+  "area": 38.0,
+  "district": "Quận 3",
+  "ward": "Phường 14",
+  "street": "40/19 Trần Quang Diệu",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bếp",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ 1 PHÒNG NGỦ BALCON 38M2 XỊN FULL NỘI THẤT QUẬN 3\nAddress: 40/19 Trần quang Diệu, P14, Q3\nTiên ích\nMáy Giặt riêng. Thang bộ\n1 Phòng ngủ trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 150k/người\nDịch vụ: 200k/ phòng\nPhí xe: 100k/ chiếc\nGiá 9tr8 (Ngày 1/12 trống phòng balcon tách bếp 42m2 ở lầu 3 - 302)",
+  "images": [
+   "data/img/hd_d8423e7bf05e6c94.jpg",
+   "data/img/hd_312b254a7258aec2.jpg",
+   "data/img/hd_174199a0935d5b38.jpg",
+   "data/img/hd_043f03210ff6d4ba.jpg",
+   "data/img/hd_d6eaff7c9b4e9715.jpg",
+   "data/img/hd_169f329148036a94.jpg",
+   "data/img/hd_74ec35e80f5abdca.jpg",
+   "data/img/hd_84c01e8cdef026f2.jpg",
+   "data/img/hd_51db37387dec9dba.jpg"
+  ],
+  "videos": [],
+  "updated": 1794239395
+ },
+ {
+  "id": 424,
+  "price": 7900000,
+  "price_max": 7900000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": "Phường Dakao",
+  "street": "99A Mai Thị Lựu",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "STUDIO BALCON FULL NỘI THẤT QUẬN 1\nAddress: 99A Mai Thị Lựu, P. Dakao, Q1\nTiên ích\nMáy Giặt riêng. Thang máy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 150k/người\nDịch vụ: 200k/ phòng\nPhí xe: 100k/ chiếc\nGiá 7tr9 (Ngày 1/12 trống phòng balcon ở lầu 4 - 401)",
+  "images": [
+   "data/img/hd_72fc90c871b1cd7f.jpg",
+   "data/img/hd_3c31d322eb265062.jpg",
+   "data/img/hd_e22e4debe570c400.jpg",
+   "data/img/hd_7c1d862abd786455.jpg",
+   "data/img/hd_bb3943289ba8a18b.jpg",
+   "data/img/hd_c8e4c1b177e5502c.jpg",
+   "data/img/hd_19af8d1650452d1e.jpg",
+   "data/img/hd_5f52363ceb9c78ee.jpg",
+   "data/img/hd_05a36afb4b7db75d.jpg",
+   "data/img/hd_aab15e38e5d52292.jpg",
+   "data/img/hd_a1bcf5e8c653df93.jpg"
+  ],
+  "videos": [],
+  "updated": 1794239300
+ },
+ {
+  "id": 423,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "443/64 Điện Biên Phủ",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "STUDIO CÓ MÁY GIẶT RIÊNG FULL NỘI THẤT MỚI 99.9% QUẬN 3\nAddress: 443/64 Điện Biên Phủ, Q3 (Đia chỉ cũ 69/21 Cao Thắng)\nTiên ích\nMáy Giặt riêng. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: Free 1-2 xe\nGiá 6tr5 (Trống sẵn phòng ở lầu 1 - 102)",
+  "images": [
+   "data/img/hd_101ef5c3ea749c39.jpg",
+   "data/img/hd_a028a039ce856f0c.jpg",
+   "data/img/hd_bf6c8e46e6b6327a.jpg",
+   "data/img/hd_fe5d5b80d0333d97.jpg",
+   "data/img/hd_350f1654ab7e1dba.jpg",
+   "data/img/hd_360ff5679e712047.jpg",
+   "data/img/hd_ba9af6d652e8717a.jpg",
+   "data/img/hd_e659e6ea1ad2bb11.jpg",
+   "data/img/hd_f155763c7bbfcf0a.jpg"
+  ],
+  "videos": [],
+  "updated": 1794239209
+ },
+ {
+  "id": 422,
+  "price": 6600000,
+  "price_max": 6600000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Hẻm 575 Điện Biên Phủ",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "nuôi thú cưng",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "KHAI TRƯƠNG STUDIO MỚI 100% FULL NỘI THẤT QUẬN 3\nAddress: Hẻm 575 Điện Biên Phủ, Q3 (Hẻm xe hơi)\nTiên ích\nMáy Giặt riêng. Thang Máy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\n3 KO NUÔI PET, KO XE ĐIỆN\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: Free 2 xe\nGiá 6tr6 (Ngày 1/12 trống phòng ở lầu 2 - 103)",
+  "images": [
+   "data/img/hd_49d67d8b808c0051.jpg",
+   "data/img/hd_d78b0b630630e280.jpg",
+   "data/img/hd_2b1355478674cc40.jpg",
+   "data/img/hd_2a41d86f494ece22.jpg",
+   "data/img/hd_b15a3afd89121d3a.jpg",
+   "data/img/hd_dcf36b9ab2942437.jpg",
+   "data/img/hd_8f08cd5be3832779.jpg",
+   "data/img/hd_f03f206776bfa804.jpg",
+   "data/img/hd_2d555c8089bb3ad3.jpg"
+  ],
+  "videos": [],
+  "updated": 1794239120
+ },
+ {
   "id": 420,
   "price": 3500000,
   "price_max": 3700000,
