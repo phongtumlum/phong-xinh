@@ -148,7 +148,7 @@
       (S.district === 'Tất cả' || (S.district === OTHER ? !isMain(l.district) : l.district === S.district)) &&
       (S.ward === 'Tất cả' || l.ward === S.ward) &&
       (S.kind === 'Tất cả' || l.kind === S.kind) &&
-      (S.layout === 'Tất cả' || l.layout === S.layout) &&
+      (S.layout === 'Tất cả' || (l.layouts || [l.layout]).indexOf(S.layout) >= 0) &&
       (!S.maxPrice || !l.price || effPrice(l) <= S.maxPrice * 1e6 + 1) &&
       Array.from(S.amen).every((a) => (l.amenities || []).indexOf(a) !== -1) &&
       (!S.onlySaved || S.saved.has(l.id))

@@ -10,6 +10,9 @@
   "street": "54 Sầm Sơn",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống 1/12",
@@ -47,6 +50,9 @@
   "street": "307 Hùng Vương",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống 30/11",
@@ -86,6 +92,9 @@
   "street": "94 Út Tịch",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -129,6 +138,9 @@
   "street": "549/81 Nguyễn Đình Chiểu",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống 1/12",
@@ -173,6 +185,9 @@
   "street": "48H Định Công Tráng",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -219,6 +234,9 @@
   "street": "12 Cư Xá Trần Quang Diệu",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": null,
@@ -267,6 +285,9 @@
   "street": "386/7B Lê Văn Sỹ",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống 1/12",
@@ -308,6 +329,9 @@
   "street": "266/82 Tô Hiến Thành",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -348,6 +372,9 @@
   "street": "136 Lê Minh Xuân",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -382,6 +409,49 @@
   "updated": 1794181737
  },
  {
+  "id": 380,
+  "price": 7200000,
+  "price_max": 7200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "68 Thích Quảng Đức",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "nuôi thú cưng"
+  ],
+  "description": "68 Thích Quảng Đức, Phú Nhuận\nĐiện 4k/kwh\nNước 100k/người hoặc 25k/m3\nDịch vụ: 150k/phòng\nThêm máy giặt riêng 250k/tháng\nCó máy giặt, sấy chung dưới trệt\nTối đa: 4 người 2 xe\nThú cưng: nuôi mèo cam kết sạch sẽ, thú cưng còn lại thương lượng\nXe điện: nhận xe điện\n7tr2 có sân riêng",
+  "images": [
+   "data/img/hd_0e5d27c15e50adcd.jpg",
+   "data/img/hd_5c33f31f88c874d9.jpg",
+   "data/img/hd_c913105e8dfce0b8.jpg",
+   "data/img/hd_fbd7a46ca4e2742c.jpg",
+   "data/img/hd_22b3ad099dca613e.jpg",
+   "data/img/hd_f0fb95945d569c8d.jpg",
+   "data/img/hd_312eb35af2c5dabd.jpg",
+   "data/img/hd_cf7f85b2e6da7a39.jpg",
+   "data/img/hd_887f08c34f0a7cbe.jpg",
+   "data/img/hd_2a9d958e52f162da.jpg",
+   "data/img/hd_cdb10ac252025b27.jpg",
+   "data/img/hd_a64151e891e5bb1e.jpg",
+   "data/img/hd_59664496ef2a6b5d.jpg",
+   "data/img/hd_402b659aa293825b.jpg"
+  ],
+  "videos": [],
+  "updated": 1794181500
+ },
+ {
   "id": 379,
   "price": 7500000,
   "price_max": 7500000,
@@ -392,6 +462,9 @@
   "street": "86 Thích Quảng Đức",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": null,
@@ -433,6 +506,9 @@
   "street": "127 Hoàng Văn Thụ",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": null,
@@ -477,6 +553,9 @@
   "street": "80/67 Hoàng Hoa Thám",
   "type": "duplex/gác",
   "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -532,6 +611,9 @@
   "street": "413 Nguyễn Kiệm",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -570,6 +652,9 @@
   "street": "B22/33 Bạch Đằng",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -606,6 +691,9 @@
   "street": "80/67 Hoàng Hoa Thám",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -653,6 +741,9 @@
   "street": "243 Huỳnh Văn Bánh",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -684,6 +775,9 @@
   "street": "224/7 Phạm Văn Hai",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -735,6 +829,9 @@
   "street": "122 Trần Hữu Trang",
   "type": "duplex/gác",
   "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống 30/11",
@@ -770,6 +867,9 @@
   "street": "101/37B Nguyễn Văn Đậu P.5 Q.",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -817,6 +917,9 @@
   "street": "220/50A/ Xô Viết Nghệ Tĩnh",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống 30/11",
@@ -858,6 +961,9 @@
   "street": "368/6H Lê Hồng Phong",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": null,
@@ -893,6 +999,9 @@
   "street": "7B/105 Thành Thái",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống 1/12",
@@ -917,6 +1026,183 @@
   "updated": 1794152792
  },
  {
+  "id": 364,
+  "price": 4300000,
+  "price_max": 4300000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường Tân Sơn",
+  "street": "Phạm Văn Hai",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Phạm Văn Hai, Phường Tân Sơn Hoà ,, Quận Tân Bình , TpHCM\nẾ Toà nhà : Trệt + Hầm + 6 lầu _ Thang Máy\n4tr3",
+  "images": [
+   "data/img/hd_67a61ec9a3db53fb.jpg",
+   "data/img/hd_d16ed7b867e83866.jpg",
+   "data/img/hd_2669bda3f70aeaa2.jpg",
+   "data/img/hd_30d8971773892c8d.jpg"
+  ],
+  "videos": [],
+  "updated": 1794152311
+ },
+ {
+  "id": 363,
+  "price": 3900000,
+  "price_max": 4200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường Tân Sơn",
+  "street": "Phạm Văn Hai",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Phạm Văn Hai, Phường\nTân Sơn Hoà , Quận Tân\nBình , TpHCM\nẾì Toà nhà : Trệt + Hầm +\n6 lầu _ Thang Máy\n4tr2\nPhạm Văn Hai, Phường Tân Sơn Hoà ,, Quận Tân Bình , TpHCM\nẾ Toà nhà : Trệt + Hầm + 6 lầu _ Thang Máy\n3tr9\nPhạm Văn Hai, Phường Tân Sơn Hoà ,, Quận Tân Bình , TpHCM\nẾ Toà nhà : Trệt + Hầm + 6 lầu _ Thang Máy\n4tr",
+  "images": [
+   "data/img/hd_0bf33d714a1b9b35.jpg",
+   "data/img/hd_253a250b5d246ae1.jpg",
+   "data/img/hd_cd9eaf1959a38cd1.jpg",
+   "data/img/hd_e27b7e6d4709d9f7.jpg",
+   "data/img/hd_eb62cf7f28c6b06c.jpg",
+   "data/img/hd_9656db7b0a6aa868.jpg",
+   "data/img/hd_ded0bfe906df671f.jpg",
+   "data/img/hd_890995df207b4e79.jpg",
+   "data/img/hd_35cbb6599c16e5e1.jpg",
+   "data/img/hd_c9fa50a1747cd914.jpg",
+   "data/img/hd_ac0450c5f2bec0f8.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_4e9fe82b028b6340.mp4",
+    "poster": "data/vid/v_4e9fe82b028b6340.jpg"
+   }
+  ],
+  "updated": 1794152177
+ },
+ {
+  "id": 362,
+  "price": 6200000,
+  "price_max": 6200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "Cầm Bá Thước Phú",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Cầm Bá Thước ,Phú Nhuận\nGiá giảm : 6.200.000",
+  "images": [
+   "data/img/hd_90fc77f002095101.jpg",
+   "data/img/hd_8306e0b7c89abb86.jpg",
+   "data/img/hd_3872bdb98f192ba8.jpg",
+   "data/img/hd_22b2e73a23cbe5aa.jpg",
+   "data/img/hd_3b5ce3b628fff7f2.jpg",
+   "data/img/hd_f4907ec67f7f1f5d.jpg",
+   "data/img/hd_5032362539553817.jpg"
+  ],
+  "videos": [],
+  "updated": 1794152092
+ },
+ {
+  "id": 361,
+  "price": 4500000,
+  "price_max": 4500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 5",
+  "ward": null,
+  "street": "Ngô Quyền",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "wc riêng",
+   "chỗ để xe"
+  ],
+  "description": "Ngô Quyền, Quận 5\nGiá 4.500.000 full nội thất\nWc riêng biệt nằm ngoài phòng\nĐiện 4k\nNước 100k\nDịch vụ 200k\nNhà thag máy hầm xe",
+  "images": [
+   "data/img/hd_693ea86eefd4a4e2.jpg",
+   "data/img/hd_af5791edc8e179b5.jpg"
+  ],
+  "videos": [],
+  "updated": 1794152070
+ },
+ {
+  "id": 358,
+  "price": 5500000,
+  "price_max": 5500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường 4",
+  "street": "174/11 Bùi Thị Xuân",
+  "type": "căn hộ dịch vụ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": "Căn hộ dịch vụ",
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "chỗ để xe",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ DỊCH VỤ FULL NỘI THẤT Q. TÂN BÌNH\nAddress: 174/11 Bùi Thị Xuân, P4, Q.Tân Bình\nTiên ích\nThang máy, hầm xe, máy giặt/ sấy\nPhòng trang bị full nội thất tiết kiệm điện, có giường tầng. Khu vực an ninh, ra vào vân tay, bảo vệ an ninh\nĐiện: 4k/kwh, Nước: 150k/người\nDịch vụ: 200k/phòng (Free dọn phòng 1 lần/ tuần)\nPhí xe: 150k/ xe (Tối đa 2 xe)\nGiá 5tr5 (trống sẵn phòng ở lầu 2 - 204)",
+  "images": [
+   "data/img/hd_6cbd153495850665.jpg",
+   "data/img/hd_a4c413fc22488ec2.jpg",
+   "data/img/hd_9c83998692ccffd9.jpg",
+   "data/img/hd_7195c327d41f93a7.jpg",
+   "data/img/hd_413368dc8e510034.jpg",
+   "data/img/hd_559c6f29ef1a286d.jpg",
+   "data/img/hd_55932fecc5c0c293.jpg",
+   "data/img/hd_ceb742eb61798dc0.jpg",
+   "data/img/hd_fda527a880a84e77.jpg"
+  ],
+  "videos": [],
+  "updated": 1794151734
+ },
+ {
   "id": 357,
   "price": 5500000,
   "price_max": 5500000,
@@ -927,6 +1213,9 @@
   "street": "49/24/ Nguyễn Hữu Cảnh",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -969,6 +1258,9 @@
   "street": "27/66 Điện Biên Phủ",
   "type": "duplex/gác",
   "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống 1/12",
@@ -997,6 +1289,49 @@
   "updated": 1794150785
  },
  {
+  "id": 355,
+  "price": 8000000,
+  "price_max": 8000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường 4",
+  "street": "174/11 Bùi Thị Xuân",
+  "type": "căn hộ dịch vụ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": "Căn hộ dịch vụ",
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "chỗ để xe",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ DỊCH VỤ FULL NỘI THẤT Q. TÂN BÌNH\nAddress: 174/11 Bùi Thị Xuân, P4, Q.Tân Bình\nTiên ích\nThang máy, hầm xe, máy giặt/ sấy\nPhòng trang bị full nội thất tiết kiệm điện, có giường tầng. Khu vực an ninh, ra vào vân tay, bảo vệ an ninh\nĐiện: 4k/kwh, Nước: 150k/người\nDịch vụ: 200k/phòng (Free dọn phòng 1 lần/ tuần)\nPhí xe: 150k/ xe (Tối đa 4 xe)\nGiá 8tr (trống sẵn phòng giường tầng có balcon ở lầu 2 - 201)",
+  "images": [
+   "data/img/hd_44a8f7c8c7339dd3.jpg",
+   "data/img/hd_f03544b850374f27.jpg",
+   "data/img/hd_2d61a33affa10161.jpg",
+   "data/img/hd_9dc1831b01df5906.jpg",
+   "data/img/hd_0c2d713fd6a0aec3.jpg",
+   "data/img/hd_9917093a9c0a70c2.jpg",
+   "data/img/hd_3eb3ab1871878abf.jpg",
+   "data/img/hd_ba20cb32a4f6c3a0.jpg",
+   "data/img/hd_614b1af5b57aee2d.jpg",
+   "data/img/hd_69e37ff5fa1121d9.jpg",
+   "data/img/hd_c51a0f179b874914.jpg",
+   "data/img/hd_5c507d58c2266c39.jpg"
+  ],
+  "videos": [],
+  "updated": 1794150678
+ },
+ {
   "id": 354,
   "price": 15000000,
   "price_max": 15000000,
@@ -1007,6 +1342,9 @@
   "street": "143 Trần Huy Liệu",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -1057,6 +1395,9 @@
   "street": "5/101/8 Nơ Trang Long",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -1140,6 +1481,9 @@
   "street": "24/9 Đường D5",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -1176,6 +1520,38 @@
   "updated": 1794150269
  },
  {
+  "id": 346,
+  "price": 6300000,
+  "price_max": 6300000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Trần Văn Đang",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [],
+  "description": "6tr3 Trần Văn Đang Q3 gần Q10\nTrống sẵn",
+  "images": [
+   "data/img/hd_5ce582106a77b600.jpg",
+   "data/img/hd_cfb6d37e77f2b91d.jpg",
+   "data/img/hd_613c6b07c279f3e3.jpg",
+   "data/img/hd_f52304aba3e13d6d.jpg",
+   "data/img/hd_503ed56de3696993.jpg",
+   "data/img/hd_ab6f317f0b2b2ef6.jpg"
+  ],
+  "videos": [],
+  "updated": 1794092727
+ },
+ {
   "id": 344,
   "price": 12000000,
   "price_max": 12000000,
@@ -1186,6 +1562,9 @@
   "street": "122D Phan Đăng Lưu",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống 30/11",
@@ -1232,6 +1611,9 @@
   "street": "4086 Nguyễn Văn Đậu",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống 15/11",
@@ -1290,6 +1672,9 @@
   "street": "75/8 Mai Thị Lựu",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống 21/11",
@@ -1332,6 +1717,9 @@
   "street": "1192 Cách Mạng Tháng 8",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": null,
   "available": "Trống 1/12",
@@ -1377,6 +1765,9 @@
   "street": "86/5 Thích Quảng Đức",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -1413,6 +1804,9 @@
   "street": "58B Bạch Đằng",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -1449,6 +1843,9 @@
   "street": "40/44 Nguyễn Giản",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -1490,6 +1887,9 @@
   "street": "18B/92 Nguyễn Thị Minh Khai",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống 6/12",
@@ -1534,6 +1934,9 @@
   "street": "4/13C Nguyễn Thị Minh Khai",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống 1/12",
@@ -1568,6 +1971,9 @@
   "street": "21 Đặng Dung",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -1629,6 +2035,120 @@
   "updated": 1794068731
  },
  {
+  "id": 333,
+  "price": 4500000,
+  "price_max": 4500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "221 Bà Hạt",
+  "type": "chung cư",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": "Chung cư",
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp"
+  ],
+  "description": "4tr5\n221 Bà Hạt, Quận 10 (ngay Nguyễn Tri Phương)\nsố người được ở: 2-3 Người\nSố Xe đc để trong nhà: 1 xe (các xe còn lại để ở chung cư ấn quang hoặc ở chùa gần nhà)\nNội thất\nMáy tắm nước nóng, máy lạnh, Tủ lạnh, Tủ Áo, Nệm, Kệ Bếp, Cửa số trời, Bàn ăn\nĐiện: 4k/kwh, nước 100k/người, DVC 150K/phòng. Máy giặt (ko dùng ko tính): 50K/người",
+  "images": [
+   "data/img/hd_e1eefea84841f43c.jpg",
+   "data/img/hd_5f297c8e56e9586e.jpg",
+   "data/img/hd_a5405b5d11d069b4.jpg",
+   "data/img/hd_03d91d5b35b734aa.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_a0411f892732f559.mp4",
+    "poster": "data/vid/v_a0411f892732f559.jpg"
+   }
+  ],
+  "updated": 1794068434
+ },
+ {
+  "id": 332,
+  "price": 3200000,
+  "price_max": 3600000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": "Phường Hoà Hưng",
+  "street": "288 Hoà Hưng",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "3tr2/người. 2 người giá 3tr6\n288 Hoà Hưng, Phường Hoà Hưng (Quận 10 cũ)\nĐiện 4k, Nước 100k/người\nDịch vụ 200k/phòng (wifi, rác, vệ sinh hành lang, máy giặt - sấy chung)\nXe free 2 xe\nNội thất: như hình\nTối đa 2 người 2 xe\nKhông pet, không xe điện",
+  "images": [
+   "data/img/hd_57e9806bcf7f7b53.jpg",
+   "data/img/hd_1c8b11ca9dd4c93c.jpg",
+   "data/img/hd_dfa354c22f1b016d.jpg",
+   "data/img/hd_b8b76211ee25f8c0.jpg",
+   "data/img/hd_7ca10455376b1bfc.jpg",
+   "data/img/90c84b33a4047394.jpg",
+   "data/img/hd_039f696a0ab43164.jpg",
+   "data/img/hd_77c7e473a5acb48f.jpg",
+   "data/img/hd_bee4cb1c5669898c.jpg",
+   "data/img/hd_3017903d1964ed04.jpg",
+   "data/img/hd_baed5e66632a4a0b.jpg"
+  ],
+  "videos": [],
+  "updated": 1794068326
+ },
+ {
+  "id": 329,
+  "price": 6800000,
+  "price_max": 6800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "79 Nguyễn Bỉnh Khiêm",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "Khai trương dự án mới giá cực sốc\n6tr8 ban công, thang máy\nĐịa chỉ: 79 Nguyễn Bỉnh Khiêm, Quận 1\nĐiện: 4k/kwh\nNước 100k/người\nPhí dịch vụ 200k/phòng\nXe free",
+  "images": [
+   "data/img/hd_ecc4a1e5725cc209.jpg",
+   "data/img/hd_e278992958a47d53.jpg",
+   "data/img/hd_6e84a9a36c310a60.jpg",
+   "data/img/hd_469891e91af247b8.jpg",
+   "data/img/hd_99b62fbe7f004cb4.jpg",
+   "data/img/hd_81b3a964417ab435.jpg",
+   "data/img/hd_56b1caafb8a292f9.jpg",
+   "data/img/hd_af93bbd6411c42c9.jpg",
+   "data/img/hd_29e116213ce74b67.jpg",
+   "data/img/hd_b2e4142f35f3393c.jpg"
+  ],
+  "videos": [],
+  "updated": 1794067867
+ },
+ {
   "id": 327,
   "price": 12000000,
   "price_max": 12000000,
@@ -1639,6 +2159,9 @@
   "street": "411 Lê Văn Sỹ",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -1665,6 +2188,80 @@
   "updated": 1794067767
  },
  {
+  "id": 324,
+  "price": 5500000,
+  "price_max": 5500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "58 Phan Tây Hồ",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "5tr5 ban công, thang máy\n58 Phan Tây Hồ, Phú Nhuận\nĐiện 4k/kwh\nNước 100k/khách\nDịch vụ: 150k/phòng\nTối đa 2 người - 2 xe",
+  "images": [
+   "data/img/hd_0321e93d3ce7b248.jpg",
+   "data/img/hd_8dbbcf39bd21eba8.jpg",
+   "data/img/hd_8db3a929853eb696.jpg",
+   "data/img/hd_c97717c0e5a28416.jpg",
+   "data/img/hd_e368e512fcf7cc4a.jpg",
+   "data/img/hd_ca34ebd2fdbc8bde.jpg",
+   "data/img/hd_2e81dc3914855bef.jpg"
+  ],
+  "videos": [],
+  "updated": 1794067405
+ },
+ {
+  "id": 323,
+  "price": 6700000,
+  "price_max": 6700000,
+  "price_deal": null,
+  "area": 35.0,
+  "district": "Quận 3",
+  "ward": "Phường Bàn Cờ",
+  "street": "MẶT TIỀN NGUYỄN ĐÌNH CHIỂU",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "ban công"
+  ],
+  "description": "TRỐNG SẴN - CỌC 1 THÁNG\nĐịa chỉ: MẶT TIỀN NGUYỄN ĐÌNH CHIỂU, P. BÀN CỜ, Q3 (ngay chợ Bàn Cờ-phố ẩm thực Nguyễn Thượng Hiền,\ntrước nhà có bến xe buýt)\nGiá: 6tr7 (phòng lớn-bancol) - 35m2\nDịch vụ\nĐiện 4k\nNước: 120k/người\nPhí: 200k\nXe: 100k/chiếc\nCó máy giặt riêng nha AEs @AIl\n( Quận 3 - 6.000 - 7.000 - Ban Công )",
+  "images": [
+   "data/img/hd_cfc4783e07f436d6.jpg",
+   "data/img/hd_5968d37dd51193a2.jpg",
+   "data/img/hd_6c5a68fa9941e6ed.jpg",
+   "data/img/hd_7c9d68ed1133d5b4.jpg",
+   "data/img/hd_d2c6cd522d56c3fa.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_b724fff5f251923d.mp4",
+    "poster": "data/vid/v_b724fff5f251923d.jpg"
+   }
+  ],
+  "updated": 1794067118
+ },
+ {
   "id": 322,
   "price": 5300000,
   "price_max": 5300000,
@@ -1675,6 +2272,9 @@
   "street": "Võ Văn Tần",
   "type": "duplex/gác",
   "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
   "kind": null,
   "elevator": null,
   "available": "Trống 30/11",
@@ -1707,6 +2307,9 @@
   "street": "Nguyễn Tiểu La",
   "type": "duplex/gác",
   "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": null,
@@ -1742,6 +2345,9 @@
   "street": "Phạm Phú Thứ",
   "type": "nhà nguyên căn",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -1773,6 +2379,9 @@
   "street": "Trần Văn Đang",
   "type": "nhà nguyên căn",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -1797,6 +2406,108 @@
   "updated": 1794066254
  },
  {
+  "id": 312,
+  "price": 4900000,
+  "price_max": 4900000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Nguyễn Thiện Thuật",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Nguyễn Thiện Thuật, quận 3\n4tr9",
+  "images": [
+   "data/img/hd_c85d9843909b1808.jpg",
+   "data/img/hd_0cdee4ab038e76a8.jpg",
+   "data/img/hd_6115a54db74a8afc.jpg",
+   "data/img/hd_b41999f7e4868484.jpg",
+   "data/img/hd_679954142e87806d.jpg",
+   "data/img/hd_ff3453da92a1dc4c.jpg",
+   "data/img/hd_443e1e3ee9b40663.jpg"
+  ],
+  "videos": [],
+  "updated": 1794066183
+ },
+ {
+  "id": 311,
+  "price": 5300000,
+  "price_max": 5300000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Cách Mạng Tháng 8",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Cách Mạng Tháng 8, quận 3\n5tr3\nHD a)\nÁ",
+  "images": [
+   "data/img/458cdd37dcd9eb25.jpg",
+   "data/img/b0667cdf1a0d25a6.jpg",
+   "data/img/bc19c51a4de7ba5c.jpg",
+   "data/img/ee00e7164302db53.jpg",
+   "data/img/b6a1ffb299774d71.jpg",
+   "data/img/c0022ca453dc093d.jpg",
+   "data/img/fda794b6f6a5e0e4.jpg",
+   "data/img/3ff9259dfddbb59c.jpg",
+   "data/img/c1dca8af56ccd29f.jpg"
+  ],
+  "videos": [],
+  "updated": 1794065702
+ },
+ {
+  "id": 310,
+  "price": 5600000,
+  "price_max": 5600000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "656 Cách Mạng Tháng 8",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ"
+  ],
+  "description": "656 cmt8, quận 3\nFull nthat\nAn ninh\nThang máy\n5tr6",
+  "images": [
+   "data/img/hd_c3fea32d274e0eff.jpg",
+   "data/img/hd_2d3d90fb0e3722e1.jpg",
+   "data/img/hd_02f5f499c06045e0.jpg",
+   "data/img/hd_7e81a4b919ba408b.jpg",
+   "data/img/hd_71a5da874c77408a.jpg"
+  ],
+  "videos": [],
+  "updated": 1794065444
+ },
+ {
   "id": 307,
   "price": 5500000,
   "price_max": 5500000,
@@ -1807,6 +2518,9 @@
   "street": "12/4/12A Nguyễn Cảnh Dị",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": null,
@@ -1843,6 +2557,9 @@
   "street": "117/21 Nguyễn Hữu Cảnh",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -1884,6 +2601,9 @@
   "street": "99/46 Nguyễn Thái Bình",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -1906,6 +2626,46 @@
   "updated": 1794064751
  },
  {
+  "id": 303,
+  "price": 9000000,
+  "price_max": 9000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "394 Xô Viết Nghệ Tĩnh",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "chỗ để xe",
+   "bảo vệ"
+  ],
+  "description": "CĂN HỘ MỚI CÓ MÁY GIẶT/SẤY RIÊNG Q. BÌNH THẠNH\nĐịa chỉ: 394 Xô Viết Nghệ Tĩnh, Bình Thạnh\nĐặc điểm: ấế- Nhà mới 100% có hầm xe, bảo vệ an ninh, thang máy\nĐiện: 4k/kwh, nước:150k/người\nDịch vụ 200k/phòng\nXe máy 100k/ chiếc\nGiá 9tr có fix (Trống sẵn phòng ở lầu 2 - Mã 22)",
+  "images": [
+   "data/img/hd_0b968ba2484c554a.jpg",
+   "data/img/hd_e688c3f0dd75a13e.jpg",
+   "data/img/hd_8a223c2f6c246341.jpg",
+   "data/img/hd_92a207000a85b9b4.jpg",
+   "data/img/hd_976ed03ec5d61232.jpg",
+   "data/img/hd_37599174a73bcd50.jpg",
+   "data/img/hd_907b58351a1b0de4.jpg",
+   "data/img/hd_fe1a85b7fb015693.jpg",
+   "data/img/hd_ef8fd4e062c1a7fe.jpg",
+   "data/img/hd_e93b224f82cd49a6.jpg",
+   "data/img/hd_e93b224f82cd49a6.jpg"
+  ],
+  "videos": [],
+  "updated": 1794064495
+ },
+ {
   "id": 302,
   "price": 10500000,
   "price_max": 13000000,
@@ -1916,6 +2676,9 @@
   "street": "758/44A Xô Viết Nghệ Tĩnh",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -1960,6 +2723,9 @@
   "street": "153/10 Quốc Lộ 13",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -2002,6 +2768,9 @@
   "street": "236/12/ Điện Biên Phủ",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống 1/12",
@@ -2048,6 +2817,9 @@
   "street": "57/6/ Điện Biên Phủ",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -2097,6 +2869,9 @@
   "street": "115/56 Lê Văn Sỹ",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -2129,6 +2904,9 @@
   "street": "549/4/15 Xô Viết Nghệ Tĩnh",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống 22/11",
@@ -2159,6 +2937,9 @@
   "street": "525/48 Tô Hiến Thành",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -2201,6 +2982,9 @@
   "street": "7 Kỳ Đồng",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống 17/11",
@@ -2250,6 +3034,9 @@
   "street": "91 Cù Lao",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -2290,6 +3077,9 @@
   "street": "458/32 Nhật Tảo",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -2330,6 +3120,9 @@
   "street": "50 Nguyễn Xí",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống 30/11",
@@ -2385,6 +3178,9 @@
   "street": "2/9A Nguyễn Thị Minh Khai",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": null,
@@ -2419,6 +3215,9 @@
   "street": "12 Nguyễn Thị Minh Khai",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -2503,6 +3302,9 @@
   "street": "130/7 Hồ Bá Kiện",
   "type": "duplex/gác",
   "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống 7/11",
@@ -2540,6 +3342,9 @@
   "street": "26 Nguyễn Văn Giai",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống 30/11",
@@ -2582,6 +3387,9 @@
   "street": "39/38 Dạ Nam",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống 9/11",
@@ -2609,6 +3417,179 @@
   "updated": 1793940168
  },
  {
+  "id": 285,
+  "price": 2800000,
+  "price_max": 2800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Phú",
+  "ward": null,
+  "street": "18 Đường Số 1",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy lạnh",
+   "bếp",
+   "nuôi thú cưng"
+  ],
+  "description": "2tr8 có máy lạnh, thang\nmáy\nĐịa chỉ: 18 Đường Số 1, Tân\nPhú (ngay đường Nguyễn\nSơn, Tân Phú)\nKết cấu toà nhà: thang\nmáy 5 tâng\nDanh mục nội thất: máy\nlạnh, kệ bếp\nCác loại phí\nĐiện: 3.5kwh\nNước: 50k/người\nPhí dịch vụ: rác 20k/phòng\nvệ sinh 20k/phòng\nXe: 100k/chiếc\nQuy định số lượng người,\nsố lượng xe: 2ng2xe\nCho nuôi thú cưng hay\nkhông: ko\nNgười nước ngoài/ Xe\nĐiện: ko\nKhu vực giặt phơi: có",
+  "images": [],
+  "videos": [
+   {
+    "src": "data/vid/v_4034d2ade1a9b179.mp4",
+    "poster": "data/vid/v_4034d2ade1a9b179.jpg"
+   }
+  ],
+  "updated": 1793939933
+ },
+ {
+  "id": 281,
+  "price": 4000000,
+  "price_max": 4000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": null,
+  "street": "1319 Hoàng Sa",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt chung",
+   "cửa sổ",
+   "bếp",
+   "giờ giấc tự do",
+   "bảo vệ"
+  ],
+  "description": "Tin nhắn chưa đọc\n4tr cửa sổ lớn [HÀNG\nHIẾM]\n1319 Hoàng Sa, Tân Bình (di\nchuyển quận 3, quận 1\nthuận tiện)\nNội thất cơ bản: máy\nlạnh, giường, tủ quần áo,\ntủ bếp\nPhù hợp ở 1-2\nngười/phòng\nCamera an ninh\nCó máy giặt chung, toilet\nriêng\nGiờ giấc tự do, không\nchung chủ.\nGần chợ Phạm Văn Hai,\nbệnh viện, siêu thị, trường\nhọc\nCách sân bay 5, đi vào\nquận trung tâm 5'.\nGần cửa hàng tiện lợi\n24h chỉ vài bước đi bộ.\nDién: 4k /kwh\nNước: 100k/người\nInternet: 120k/phòng\nDịch vụ 80k/người",
+  "images": [],
+  "videos": [
+   {
+    "src": "data/vid/v_a3712cc1e017d0cc.mp4",
+    "poster": "data/vid/v_a3712cc1e017d0cc.jpg"
+   }
+  ],
+  "updated": 1793939687
+ },
+ {
+  "id": 279,
+  "price": 4600000,
+  "price_max": 4600000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "750/ Nguyễn Kiệm",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt chung",
+   "bếp"
+  ],
+  "description": "4tr6 nhà mới xây, cửa số thoáng, có tủ bếp\nĐịa chỉ: 750/ Nguyễn Kiệm, Phú Nhuận\nThang bộ lầu 1\nĐiện 3k8,Nước 100k/người\nDv 150k/phòng, Xe free\nMáy giặt chung sân phơi",
+  "images": [
+   "data/img/hd_f212184c1f9eab6b.jpg",
+   "data/img/hd_bb8b7ec9dc00baf8.jpg",
+   "data/img/hd_09e37f95d2f4210a.jpg",
+   "data/img/hd_57bd06c8d91ee826.jpg",
+   "data/img/hd_722f02dacf9a13d9.jpg",
+   "data/img/hd_7746de7202e8ce5b.jpg",
+   "data/img/hd_19741d0c77742caf.jpg"
+  ],
+  "videos": [],
+  "updated": 1793939466
+ },
+ {
+  "id": 278,
+  "price": 5000000,
+  "price_max": 5000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": null,
+  "street": "Bắc Hải",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "cửa sổ"
+  ],
+  "description": "Phòng cửa sổ thoáng ngay Bắc Hải Quận 10\n3&373/182/ Lý Thường Kiệt, Tân Bình\nĐiện 4k, Nước 100k, Dvu 200k, Free xe\nP202: 5tr lầu 2 thang bộ",
+  "images": [
+   "data/img/hd_39e6e1b801c54509.jpg",
+   "data/img/hd_f60d2130b99db7b4.jpg",
+   "data/img/hd_f6dab6e817937262.jpg"
+  ],
+  "videos": [],
+  "updated": 1793939428
+ },
+ {
+  "id": 275,
+  "price": 6800000,
+  "price_max": 7200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": "Phường 3",
+  "street": "Cô Giang Cầu Kiệu",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "ban công",
+   "full nội thất",
+   "bếp",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "Cô Giang, Cầu Kiệu - TRỐNG SẴN\nPhòng full nội thất cao cấp, tách bếp ngoài ban công, máy giặt riêng.\nNhà mặt tiền, đường ô tô, cửa vân tay, hàng xóm dễ thương rất an ninh.\nGiá phòng: Phòng P.đ/ Phòng P.đ\nĐiện: 4k/ Kwh\nNước: 120k/ 1 người\nDịch vụ: 200k/ phòng\n(Phú Nhuận - 6.000 - 7.000 - ban công)",
+  "images": [
+   "data/img/hd_0892d891b29a32ba.jpg",
+   "data/img/hd_a42bb52ab7506b85.jpg",
+   "data/img/hd_c967db00f1eeb82a.jpg"
+  ],
+  "videos": [],
+  "updated": 1793939222
+ },
+ {
   "id": 270,
   "price": 6200000,
   "price_max": 6200000,
@@ -2619,6 +3600,9 @@
   "street": "Phạm Văn Hai",
   "type": "duplex/gác",
   "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -2656,6 +3640,9 @@
   "street": "Hồ Bá Kiện",
   "type": "duplex/gác",
   "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
   "kind": null,
   "elevator": null,
   "available": "Trống sẵn",
@@ -2673,6 +3660,163 @@
   "updated": 1793938839
  },
  {
+  "id": 267,
+  "price": 4500000,
+  "price_max": 4500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 11",
+  "ward": "Phường 5",
+  "street": "Lạc Long Quân",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Tin nhắn chưa đọc\nLạc Long Quân P5 q11 hẻm 8m thông qua vòng xoay Le Đại Hành\nP306 giá 4tr5",
+  "images": [
+   "data/img/hd_345101123a99bb4a.jpg",
+   "data/img/hd_518f618074d2651b.jpg",
+   "data/img/hd_9ffc9cad85fe322d.jpg",
+   "data/img/hd_40fa3bcf8e85bb3e.jpg",
+   "data/img/hd_e6f7f7c1425df176.jpg"
+  ],
+  "videos": [],
+  "updated": 1793938764
+ },
+ {
+  "id": 266,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Thanh Hùng Vnest",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "6tr5 - cmt8 q10 - sắp hoàn thiện",
+  "images": [],
+  "videos": [
+   {
+    "src": "data/vid/v_36185d249d953c8f.mp4",
+    "poster": "data/vid/v_36185d249d953c8f.jpg"
+   }
+  ],
+  "updated": 1793938490
+ },
+ {
+  "id": 263,
+  "price": 6700000,
+  "price_max": 6700000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "Nguyễn Trãi",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "6tr7 Nguyễn Trãi Q1",
+  "images": [
+   "data/img/hd_6de42ca1f5d7c53d.jpg",
+   "data/img/hd_d080b1e638e0808b.jpg",
+   "data/img/hd_d2d45e7302b53d09.jpg",
+   "data/img/hd_a9ec1f6fa42718fe.jpg",
+   "data/img/hd_c343658bdc456bd9.jpg",
+   "data/img/hd_41fc94465db39e66.jpg",
+   "data/img/hd_889b09d15b4f185c.jpg"
+  ],
+  "videos": [],
+  "updated": 1793938343
+ },
+ {
+  "id": 262,
+  "price": 4300000,
+  "price_max": 4300000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Tô Hiến Thành",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Tin nhắn đã được thu hồi\n4tr3 Tô Hiến Thành Q10",
+  "images": [
+   "data/img/hd_27ef57cc9aafdd31.jpg",
+   "data/img/hd_b57b3c610f73a8dd.jpg",
+   "data/img/hd_2858ed24ae473d89.jpg",
+   "data/img/hd_290a4df0fe770810.jpg",
+   "data/img/hd_ff21f4d7940552b2.jpg",
+   "data/img/hd_aa4c6c9aeb149c69.jpg",
+   "data/img/hd_a5ab92492fdcd899.jpg"
+  ],
+  "videos": [],
+  "updated": 1793938247
+ },
+ {
+  "id": 261,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Cư Xá Trần Quang",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "6tr5 Cư Xá Trần Quang Diệu Q3",
+  "images": [
+   "data/img/hd_7a39da9ca6aafd43.jpg",
+   "data/img/hd_cb08f749ddbace58.jpg",
+   "data/img/hd_2bb99aea2b7de680.jpg",
+   "data/img/hd_c6b812acee775c22.jpg"
+  ],
+  "videos": [],
+  "updated": 1793938204
+ },
+ {
   "id": 260,
   "price": 6000000,
   "price_max": 6000000,
@@ -2683,6 +3827,9 @@
   "street": "42/57a Hoàng Hoa Thám",
   "type": "căn hộ",
   "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": null,
@@ -2715,6 +3862,9 @@
   "street": "9B Lam Sơn",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -2750,6 +3900,9 @@
   "street": "8/8 Nguyễn Đình Khơi P4",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống 30/11",
@@ -2784,6 +3937,9 @@
   "street": "1219/18 Hoàng Sa",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -2828,6 +3984,9 @@
   "street": "48B Trần Bình Trọng",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -2864,6 +4023,9 @@
   "street": "79a Nguyễn Khuyến",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -2925,6 +4087,9 @@
   "street": "25/7 Cửu Long",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -2972,6 +4137,9 @@
   "street": "81/10 Hồ Văn Huê",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -3013,6 +4181,9 @@
   "street": "12 Tân Châu",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -3070,6 +4241,9 @@
   "street": "384/56 Nam Kỳ Khởi Nghĩa",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -3107,6 +4281,9 @@
   "street": "25/16 Nguyễn Bỉnh Khiêm",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -3145,6 +4322,9 @@
   "street": "451/17/ Tô Hiến Thành",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -3186,6 +4366,9 @@
   "street": "113/21a5 Trần Văn Đang",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -3231,6 +4414,9 @@
   "street": "410/13A Cách Mạng Tháng Tám",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": null,
   "available": "Trống sẵn",
@@ -3276,6 +4462,9 @@
   "street": "750/ Nguyễn Kiệm",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": null,
@@ -3307,6 +4496,9 @@
   "street": "339 Tô Hiến Thành",
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": null,
@@ -3336,6 +4528,9 @@
   "street": "189 Lê Văn Sỹ",
   "type": "nhà nguyên căn",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": null,
@@ -3376,6 +4571,9 @@
   "street": "Nam Kỳ Khởi Nghĩa",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -3408,6 +4606,9 @@
   "street": "Bùi Đình Tuý",
   "type": "duplex/gác",
   "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -3443,6 +4644,9 @@
   "street": "4k Nước",
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": null,
   "available": "Trống sẵn",
@@ -3475,6 +4679,9 @@
   "street": "201 Duplex",
   "type": "duplex/gác",
   "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -3509,6 +4716,9 @@
   "street": "Nguyễn Huy Tự",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -3544,6 +4754,9 @@
   "street": null,
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": null,
@@ -3577,6 +4790,9 @@
   "street": "Phạm Ngũ Lão",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -3607,6 +4823,9 @@
   "street": "Thành Thái",
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -3642,6 +4861,9 @@
   "street": "134/1 Cách Mạng Tháng Tám",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống 1/11",
@@ -3679,6 +4901,9 @@
   "street": "15D Phạm Viết Chánh",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -3712,6 +4937,9 @@
   "street": "19 Hoàng Sa",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -3757,6 +4985,9 @@
   "street": "541/5A Trần Hưng Đạo",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -3790,6 +5021,9 @@
   "street": "449/44 Sư Vạn Hạnh",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -3824,6 +5058,9 @@
   "street": "Dương Bá Trạc",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": null,
   "available": "Trống sẵn",
@@ -3848,6 +5085,9 @@
   "street": "Trần Quang Khải",
   "type": null,
   "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
   "kind": null,
   "elevator": null,
   "available": "Trống 5/11",
@@ -3866,6 +5106,54 @@
   "updated": 1793862426
  },
  {
+  "id": 222,
+  "price": 5500000,
+  "price_max": 6700000,
+  "price_deal": 5300000,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường 12",
+  "street": "53 Đường C18",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "KHAI TRƯƠNG CĂN HỘ FULL NỘI THẤT Q. TÂN BÌNH\nAddress: 53 Đường C18, P12, Tân Bình (Phía sau Lotte Cộng Hoà)\nTiên ích\nMáy giặt + sân phơi. Thang Máy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: free 1 xe\nGiá 6tr7 kí HĐ 1 năm giảm 6 tháng đầu còn 6tr5\n(Trống sẵn phòng ở lầu 2 - 206)\nGiá 5tr5 kí HĐÐ 1 năm giảm 6 tháng đầu còn 5tr3\n(Trống sẵn phòng ở lầu 3 - 303)",
+  "images": [
+   "data/img/hd_90e102695f43ea1b.jpg",
+   "data/img/hd_7559e558c4ea3c06.jpg",
+   "data/img/hd_1eb2e36cdcdc15f4.jpg",
+   "data/img/hd_8cf7a03fbc92353b.jpg",
+   "data/img/hd_6e9040ebce6c3270.jpg",
+   "data/img/hd_ed0497d10ab02d0d.jpg",
+   "data/img/hd_a242d41bdaf7784c.jpg",
+   "data/img/hd_0aa6b013f49c51ec.jpg",
+   "data/img/hd_eff31350b929d5ef.jpg",
+   "data/img/hd_1173aeab8a7df526.jpg",
+   "data/img/hd_d9ebba5c7b6415cf.jpg",
+   "data/img/hd_68bc140a003ec38b.jpg",
+   "data/img/hd_0b0a1a6c9f2ae745.jpg",
+   "data/img/hd_d45d27a34e169364.jpg",
+   "data/img/hd_5037e5264e95948d.jpg",
+   "data/img/6d90582fffef63b9.jpg",
+   "data/img/7932c45f91a2692f.jpg",
+   "data/img/3115dc6c1a618e5e.jpg"
+  ],
+  "videos": [],
+  "updated": 1793862141
+ },
+ {
   "id": 221,
   "price": 5600000,
   "price_max": 6400000,
@@ -3876,6 +5164,9 @@
   "street": "88 Nguyễn Đình Chiểu",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -3915,6 +5206,9 @@
   "street": "955 Lạc Long Quân",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": null,
@@ -3943,6 +5237,9 @@
   "street": "1357/6 Hoàng Sa",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -3976,6 +5273,9 @@
   "street": "220 Hồ Văn Huê",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống 22/11",
@@ -4025,6 +5325,9 @@
   "street": "80 Đường C18",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống 10/11",
@@ -4068,6 +5371,9 @@
   "street": "53 Đường C18",
   "type": "căn hộ",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -4104,6 +5410,9 @@
   "street": "26 Ngô Đức Kế",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -4132,6 +5441,47 @@
   "updated": 1793861327
  },
  {
+  "id": 214,
+  "price": 4700000,
+  "price_max": 4700000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "20 Hoàng Kế Viêm",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp"
+  ],
+  "description": "20 Hoàng Kế Viêm, BHIEN (Khu K300)\nChi phí\nĐiện: 4k/kwh\nNước: 100k/người\nDvu: 200k/phòng\nXe: 100k/xe\ny Nội thất\nMáy lạnh, tủ lạnh nhỏ 1 cánh, máy nước nóng lạnh, giường - nệm, tủ quần áo, tủ - kệ bếp\nThêm tủ lạnh mới 2 cánh: 300k\n4tr7 ngay Bắc Hải, Quận 10",
+  "images": [
+   "data/img/fb8420a69a51a1b7.jpg",
+   "data/img/e17b3d9d4aa9caab.jpg",
+   "data/img/f8076d9f356577c7.jpg",
+   "data/img/c825f9a4b7539dea.jpg",
+   "data/img/ffe985b99d089e91.jpg",
+   "data/img/8a7bb667f382d753.jpg",
+   "data/img/952884d290207a0e.jpg",
+   "data/img/02ef26a816a83105.jpg",
+   "data/img/57c3f8799630e476.jpg",
+   "data/img/0ff7aeed4e2682b0.jpg",
+   "data/img/c1a95d42633e2c08.jpg"
+  ],
+  "videos": [],
+  "updated": 1793771393
+ },
+ {
   "id": 212,
   "price": 4200000,
   "price_max": 4200000,
@@ -4142,6 +5492,9 @@
   "street": "1355 Hoàng Sa",
   "type": null,
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": null,
@@ -4172,6 +5525,9 @@
   "street": "50 Đào Duy Anh",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -4200,6 +5556,9 @@
   "street": "Hoàng Sa",
   "type": null,
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -4235,6 +5594,9 @@
   "street": "Nguyễn Trãi",
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống 15/11",
@@ -4269,6 +5631,9 @@
   "street": "Tô Hiến Thành",
   "type": "duplex/gác",
   "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -4301,6 +5666,9 @@
   "street": "Lê Văn Sỹ Tân",
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -4331,6 +5699,9 @@
   "street": "83/7B Bạch Đằng",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -4380,6 +5751,9 @@
   "street": "247 Hoàng Hoa Thám",
   "type": "căn hộ",
   "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": null,
@@ -4423,6 +5797,9 @@
   "street": "12/27 Hoàng Hoa Thám",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -4454,6 +5831,9 @@
   "street": "12/11 Đặng Minh Trứ",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -4489,6 +5869,9 @@
   "street": "49A Nguyễn Hữu Cảnh",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": null,
@@ -4529,6 +5912,9 @@
   "street": "27 Lộc Hưng",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -4566,6 +5952,9 @@
   "street": "49/30/ Nguyễn Văn Đậu",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -4612,6 +6001,9 @@
   "street": "79a Nguyễn Khuyến",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -4649,6 +6041,9 @@
   "street": "206/69/ Xô Viết Nghệ Tĩnh",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -4685,6 +6080,9 @@
   "street": "29/16 Tân Cảng",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": null,
@@ -4720,6 +6118,9 @@
   "street": "629 Điện Biên Phủ",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": null,
   "available": "Trống sẵn",
@@ -4751,6 +6152,9 @@
   "street": "194/48 Bạch Đằng",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": null,
@@ -4787,6 +6191,9 @@
   "street": "65 Nguyễn Trọng Lội",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống 28/11",
@@ -4825,6 +6232,56 @@
   "updated": 1793731082
  },
  {
+  "id": 188,
+  "price": 6000000,
+  "price_max": 6000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "52 Bùi Văn Thêm",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "52 Bùi Văn Thêm, Phú Nhuận\nĐiện: 3.500/kwh\nNước: 100.000/người\nPhí dịch vụ: 150.000/phòng, 3ng ở thêm phí dịch vụ\nXe: ~350.000/tháng (gửi bãi ngoài đối diện)\nPet: không\nXe điện: không\n6tr ban công chill, dự án mới\n52 Bùi Văn Thêm, Phú Nhuận\nĐiện: 3.500/kwh\nNước: 100.000/người\nPhí dịch vụ: 150.000/phòng, 3ng ở thêm phí dịch vụ\nXe: ~350.000/tháng (gửi bãi ngoài đối diện)\nPet: không\nXe điện: không",
+  "images": [
+   "data/img/hd_cbde1f98b1105002.jpg",
+   "data/img/hd_2ea6dabee84a0fd9.jpg",
+   "data/img/hd_e1d07deccc7cc58f.jpg",
+   "data/img/hd_ad47b8adc490df71.jpg",
+   "data/img/hd_ab37a2e6388a2a4f.jpg",
+   "data/img/hd_4591dcf5a3c77a34.jpg",
+   "data/img/hd_c9338cf8c005a0c7.jpg",
+   "data/img/hd_f67d5bf213358593.jpg",
+   "data/img/hd_a6a70757cf910cb1.jpg",
+   "data/img/cd4fe1d9c4c6d6a0.jpg",
+   "data/img/hd_fdaeeffedc381349.jpg",
+   "data/img/hd_bac337e5cbe72832.jpg",
+   "data/img/hd_f5ae0af32205c9e3.jpg",
+   "data/img/hd_7f41b2034cbea046.jpg",
+   "data/img/hd_5ef2951066444ba6.jpg",
+   "data/img/60b578b21c1d302b.jpg",
+   "data/img/276526e08f7dc73d.jpg",
+   "data/img/8f11047ebf799c6f.jpg",
+   "data/img/da4f0311c1ab36c6.jpg",
+   "data/img/ba18cebae7f0e7dc.jpg",
+   "data/img/9e9fc74e7c05b636.jpg",
+   "data/img/dbb14f72d4c1fa0e.jpg"
+  ],
+  "videos": [],
+  "updated": 1793725310
+ },
+ {
   "id": 184,
   "price": 7200000,
   "price_max": 7200000,
@@ -4835,6 +6292,9 @@
   "street": "443/64 Điện Biên Phủ",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -4860,6 +6320,51 @@
   "updated": 1793717414
  },
  {
+  "id": 183,
+  "price": 9500000,
+  "price_max": 9500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "212A3 Nguyễn Trãi",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "KHAI TRƯƠNG CĂN HỘ MỚI 100% FULL NỘI THẤT QUẬN 1\nAddress: 212A3 Nguyễn Trãi, Q1\nTiên ích\nMáy giặt Riêng. Thang Máy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 150k/người\nDịch vụ: 200k/phòng\nPhí xe: Free 1xe\nGiá 9tr5 (Trống sẵn phòng balcon to ở lầu 5 - 501)",
+  "images": [
+   "data/img/hd_83a4aa9bd3d036ab.jpg",
+   "data/img/hd_90e0570a5c40dccf.jpg",
+   "data/img/hd_4a31b80a957d2594.jpg",
+   "data/img/hd_f71a8e7d01f6240c.jpg",
+   "data/img/hd_493a23853da88661.jpg",
+   "data/img/hd_670eab6c5092edaa.jpg",
+   "data/img/hd_bed3a22fa7cff241.jpg",
+   "data/img/hd_f9890bff5a3c3b95.jpg",
+   "data/img/hd_f7205b1da24c5e3a.jpg",
+   "data/img/hd_b2ebb0f56079c55d.jpg",
+   "data/img/hd_8dd5de6c34fc1cbc.jpg",
+   "data/img/hd_042402f517703200.jpg",
+   "data/img/hd_d5e3a3d9386de846.jpg",
+   "data/img/hd_114911e37726478b.jpg"
+  ],
+  "videos": [],
+  "updated": 1793717261
+ },
+ {
   "id": 181,
   "price": 8000000,
   "price_max": 9000000,
@@ -4870,6 +6375,9 @@
   "street": "Cầm Bá Thước",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống 1/12",
@@ -4903,6 +6411,9 @@
   "street": "Cô Bắc",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": null,
   "available": "Trống sẵn",
@@ -4928,6 +6439,44 @@
   "updated": 1793715049
  },
  {
+  "id": 171,
+  "price": 4500000,
+  "price_max": 4500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": "Phường 7",
+  "street": "Nhiêu Tứ",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "full nội thất",
+   "bếp",
+   "wc riêng",
+   "chỗ để xe"
+  ],
+  "description": "Ế) PHÒNG XỊN GIÁ SINH VIÊN - PHÚ NHUẬN | NMHOUSE\nlỗ Chỉ 4TR5/THÁNG\nFull nội thất như hình, WC riêng, ban công thoáng mát, kệ bếp tiện lợi.\nÍ Free chỗ để xe máy & máy giặt dùng chung.\nNhiêu Tứ, P.7, Phú Nhuận\n10 phút đến sân bay Tân Sơn Nhất\ns Thuận tiện đi Q1 - Tân Bình\nGần phố ầm thực Phan Xích Long.\nDién 3.800d/kWh | Nudc 100k/ngudi | Dich vu 150k/phong (Wifi, rac, vé sinh chung).\nKhông gian sống tiện nghi, hiện đại, có nét riêng.\n( Phú Nhuận - 4.000 - 5.000 - Ban Công )",
+  "images": [
+   "data/img/hd_866bde966254536c.jpg",
+   "data/img/hd_5b7a44e8457fb531.jpg",
+   "data/img/hd_9caa795c9b7fc1fa.jpg",
+   "data/img/hd_768b38b24169a7a1.jpg",
+   "data/img/hd_dc19c594a40a953f.jpg",
+   "data/img/hd_448f2aa69b2ff810.jpg"
+  ],
+  "videos": [],
+  "updated": 1793712940
+ },
+ {
   "id": 169,
   "price": 12800000,
   "price_max": 19900000,
@@ -4938,6 +6487,9 @@
   "street": "538/6 Lý Thường Kiệt",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -5004,6 +6556,9 @@
   "street": "144/29 Lý Chính Thắng",
   "type": "căn hộ",
   "layout": "3PN",
+  "layouts": [
+   "3PN"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống 4/11",
@@ -5044,6 +6599,9 @@
   "street": "68 Bình Giã",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống 15/11",
@@ -5085,6 +6643,9 @@
   "street": "5 Nguyễn Cảnh Dị",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -5151,6 +6712,9 @@
   "street": "19 Trần Bình Trọng",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống 15/11",
@@ -5190,6 +6754,9 @@
   "street": "54/45 Đào Duy Anh",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -5252,6 +6819,9 @@
   "street": "14/8a Trần Nhân Trung",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": null,
   "available": "Trống sẵn",
@@ -5293,6 +6863,9 @@
   "street": "233 Lý Chính Thắng",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -5331,6 +6904,150 @@
   "updated": 1793709246
  },
  {
+  "id": 160,
+  "price": 4200000,
+  "price_max": 4200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "521/95 Cách Mạng Tháng 8",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp"
+  ],
+  "description": "4tr2\n521/95 CMT8, Quận 10 (ngay Tô Hiến Thành)\nMã phòng: 101\nNội thất: giường, nệm, máy lạnh, kệ bếp, tủ lạnh, bàn ghế, quạt, xào đồ, máy nước nóng",
+  "images": [
+   "data/img/e89b3949726187d5.jpg",
+   "data/img/9723896fdc863062.jpg",
+   "data/img/47e74eefc1752aef.jpg",
+   "data/img/3efff477a4f4b4f3.jpg",
+   "data/img/ec9c1ee6218dd324.jpg",
+   "data/img/618949b4ade663f3.jpg",
+   "data/img/74c921af70e714e5.jpg",
+   "data/img/5dd9174668726586.jpg"
+  ],
+  "videos": [],
+  "updated": 1793708208
+ },
+ {
+  "id": 159,
+  "price": 4500000,
+  "price_max": 4500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": "Phường Tân Hòa",
+  "street": "109 Đất Thánh",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Địa chỉ: 109 Đất Thánh, Phường Tân Hòa\nĐiện 4k/kwh\nNước 100k/người\nDv: 100k/phòng\n4tr5 ngay Bắc Hải, Quận 10\nĐịa chỉ: 109 Đất Thánh, Phường Tân Hòa\nĐiện 4k/kwh\nNước 100k/người\nDv: 100k/phòng",
+  "images": [
+   "data/img/hd_e0e98ac607af5e48.jpg",
+   "data/img/hd_f4c782a2d6bcd560.jpg",
+   "data/img/hd_6189d0e3ae796a6d.jpg",
+   "data/img/hd_8c7a8b96a7a290cb.jpg",
+   "data/img/hd_06524c582ce3ce24.jpg",
+   "data/img/hd_1bf089fc86eee1fc.jpg",
+   "data/img/hd_62efdadfc5d35054.jpg",
+   "data/img/hd_35b39890a4186569.jpg",
+   "data/img/hd_dcd9a4b5951923e8.jpg",
+   "data/img/hd_dcd9a4b5951923e8.jpg",
+   "data/img/hd_82012fceecb6cf7a.jpg",
+   "data/img/hd_0fb7fbba6160406b.jpg",
+   "data/img/hd_b9587e13be4bff6c.jpg",
+   "data/img/hd_6ffd94054fb40b30.jpg",
+   "data/img/hd_35b39890a4186569.jpg",
+   "data/img/9a004f94c5f357ad.jpg",
+   "data/img/b0db4f61c2af9d00.jpg"
+  ],
+  "videos": [],
+  "updated": 1793707643
+ },
+ {
+  "id": 158,
+  "price": 4700000,
+  "price_max": 4700000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Bắc Hải",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "4tr7 ngay Bắc Hải, Quận 10",
+  "images": [],
+  "videos": [],
+  "updated": 1793707641
+ },
+ {
+  "id": 155,
+  "price": 5800000,
+  "price_max": 5800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "100 Lê Văn Sỹ",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "ban công",
+   "nuôi thú cưng"
+  ],
+  "description": "Giảm còn 5tr8 máy giặt riêng, ban công nhỏ\nĐịa chỉ: 100 Lê Văn Sỹ, Phú Nhuận\nĐiện: 4k/kwh\nNước: 100K/người\nPhí Dịch Vụ: 200k/phòng\nXe free 2 chiếc\nCho nuôi pet có cam kết",
+  "images": [
+   "data/img/8a01cf04eb436bd4.jpg",
+   "data/img/bbe5a7229cc86c2b.jpg",
+   "data/img/9eaecaa9322c3d5f.jpg",
+   "data/img/e79b40f4eb41051c.jpg",
+   "data/img/54af3713f39489d2.jpg",
+   "data/img/2e0cf3063bc8b74f.jpg",
+   "data/img/e470b3959b457785.jpg",
+   "data/img/47ce9d45c9831b64.jpg"
+  ],
+  "videos": [],
+  "updated": 1793706325
+ },
+ {
   "id": 153,
   "price": 7800000,
   "price_max": 7800000,
@@ -5341,6 +7058,9 @@
   "street": "33 Hoa Lan",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -5375,6 +7095,9 @@
   "street": "Vĩnh Hội",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -5424,6 +7147,9 @@
   "street": "Lê Văn Sỹ",
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": null,
   "available": "Trống 1/12",
@@ -5453,6 +7179,9 @@
   "street": "Cách Mạng Tháng Tám",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -5487,6 +7216,9 @@
   "street": "Hồng Bàng",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": null,
@@ -5524,6 +7256,9 @@
   "street": "Bên Hông Việt Nam Quốc Tự",
   "type": "duplex/gác",
   "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
   "kind": null,
   "elevator": null,
   "available": "Trống 15/11",
@@ -5564,6 +7299,9 @@
   "street": "Trần Quang Khải",
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": null,
   "available": "Trống 5/11",
@@ -5591,6 +7329,9 @@
   "street": "Trần Khánh Dư",
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -5625,6 +7366,9 @@
   "street": "Nguyễn Trãi",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": null,
@@ -5655,6 +7399,9 @@
   "street": "Hòa Hưng",
   "type": null,
   "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -5685,6 +7432,9 @@
   "street": "Hoà Hưng",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -5715,6 +7465,9 @@
   "street": "Phan Xích Long",
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": null,
   "available": "Trống sẵn",
@@ -5739,6 +7492,9 @@
   "street": "Lê Văn Sỹ",
   "type": null,
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": null,
@@ -5762,6 +7518,9 @@
   "street": "Bắc Hải",
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": null,
@@ -5786,6 +7545,9 @@
   "street": "736/13 Cách Mạng Tháng 8",
   "type": "duplex/gác",
   "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": null,
@@ -5822,6 +7584,9 @@
   "street": "66/25 Phổ Quang",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": null,
@@ -5859,6 +7624,9 @@
   "street": "385/13 Nguyễn Xí",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": null,
@@ -5898,6 +7666,9 @@
   "street": "216 Vạn Kiếp",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -5931,6 +7702,9 @@
   "street": "Phan Đình Phùng",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -5964,6 +7738,9 @@
   "street": "19/43 Cô Bắc",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": null,
@@ -6000,6 +7777,9 @@
   "street": "52A Huỳnh Mẫn Đạt",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -6038,6 +7818,9 @@
   "street": "273/47 Nguyễn Văn Đậu",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống 30/11",
@@ -6075,6 +7858,9 @@
   "street": "606/49/ Đường 3/2",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -6112,6 +7898,9 @@
   "street": "7A/5/46 Thành Thái",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -6151,6 +7940,9 @@
   "street": "394 Nguyễn Đình Chiểu",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -6185,6 +7977,9 @@
   "street": "72/9A Bạch Đằng",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": null,
@@ -6218,6 +8013,9 @@
   "street": "75/9C Nguyễn Đình Chiều",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống 15/11",
@@ -6262,6 +8060,9 @@
   "street": "170 Ung Văn Khiêm",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -6299,6 +8100,9 @@
   "street": "403 Trường Chinh",
   "type": null,
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -6329,6 +8133,9 @@
   "street": "50 Đào Duy Anh",
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": null,
@@ -6357,6 +8164,9 @@
   "street": "217/102/ Bùi Đình Tuý",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -6395,6 +8205,9 @@
   "street": "191 Điện Biên Phủ",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -6431,6 +8244,9 @@
   "street": "3 Trần Nhật Duật",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống 8/11",
@@ -6475,6 +8291,9 @@
   "street": "100 Trần Hưng Đạo",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống 5/11",
@@ -6500,6 +8319,9 @@
   "street": "220 Nguyễn Thị Minh Khai",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -6559,6 +8381,9 @@
   "street": "108/66 Trần Quang Diệu",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -6596,6 +8421,9 @@
   "street": "258/64 Trần Hưng Đạo",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống 30/11",
@@ -6638,6 +8466,9 @@
   "street": "105bis Võ Thị Sáu",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -6688,6 +8519,9 @@
   "street": "525/48 Tô Hiến Thành",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống 5/11",
@@ -6724,6 +8558,9 @@
   "street": "24 Cư Xá Trần Quang Diệu",
   "type": "căn hộ",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -6756,6 +8593,9 @@
   "street": "173 Trần Huy Liệu",
   "type": null,
   "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -6798,6 +8638,9 @@
   "street": "Trần Quang Diệu",
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -6834,6 +8677,9 @@
   "street": "Trần Hưng Đạo",
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -6866,6 +8712,9 @@
   "street": "2 Pn",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -6887,6 +8736,9 @@
   "street": "Hồ Bá Kiện",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": null,
   "available": "Trống 31/10",
@@ -6920,6 +8772,9 @@
   "street": "3 Tháng 2",
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -6960,6 +8815,9 @@
   "street": "Trần Quang Khải",
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": null,
   "available": "Trống 1/11",
@@ -6990,6 +8848,9 @@
   "street": "Cách Mạng Tháng 8",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": null,
   "available": "Trống sẵn",
@@ -7026,6 +8887,9 @@
   "street": "Lý Thường Kiệt",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": null,
   "available": "Trống sẵn",
@@ -7056,6 +8920,9 @@
   "street": "Vũ Tùng",
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": null,
   "available": "Trống 19/11",
@@ -7088,6 +8955,9 @@
   "street": "194 Phan Văn Trị",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -7126,6 +8996,9 @@
   "street": "Tân Trang",
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -7159,6 +9032,9 @@
   "street": "Âu Cơ",
   "type": null,
   "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -7188,6 +9064,9 @@
   "street": "Hiệp Nhất",
   "type": null,
   "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -7217,6 +9096,9 @@
   "street": "219/93a Trần Văn Đang",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống 1/12",
@@ -7262,6 +9144,9 @@
   "street": "260 Bùi Viện",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": null,
@@ -7295,6 +9180,9 @@
   "street": "15/5 Bà Lê Chân",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -7333,6 +9221,9 @@
   "street": "458/54 Đường 3/2",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -7363,6 +9254,9 @@
   "street": "Hàn Hải Nguyên",
   "type": null,
   "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -7397,6 +9291,9 @@
   "street": "16 Võ Thành Trang",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -7431,6 +9328,9 @@
   "street": "57 Nguyễn Trọng Lội",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -7463,6 +9363,9 @@
   "street": "69/42 Nơ Trang Long",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -7497,6 +9400,9 @@
   "street": "333/24 Lê Văn Sỹ",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -7534,6 +9440,9 @@
   "street": "301/5A Phan Văn Trị",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -7567,6 +9476,9 @@
   "street": "Hẻm 170 Bùi Đình Tuý",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": null,
@@ -7609,6 +9521,9 @@
   "street": "86/21 Thích Quảng Đức",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -7657,6 +9572,9 @@
   "street": "304E Nguyễn Văn Đậu",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -7694,6 +9612,9 @@
   "street": "18 Võ Trường Toản",
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -7739,6 +9660,9 @@
   "street": "332/42/ Phan Văn Trị",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -7775,6 +9699,9 @@
   "street": "50 Trường Sơn",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -7814,6 +9741,9 @@
   "street": "8/36 Hoàng Hoa Thám",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -7847,6 +9777,9 @@
   "street": "237 Thích Quảng Đức",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": null,
@@ -7883,6 +9816,9 @@
   "street": "506/19/ Đường 3/2",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -7939,6 +9875,9 @@
   "street": "443/37 Lê Văn Sỹ",
   "type": "căn hộ",
   "layout": "3PN",
+  "layouts": [
+   "3PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": null,
@@ -7988,6 +9927,9 @@
   "street": "115 Cư Xá Nguyễn Văn Trỗi",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -8031,6 +9973,9 @@
   "street": "133 Bà Huyện Thanh Quan",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống 15/11",
@@ -8067,6 +10012,9 @@
   "street": "451/17/ Tô Hiến Thành",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -8119,6 +10067,9 @@
   "street": "84 An Bình",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -8154,6 +10105,9 @@
   "street": "18bis/13/ Nguyễn Thị Minh Khai",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống 18/11",
@@ -8199,6 +10153,9 @@
   "street": "14 Trần Hưng Đạo",
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": null,
@@ -8231,6 +10188,9 @@
   "street": "123 Lê Trung Nghĩa",
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -8253,6 +10213,37 @@
   "updated": 1793374389
  },
  {
+  "id": 56,
+  "price": 5500000,
+  "price_max": 5500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "101 Thành Thái",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bếp"
+  ],
+  "description": "101 Thành Thái, Quận 10\nPhòng cửa số lầu 2 giá\n5tr5\nFull nội thất: Máy sấy\nchung, máy giặt riêng\n2 người, Free 2 xe máy\nĐiện 4k, nước\n120k/người, phí dịch vụ\n200k\nKhông xe điện, bếp ga,\nthú cưng",
+  "images": [
+   "data/img/d80b0b03d0035f5d.jpg"
+  ],
+  "videos": [],
+  "updated": 1793374376
+ },
+ {
   "id": 55,
   "price": 5300000,
   "price_max": 5300000,
@@ -8263,6 +10254,9 @@
   "street": "221 Trần Huy Liệu",
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -8288,6 +10282,9 @@
   "street": "122 Đỗ Tấn Phong",
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": null,
@@ -8325,6 +10322,9 @@
   "street": "Tô Hiến Thành",
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": null,
@@ -8351,6 +10351,9 @@
   "street": "69 Trường Sơn",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -8391,6 +10394,9 @@
   "street": "158 Võ Thị Sáu",
   "type": "chung cư",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": "Chung cư",
   "elevator": "Thang máy",
   "available": null,
@@ -8422,6 +10428,9 @@
   "street": "Nguyễn Thanh Tuyền",
   "type": "nhà nguyên căn",
   "layout": "3PN",
+  "layouts": [
+   "3PN"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -8463,6 +10472,9 @@
   "street": "74 Nguyễn Đình Chiểu",
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -8495,6 +10507,9 @@
   "street": "Hùng Vương",
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -8523,6 +10538,9 @@
   "street": "Đồng Nai",
   "type": "duplex/gác",
   "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -8568,6 +10586,9 @@
   "street": "Âu Cơ",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -8602,6 +10623,9 @@
   "street": "Nguyễn Bặc",
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -8618,6 +10642,71 @@
   "updated": 1793372987
  },
  {
+  "id": 42,
+  "price": 5000000,
+  "price_max": 5000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "52 Bùi Văn Thêm",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "cửa sổ"
+  ],
+  "description": "5tr cửa sổ, dự án mới, giá có thương lượng\n52 Bùi Văn Thêm, Phú Nhuận\nĐiện: 3.500/kwh\nNước: 100.000/người\nPhí dịch vụ: 150.000/phòng, 3ng ở thêm phí dịch vụ\nXe: ~350.000/tháng (gửi bãi ngoài đối diện)\nPet: không\nXe điện: không",
+  "images": [
+   "data/img/hd_cbde1f98b1105002.jpg",
+   "data/img/hd_2ea6dabee84a0fd9.jpg",
+   "data/img/hd_e1d07deccc7cc58f.jpg",
+   "data/img/hd_ad47b8adc490df71.jpg",
+   "data/img/hd_ab37a2e6388a2a4f.jpg",
+   "data/img/hd_4591dcf5a3c77a34.jpg",
+   "data/img/hd_c9338cf8c005a0c7.jpg",
+   "data/img/hd_f67d5bf213358593.jpg",
+   "data/img/hd_a6a70757cf910cb1.jpg"
+  ],
+  "videos": [],
+  "updated": 1793362034
+ },
+ {
+  "id": 41,
+  "price": 6800000,
+  "price_max": 6800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "163 Tô Hiến Thành",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 1/11",
+  "available_date": "2026-11-01",
+  "amenities": [
+   "full nội thất",
+   "bảo vệ"
+  ],
+  "description": "163 Tô Hiến Thành, Quận\n10\n1/11 trống mã 503\nFull nội thất (có tivi)\nGiường 1m4\nBảo vệ 24/7\nThang máy\nGiá thuê 6tr8\nNước, Wifi: 200k/người\n(thương lượng)\nXe: 180k/chiếc\nĐiện 4k/kwh\nPQL: free",
+  "images": [],
+  "videos": [],
+  "updated": 1793361996
+ },
+ {
   "id": 40,
   "price": 6500000,
   "price_max": 6500000,
@@ -8628,6 +10717,9 @@
   "street": "601/ CMT8",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": null,
   "available": "Trống sẵn",
@@ -8665,6 +10757,9 @@
   "street": "207 Nguyễn Trọng Tuyển",
   "type": null,
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": null,
@@ -8704,6 +10799,9 @@
   "street": "Lạc Long Quân",
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -8733,6 +10831,9 @@
   "street": "Cù Lao",
   "type": "duplex/gác",
   "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
   "kind": null,
   "elevator": null,
   "available": "Trống 1/11",
@@ -8763,6 +10864,9 @@
   "street": "Cô Giang",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -8796,6 +10900,9 @@
   "street": "Nơ Trang Long",
   "type": "duplex/gác",
   "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": null,
@@ -8833,6 +10940,9 @@
   "street": "Nguyễn Tri Phương",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -8860,6 +10970,9 @@
   "street": null,
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -8892,6 +11005,9 @@
   "street": "Cách Mạng Tháng Tám",
   "type": "căn hộ",
   "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống 25/11",
@@ -8927,6 +11043,9 @@
   "street": "Tô Hiến Thành",
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -8952,6 +11071,9 @@
   "street": "Hàn Hải Nguyên",
   "type": null,
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -8984,6 +11106,9 @@
   "street": "Hàn Hải Nguyên",
   "type": null,
   "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -9014,6 +11139,9 @@
   "street": "Hàn Hải Nguyên",
   "type": null,
   "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -9045,6 +11173,9 @@
   "street": "75/9C Nguyễn Đình Chiều",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": null,
@@ -9083,6 +11214,9 @@
   "street": "1357/6 Hoàng Sa",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -9119,6 +11253,9 @@
   "street": "88/22 Đào Duy Anh",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống 31/10",
@@ -9153,6 +11290,9 @@
   "street": "282/10A Bùi Hữu Nghĩa",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống 7/11",
@@ -9187,6 +11327,9 @@
   "street": "1219/18 Hoàng Sa",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": null,
@@ -9221,6 +11364,9 @@
   "street": "243/18 Ngô Tất Tố",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang bộ",
   "available": "Trống sẵn",
@@ -9262,6 +11408,9 @@
   "street": "22 Sao Mai",
   "type": "studio",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống 30/10",
@@ -9292,6 +11441,9 @@
   "street": "199/61A1 Lê Quang Định",
   "type": "căn hộ",
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": "Thang máy",
   "available": "Trống sẵn",
@@ -9327,6 +11479,9 @@
   "street": "Gò Công",
   "type": "căn hộ",
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -9359,6 +11514,9 @@
   "street": "Lê Văn Sỹ",
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": null,
   "available": "Trống cuối tháng 10",
@@ -9388,6 +11546,9 @@
   "street": "Đỗ Quang Đầu",
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": null,
   "available": "Trống sẵn",
@@ -9417,6 +11578,9 @@
   "street": "Lữ Gia",
   "type": "duplex/gác",
   "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -9442,6 +11606,9 @@
   "street": "Tô Hiến Thành",
   "type": null,
   "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -9472,6 +11639,9 @@
   "street": "Đồng Nai",
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -9498,6 +11668,9 @@
   "street": "Đồng Nai",
   "type": null,
   "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
@@ -9528,6 +11701,9 @@
   "street": "Đồng Nai",
   "type": null,
   "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
   "kind": null,
   "elevator": null,
   "available": null,
