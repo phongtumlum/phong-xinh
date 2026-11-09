@@ -1,5 +1,158 @@
 [
  {
+  "id": 413,
+  "price": 5800000,
+  "price_max": 5800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "30/11 Trống",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 30/11",
+  "available_date": "2026-11-30",
+  "amenities": [
+   "cửa sổ",
+   "full nội thất",
+   "chỗ để xe",
+   "vân tay"
+  ],
+  "description": "DỰ ÁN: TRƯỜNG SA QUẬN 3\nTòa nhà thang máy 5 lầu. Giặt phơi chung lầu 5\nRa vào vân tay, bãi xe rộng. Nhận khách nước ngoài\nCách mặt tiền đường 1-2 căn. Thuận tiện di chuyển các quận trung tâm\nP.602 30/11 Trống studio cửa sổ trời full nội thất như hình. Phòng trên cùng lầu 6 (thang máy lầu 5 đi bộ lên 1 tầng\nnữa)\nGIÁ: 5.800.000 (5tr8)\nCọc 1 tháng + 1.000.000\nĐiện: 4.000/kwh\nNước: 100.000/người\nPhí dịch vụ: 150.000/phòng\nXe free\n( Quận 3 - 5.000 - 6.000 )",
+  "images": [
+   "data/img/hd_f139b298178c3b07.jpg",
+   "data/img/hd_34ea75fe5d731d5e.jpg",
+   "data/img/hd_ba5545edb1c54013.jpg",
+   "data/img/hd_8b2d0e5888ee0cbc.jpg",
+   "data/img/hd_be552a86dab3cf25.jpg",
+   "data/img/hd_10856b8a017c165b.jpg",
+   "data/img/hd_4240089c47a11409.jpg"
+  ],
+  "videos": [],
+  "updated": 1794238271
+ },
+ {
+  "id": 410,
+  "price": 8200000,
+  "price_max": 8200000,
+  "price_deal": 8000000,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "Nguyễn Bỉnh Khiêm",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "cửa sổ",
+   "bếp"
+  ],
+  "description": "Mã phòng 202 ngủ tách bếp, trục sau cửa sổ giếng trời ( thang bộ )\nTrống sẵn\nGiá 8tr2 chốt 8tr\nĐiện 4k - nước 200k/1 người - Dv 200k/1 phòng\nFree 1 xe\n( Quận 1 - 7.000 - 8.000 - 1PN )",
+  "images": [
+   "data/img/hd_1229d2bb78a20ac2.jpg",
+   "data/img/hd_80296374bd3c6ca8.jpg",
+   "data/img/hd_3af45296c7e616f8.jpg",
+   "data/img/hd_931664b72eef4b29.jpg",
+   "data/img/hd_5715ddf24d3aabb5.jpg",
+   "data/img/hd_599feeab1219b8c7.jpg",
+   "data/img/hd_118ebbba7677ce70.jpg",
+   "data/img/hd_47a1ac8e05956299.jpg",
+   "data/img/hd_de1d82394cf9959d.jpg",
+   "data/img/hd_a18a90ff2cd45980.jpg",
+   "data/img/hd_12d7c9d2111584e6.jpg",
+   "data/img/hd_8be52fd0b5eb5a2a.jpg"
+  ],
+  "videos": [],
+  "updated": 1794238166
+ },
+ {
+  "id": 409,
+  "price": 5000000,
+  "price_max": 6000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": "Phường Nhiêu Lộc",
+  "street": "Trần Văn Đang",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "AIll Cập nhật phòng\nTrần Văn Đang - P. Nhiêu Lộc - TP. HCM (hẻm xe hơi tận nhà)\nThang bộ\nĐiện: 4.000/Kwh\nNước 120.000đ/Người\nØ$ Dịch vụ (rác, wifi, vệ sinh chung, sấy...)\n200.000/phòng (1 người)\n250.000/phòng (2 người)\nFree 1 xe (xe thứ 2 - 150k/chiếc)\nTin nhắn đã được thu hồi\nTin nhắn đã được thu hồi\n( Quận 3 - 5.000 - 6.000 - Ban Công )",
+  "images": [
+   "data/img/hd_61a07ae3b1796434.jpg",
+   "data/img/hd_564c18bea9688c24.jpg",
+   "data/img/hd_1c107c7c4472d949.jpg",
+   "data/img/hd_59295c8b8431ff3f.jpg",
+   "data/img/hd_a3aacc8effef9ced.jpg",
+   "data/img/hd_a3d4e365b23f9cd5.jpg",
+   "data/img/hd_72f5c1487643f046.jpg",
+   "data/img/hd_15860f6c5ede59f2.jpg"
+  ],
+  "videos": [],
+  "updated": 1794238088
+ },
+ {
+  "id": 408,
+  "price": 6200000,
+  "price_max": 6200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": "Phường 9",
+  "street": "Đỗ Tấn Phong",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "cửa sổ",
+   "full nội thất"
+  ],
+  "description": "Tin nhắn chưa đọc\nĐỗ Tấn Phong,p9,Phú Nhuận\nMp:102\nGIA: 6.200.000\nĐiện 4k, nước 100k/ người,phí dv:150k/phòng\nphòng full nội thất cửa sổ, ban công\nxung quanh nhiều tiện ích, chợ, siêu thị...\nlầu 1 thang bộ\n( Phú Nhuận - 6.000 - 7.000 - Ban Công )",
+  "images": [
+   "data/img/hd_5d5337e1e04b13a0.jpg",
+   "data/img/hd_5aa34de4938a7378.jpg",
+   "data/img/hd_a51a8cac72a2e136.jpg",
+   "data/img/hd_76ddc4e9ca69283c.jpg",
+   "data/img/hd_05445f0aa30b121d.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_34360a761830aec1.mp4",
+    "poster": "data/vid/v_34360a761830aec1.jpg"
+   }
+  ],
+  "updated": 1794238026
+ },
+ {
   "id": 406,
   "price": 5800000,
   "price_max": 6500000,
