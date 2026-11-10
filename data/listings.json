@@ -1,5 +1,302 @@
 [
  {
+  "id": 495,
+  "price": 7500000,
+  "price_max": 7700000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "357A Nguyễn Thượng Hiền",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "TRỐNG CĂN 1 PHÒNG NGỦ FULL NỘI THẤT QUẬN 10\nĐịa chỉ: 357A Nguyễn Thượng Hiền, Q10\nTiên ích\nMáy giặt + sân phơi. Thang bộ\n1PN trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 120k/người\nDịch vụ: 200k/phòng\nPhí xe: 150k/ chiếc\nGiá 7tr7 (Trống sẵn phòng ở lầu 1 - 101)\nGiá 7tr5 ( Ngày 17/11 trống phòng ở lầu 2 - 201)",
+  "images": [
+   "data/img/hd_7c3fa63c0ec438c2.jpg",
+   "data/img/hd_d5d610c1ae6adb34.jpg",
+   "data/img/hd_0155ec24996be6d5.jpg",
+   "data/img/hd_c99de2581209b299.jpg",
+   "data/img/hd_6bce12b089e03134.jpg",
+   "data/img/hd_239b5287f6de4899.jpg",
+   "data/img/hd_27d10c4be77d54f2.jpg"
+  ],
+  "videos": [],
+  "updated": 1794327505
+ },
+ {
+  "id": 494,
+  "price": 8000000,
+  "price_max": 8000000,
+  "price_deal": null,
+  "area": 55.0,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "35/27a Trần Đình Xu",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "È+CĂN HỘ 1 PHÒNG NGỦ 55M2 BALCON THOÁNG NGAY QUẬN 1\nAddress: 35/27a Trần Đình Xu, Q1\nTiên ích\nMáy Giặt, sân phơi. Thang máy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4,192k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nfree max 1 xe (xe t2 tự túc gửi bãi kế bên nhà)\nGiá 8tr có fix (Trống sẵn phòng ở lầu 2 - 202)",
+  "images": [
+   "data/img/hd_884c77535348b8ac.jpg",
+   "data/img/hd_74980811634a323a.jpg",
+   "data/img/hd_56f3f04b91d68872.jpg",
+   "data/img/hd_9bb8784fb36d530e.jpg",
+   "data/img/hd_5c2cf9da05b51a09.jpg",
+   "data/img/hd_338e3391fb814804.jpg",
+   "data/img/hd_aa283219d13c300e.jpg",
+   "data/img/hd_10dd50324319d83f.jpg",
+   "data/img/hd_244ab1e6fd3584d3.jpg",
+   "data/img/hd_ec7ead40d51c4cba.jpg"
+  ],
+  "videos": [],
+  "updated": 1794327410
+ },
+ {
+  "id": 493,
+  "price": 6000000,
+  "price_max": 6000000,
+  "price_deal": null,
+  "area": 50.0,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "102 Tô Hiến Thành",
+  "type": "căn hộ",
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống 16/11",
+  "available_date": "2026-11-16",
+  "amenities": [
+   "máy giặt riêng",
+   "gác",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "KHAI TRƯƠNG CĂN HỘ FULL NỘI THẤT MỚI 100% NGAY QUẬN 10\nAddress: 102 Tô Hiến Thành, Q10 (hẻm ba gác cách mặt tiền 50m)\nTiên ích\nMáy Giặt riêng/ Phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: Free 2 xe\nGiá 6tr (Ngày 16/11 trống phòng ở Trệt - G02)",
+  "images": [
+   "data/img/hd_4d5d2db6bb0bf62b.jpg",
+   "data/img/hd_bb7d5c4ff5a5ca10.jpg",
+   "data/img/hd_f9eb280072031144.jpg",
+   "data/img/hd_dad8156e23c65acb.jpg",
+   "data/img/hd_bf53f19285e0e3bc.jpg",
+   "data/img/hd_6b89b99b96e28c32.jpg",
+   "data/img/hd_834913a7a320d3cd.jpg",
+   "data/img/hd_623999c1011e27ff.jpg",
+   "data/img/hd_f25c50a3cad9e5f4.jpg",
+   "data/img/hd_4718bb81c6ad1eb9.jpg",
+   "data/img/hd_7c1355840d8ad3a5.jpg",
+   "data/img/hd_8fa26cf5563263c0.jpg",
+   "data/img/hd_40d45b8f91646bd7.jpg",
+   "data/img/hd_42831662e9cc0c22.jpg"
+  ],
+  "videos": [],
+  "updated": 1794327287
+ },
+ {
+  "id": 492,
+  "price": 8800000,
+  "price_max": 8800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "606/49/ Đường 3/2",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bếp",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO TÁCH BẾP MỚI 100% FULL NỘI THẤT QUẬN 10\nAddress: 606/49/ đường 3/2, Q10\nTiên ích\nMáy Giặt, sân phơi. Thang Máy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nFree 1 xe, xe t2 +200k\nGiá 8tr8 (Trống phòng balcon ở lầu 5 - 501)\nPass phòng checkin linh hoạt - cọc 1.5 tháng",
+  "images": [
+   "data/img/hd_3f13b7fe9458c4fb.jpg",
+   "data/img/hd_1c821600f030777a.jpg",
+   "data/img/hd_f9db7fd68a44cebb.jpg",
+   "data/img/hd_519760e75eed3692.jpg",
+   "data/img/hd_fe7cddf1e7fa10f7.jpg",
+   "data/img/hd_e7982b91f9d4a117.jpg",
+   "data/img/hd_8ff41bc8790c73cb.jpg",
+   "data/img/hd_eb42ba2a6262c9c2.jpg",
+   "data/img/hd_8626ec33df0871fe.jpg",
+   "data/img/hd_156c6e62280537d2.jpg",
+   "data/img/hd_73a5963b0e198f03.jpg",
+   "data/img/hd_2687b50f0a6fa390.jpg"
+  ],
+  "videos": [],
+  "updated": 1794327183
+ },
+ {
+  "id": 491,
+  "price": 7300000,
+  "price_max": 7300000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": "Phường Dakao",
+  "street": "156 Nguyễn Văn Thủ",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống 30/11",
+  "available_date": "2026-11-30",
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "È+CĂN HỘ 1 PHÒNG NGỦ FULL NỘI THẤT NGAY QUẬN 1\nAddress: 156 Nguyễn Văn Thủ, P. Dakao, Q1\nTiên ích\nMáy Giặt Riêng. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 150k/người\nDịch vụ: 150k/ người. Free 1 xe\nGiá T1tr5 (Ngày 30/11 trống 1 phòng ngủ ở lầu 2 - 201)\nCó thể dọn vào sớm hơn\nGiá 7tr3 (Ngày 30/11 trống phòng ở lầu 3 - 302)\nxế",
+  "images": [
+   "data/img/hd_a08833edcc2d9349.jpg",
+   "data/img/hd_5fd5a8d499061e50.jpg",
+   "data/img/hd_e5849b55fed92b67.jpg",
+   "data/img/hd_a6ce59b1c1fcd367.jpg",
+   "data/img/hd_18fe5a55865a6613.jpg",
+   "data/img/hd_446d8e0223157e48.jpg",
+   "data/img/hd_bb3cf648c4b962ce.jpg",
+   "data/img/hd_e12119ca6cdf9aea.jpg",
+   "data/img/hd_29e529589cb73503.jpg",
+   "data/img/hd_e956a2011d8283f0.jpg",
+   "data/img/hd_0f95a356d0a356e1.jpg",
+   "data/img/hd_aafa165345e480d5.jpg",
+   "data/img/hd_2fee51390293eb3b.jpg",
+   "data/img/hd_176cde2d1190dcf0.jpg",
+   "data/img/hd_4e22c48b916120e8.jpg",
+   "data/img/fd350338b0e7a77c.jpg",
+   "data/img/73af35707b2f8577.jpg",
+   "data/img/a0a834c3db81d4cf.jpg",
+   "data/img/d75056ac17071b9a.jpg",
+   "data/img/ce7e58fefb97685f.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_75b002b94e09defc.mp4",
+    "poster": "data/vid/v_75b002b94e09defc.jpg"
+   }
+  ],
+  "updated": 1794327035
+ },
+ {
+  "id": 490,
+  "price": 12000000,
+  "price_max": 12000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 5",
+  "ward": "Phường 14",
+  "street": "60 Phú Hữu",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ MỚI 100% FULL NỘI THẤT QUẬN 5 (GIÁP QUẬN 10)\nAddress: 60 Phú Hữu, P14, Q5\nTiên ích\nMáy Giặt riêng. Thang máy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 120k/người\nDịch vụ: 200k/phòng\nPhí xe: 120k/ chiếc\nGiá 12tr (trống 1 phòng ngủ ở lầu 1 - 101)\nGiá 12tr (trống sẵn 1 phòng ngủ ở lầu 1 - 101)\nPhòng xem trực tiếp đẹp x2 lần hình chụp",
+  "images": [
+   "data/img/hd_79b9b3d470661689.jpg",
+   "data/img/hd_e0e0ced899c154ae.jpg",
+   "data/img/hd_b59bcc07a1768dd3.jpg",
+   "data/img/hd_0293d9454be3a059.jpg",
+   "data/img/hd_180816ef19714562.jpg",
+   "data/img/hd_fbd60e6b0a0f5392.jpg",
+   "data/img/hd_d7831a89ca672181.jpg",
+   "data/img/hd_a5aa69011511ec6f.jpg",
+   "data/img/hd_c491255c4dba256a.jpg",
+   "data/img/hd_c43e8766c903480d.jpg",
+   "data/img/hd_4e35815b7f948a20.jpg",
+   "data/img/hd_f6e66e87ebe6e174.jpg",
+   "data/img/hd_c1c979a80fe447d6.jpg",
+   "data/img/hd_ab2e75f7dda9bcca.jpg"
+  ],
+  "videos": [],
+  "updated": 1794326908
+ },
+ {
+  "id": 489,
+  "price": 8000000,
+  "price_max": 8000000,
+  "price_deal": null,
+  "area": 38.0,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "451/44 Hai Bà Trưng",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ"
+  ],
+  "description": "CĂN HỘ STUDIO BALCON TO 38M2 MỚI KENG NGAY QUẬN 3\nĐịa chỉ : 451/44 Hai Bà Trưng, Q3\nĐặc Điểm: ““ Có Thang máy , gần chợ siêu thị 100m, khu an ninh yên tĩnh. Trang bị đầy đủ nội thất mới\nMi\n(@@ Điện: 4k/kwh, Nước: 100k/ người\n(@ Dịch vụ 200k/ phòng (Free Dọn phòng †I/ tuần), free 2 xe\nGiá 8tr (Trống sẵn phòng ở lầu 4 - view ngắm thành phố)",
+  "images": [
+   "data/img/hd_825f80c92b939dfc.jpg",
+   "data/img/hd_9f61d0d28a3c7325.jpg",
+   "data/img/hd_e33b6475d1a10c4e.jpg",
+   "data/img/hd_caf1b76cfbbf352f.jpg",
+   "data/img/hd_00263143321dd49f.jpg",
+   "data/img/hd_4c485df6961f903b.jpg",
+   "data/img/hd_0963d660862675d8.jpg",
+   "data/img/hd_81e8a0e87c62f670.jpg"
+  ],
+  "videos": [],
+  "updated": 1794326833
+ },
+ {
   "id": 486,
   "price": 6500000,
   "price_max": 6500000,
