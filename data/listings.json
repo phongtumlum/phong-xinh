@@ -1,5 +1,220 @@
 [
  {
+  "id": 475,
+  "price": 5000000,
+  "price_max": 5000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": null,
+  "street": "539 Lạc Long Quân",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "chỗ để xe"
+  ],
+  "description": "Ý 539 Lạc Long Quân, Tân Bình\n3 phút tới Lý Thường Kiệt quận 10\nThang máy\nFull nội thất\nCó máy giặt sấy\nHầm xe to\n5tr",
+  "images": [
+   "data/img/hd_3b2ac70f4d8b34e8.jpg",
+   "data/img/hd_e94b60548c7ff9fd.jpg",
+   "data/img/hd_f3d08ac5687df1d3.jpg",
+   "data/img/hd_fb7fea7f4496b612.jpg",
+   "data/img/hd_03693b5bacc10ba0.jpg",
+   "data/img/hd_ce82d8f0fbed997d.jpg",
+   "data/img/hd_b188f2d15a3ec9a5.jpg"
+  ],
+  "videos": [],
+  "updated": 1794325254
+ },
+ {
+  "id": 473,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": 50.0,
+  "district": "Quận 3",
+  "ward": "Phường 14",
+  "street": "466/59H Lê Văn Sỹ",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt chung",
+   "gác",
+   "full nội thất",
+   "bếp",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "TRỐNG STUDIO XA BẾP FULL NỘI THẤT ĐẸP QUẬN 3\nAddress: 466/59H Lê văn sỹ, P14, Q3 (hẻm 3 gác cách hẻm oto 50m)\nTiên ích\nMáy Giặt chung. Thang bộ\ntrang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: 100k/ chiếc\nGiá 6tr5 (trống sẵn phòng ở lầu 1)\nPhòng ngủ xa bếp - có kệ bếp khô & kệ bếp ướt",
+  "images": [
+   "data/img/hd_1b95b450ae30bd2f.jpg",
+   "data/img/hd_2d1809101f374129.jpg",
+   "data/img/hd_88c6914f5720f9e8.jpg",
+   "data/img/hd_abf674f885838531.jpg",
+   "data/img/hd_45ef1e14a6497364.jpg",
+   "data/img/hd_13204e17af80250c.jpg",
+   "data/img/hd_f2738be541d128a3.jpg",
+   "data/img/hd_161edbf55f3d56ce.jpg",
+   "data/img/hd_43348135104fd0c7.jpg",
+   "data/img/hd_3848dc96cededf47.jpg",
+   "data/img/hd_26a3f7c7e35b8f15.jpg",
+   "data/img/hd_7adb043cc1d0ac05.jpg",
+   "data/img/hd_932d2cda93ee107c.jpg",
+   "data/img/hd_acef6af93ab65d10.jpg",
+   "data/img/hd_dbf1d4d0acc41716.jpg"
+  ],
+  "videos": [],
+  "updated": 1794325127
+ },
+ {
+  "id": 472,
+  "price": 7000000,
+  "price_max": 7000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Trường Sa",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [],
+  "description": "7tr Trường Sa Q3 gần Q10\nTrống sẵn",
+  "images": [
+   "data/img/hd_6299ebfe9f41ce3d.jpg",
+   "data/img/hd_d2b727acfa1516ee.jpg",
+   "data/img/hd_4a70a01c2ef75fba.jpg",
+   "data/img/hd_eb81523f5a657cc0.jpg"
+  ],
+  "videos": [],
+  "updated": 1794325089
+ },
+ {
+  "id": 471,
+  "price": 5500000,
+  "price_max": 5500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "Trần Khánh Dư",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "5tr5 Trần Khánh Dư Q1",
+  "images": [
+   "data/img/hd_a7ab97e840b26a26.jpg",
+   "data/img/hd_e9a4fd3245da643d.jpg",
+   "data/img/hd_bf6275889dc5999b.jpg",
+   "data/img/hd_eae7950be3f4b1ad.jpg",
+   "data/img/hd_d537113fb31499b7.jpg",
+   "data/img/hd_e885b7e9fd4462b2.jpg"
+  ],
+  "videos": [],
+  "updated": 1794325033
+ },
+ {
+  "id": 470,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "Trần Khánh Dư",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "6tr5 Trần Khánh Dư Q1",
+  "images": [
+   "data/img/hd_c414b4dfa3d95187.jpg",
+   "data/img/hd_5ba458af91584a1c.jpg",
+   "data/img/hd_2a37a24df3f301e7.jpg",
+   "data/img/hd_8ddb014d9a083acb.jpg",
+   "data/img/hd_1f32708c39151332.jpg",
+   "data/img/hd_2d6ffc87a7110ee4.jpg",
+   "data/img/hd_4c9b4bfe399a0bb6.jpg"
+  ],
+  "videos": [],
+  "updated": 1794324964
+ },
+ {
+  "id": 469,
+  "price": 6300000,
+  "price_max": 6300000,
+  "price_deal": 5900000,
+  "area": null,
+  "district": "Quận 3",
+  "ward": "Phường 6",
+  "street": "Nguyễn Đình Chiều",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "Tin nhắn chưa đọc\nNhi Vnest\nNguyễn Đình Chiều Q3 gần Q10, Q5\nP06 - Chỉ 6tr3 giảm còn 5tr9/th\nban công\nTrống sẵn",
+  "images": [
+   "data/img/hd_db14050abf4984ea.jpg",
+   "data/img/hd_39ff27062a1662e1.jpg",
+   "data/img/hd_7a9e35d313a85768.jpg",
+   "data/img/hd_3e1f4f14355e7a8f.jpg",
+   "data/img/hd_1da7e23c841921af.jpg",
+   "data/img/hd_0a3f77b35b68eb5e.jpg",
+   "data/img/hd_3eb9c8da8d6977da.jpg",
+   "data/img/hd_edeade3a9444f461.jpg",
+   "data/img/hd_3eb9c8da8d6977da.jpg"
+  ],
+  "videos": [],
+  "updated": 1794324883
+ },
+ {
   "id": 467,
   "price": 6500000,
   "price_max": 6500000,
