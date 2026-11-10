@@ -1,5 +1,88 @@
 [
  {
+  "id": 486,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường Cầu Ông",
+  "street": "1319 Hoàng Sa",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy lạnh",
+   "bếp"
+  ],
+  "description": "1319 Hoàng Sa, Tân Bình (di chuyền quận 10, quận 3, quận 1 thuận tiện)\nNội thất cơ bản: máy lạnh, giường, tủ quần áo, tủ bếp\nDién: 4k /kwh\nNước: 100k/người\nInternet: 120k/phòng\nDịch vụ 80k/người\n6tr5 có thương lượng, cửa số thoáng\n175/ Cô Giang, Phường Cầu Ông Lãnh, Quận 1\nĐiện: Giá nhà nước\nNước: 200k/người\nDịch vụ: free\nGửi xe: free (chỉ nhận 1 xe/phòng)\nMáy giặt sấy chung",
+  "images": [
+   "data/img/hd_763e53afdb4f7f52.jpg",
+   "data/img/hd_c9ef368945ee4c2b.jpg",
+   "data/img/hd_31276e61c60bbf3a.jpg",
+   "data/img/hd_d972480e6dddda6b.jpg",
+   "data/img/hd_16bcbc64fdf74833.jpg"
+  ],
+  "videos": [],
+  "updated": 1794326567
+ },
+ {
+  "id": 485,
+  "price": 3800000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường Nhiêu Lộc",
+  "street": "202 Ni Sư Huỳnh Liên",
+  "type": "chung cư",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": "Chung cư",
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "cửa sổ"
+  ],
+  "description": "CHUNG CƯ MINI BAN CÔNG - 6tr5\n202 Ni Sư Huỳnh Liên, Tân Bình\nĐiện 4000/kwh\nNước 100k/người\nPhí dịch vụ (rác , wifi, giặt): 200k/ phòng\nXe miễn phí\n3tr8 ban công\n322/ CMT8, P. Nhiêu Lộc (Quận 3)\nĐiện: 4k\nNước 100k/người\nPDV: 100K/phòng\nXe: chỉ nhận 1 xe/ free\n4tr cửa sổ lớn [HÀNG HIẾM]",
+  "images": [
+   "data/img/hd_68d706c2329074ad.jpg",
+   "data/img/hd_33825ee23a4d0db0.jpg",
+   "data/img/hd_f60d2198cda140cc.jpg",
+   "data/img/hd_c78702fe16741f8c.jpg",
+   "data/img/hd_25dcbb8cb5357df4.jpg",
+   "data/img/hd_f64500d5cab8fa61.jpg",
+   "data/img/hd_9caeaec84e4174e1.jpg",
+   "data/img/hd_2e00a9a30e7994eb.jpg",
+   "data/img/hd_7279baaf2681ae93.jpg",
+   "data/img/hd_01e0498a1d0df1d0.jpg",
+   "data/img/hd_70fb99ae9b4a63f8.jpg",
+   "data/img/hd_a55562f2317e1a17.jpg",
+   "data/img/hd_6fb3cee373e5f880.jpg",
+   "data/img/hd_02ac5c22d6b285da.jpg",
+   "data/img/hd_4a1f70b9cc10dbf7.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_a3712cc1e017d0cc.mp4",
+    "poster": "data/vid/v_a3712cc1e017d0cc.jpg"
+   }
+  ],
+  "updated": 1794326413
+ },
+ {
   "id": 483,
   "price": 5200000,
   "price_max": 6700000,
