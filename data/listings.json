@@ -1,5 +1,79 @@
 [
  {
+  "id": 512,
+  "price": 7300000,
+  "price_max": 7300000,
+  "price_deal": null,
+  "area": 30.0,
+  "district": "Quận 3",
+  "ward": "Phường 9",
+  "street": "Nguyễn Thông",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "bếp"
+  ],
+  "description": "Nguyễn Thông P9 Quận 3, HCM\nLầu 2, thang bộ.\nPhòng 30m2, bếp, tolet riêng , máy giặt riêng.\n7tr3",
+  "images": [
+   "data/img/hd_9022cd250029becd.jpg",
+   "data/img/hd_09659b89491e8f56.jpg",
+   "data/img/hd_d9e0714b0d11ac9a.jpg",
+   "data/img/hd_3d68b72a97adc4fc.jpg"
+  ],
+  "videos": [],
+  "updated": 1794352048
+ },
+ {
+  "id": 510,
+  "price": 6000000,
+  "price_max": 6000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": null,
+  "street": "Hưng Hoá",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Tin nhắn chưa đọc\nNhi Vnest\nHưng Hoá Quận Tân Bình\n6.000.000",
+  "images": [
+   "data/img/hd_10a7d1c4e124c133.jpg",
+   "data/img/hd_f02af447ba62227e.jpg",
+   "data/img/hd_766a8eb9a0a67c02.jpg",
+   "data/img/hd_02d5323d11e843f6.jpg",
+   "data/img/hd_3cd916aef519d780.jpg",
+   "data/img/hd_858420b9cbb368d1.jpg",
+   "data/img/hd_ca6c8239ee625d2c.jpg",
+   "data/img/hd_2efae4466fb8471a.jpg",
+   "data/img/hd_2aff85b453c27c10.jpg",
+   "data/img/hd_4d19c1326e08a74a.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_57f83488c4450ff5.mp4",
+    "poster": "data/vid/v_57f83488c4450ff5.jpg"
+   }
+  ],
+  "updated": 1794351947
+ },
+ {
   "id": 507,
   "price": 3700000,
   "price_max": 3700000,
