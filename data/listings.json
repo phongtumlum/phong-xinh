@@ -1,5 +1,181 @@
 [
  {
+  "id": 462,
+  "price": 8000000,
+  "price_max": 8000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "135/37/25 Nguyễn Hữu Cảnh",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [
+   "full nội thất",
+   "bếp",
+   "nuôi thú cưng",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "1 PHÒNG NGỦ TÁCH BẾP FULL NỘI THẤT Q. BÌNH THANH\nAddress: 135/37/25 Nguyễn Hữu Cảnh, Bình Thạnh (giáp Quận 1)\nTiên ích\nMáy giặt + sấy. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\no NUÔI PET\nBei\nGiá 8tr (Ngày 1/12 trống phòng ở lầu 3 - 301)",
+  "images": [
+   "data/img/286a8add15f2b159.jpg",
+   "data/img/12ea9571870d6179.jpg",
+   "data/img/4bd8a750729a8833.jpg",
+   "data/img/07e4f21de9fffbd8.jpg",
+   "data/img/c758967447f991c0.jpg",
+   "data/img/8b8b13fbe4b9f85b.jpg",
+   "data/img/d01a88fda8bc26a7.jpg",
+   "data/img/62b212aa1edb2a76.jpg",
+   "data/img/621586ddf5fa5025.jpg",
+   "data/img/bbad8b07a772a973.jpg",
+   "data/img/3c92814377770503.jpg",
+   "data/img/0935a872ba240b5a.jpg"
+  ],
+  "videos": [],
+  "updated": 1794323528
+ },
+ {
+  "id": 461,
+  "price": 13500000,
+  "price_max": 13500000,
+  "price_deal": null,
+  "area": 50.0,
+  "district": "Bình Thạnh",
+  "ward": "Phường 19",
+  "street": "29 Huỳnh Tịnh Của",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống 30/11",
+  "available_date": "2026-11-30",
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "1 PHÒNG NGỦ BALCON MỚI SETUP FULL NỘI THẤT Q. BÌNH THANH\nAddress: 29 Huỳnh Tịnh Của, P19, Bình Thạnh (giáp Quận 1)\nTiên ích\nMáy Giặt, sân phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: free 2 xe\nGiá 13tr5 (Ngày 30/11 trống 1 phòng ngủ balcon siêu rộng 50m2 ở lầu 2 - 203)",
+  "images": [
+   "data/img/hd_29fe0a4b0bc56bcc.jpg",
+   "data/img/hd_a702c392e530989d.jpg",
+   "data/img/hd_9b1c8ed9940000ef.jpg",
+   "data/img/hd_110564dfadbc8d5b.jpg",
+   "data/img/hd_0715206763efee4c.jpg",
+   "data/img/hd_1be28c77e493f90c.jpg",
+   "data/img/hd_572129d74bf41638.jpg",
+   "data/img/hd_415774002e99f5da.jpg",
+   "data/img/hd_c123be04990e2bd4.jpg",
+   "data/img/hd_847cb022b00a2152.jpg",
+   "data/img/hd_402cb5ee99342297.jpg",
+   "data/img/e878b74098bf410a.jpg"
+  ],
+  "videos": [],
+  "updated": 1794323404
+ },
+ {
+  "id": 460,
+  "price": 6400000,
+  "price_max": 6400000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": "Phường 13",
+  "street": "63/2/ Lê Văn Sỹ",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "STUDIO CÓ MÁY GIẶT RIÊNG MỚI 100% FULL NỘI THẤT QUẬN 3\nAddress: 63/2/ Lê Văn Sỹ, P13, Phú Nhuận (giáp quận 3, Tân Bình)\nTiên ích\nMáy Giặt riêng/ sấy. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng. Free 2 xe\nGiá fix 6tr4 (trống phòng ở lầu 2 - 202)",
+  "images": [
+   "data/img/hd_8a98450423f6fe5f.jpg",
+   "data/img/hd_dbd29c35e497343f.jpg",
+   "data/img/hd_a229cfca7aed7441.jpg",
+   "data/img/hd_c5ae333a69a2fd13.jpg",
+   "data/img/hd_3a23c3812d6dd117.jpg",
+   "data/img/hd_14c8bdde43106356.jpg"
+  ],
+  "videos": [],
+  "updated": 1794323345
+ },
+ {
+  "id": 458,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "112 Nguyễn Xí",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ CÓ MÁY GIẶT RIÊNG FULL NỘI THẤT Q. BÌNH THẠNH\nAddress: 112 Nguyễn Xí, Bình Thạnh\nTiên ích\nMáy Giặt, sân phơi. Thang Máy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: 100k/ chiếc\nGiá T1tr2 (Ngày 1/12 trống 1 phòng ngủ ở Trệt - G02)\npass phòng\nGiá 6tr5 (Ngày 1/12 trống phòng Studio ở lầu 1 - 102A)",
+  "images": [
+   "data/img/hd_93da0151710d19af.jpg",
+   "data/img/hd_6e32b4d0114f21f4.jpg",
+   "data/img/hd_2f03431ea99499d8.jpg",
+   "data/img/hd_8a64534d8bb17d2d.jpg",
+   "data/img/hd_572cb5a8b9f61b4f.jpg",
+   "data/img/hd_30ff2b7a882841b8.jpg",
+   "data/img/hd_d7afc86763449fc0.jpg",
+   "data/img/hd_db567b41ef60272b.jpg",
+   "data/img/hd_de6c835a82c8035a.jpg",
+   "data/img/hd_84700565056f74e8.jpg",
+   "data/img/hd_12f9753e57da585e.jpg",
+   "data/img/hd_03be92b3cbfb617b.jpg",
+   "data/img/hd_3a3e5d8ddd80a3a8.jpg",
+   "data/img/hd_e084bbf2f37c3cfa.jpg",
+   "data/img/hd_cab35f20543e71cf.jpg",
+   "data/img/a1be37ee81f9c511.jpg",
+   "data/img/f8e388c462bd7edd.jpg",
+   "data/img/5357ed493a4a68c9.jpg",
+   "data/img/33b510162980ea4c.jpg",
+   "data/img/b6d8562b4cd322a7.jpg",
+   "data/img/106d13715c770c72.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_363604d3d7f38cca.mp4",
+    "poster": "data/vid/v_363604d3d7f38cca.jpg"
+   }
+  ],
+  "updated": 1794323179
+ },
+ {
   "id": 446,
   "price": 6300000,
   "price_max": 6300000,
