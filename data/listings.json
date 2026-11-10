@@ -1,5 +1,115 @@
 [
  {
+  "id": 483,
+  "price": 5200000,
+  "price_max": 6700000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "63 Lê Văn Sỹ",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "5tr2 cửa số ngay Quận 3\n63 Lê Văn Sỹ, Phú Nhuận\nQuy mô: thang bộ lầu 2\nĐiện 4k, Nước 150k/người\nDvu 200k/phòng (tối đa 2 bạn)\n6tr7 ban công, phòng rộng",
+  "images": [
+   "data/img/hd_9cdabfab7c42d4e0.jpg",
+   "data/img/hd_7e8d4c0ca11828dd.jpg",
+   "data/img/hd_5675cc3ba6fb1fdc.jpg",
+   "data/img/hd_12a45e0ecf8fc67c.jpg",
+   "data/img/hd_c3ef71d7a8e94790.jpg",
+   "data/img/hd_73d28bafe5a90d40.jpg"
+  ],
+  "videos": [],
+  "updated": 1794325962
+ },
+ {
+  "id": 479,
+  "price": 8500000,
+  "price_max": 8500000,
+  "price_deal": 7500000,
+  "area": 100.0,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "212B/ Nguyễn Trãi",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "nuôi thú cưng"
+  ],
+  "description": "Địa chỉ: 212B/ Nguyễn Trãi, Quận 1\nnhà có thang máy\n201 - 8tr5 (Khách thiện chí hỗ trợ fix giá)\nđiện: 4k/kwh\nnước: 100k/người\nxe: Free 1 xe, xe T2 gửi bãi ngoài 100m - Phí dịch vụ: 200k/phòng\nPet: cho nuôi PET (kèm cam kết )\n109/ TRẦN KHẮC CHÂN, QUẬN 1\nKhách ở dài hạn giảm giá phòng còn 7tr5\nĐiện 4k\nNước 100k/người\nPhí dv 200k/phòng\nXe Free",
+  "images": [
+   "data/img/hd_8a8bc8ddd0ccfa26.jpg",
+   "data/img/hd_8b17def6cb425b10.jpg",
+   "data/img/hd_5bf05d9dba228d96.jpg",
+   "data/img/hd_1d089c58484d3165.jpg",
+   "data/img/hd_ef5785fcde7bd84a.jpg",
+   "data/img/hd_045fbd5cfc60a871.jpg",
+   "data/img/hd_c98ccc47fa02f920.jpg",
+   "data/img/hd_8be4168fa97ee4a4.jpg",
+   "data/img/hd_d87a84e832ec24d1.jpg",
+   "data/img/hd_4955764dfe6d593d.jpg",
+   "data/img/hd_5eac35edbca3f024.jpg",
+   "data/img/hd_70758887153bc4da.jpg",
+   "data/img/hd_807705da68d81592.jpg",
+   "data/img/hd_e57298a299a54d95.jpg",
+   "data/img/hd_d3bc104046722e88.jpg"
+  ],
+  "videos": [],
+  "updated": 1794325722
+ },
+ {
+  "id": 478,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": "Phường Cầu Ông",
+  "street": "161 Cô Bắc",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Tin nhắn chưa đọc\n6tr5 phòng đẹp\n161 Cô Bắc, Phường Cầu Ông Lãnh, Quận 1\nThang máy\nĐiện 4k/kwh\nNước 150k/người\nFree Wifi, xe",
+  "images": [
+   "data/img/hd_d875dd2fd04bfa86.jpg",
+   "data/img/hd_facba7f56814fc0d.jpg",
+   "data/img/hd_68e27f52dd4d56a1.jpg",
+   "data/img/hd_b8503d491d59e785.jpg",
+   "data/img/hd_f5c52f630e89a304.jpg",
+   "data/img/hd_390f95a9c64e69ff.jpg",
+   "data/img/hd_68e27f52dd4d56a1.jpg"
+  ],
+  "videos": [],
+  "updated": 1794325658
+ },
+ {
   "id": 475,
   "price": 5000000,
   "price_max": 5000000,
