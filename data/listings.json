@@ -1,5 +1,193 @@
 [
  {
+  "id": 467,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 19",
+  "street": "29 Huỳnh Tịnh Của",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO MỚI SETUP FULL NỘI THẤT Q. BÌNH THẠNH\nAddress: 29 Huỳnh Tịnh Của, P19, Bình Thạnh (giáp Quận 1)\nTiên ích\nMáy Giặt, sân phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: free 2 xe\nGiá 6tr5 (trống phòng ở Trệt - G01)\nGiá 6tr5 (Trống phòng ở lầu 1 - 101)\nPass phòng checkin linh hoạt",
+  "images": [
+   "data/img/hd_35da201c05e258c4.jpg",
+   "data/img/hd_567c3f2ac7effe26.jpg",
+   "data/img/hd_df4b69bc210e3b4a.jpg",
+   "data/img/hd_7cceff7f4d4e3dac.jpg",
+   "data/img/hd_c58fa3afb123614b.jpg",
+   "data/img/hd_7f925f4f5a1158ec.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_cd65e38896e84560.mp4",
+    "poster": "data/vid/v_cd65e38896e84560.jpg"
+   }
+  ],
+  "updated": 1794324620
+ },
+ {
+  "id": 466,
+  "price": 6400000,
+  "price_max": 6400000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường 4",
+  "street": "340C/10 Hoàng Văn Thụ",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO FULL NỘI THẤT Q. TÂN BÌNH\nAddress: 340C/10 Hoàng Văn Thụ, P.4, Tân Bình\nTiên ích\nMáy giặt + sân phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: Free 2 xe\nGiá fix 6tr4 (Trống sẵn phòng ở lầu 1 - 102)",
+  "images": [
+   "data/img/hd_06c2ba646105d9ef.jpg",
+   "data/img/hd_06c2ba646105d9ef.jpg",
+   "data/img/hd_2332b7c722385d73.jpg",
+   "data/img/hd_4951bf9d78fe6110.jpg",
+   "data/img/hd_617ae7e0e27a6832.jpg",
+   "data/img/hd_ac4bbb4b898af95e.jpg",
+   "data/img/hd_e43b648453ca91aa.jpg",
+   "data/img/hd_3639ce903711ea3c.jpg",
+   "data/img/hd_f1df63ef033af47c.jpg"
+  ],
+  "videos": [],
+  "updated": 1794324538
+ },
+ {
+  "id": 465,
+  "price": 5800000,
+  "price_max": 5800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": "Phường 8",
+  "street": "14B Nguyễn Thị Huỳnh",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống 30/11",
+  "available_date": "2026-11-30",
+  "amenities": [
+   "full nội thất",
+   "bếp",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO FULL NỘI THẤT MỚI SETUP Q. PHÚ NHUẬN\nĐịa chỉ: 14B Nguyễn Thị Huỳnh, P8, Phú Nhuận\nTiên ích\nMáy giặt + sân phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/ Tháng\nPhí xe: Free 1xe\nGiá 5tr8 (Ngày 30/11 trống phòng ở lầu 2 - 202)\nrull nội thất có kệ bếp, nệm",
+  "images": [
+   "data/img/hd_3f78d9c89f0b862c.jpg",
+   "data/img/hd_131c413faf06d212.jpg",
+   "data/img/hd_e729b348c6725d07.jpg",
+   "data/img/hd_794be18405900115.jpg",
+   "data/img/hd_ac5dad4c2a020d5b.jpg",
+   "data/img/hd_9df6ce5cf3c387ad.jpg",
+   "data/img/hd_b959a34c5c03abc8.jpg",
+   "data/img/hd_72534a02db22f44f.jpg",
+   "data/img/hd_a97c32ece4f5a8a8.jpg"
+  ],
+  "videos": [],
+  "updated": 1794324454
+ },
+ {
+  "id": 464,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": 6000000,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 3",
+  "street": "92/45/ Xô Viết Nghệ Tĩnh",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống 17/11",
+  "available_date": "2026-11-17",
+  "amenities": [
+   "full nội thất",
+   "bếp",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "1 PHÒNG NGỦ FULL NỘI THẤT Q. BÌNH THANH (GIÁP QUẬN 1)\nAddress: 92/45/ Xô Viết Nghệ Tĩnh, Bình Thạnh (ngay cầu Thị Nghè)\nTiên ích\nMáy giặt + sân phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: free 2 xe\nGiá 6tr5 nếu kí HĐÐ 1 năm giảm còn 6tr\n(Ngày 17/11 trống phòng balcon xa bếp ở lầu 1 - P3)",
+  "images": [
+   "data/img/hd_79f58c6526b8a246.jpg",
+   "data/img/hd_0b92c0fb5c7bf867.jpg",
+   "data/img/hd_1c4e6c29eb0cfa9d.jpg",
+   "data/img/hd_79c58714e463463d.jpg",
+   "data/img/hd_a1b348840db34008.jpg",
+   "data/img/hd_9ed0064abb9d1d34.jpg",
+   "data/img/hd_596c269446b360a8.jpg",
+   "data/img/hd_596c269446b360a8.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_f2a575e04b113b23.mp4",
+    "poster": "data/vid/v_f2a575e04b113b23.jpg"
+   }
+  ],
+  "updated": 1794324365
+ },
+ {
+  "id": 463,
+  "price": 5700000,
+  "price_max": 5700000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường 4",
+  "street": "36 Nguyễn Trọng Lội",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO FULL NỘI THẤT Q. TÂN BÌNH (KHU SÂN BAY)\nAddress: 36 Nguyễn Trọng Lội, P4, Tân Bình\nTiên ích\nMáy giặt + sân phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: free 2 xe\nGiá 5tr7 (Trống sẵn phòng ở lầu 2 - 202)",
+  "images": [],
+  "videos": [],
+  "updated": 1794324364
+ },
+ {
   "id": 462,
   "price": 8000000,
   "price_max": 8000000,
