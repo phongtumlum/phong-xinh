@@ -1,5 +1,93 @@
 [
  {
+  "id": 497,
+  "price": 12000000,
+  "price_max": 12000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 26",
+  "street": "153/10 Quốc Lộ 13",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "TRỐNG 2 PHÒNG NGỦ FULL NỘI THẤT SIÊU ĐẸP Q. BÌNH THANH\nAddress: 153/10 Quốc Lộ 13, Phường 26, Bình Thạnh\nTiên ích\nMáy giặt riêng + sấy. Thang máy\n2PN trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 150k/người\nDịch vụ: 200k/phòng\nPhí xe: Free 2 xe\nGiá 12tr (Trống sẵn phòng ở lầu 1 - 103)",
+  "images": [
+   "data/img/hd_885fce012a83b1b7.jpg",
+   "data/img/hd_844f78b30cad6fbb.jpg",
+   "data/img/hd_1a4b1d08f813ce16.jpg",
+   "data/img/hd_8cdf04886271d959.jpg",
+   "data/img/hd_6bc325be6e1738fe.jpg",
+   "data/img/hd_85ed8757b66cfc00.jpg",
+   "data/img/hd_5bcd11226aeb1262.jpg",
+   "data/img/hd_eabb4ba6f3a20f95.jpg",
+   "data/img/hd_dc36e1ebed914743.jpg",
+   "data/img/hd_d74973c3c08cb0c3.jpg",
+   "data/img/hd_3b8eb68b40ef0d23.jpg",
+   "data/img/hd_79d32dcdf807fb6c.jpg",
+   "data/img/hd_96ae80318cfe1fa2.jpg",
+   "data/img/hd_181e9ee7478326d2.jpg"
+  ],
+  "videos": [],
+  "updated": 1794327799
+ },
+ {
+  "id": 496,
+  "price": 8000000,
+  "price_max": 8500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "86/5 Thích Quảng Đức",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "2 PHÒNG NGỦ 1WC MINI SIÊU ĐẸP Q. PHÚ NHUẬN\nAddress: 86/5 Thích Quảng Đức, Phú Nhuận (hẻm lớn 2 xe tải)\nTiên ích\nMáy Giặt, sân phơi. Thang Máy\n2PN trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/ tháng, free 2 xe\nGiá 8tr (Trống sẵn phòng ở lầu 2 - 202)\nPhòng ngủ nhỏ nên nhận 2-3 người ở\nGiá 8tr5 (Trống sẵn phòng ở Trệt - G01)\nPhòng ngủ nhỏ nên nhận 2-3 người ở",
+  "images": [
+   "data/img/hd_1fe04b87b4056257.jpg",
+   "data/img/hd_1fe04b87b4056257.jpg",
+   "data/img/hd_7a450ffc7c84dd0d.jpg",
+   "data/img/hd_448dd3841dab6b85.jpg",
+   "data/img/hd_1d0ad7f762347422.jpg",
+   "data/img/hd_4a818ecf8841c30b.jpg",
+   "data/img/hd_4a818ecf8841c30b.jpg",
+   "data/img/hd_15cbd0079dcd3dfd.jpg",
+   "data/img/hd_d0172a68fb7db822.jpg",
+   "data/img/hd_d0172a68fb7db822.jpg",
+   "data/img/hd_16c13426901de8bd.jpg",
+   "data/img/hd_be084b5ce81d7afb.jpg",
+   "data/img/hd_9a68e7b87af62268.jpg",
+   "data/img/hd_d789a97758341a60.jpg",
+   "data/img/hd_27148d54dcc5300d.jpg"
+  ],
+  "videos": [],
+  "updated": 1794327676
+ },
+ {
   "id": 495,
   "price": 7500000,
   "price_max": 7700000,
