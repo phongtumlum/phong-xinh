@@ -1,5 +1,46 @@
 [
  {
+  "id": 499,
+  "price": 13500000,
+  "price_max": 13500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Hòa Hảo",
+  "type": "căn hộ",
+  "layout": "3PN",
+  "layouts": [
+   "3PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "13tr5 3PN Hòa Hảo Q10\nMã căn hộ: T10101P301\nD1",
+  "images": [
+   "data/img/b7dce6b13aa8a2c9.jpg",
+   "data/img/hd_0cd9b3cfb0a2aeac.jpg",
+   "data/img/hd_c0ece9d137c15715.jpg",
+   "data/img/hd_504593df164da1cc.jpg",
+   "data/img/hd_00c03eaf427c4d48.jpg",
+   "data/img/hd_23b0878357b24ec9.jpg",
+   "data/img/hd_281432a5f6dad20c.jpg",
+   "data/img/hd_205b2f96bf2e2391.jpg",
+   "data/img/hd_741dca26758a55dd.jpg",
+   "data/img/hd_318076aa3003aee1.jpg",
+   "data/img/hd_b2ace1d18aca765a.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_82028a7c6afc40d7.mp4",
+    "poster": "data/vid/v_82028a7c6afc40d7.jpg"
+   }
+  ],
+  "updated": 1794328049
+ },
+ {
   "id": 497,
   "price": 12000000,
   "price_max": 12000000,
