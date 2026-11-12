@@ -1,5 +1,154 @@
 [
  {
+  "id": 560,
+  "price": 6000000,
+  "price_max": 8500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "Đào Duy Anh",
+  "type": "căn hộ",
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "ban công",
+   "gác",
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp"
+  ],
+  "description": "1PN + 1 GÁC = 2 KHÔNG GIAN NGỦ - 8tr5\nĐịa chỉ: Đào Duy Anh, Phú Nhuận\nĐiện: 4k/ số\nNước 100k/người\nDv chung: 200k/phòng\nXe 1 free, xe thứ 2 100k/chiếc\nNội thất: giường nệm, máy lạnh, kệ bếp, tủ lạnh, tủ đồ, máy nước nóng, bàn ghế, máy giặt riêng, bếp điện\n7tr5 ban công, phòng mới 100%\nĐịa chỉ: Đào Duy Anh, Phú Nhuận\nĐiện: 4k/ số\nNước 100k/người\nDv chung: 200k/phòng\nXe 1 free, xe thứ 2 100k/chiếc\nNội thất: giường nệm, máy lạnh, kệ bếp, tủ lạnh, tủ đồ, máy nước nóng, bàn ghế, máy giặt riêng, bếp điện\n6tr ban công, phòng mới 100% (giá thương lượng cho khách check in sớm)\nĐịa chỉ: Đào Duy Anh, Phú Nhuận\nĐiện: 4k/ số\nNước 100k/người\nDv chung: 200k/phòng\nXe 1 free, xe thứ 2 100k/chiếc\nNội thất: giường nệm, máy lạnh, kệ bếp, tủ lạnh, tủ đồ, máy nước nóng, bàn ghế, máy giặt riêng, bếp điện",
+  "images": [
+   "data/img/hd_b728267f08775875.jpg",
+   "data/img/hd_aa5b1145fab18554.jpg",
+   "data/img/hd_daeda430074b7a8c.jpg",
+   "data/img/hd_7fa1d636e51206ef.jpg",
+   "data/img/hd_0433228b5dc8da10.jpg",
+   "data/img/hd_2f43525cbdd6a345.jpg",
+   "data/img/hd_bacbc68d28e9bba5.jpg",
+   "data/img/hd_37296744eccfb2fd.jpg",
+   "data/img/hd_7f44be3bb08383fd.jpg",
+   "data/img/hd_0a08617945b6915c.jpg",
+   "data/img/hd_9590216cb8ddd1c8.jpg",
+   "data/img/hd_90d868a41b4e524e.jpg",
+   "data/img/hd_79d67346b1e88ad7.jpg",
+   "data/img/hd_02698673820d55a8.jpg",
+   "data/img/hd_77616a266f3a5ed2.jpg",
+   "data/img/b15f27a38e9d7233.jpg",
+   "data/img/8781eeed7332b7c9.jpg",
+   "data/img/960be35a6ca1f06c.jpg",
+   "data/img/d1c01fdfbebc55b2.jpg",
+   "data/img/1b5503f9cd8de6d0.jpg",
+   "data/img/927681b122671660.jpg",
+   "data/img/d1b11f96c3c80a52.jpg",
+   "data/img/305a82d0ee00a37e.jpg",
+   "data/img/779265663dcbe35b.jpg",
+   "data/img/d170f9a161a69c2d.jpg",
+   "data/img/c1fa9c2c9e334ad7.jpg",
+   "data/img/4d464d04f889b95a.jpg",
+   "data/img/ac5265cb27c356ab.jpg",
+   "data/img/de0e2759a82a88b3.jpg",
+   "data/img/3d3d786628c7f0d1.jpg",
+   "data/img/ce646faf3b33a45d.jpg",
+   "data/img/23a6f389ccb2f203.jpg",
+   "data/img/3f49a3f45bf524cf.jpg",
+   "data/img/894a1e55f1e08fa1.jpg",
+   "data/img/8a69231597f61200.jpg",
+   "data/img/e7820b2f3abf1a73.jpg",
+   "data/img/538f494f6d83614e.jpg",
+   "data/img/f087cdd4bd69c2b3.jpg",
+   "data/img/343abe6215d61c9f.jpg",
+   "data/img/bc199063d0775432.jpg",
+   "data/img/f24de7a55a5bab37.jpg",
+   "data/img/d603f97a5f95c90a.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_e3380a401d0cc3f9.mp4",
+    "poster": "data/vid/v_e3380a401d0cc3f9.jpg"
+   }
+  ],
+  "updated": 1794498139
+ },
+ {
+  "id": 559,
+  "price": 8500000,
+  "price_max": 8500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "Đào Duy Anh Phú",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng"
+  ],
+  "description": "KHAI TRƯƠNG 2PN MỚI\nKENG QUẬN PHÚ NHUẬN\n8tr5 có máy giặt riêng\nĐào Duy Anh, Phú Nhuận",
+  "images": [],
+  "videos": [],
+  "updated": 1794498138
+ },
+ {
+  "id": 558,
+  "price": 7500000,
+  "price_max": 7500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường 13",
+  "street": null,
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "nuôi thú cưng"
+  ],
+  "description": "PHÒNG SIÊU ĐẸP NGAY NHÀ GA T3 - 7tr5\nĐường C12, Phường 13, Tân Bình (cạnh Hoàng Hoa Thám)\nQuy mô: thang máy, nhà 5p xây mới\nĐiện: 4k/kwh\nNước: 100k/người\nPDV: 150k/phòng\nKhông nuôi Pet, ko nhận em bé\nKhông nhận người nước ngoài\nTin nhắn chưa đọc",
+  "images": [
+   "data/img/hd_08505edd0b67c16b.jpg",
+   "data/img/hd_925a2184b1a03c9c.jpg",
+   "data/img/hd_42ac8304e0df06de.jpg",
+   "data/img/hd_08505edd0b67c16b.jpg",
+   "data/img/hd_806e969a66c2b8e7.jpg",
+   "data/img/hd_a65ace887a26ebbe.jpg",
+   "data/img/hd_365ad2e1d76189e6.jpg",
+   "data/img/hd_54dc60dacb401334.jpg",
+   "data/img/hd_235aaaa0b4d92858.jpg",
+   "data/img/hd_bfa3963706cd5d20.jpg",
+   "data/img/hd_65c8d17c82837252.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_e3380a401d0cc3f9.mp4",
+    "poster": "data/vid/v_e3380a401d0cc3f9.jpg"
+   }
+  ],
+  "updated": 1794498025
+ },
+ {
   "id": 551,
   "price": 4300000,
   "price_max": 4300000,
