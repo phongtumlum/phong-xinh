@@ -1,5 +1,120 @@
 [
  {
+  "id": 551,
+  "price": 4300000,
+  "price_max": 4300000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": "Phường 13",
+  "street": "Huỳnh Văn Bánh",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "Huỳnh Văn Bánh, P.13, Q.Phú Nhuận (Xe tải tới cửa)\nPhòng 102 thang bộ\nW Điện: 4k/kw\nY Nước: 100k/người\nY Không phí DV (Không có khu giặt sấy chung) nhưng có thể phơi đồ được trước bancong\nŸ Free xe, wifi, rác\nÊ Giá: 4tr300/tháng\n( Phú Nhuận - 4.000 - 5.000 )",
+  "images": [
+   "data/img/hd_aabfd70cce400f33.jpg",
+   "data/img/hd_ff21e15a2e5140d5.jpg",
+   "data/img/hd_409ecfcd713265d7.jpg",
+   "data/img/hd_6569cd9e257f341b.jpg",
+   "data/img/hd_e834726a5c8a66a3.jpg",
+   "data/img/hd_3679fcc0acb336b1.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_7f94b3d081141438.mp4",
+    "poster": "data/vid/v_7f94b3d081141438.jpg"
+   }
+  ],
+  "updated": 1794497514
+ },
+ {
+  "id": 549,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": "Phường An Đông",
+  "street": "Ngô Gia Tự Quận",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "cửa sổ",
+   "full nội thất"
+  ],
+  "description": "Địa chỉ: Ngô Gia Tự Quận, Phường An Đông\n( ngay ĐH Kinh Tế )\nGiá : 6.500.000 studio cửa sổ\nMã phòng: 302\nCó sân thượng : Giặt phơi\nFull Nội thất\nĐiện 4k, nước 100k, phí dv 150k\nXe free 1 chiếc\nVị trí : gần đại học Kinh tế, Y Dược\nCheckin liền\n( Quận 10 - 6.000 - 7.000 )",
+  "images": [
+   "data/img/hd_027a68a997eda70d.jpg",
+   "data/img/hd_9c7c9bccd530987d.jpg",
+   "data/img/hd_e01f36b3792ce41b.jpg",
+   "data/img/hd_47306d5adbd15ab2.jpg",
+   "data/img/hd_ea93589a9c2a3bc4.jpg",
+   "data/img/hd_c1cb966cd97d84a4.jpg"
+  ],
+  "videos": [],
+  "updated": 1794497451
+ },
+ {
+  "id": 548,
+  "price": 7800000,
+  "price_max": 7800000,
+  "price_deal": null,
+  "area": 30.0,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Nguyễn Văn Đậu",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp",
+   "chỗ để xe",
+   "giờ giấc tự do",
+   "nuôi thú cưng",
+   "vân tay"
+  ],
+  "description": "Mã: 202 - 302 - 402 : Ban công\nGiá thuê : 7.800.000/tháng\nĐịa chỉ: Nguyễn Văn Đậu , Đức Nhuận\nNội thất: đầy đủ (, Nệm, tủ lạnh , máy lạnh , tủ đồ ,kệ bếp, nóng lạnh mặt trời )\nLau:2-3-4\nThang máy: có\nDiện tích: 30m2\nCửa số : Có ban công\nNuôi thú cưng : ko pet\nHợp đồng thuê: 6 - 12 tháng\nĐặt cọc: 1.5 tháng\nSố Người ở tối đa: 2 người\nChỗ để xe : Free 1 xe\nMáy giặt: riêng\nPhí Dịch Vụ: 200k/phòng\nĐiện, nước: Điện 4k/kw - nước 150k/người\nGhi chú: Giờ giấc tự do, ra vào Vân tay\n( Bình Thạnh - 7.000 - 8.000 - Ban Công )",
+  "images": [
+   "data/img/hd_e2292920c3ef6ff4.jpg",
+   "data/img/hd_ce4bcb0bda88dd2d.jpg",
+   "data/img/hd_f99b80826c8ab50f.jpg",
+   "data/img/hd_88986747ef448f89.jpg",
+   "data/img/hd_00f5d9f14b1b5d97.jpg",
+   "data/img/hd_04e1dddf9e05aff5.jpg",
+   "data/img/hd_a93e4aad1b0a1d60.jpg"
+  ],
+  "videos": [],
+  "updated": 1794497377
+ },
+ {
   "id": 547,
   "price": 5500000,
   "price_max": 5500000,
