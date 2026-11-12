@@ -1,5 +1,284 @@
 [
  {
+  "id": 581,
+  "price": 5000000,
+  "price_max": 5000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 4",
+  "ward": null,
+  "street": "Nguyễn Văn Cừ",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [],
+  "description": "5tr đường số 8a KDC Trung Sơn gần cầu Nguyễn Văn Cừ Q5, Q4, Q1\nthang máy\nTrống sẵn\nMã căn hộ: T20062P201\nD1",
+  "images": [
+   "data/img/hd_55531e6d52266300.jpg",
+   "data/img/hd_cd28239c1ff147a9.jpg",
+   "data/img/hd_2ca28e75ce4fda05.jpg",
+   "data/img/hd_80637e6501fffc7d.jpg"
+  ],
+  "videos": [],
+  "updated": 1794500633
+ },
+ {
+  "id": 580,
+  "price": 3700000,
+  "price_max": 3700000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 4",
+  "ward": null,
+  "street": "Nguyễn Văn Cừ",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [],
+  "description": "3tr7 đường số 8a KDC Trung Sơn gần cầu Nguyễn Văn Cừ Q5, Q4, Q1\nthang máy\nTrống 1/12\nMã căn hộ: T20062P307\nD1",
+  "images": [
+   "data/img/hd_02d44fa378d5eb06.jpg",
+   "data/img/hd_f845581a4608eb6c.jpg",
+   "data/img/hd_7eba34e5c0f5f36b.jpg",
+   "data/img/hd_88dea24db445a78f.jpg",
+   "data/img/hd_385f539574c5b390.jpg"
+  ],
+  "videos": [],
+  "updated": 1794500584
+ },
+ {
+  "id": 579,
+  "price": 4000000,
+  "price_max": 4000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 4",
+  "ward": null,
+  "street": "Nguyễn Văn Cừ",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [],
+  "description": "4tr đường số 7 KDC Trung Sơn gần cầu Nguyễn Văn Cừ Q5, Q4, Q1\nthang máy\nTrống 1/12\nMã căn hộ: T20063P0I1\nD1",
+  "images": [
+   "data/img/hd_a7de14e4f778016d.jpg",
+   "data/img/hd_fbcc13186dd4192e.jpg"
+  ],
+  "videos": [],
+  "updated": 1794500563
+ },
+ {
+  "id": 578,
+  "price": 6000000,
+  "price_max": 6000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Đồng Nai",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng"
+  ],
+  "description": "6tr Đồng Nai Q10\nmáy giặt riêng\nTrống sẵn\nMã căn hộ: T10013\nD1",
+  "images": [
+   "data/img/hd_904f729c6e8adb4d.jpg",
+   "data/img/hd_82f20f37f30b4ef7.jpg",
+   "data/img/hd_a3a05c6cc1165c01.jpg",
+   "data/img/hd_a3a05c6cc1165c01.jpg",
+   "data/img/hd_82701ff61ef21a5c.jpg",
+   "data/img/hd_82701ff61ef21a5c.jpg",
+   "data/img/hd_6bad64f1a8ccaf9a.jpg",
+   "data/img/hd_fbe9410ba805e58f.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_542642939c488340.mp4",
+    "poster": "data/vid/v_542642939c488340.jpg"
+   }
+  ],
+  "updated": 1794500468
+ },
+ {
+  "id": 577,
+  "price": 5500000,
+  "price_max": 6000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Cách Mạng Tháng Tám",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [],
+  "description": "5tr5 Cách Mạng Tháng Tám Q10\nTrống sẵn\nMã căn hộ: T10049202\nD1\nTô Hiến Thành Q10\n6tr -> giảm còn Str5\nthang máy\nMã căn hộ: T100205\nD1",
+  "images": [
+   "data/img/hd_bc068a02fbb6672e.jpg",
+   "data/img/hd_1e7ec11949e72c8b.jpg",
+   "data/img/hd_3a5803dd1a7a58e6.jpg",
+   "data/img/hd_35e799b12d6942a3.jpg",
+   "data/img/hd_effcb70bc16ec1ec.jpg",
+   "data/img/hd_66230400a9eb5956.jpg",
+   "data/img/hd_82cd8494bfdc618f.jpg",
+   "data/img/hd_d7d4dcf85ab1f68a.jpg",
+   "data/img/hd_0a91f392792832f0.jpg",
+   "data/img/hd_992df22c8f5d4967.jpg",
+   "data/img/hd_3f9d92f2c308d5f1.jpg",
+   "data/img/hd_41182ceb72cf13cd.jpg"
+  ],
+  "videos": [],
+  "updated": 1794500347
+ },
+ {
+  "id": 576,
+  "price": 5500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Tạ Quang Bửu",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng"
+  ],
+  "description": "5tr5 Tạ Quang Bửu gần cầu Nguyễn Tri Phương Q5, Q10\nMã căn hộ: T 4439 D1\nCao Thắng Q10\nNgắn hạn lấy giá chưa giảm x 70%\nftr -> giảm còn 6tr5\nmáy giặt riêng\nMã căn hộ: T10124301\nD1",
+  "images": [
+   "data/img/hd_18e9d87687fbc3c0.jpg",
+   "data/img/hd_6ff2aeffd6438525.jpg",
+   "data/img/hd_ae43520acd9da598.jpg",
+   "data/img/hd_fb7872b304382bcb.jpg",
+   "data/img/hd_ae290bee5abab374.jpg",
+   "data/img/hd_a517194a4e58efed.jpg",
+   "data/img/hd_10b599fc01690924.jpg",
+   "data/img/hd_09644ce1aa17ca97.jpg",
+   "data/img/hd_f2607426609eec0e.jpg",
+   "data/img/hd_e0133aea99f201a8.jpg",
+   "data/img/hd_184846fcf7c265f8.jpg",
+   "data/img/hd_f4c10d0db05470b0.jpg",
+   "data/img/hd_27f14f95065e42f5.jpg",
+   "data/img/hd_af32b176ee8b1196.jpg",
+   "data/img/hd_b633ba13bc550a22.jpg",
+   "data/img/ea9b6785354f71ff.jpg",
+   "data/img/547ddd427045709f.jpg"
+  ],
+  "videos": [],
+  "updated": 1794500206
+ },
+ {
+  "id": 575,
+  "price": 5800000,
+  "price_max": 5800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 5",
+  "ward": null,
+  "street": "Nguyễn Chí Thanh",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [],
+  "description": "5tr8 Nguyễn Chí Thanh Q5\nthang máy\nTrống sẵn\nMã căn hộ: T05026A\nD1",
+  "images": [
+   "data/img/hd_706fbbf0ac8c1371.jpg",
+   "data/img/hd_5f7861228cd3e00b.jpg",
+   "data/img/hd_ff35f4ee17a830a5.jpg",
+   "data/img/hd_9f62388ac75cc320.jpg",
+   "data/img/hd_cf1f4b398d7feb96.jpg",
+   "data/img/hd_11ac8a0bd7df86be.jpg",
+   "data/img/hd_199ba01e0470a3f0.jpg",
+   "data/img/hd_12f3b66606f3df70.jpg",
+   "data/img/hd_eeb23ad36c300acc.jpg",
+   "data/img/hd_558bd927c0daff7f.jpg"
+  ],
+  "videos": [],
+  "updated": 1794500110
+ },
+ {
+  "id": 573,
+  "price": 6000000,
+  "price_max": 6000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 5",
+  "ward": null,
+  "street": "Nguyễn Chí Thanh",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 12/11",
+  "available_date": "2026-11-12",
+  "amenities": [],
+  "description": "6tr Nguyễn Chí Thanh Q5\nthang máy\nTrống 12/11\nMã căn hộ: T05026BS5T11\nOO",
+  "images": [
+   "data/img/hd_67fea5cbc6f10879.jpg",
+   "data/img/hd_a9e87401bf9f9e0a.jpg",
+   "data/img/hd_408b62b83239ef01.jpg",
+   "data/img/hd_a4d4ccbba1174d56.jpg"
+  ],
+  "videos": [],
+  "updated": 1794500073
+ },
+ {
   "id": 569,
   "price": 7500000,
   "price_max": 9000000,
