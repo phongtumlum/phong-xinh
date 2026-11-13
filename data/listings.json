@@ -1,5 +1,190 @@
 [
  {
+  "id": 597,
+  "price": 5000000,
+  "price_max": 5500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Cách Mạng Thang",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Cách Mạng Thang 8, Quận 3\nMã phòng 102, 202: 5tr ( phòng 1 người, 2 người 5tr5 )",
+  "images": [
+   "data/img/hd_f7278173b929ddab.jpg",
+   "data/img/hd_f796fff1f05f72eb.jpg",
+   "data/img/hd_769cb8b011f516e8.jpg",
+   "data/img/hd_9bf6734c465f6df6.jpg",
+   "data/img/hd_05c3910065f70f5b.jpg",
+   "data/img/hd_224ba721e35e5c17.jpg"
+  ],
+  "videos": [],
+  "updated": 1794611691
+ },
+ {
+  "id": 596,
+  "price": 6500000,
+  "price_max": 7000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Lạc Long Quân Tân",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "gác"
+  ],
+  "description": "7tr duplex - q10 - mới làm\nxong\nLạc Long Quân, Tân Bình @AIl\nSang nhượng 20†: 6.500.000 (cuối tháng)",
+  "images": [
+   "data/img/hd_d1f58346083a0082.jpg",
+   "data/img/hd_d2938fd1d2ecfafa.jpg",
+   "data/img/hd_f38f2a8c5bac30a5.jpg",
+   "data/img/hd_237976f46abc7da8.jpg",
+   "data/img/hd_f9c627ba4fea66b6.jpg",
+   "data/img/hd_5ff6882791216899.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_0357b4ebf4cc40a3.mp4",
+    "poster": "data/vid/v_0357b4ebf4cc40a3.jpg"
+   }
+  ],
+  "updated": 1794611613
+ },
+ {
+  "id": 595,
+  "price": 5500000,
+  "price_max": 5500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "451/25/ Tô Hiến Thành",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "KHAI TRƯƠNG CĂN HỘ MỚI 100% FULL NỘI THẤT QUẬN 10\nAddress: 451/25/ Tô hiến Thành, Q10\nTiên ích\nMáy giặt + sấy. Thang Máy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: Free 2 xe\nGiá 5tr5 (Trống sẵn phòng ở Trệt - G02)\nGiá 5tr5 (Trống sẵn phòng ở lầu 2 - 203)",
+  "images": [
+   "data/img/hd_c8c4e5599f119dfc.jpg",
+   "data/img/hd_4605ed65df91e81e.jpg",
+   "data/img/hd_3b72ff020a6d007c.jpg",
+   "data/img/hd_3b72ff020a6d007c.jpg",
+   "data/img/hd_7ac96a2ff3f70df0.jpg",
+   "data/img/hd_433457e921b8ff43.jpg",
+   "data/img/hd_10ae34918d092b24.jpg",
+   "data/img/hd_e4eb1b588b36b37b.jpg",
+   "data/img/hd_fa687bd680c4a0da.jpg",
+   "data/img/hd_88b1baeca93d1102.jpg",
+   "data/img/hd_ef421ffa45baa230.jpg",
+   "data/img/hd_1e45dfb035f2645e.jpg",
+   "data/img/hd_fdecaefb977d18b2.jpg",
+   "data/img/hd_9b078e0620af8024.jpg",
+   "data/img/hd_68043cebb2ee4d62.jpg",
+   "data/img/2f5770013e67a42b.jpg",
+   "data/img/b9bb86b0abcd6040.jpg",
+   "data/img/83bfc4f44fc5bcf3.jpg",
+   "data/img/45b0948a924e4ffe.jpg",
+   "data/img/ca6a23911afbf4d2.jpg"
+  ],
+  "videos": [],
+  "updated": 1794611480
+ },
+ {
+  "id": 594,
+  "price": 6000000,
+  "price_max": 6000000,
+  "price_deal": 5500000,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "163/50 Thành Thái",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO FULL NỘI THẤT MÁY GIẶT RIÊNG QUẬN 10\nAddress: 163/50 Thành Thái, Q10\nTiên ích\nMáy giặt riêng. Thang Máy\nPhòng trang bị full nội thất tiện nghi. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 130k/phòng\nPhí xe: 150k/ chiếc\nGiá 6tr kí HĐ 1 năm giảm 6 tháng đầu còn 5tr5\n(Trống sẵn phòng ở lửng - G01)",
+  "images": [
+   "data/img/hd_4480dd1aeb7caf27.jpg",
+   "data/img/hd_4d2ba8c0c328274f.jpg",
+   "data/img/hd_e472979e840bccb5.jpg",
+   "data/img/hd_45d08d05f684ecf7.jpg",
+   "data/img/hd_5262f809ab4a03ec.jpg"
+  ],
+  "videos": [],
+  "updated": 1794611436
+ },
+ {
+  "id": 593,
+  "price": 4500000,
+  "price_max": 4500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Thành Thái",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "4tr5 Thành Thái Q10",
+  "images": [
+   "data/img/hd_f2b854c2d9a090be.jpg",
+   "data/img/hd_45dc83ab9c0730fb.jpg",
+   "data/img/hd_4bfb8966f6501b26.jpg",
+   "data/img/hd_50265598930f4e23.jpg"
+  ],
+  "videos": [],
+  "updated": 1794611399
+ },
+ {
   "id": 589,
   "price": 6000000,
   "price_max": 6000000,
@@ -938,12 +1123,12 @@
   ],
   "description": "trường sa phường 17 - Bình Thạnh\nGiảm giá 5.500.000 vnđ\nFull nội thất như hình new 100%\ngac cao 2m4, hầm xe rộng\nGiờ giấc tự do, ra vào vân tay pccc đầy đủ",
   "images": [
-   "data/img/2db0d410ae1cf379.jpg",
-   "data/img/cf9fa3b8fa7d9d05.jpg",
-   "data/img/88fd8b66042f3bc1.jpg",
-   "data/img/f620a1c4174398d0.jpg",
-   "data/img/70e2904ae7d3b740.jpg",
-   "data/img/1d705dc3d1889a80.jpg"
+   "data/img/hd_3d93ef8dd505e81b.jpg",
+   "data/img/hd_da6bd7935501d011.jpg",
+   "data/img/hd_020ecfd08d5383b5.jpg",
+   "data/img/hd_5cf6a385c3fc543e.jpg",
+   "data/img/hd_dccdca0122eb0b58.jpg",
+   "data/img/hd_6af72324aef5ee63.jpg"
   ],
   "videos": [],
   "updated": 1794496706
