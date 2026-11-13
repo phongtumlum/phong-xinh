@@ -1,5 +1,169 @@
 [
  {
+  "id": 602,
+  "price": 7500000,
+  "price_max": 7500000,
+  "price_deal": null,
+  "area": 25.0,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "3K Tiện",
+  "type": "căn hộ dịch vụ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": "Căn hộ dịch vụ",
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "cửa sổ",
+   "full nội thất",
+   "bếp",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "Chính chủ cho thuê phòng CHDV full nội thất CMT8 - Quận 10\n3K Tiện ích\nBán kính 3km công viên Lê Thị Riêng, Bách Hoá Xanh, chợ, đại học Hoa Sen/UEH/Bách Khoa/Huflit\n3 Phút ra quận 3/Tân Bình, 5 phút ra Phú Nhuận/Quận 1\nKhu vực trí thức, an ninh, yên tĩnh\nCác phòng đều cửa sổ, balcony thoáng mát\nPhòng full nội thất máy hút mùi/bếp Bosch/cửa khoá vân tay\n3 Bảng dịch vụ\nĐiện 4k\nNước 100k/ người\nPhí quản lí 200k\nXe free 2 chiếc\nP102 7.500.000 25m2 ( trống )",
+  "images": [
+   "data/img/hd_aa689b35f6ef246a.jpg",
+   "data/img/hd_224678a8358382ab.jpg",
+   "data/img/hd_ae8e0acbee4d4c34.jpg",
+   "data/img/hd_dcf3d0e59bff5ba6.jpg",
+   "data/img/hd_918a58118a540234.jpg",
+   "data/img/hd_7c4274df54690f88.jpg",
+   "data/img/hd_78251ff1178fdeed.jpg",
+   "data/img/hd_9a1f358fac82b240.jpg",
+   "data/img/hd_0d63d4922f5e8c83.jpg",
+   "data/img/hd_678ad1ba53ec53de.jpg",
+   "data/img/hd_031dfdf74ba250cf.jpg",
+   "data/img/hd_7c522e9f494e66a6.jpg"
+  ],
+  "videos": [],
+  "updated": 1794612733
+ },
+ {
+  "id": 601,
+  "price": 7800000,
+  "price_max": 7800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "Nguyễn Thị Minh Khai",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất"
+  ],
+  "description": "nguyễn thị minh khai p sài gòn Q1 cũ\nTrống sẵn 303 dạng studio full nt\nCửa số thoáng\nGiặt sấy máy lọc nước chung\nMới 100% giá 7,8tr\n(Quận 1 - 7.000 - 8.000)",
+  "images": [
+   "data/img/hd_e0633d51b6dc9047.jpg",
+   "data/img/hd_f7e611bcac8c2025.jpg",
+   "data/img/hd_c73b700238a3cd68.jpg",
+   "data/img/hd_94a9b0eff4fb194e.jpg",
+   "data/img/hd_2150b20a645f39bb.jpg",
+   "data/img/hd_004cec0afb8fff5e.jpg",
+   "data/img/hd_351c3c085e998916.jpg",
+   "data/img/hd_785928ff8d4c5131.jpg",
+   "data/img/hd_bb29e6608b3bd0fc.jpg",
+   "data/img/hd_c7e3364122b68f83.jpg",
+   "data/img/hd_671f2995ce7fb713.jpg"
+  ],
+  "videos": [],
+  "updated": 1794612644
+ },
+ {
+  "id": 600,
+  "price": 4000000,
+  "price_max": 5000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Đồng Nai",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "gác"
+  ],
+  "description": "Đồng Nai Q10\nMã phòng 402\nGiá 4300\n(Quận 10 - 4.000 - 5.000 - duplex)",
+  "images": [
+   "data/img/0b8495ca456769e1.jpg",
+   "data/img/7a81cd099fddc148.jpg",
+   "data/img/e6727a87ff87ab96.jpg",
+   "data/img/eed1f79f17b998e3.jpg",
+   "data/img/8aee2ed63b6cf8c0.jpg",
+   "data/img/e0697e6434846a3a.jpg",
+   "data/img/ddb5770b2188fceb.jpg",
+   "data/img/327f72433bbe8802.jpg",
+   "data/img/f0ac72124f63de50.jpg",
+   "data/img/5e2408fc997ac8a4.jpg",
+   "data/img/19277ea8cc7900a1.jpg",
+   "data/img/245970ff50f6db67.jpg"
+  ],
+  "videos": [],
+  "updated": 1794612114
+ },
+ {
+  "id": 599,
+  "price": 5300000,
+  "price_max": 5800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường 12",
+  "street": null,
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất"
+  ],
+  "description": "Tin nhắn chưa đọc\nP.102: 5TR8 Giảm 5TR6 (6TH)\nStudio cửa số thoáng full nội thất\nP.303: 5.500.000 [E 5.300.000\n( STUDIO THOÁNG FULL NỘI THẤT RỘNG RÃI )\nly C18, Phường 12, Tân Bình Ấà\nĐiện 4k/kí, nước 100k/người, dịch vụ 200k/P, Xe Free 1-2 xe\n(Tân Bình - 5.000 - 6.000)",
+  "images": [
+   "data/img/hd_d4239828b74fca91.jpg",
+   "data/img/hd_2e3721d54d31eab3.jpg",
+   "data/img/hd_9de5e9e2037aa007.jpg",
+   "data/img/hd_0fde71dcd904d1c8.jpg",
+   "data/img/hd_1c49727b41b75c9c.jpg",
+   "data/img/hd_da7fc1828db849d5.jpg",
+   "data/img/hd_5c493ceb978eaecb.jpg",
+   "data/img/hd_40c41f3779544019.jpg",
+   "data/img/hd_067629cdd1bc420c.jpg",
+   "data/img/hd_3206589df2c7f33b.jpg",
+   "data/img/hd_d9ebba5c7b6415cf.jpg",
+   "data/img/hd_68bc140a003ec38b.jpg",
+   "data/img/hd_9ded7f5566057a37.jpg",
+   "data/img/hd_da7fc1828db849d5.jpg",
+   "data/img/hd_d1b2d26afb9ec485.jpg",
+   "data/img/7ead8f10dc58a741.jpg"
+  ],
+  "videos": [],
+  "updated": 1794611979
+ },
+ {
   "id": 597,
   "price": 5000000,
   "price_max": 5500000,
