@@ -1,5 +1,86 @@
 [
  {
+  "id": 605,
+  "price": 6000000,
+  "price_max": 6000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "686 Cách Mạng Tháng 8",
+  "type": "chung cư",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": "Chung cư",
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "686 CMT8 ngay Bắc Hải Quận 10\nxv Toà nhà thang bộ, ra vào vân tay, camera an ninh 24/7\nĐiện: 4.000/kwh\nNước: 150.000đ/người\nSố người: 2 người\nPhí quản lý wifi, rác, vệ sinh: 250.000đ/phòng (dọn phòng † lần/ tuần).\nXe: Íree 1 xe\nCHUNG CƯ MINI ĐƯỜNG PHAN BỘI CHÂU, BÌNH THẠNH\nˆ MÃ PHÒNG: 302 giá 6.000.000 - TRỐNG SĂẴN",
+  "images": [
+   "data/img/hd_e1f020a27da45907.jpg",
+   "data/img/hd_649c1815c455d876.jpg",
+   "data/img/hd_a998ddb2a85f5b0f.jpg",
+   "data/img/hd_ade2dc5a2d04cff2.jpg",
+   "data/img/hd_ca84de0a1b7af9b9.jpg",
+   "data/img/hd_fb40ee21968479a9.jpg",
+   "data/img/hd_84a18c35eea70e01.jpg",
+   "data/img/hd_4f73528cb52d5caa.jpg",
+   "data/img/hd_5a3167b446758e35.jpg",
+   "data/img/hd_671a17c9e311ae2a.jpg",
+   "data/img/hd_adbe6bc1afde6aa2.jpg"
+  ],
+  "videos": [],
+  "updated": 1794613050
+ },
+ {
+  "id": 603,
+  "price": 5500000,
+  "price_max": 5500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": null,
+  "street": "947 Cách Mạng Tháng 8",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "ban công",
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp"
+  ],
+  "description": "947 CMT8, F7, Tân Bình (ngay Quận 10)\nĐiện 4k/kwh\nNước 100k/người\nDv 200k/phòng\nXe free\nNội thất: Tủ lạnh, máy lạnh, kệ bếp, tủ quần áo, bàn trang điểm, máy giặt riêng, nóng lạnh NLMT\nBan công chill, dự án mới\n5tr5 hợp đồng 6 tháng, giảm còn Str 3 tháng đầu",
+  "images": [
+   "data/img/hd_447ba6a1c0758800.jpg",
+   "data/img/hd_4d9f4344e7773643.jpg",
+   "data/img/hd_720141138705515d.jpg",
+   "data/img/hd_59440cd0acf9a6a6.jpg",
+   "data/img/hd_7e353531368fe10c.jpg",
+   "data/img/hd_21255c961b51afd7.jpg",
+   "data/img/hd_951d75a8075ff966.jpg",
+   "data/img/hd_25217cf069698345.jpg",
+   "data/img/hd_63a7237569f59c3b.jpg"
+  ],
+  "videos": [],
+  "updated": 1794612971
+ },
+ {
   "id": 602,
   "price": 7500000,
   "price_max": 7500000,
