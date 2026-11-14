@@ -1,5 +1,277 @@
 [
  {
+  "id": 630,
+  "price": 12000000,
+  "price_max": 12000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "Mai Thị Lựu",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [],
+  "description": "12tr 2PN Mai Thị Lựu Q1 gần Q3, Q5\nTrống sẵn\nMã căn hộ: T 976 4439 D1",
+  "images": [
+   "data/img/hd_516084d1697405ad.jpg",
+   "data/img/hd_b0259dbc8ede0e50.jpg",
+   "data/img/hd_bce061339cd391a0.jpg",
+   "data/img/hd_677387132b3342ac.jpg",
+   "data/img/hd_3720927bbfab634e.jpg",
+   "data/img/hd_bd627f9fd2e9365e.jpg",
+   "data/img/hd_b47ab5fc2bf4d19d.jpg",
+   "data/img/hd_b3bad5b7d1966b85.jpg",
+   "data/img/hd_3e1a07c0655e47f1.jpg",
+   "data/img/hd_46b57701443288a3.jpg"
+  ],
+  "videos": [],
+  "updated": 1794616245
+ },
+ {
+  "id": 629,
+  "price": 10500000,
+  "price_max": 10500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "Mai Thị Lựu",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [],
+  "description": "10tr5 2PN Mai Thị Lựu Q1 gần Q3, Q5\nTrống 01/12\nMã căn hộ: T 976 4439 D1",
+  "images": [
+   "data/img/hd_d9bbcb7d5622f5db.jpg",
+   "data/img/hd_4a1f7ad94aa8d43d.jpg",
+   "data/img/hd_d73381b97bdb1bff.jpg",
+   "data/img/hd_602ca1c1aeeb584d.jpg",
+   "data/img/hd_8a7289ce3dd47585.jpg",
+   "data/img/hd_1ac69c578d839f9b.jpg",
+   "data/img/hd_036927a31fa1c487.jpg"
+  ],
+  "videos": [],
+  "updated": 1794616179
+ },
+ {
+  "id": 628,
+  "price": 12500000,
+  "price_max": 12500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Tô Hiến Thành",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "12tr5 2PN Tô Hiến Thành Q10\nban công\nMã căn hộ: T10043P501\nD1",
+  "images": [
+   "data/img/hd_d6ef6cef287089d0.jpg",
+   "data/img/hd_4cfdabfa4a392e0e.jpg",
+   "data/img/hd_4cfdabfa4a392e0e.jpg",
+   "data/img/hd_ad4a24bf6ebeffaf.jpg",
+   "data/img/hd_156d22e9aea8a966.jpg",
+   "data/img/hd_5aa234e8c0fa5491.jpg",
+   "data/img/hd_29fb6103b99c88b0.jpg",
+   "data/img/hd_e2f7c221c2391724.jpg",
+   "data/img/hd_7dab0468a09ab339.jpg",
+   "data/img/hd_b9378c2a45f06238.jpg",
+   "data/img/hd_177b4ad5e8126c33.jpg",
+   "data/img/hd_bf4ad2a913ee7abb.jpg",
+   "data/img/hd_05ed3f741dc932fe.jpg"
+  ],
+  "videos": [],
+  "updated": 1794616068
+ },
+ {
+  "id": 626,
+  "price": 8500000,
+  "price_max": 8500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 4",
+  "ward": null,
+  "street": "Nguyễn Văn Cừ",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng"
+  ],
+  "description": "8tr5 2PN đường số 24 KDC Him Lam gần cầu Nguyễn Văn Cừ Q5, Q4, Q1\nmáy giặt riêng\nMã căn hộ: T20053\nD1",
+  "images": [],
+  "videos": [
+   {
+    "src": "data/vid/v_b6d070cb472f308f.mp4",
+    "poster": "data/vid/v_b6d070cb472f308f.jpg"
+   }
+  ],
+  "updated": 1794616052
+ },
+ {
+  "id": 624,
+  "price": 5900000,
+  "price_max": 5900000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 5",
+  "ward": null,
+  "street": "Phan Văn Trị",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [],
+  "description": "5tr9 2PN Phan Văn Trị Q5\nTrống sẵn\nMã căn hộ: T 4439 D1",
+  "images": [
+   "data/img/hd_de16ce05ff48accf.jpg",
+   "data/img/hd_24008075452c492b.jpg",
+   "data/img/hd_a14b6272a4d6217a.jpg",
+   "data/img/hd_be447d9c71dbb04f.jpg",
+   "data/img/hd_7ccb8272cbd76e28.jpg",
+   "data/img/hd_cab5829ac76b080e.jpg",
+   "data/img/hd_67b18657b721e12c.jpg",
+   "data/img/hd_92b3819931b5030a.jpg",
+   "data/img/hd_586e9fbfa38a7a3c.jpg",
+   "data/img/hd_5fa1e88180a568d8.jpg",
+   "data/img/hd_85b4c5438fec614a.jpg",
+   "data/img/hd_8980d63dbbc85595.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_8871b980204b733f.mp4",
+    "poster": "data/vid/v_8871b980204b733f.jpg"
+   }
+  ],
+  "updated": 1794615842
+ },
+ {
+  "id": 623,
+  "price": 8800000,
+  "price_max": 8800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 5",
+  "ward": null,
+  "street": "Bùi Hữu Nghĩa",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "8tr8 2PN Bùi Hữu Nghĩa Q5\nMã căn hộ: T 4439 D1",
+  "images": [],
+  "videos": [
+   {
+    "src": "data/vid/v_165e7b5eb86a2d52.mp4",
+    "poster": "data/vid/v_165e7b5eb86a2d52.jpg"
+   }
+  ],
+  "updated": 1794615825
+ },
+ {
+  "id": 622,
+  "price": 9500000,
+  "price_max": 9500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 5",
+  "ward": null,
+  "street": "Cách Mạng Tháng Tám",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "9tr5 2PN Cách Mạng Tháng Tám Q3 gần Q10, Q5\nthang máy\nMã căn hộ: T03017G0I\nD1",
+  "images": [
+   "data/img/hd_21ade5d0a3f4c2e4.jpg",
+   "data/img/hd_b426f4b1baab3239.jpg",
+   "data/img/hd_97859421516f3900.jpg",
+   "data/img/hd_87a0372e31e4ebc3.jpg",
+   "data/img/hd_334f2c2b86845936.jpg",
+   "data/img/hd_0f4df0fb9abce897.jpg"
+  ],
+  "videos": [],
+  "updated": 1794615770
+ },
+ {
+  "id": 621,
+  "price": 8500000,
+  "price_max": 8500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 5",
+  "ward": null,
+  "street": "Cách Mạng Tháng Tám",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "8tr5 2PN Cách Mạng Tháng Tám Q3 gần Q10, Q5\nthang máy\nMã căn hộ: T03017101A",
+  "images": [
+   "data/img/hd_97e111521ee66103.jpg",
+   "data/img/hd_6086b28c3df0a1cc.jpg",
+   "data/img/hd_5809cffe866e9fbf.jpg",
+   "data/img/hd_2fb2b88d74a7836b.jpg",
+   "data/img/hd_504e5a70f6dd5bbb.jpg",
+   "data/img/hd_b9fc4f9161a9d453.jpg",
+   "data/img/hd_a9d7cc6b2bcccbfa.jpg"
+  ],
+  "videos": [],
+  "updated": 1794615706
+ },
+ {
   "id": 620,
   "price": 14000000,
   "price_max": 14000000,
