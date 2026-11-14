@@ -1,5 +1,95 @@
 [
  {
+  "id": 637,
+  "price": 10000000,
+  "price_max": 10000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Thành Thái",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "10tr 2PN Thành Thái Q10\nthang máy\nMã căn hộ: T101492PN\nD1",
+  "images": [
+   "data/img/hd_5d4476b6aaa88368.jpg",
+   "data/img/hd_ae8f163eac496406.jpg",
+   "data/img/hd_f8f295c17bce6db8.jpg",
+   "data/img/hd_7bd3255a89a90e72.jpg",
+   "data/img/hd_541d87e76bd1fa3f.jpg",
+   "data/img/hd_e3ef1c6cea164f7d.jpg",
+   "data/img/hd_1d51cc12f84864ba.jpg"
+  ],
+  "videos": [],
+  "updated": 1794669080
+ },
+ {
+  "id": 636,
+  "price": 8500000,
+  "price_max": 8500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Lê Hồng Phong",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [],
+  "description": "8tr5 2PN Lê Hồng Phong Q10\nTrống sẵn\nMã căn hộ: T10068\nD1",
+  "images": [
+   "data/img/hd_7b27969356d56d97.jpg",
+   "data/img/hd_700a4be2d0655659.jpg"
+  ],
+  "videos": [],
+  "updated": 1794669061
+ },
+ {
+  "id": 633,
+  "price": 12500000,
+  "price_max": 12500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 5",
+  "ward": null,
+  "street": "An Dương Vương",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "12tr5 2PN An Dương Vương Q5\nGiá cả thương lượng nha\nban công\nMã căn hộ: T 976 4439 D1",
+  "images": [
+   "data/img/hd_22d56d704456761d.jpg",
+   "data/img/hd_22d56d704456761d.jpg",
+   "data/img/hd_51e71edb145bf924.jpg",
+   "data/img/0fb4b6df340a6a90.jpg"
+  ],
+  "videos": [],
+  "updated": 1794668809
+ },
+ {
   "id": 631,
   "price": 6600000,
   "price_max": 6800000,
