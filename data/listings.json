@@ -1,5 +1,38 @@
 [
  {
+  "id": 631,
+  "price": 6600000,
+  "price_max": 6800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Ba Tháng Hai",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "6tr6 - 6tr8 Ba Tháng Hai Q10\nMã căn hộ: T10136P203\nD1",
+  "images": [
+   "data/img/hd_27e080cdf83daecd.jpg",
+   "data/img/hd_f1b2cb2977be8944.jpg",
+   "data/img/hd_637ed14f75f119a7.jpg",
+   "data/img/hd_b1413310dcfb3c19.jpg",
+   "data/img/hd_4321f14878f156de.jpg",
+   "data/img/hd_06bfdb3ba0f3cb9a.jpg",
+   "data/img/hd_8c6d02012e84fec9.jpg"
+  ],
+  "videos": [],
+  "updated": 1794616444
+ },
+ {
   "id": 630,
   "price": 12000000,
   "price_max": 12000000,
@@ -1137,7 +1170,13 @@
    "máy giặt riêng"
   ],
   "description": "6tr Hòa Hảo Q10\nmáy giặt riêng\nMã căn hộ: T10140Q10\nD1",
-  "images": [],
+  "images": [
+   "data/img/hd_7b6f56cad9f46fbd.jpg",
+   "data/img/hd_0b2b847ef6a8b237.jpg",
+   "data/img/hd_ac59f98d2095525f.jpg",
+   "data/img/hd_dc4eb72dc7cac4c2.jpg",
+   "data/img/hd_2dc279a9322ec757.jpg"
+  ],
   "videos": [],
   "updated": 1794582920
  },
