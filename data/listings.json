@@ -1,5 +1,211 @@
 [
  {
+  "id": 620,
+  "price": 14000000,
+  "price_max": 14000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "159/13 Đào Duy Anh",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 20/11",
+  "available_date": "2026-11-20",
+  "amenities": [
+   "máy giặt riêng",
+   "cửa sổ",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "TRỐNG 2 PHÒNG NGỦ FULL NỘI THẤT SIÊU ĐẸP Q. PHÚ NHUẬN\nAddress: 159/13 Đào Duy Anh, Phú Nhuận\nTiên ích\nMáy giặt riêng. Thang máy\n1PN trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k2, Nước: 100k/người\nDịch vụ: 150k/ người\nPhí xe: free 2 xe\nGiá 14tr (Ngày 20/11 trống 2 phòng ngủ 2wc có balcon/ cửa sổ ở lầu 2 - 201)",
+  "images": [
+   "data/img/hd_2719f8917b1eea81.jpg",
+   "data/img/hd_7163f9c8b7296114.jpg",
+   "data/img/hd_74d1b786a5be27fb.jpg",
+   "data/img/hd_c010b5ecef6885ee.jpg",
+   "data/img/hd_08b1fd9a06822391.jpg",
+   "data/img/hd_16ad125f69f9754b.jpg",
+   "data/img/hd_cd9ad9bbcb9607e3.jpg",
+   "data/img/hd_8be105613bd20566.jpg",
+   "data/img/dabcc7bb072a671b.jpg",
+   "data/img/fd726b863d2e7ec8.jpg",
+   "data/img/b6614c270ddb2581.jpg",
+   "data/img/31a14fb07674f2ad.jpg"
+  ],
+  "videos": [],
+  "updated": 1794615193
+ },
+ {
+  "id": 619,
+  "price": 1300000,
+  "price_max": 1300000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "5/101/ Nơ Trang Long",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "nuôi thú cưng",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ MỚI XÂY 100% FULL NỘI THẤT Q. BÌNH THẠNH\nAddress: 5/101/ Nơ Trang Long, Bình Thạnh\nTiên ích\nMáy giặt + sân phơi. Thang Máy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nKO NUÔI PET, CỌC 1 THÁNG\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: 100k/ chiếc\nGiá fix Titr5 -> Cọc trước ngày 15/T1 giảm thêm 3 tháng đầu còn T1tr3\n(Trống sẵn 2 phòng ngủ 1wc có 2 balcon thoáng ở lầu 3 - 301)",
+  "images": [
+   "data/img/hd_d3e3144f7037c8e2.jpg",
+   "data/img/hd_df7751cc7c5a0d2a.jpg",
+   "data/img/hd_0ce6bd13cf384074.jpg",
+   "data/img/hd_f9f18db039e92976.jpg",
+   "data/img/hd_5b5c861c8ccb74af.jpg",
+   "data/img/hd_2e97a4cf3f84b1aa.jpg",
+   "data/img/hd_7a78a40bdcc9c989.jpg",
+   "data/img/hd_0b5e97cf61b4e0f9.jpg",
+   "data/img/hd_d4fc5016d3f39672.jpg",
+   "data/img/hd_724986e2503ccb65.jpg",
+   "data/img/hd_84474d9195dea1d0.jpg",
+   "data/img/hd_f05503976c74d6af.jpg",
+   "data/img/hd_5e9c2667fd27e9c8.jpg",
+   "data/img/hd_6c7eee8cc989cfdc.jpg"
+  ],
+  "videos": [],
+  "updated": 1794615071
+ },
+ {
+  "id": 617,
+  "price": 13000000,
+  "price_max": 13000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường 13",
+  "street": "14/8a Trần Nhân Trung",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "TRỐNG 2 PHÒNG NGỦ FULL NỘI THẤT SIÊU ĐẸP Q. TÂN BÌNH\nAddress: 14/8a Trần Nhân Trung, P13, Tân Bình\nTiên ích\nMáy giặt + sân phơi\n2PN trang bị full nội thất đầy đủ tiện nghỉ. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/ tháng\nPhí xe: Free 2 xe\nGiá 13tr (Trống sẵn phòng ở lầu 2 - 201)\nĐang cho lót sàn gỗ new 100%",
+  "images": [
+   "data/img/hd_0a0073373206141e.jpg",
+   "data/img/hd_d1255bd44a53a73f.jpg",
+   "data/img/hd_28a68da08a0e3cfc.jpg",
+   "data/img/hd_917c88ae2903611e.jpg",
+   "data/img/hd_ae8127fe9e93c2ed.jpg",
+   "data/img/hd_6e3261a7646e6786.jpg",
+   "data/img/hd_225a6a00a378796c.jpg",
+   "data/img/hd_f346d9be85e59720.jpg",
+   "data/img/hd_4ad39213778fff2f.jpg",
+   "data/img/hd_8a1e5298f105486c.jpg",
+   "data/img/hd_0aa39a549bbe071e.jpg",
+   "data/img/hd_740e86269e7fa429.jpg",
+   "data/img/hd_0e5b4421026d97d3.jpg",
+   "data/img/hd_085cdf3c7abdfe95.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_cd3d820f7957f277.mp4",
+    "poster": "data/vid/v_cd3d820f7957f277.jpg"
+   }
+  ],
+  "updated": 1794614937
+ },
+ {
+  "id": 616,
+  "price": 13800000,
+  "price_max": 19900000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường 7",
+  "street": "538/6 Lý Thường Kiệt",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "nuôi thú cưng",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "TRỐNG 2 PHÒNG NGỦ FULL NỘI THẤT SIÊU ĐẸP Q. TÂN BÌNH\nAddress: 538/6 Lý Thường Kiệt, P7, Q. Tân Bình (giáp Quận 10)\nTiên ích\nMáy giặt riêng. Thang Máy\n2Pn trang bị full nội thất đầy đủ tiện nghi. Khu vực an ninh, vân tay\nFree dọn phòng 1 lần/ tuần, ko nuôi Pet. Cọc 1,5 tháng\nĐiện: 4k/kwh, Nước: 150k/người\nDịch vụ: 200k/ Tháng\nFree 1 xe, xe t2 +120k\nGiá 19tr9 (Trống sẵn 3 phòng ngủ 2wc có balcon siêu to ở riêng biệt lầu 4)\nGiá 13tr8 (Trống sẵn 2 phòng ngủ 1wc ở lầu 2 - 202)\nTin nhắn đã được thu hồi",
+  "images": [
+   "data/img/hd_20baf292b0d43d1b.jpg",
+   "data/img/hd_a74527a7d6e25b7c.jpg",
+   "data/img/hd_452a88a36863396d.jpg",
+   "data/img/hd_6f0cd4912c017574.jpg",
+   "data/img/hd_64dc2add35c39adc.jpg",
+   "data/img/hd_caf248c843537b45.jpg",
+   "data/img/hd_502d62ea82b4c388.jpg",
+   "data/img/hd_9204864d2b3a2d76.jpg",
+   "data/img/hd_da25cc8b201c764d.jpg",
+   "data/img/hd_92bcefc56127ee8f.jpg",
+   "data/img/hd_0c1c814685919429.jpg",
+   "data/img/hd_1f2617733c7cd370.jpg",
+   "data/img/hd_95715272eb7e46d3.jpg",
+   "data/img/hd_b4d8c0a45c4eaf6c.jpg",
+   "data/img/hd_d00c629035986670.jpg",
+   "data/img/de762bf1e7a7c166.jpg",
+   "data/img/4775bef91cbfa166.jpg",
+   "data/img/16531a5ffe4737bd.jpg",
+   "data/img/17d1de47291c2ea0.jpg",
+   "data/img/e4074efcf5653099.jpg",
+   "data/img/933c574c61922ba4.jpg",
+   "data/img/0019e6b44cf639ff.jpg",
+   "data/img/64fed6185e570b56.jpg",
+   "data/img/ea0ae73a82c5c409.jpg",
+   "data/img/4a54d5ec95a9ceba.jpg",
+   "data/img/7b7682fc3e16a459.jpg",
+   "data/img/a274793b6f0850cb.jpg",
+   "data/img/6ddc8298a82b44ee.jpg",
+   "data/img/f7a942041a6f4b6d.jpg",
+   "data/img/b02467c30ef5f79f.jpg",
+   "data/img/1697c05299e8021a.jpg",
+   "data/img/bb3c150d53beee9f.jpg",
+   "data/img/9c6e74caf6892db5.jpg",
+   "data/img/ebd7fe9e31441f54.jpg",
+   "data/img/579f336407fb0cdf.jpg",
+   "data/img/16bf2d4bd4fc813c.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_291372cdef139fc7.mp4"
+   }
+  ],
+  "updated": 1794614793
+ },
+ {
   "id": 615,
   "price": 9000000,
   "price_max": 9000000,
