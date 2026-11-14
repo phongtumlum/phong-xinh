@@ -1,5 +1,212 @@
 [
  {
+  "id": 615,
+  "price": 9000000,
+  "price_max": 9000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 5",
+  "ward": null,
+  "street": "555 Trần Hưng Đạo",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO MỚI 100% FULL NỘI THẤT QUẬN 5\nĐịa chỉ: 555 Trần Hưng Đạo, Q1\nTiên ích\nMáy giặt riêng. Thang Máy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nree dọn phòng 1 lần/ tuần\nĐiện: 3k5/kwh, Nước: 150k/người\nDịch vụ: 200k/ Tháng\nPhí xe: Free 1 xe (xe t2 +150k)\nGiá 9tr (Trống sẵn 4 phòng - Mã 02)",
+  "images": [
+   "data/img/hd_15d11ddb3bc6d446.jpg",
+   "data/img/hd_2fef9942e1aa2020.jpg",
+   "data/img/hd_11be85b24441a50e.jpg",
+   "data/img/hd_9f7816c1e04ca494.jpg",
+   "data/img/hd_0b42cab506976f70.jpg",
+   "data/img/hd_0fb94135ab34efa0.jpg",
+   "data/img/hd_1fee953f9a93ebda.jpg"
+  ],
+  "videos": [],
+  "updated": 1794614508
+ },
+ {
+  "id": 614,
+  "price": 7500000,
+  "price_max": 7500000,
+  "price_deal": 7000000,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "305/9 Nam Kỳ Khởi Nghĩa",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO FULL NỘI THẤT QUẬN 3\nĐịa chỉ: 305/9 Nam Kỳ Khởi Nghĩa, Q3\nTiên ích\nMáy giặt riêng. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 3k5/kwh, Nước: 150k/người\nDịch vụ: 200k/ Tháng\nPhí xe: Free xe\nGiá 7tr5 nếu kí HĐ 1 năm giảm còn 7tr\n(Trống sẵn phòng ở lầu 4 thang bộ ngắn)",
+  "images": [
+   "data/img/hd_55fbf0f827694426.jpg",
+   "data/img/hd_c2a7e4403e824bff.jpg",
+   "data/img/hd_52d511c62aba5046.jpg"
+  ],
+  "videos": [],
+  "updated": 1794614479
+ },
+ {
+  "id": 613,
+  "price": 10000000,
+  "price_max": 10000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": "Phường Dakao",
+  "street": "75/8 Mai Thị Lựu",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bếp",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "STUDIO XA BẾP MỚI XÂY 100% FULL NỘI THẤT QUẬN 1\nAddress: 75/8 Mai Thị Lựu, P. Dakao, Q1\nTiên ích\nMáy giặt riêng. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 120k/người\nDịch vụ: 200k/phòng\nFree 1 xe, xe t2 +120k\nGiá 10tr (Trống sẵn phòng ở lầu 2 - 202)",
+  "images": [
+   "data/img/hd_7fde97bd743e0728.jpg",
+   "data/img/hd_617d41d9f95a2461.jpg",
+   "data/img/hd_6345b11a954faebc.jpg",
+   "data/img/hd_b54022e6ba88989e.jpg",
+   "data/img/hd_5869d066258d950f.jpg",
+   "data/img/hd_6e6be0085254f4a0.jpg"
+  ],
+  "videos": [],
+  "updated": 1794614421
+ },
+ {
+  "id": 611,
+  "price": 8500000,
+  "price_max": 9500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "TK24a/ Nguyễn Cảnh Chân",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO SANG TRỌNG FULL NỘI THẤT QUẬN 1\nAddress: TK24a/ Nguyễn Cảnh Chân, Q1\nTiên ích\nMáy giặt + sân phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng, free 2 xe\nGiá fix 8tr5 (Trống sẵn phòng ở lầu 3 - có smart TV)\nThuê ngắn hạn < 6 tháng giá 9tr5/ tháng\nGiá fix 8tr5 (Ngày 21/11 trống phòng ở lầu 1 - có smart TV)\nThuê ngắn hạn < 6 tháng giá 9tr5/ tháng",
+  "images": [
+   "data/img/hd_c45fbfa23b92f623.jpg",
+   "data/img/hd_69afeeaccc978c85.jpg",
+   "data/img/hd_37fd3ebbc12fac7b.jpg",
+   "data/img/hd_7b06d05188ed4d02.jpg",
+   "data/img/hd_530d3ba72735a559.jpg",
+   "data/img/hd_ea7fd3f20426c8ed.jpg",
+   "data/img/hd_013ab6aa9b546053.jpg",
+   "data/img/hd_c32d57c4547d2ea0.jpg",
+   "data/img/hd_d3dee8352631e854.jpg",
+   "data/img/hd_f2a3fe9613668ca5.jpg",
+   "data/img/hd_b0078e761db537a7.jpg",
+   "data/img/hd_8e0a26c625b02cfe.jpg",
+   "data/img/hd_ea1919bb8586a8d1.jpg",
+   "data/img/hd_77aa134792ac5f7b.jpg",
+   "data/img/hd_eae1dc4f859f2c39.jpg",
+   "data/img/131d789c5b3f60a3.jpg",
+   "data/img/5d2a0fe84aa4dede.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_103228704c877362.mp4",
+    "poster": "data/vid/v_103228704c877362.jpg"
+   }
+  ],
+  "updated": 1794614261
+ },
+ {
+  "id": 610,
+  "price": 12500000,
+  "price_max": 15000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "182 Võ Thị Sáu",
+  "type": "căn hộ dịch vụ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": "Căn hộ dịch vụ",
+  "elevator": "Thang máy",
+  "available": "Trống 30/11",
+  "available_date": "2026-11-30",
+  "amenities": [
+   "full nội thất",
+   "bếp",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ DỊCH VỤ MỚI KENG FULL NỘI THẤT QUẬN 3\nĐịa chỉ: 182 Võ Thị Sáu, Q3\nTiên ích\nMáy giặt + sân phơi. Thang Máy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nCCC 1.5 THÁNG\nĐiện: 4k5/kwh, Nước: 150k/người\nFree Dịch vụ, Free dọn phòng, thay Dra giường 1 lần/ tuần\nPhí xe: 150k/ chiec\nGiá 15tr (Ngày 30/11 trống 1 phòng ngủ ở lầu 3 - 302)\nGiá 12tr5 (Ngày 24/11 trống 1 phòng ngủ xa bếp ở lầu 4 - 401)",
+  "images": [
+   "data/img/hd_80da09fdabfd6099.jpg",
+   "data/img/hd_827590f1b24fcfa7.jpg",
+   "data/img/hd_580c227359000b88.jpg",
+   "data/img/hd_66b2acce4f5f2282.jpg",
+   "data/img/hd_f6746f6a81a62a0c.jpg",
+   "data/img/hd_7d1b47cd69ba8040.jpg",
+   "data/img/hd_5bccf5256dbfea5d.jpg",
+   "data/img/hd_677c766334ffaca2.jpg",
+   "data/img/hd_986c4222383f7bde.jpg",
+   "data/img/hd_4cc76503f364b1ae.jpg",
+   "data/img/hd_637cf29c96b95a07.jpg",
+   "data/img/hd_6b60bbac5d1b1f88.jpg",
+   "data/img/hd_e71021acae992b5f.jpg",
+   "data/img/hd_953fa3ee659bb27c.jpg",
+   "data/img/hd_f69426f589fd3d84.jpg",
+   "data/img/057ed54e0a2fa70d.jpg",
+   "data/img/34628bcddf599f07.jpg",
+   "data/img/720439b1228771e6.jpg",
+   "data/img/817dd913777d1856.jpg"
+  ],
+  "videos": [],
+  "updated": 1794614129
+ },
+ {
   "id": 605,
   "price": 6000000,
   "price_max": 6000000,
