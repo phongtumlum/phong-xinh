@@ -32,11 +32,16 @@
    "data/img/hd_6ecf70afd5c665cc.jpg",
    "data/img/hd_633e12e7e726c936.jpg",
    "data/img/hd_563dc61e0953d41b.jpg",
-   "data/img/8e3266efb8ae9e5b.jpg",
-   "data/img/23575cea4e251c60.jpg",
-   "data/img/02a8fa0d0d06861a.jpg"
+   "data/img/hd_955cbc88c1c563b9.jpg",
+   "data/img/hd_8d03e6dacc3aed45.jpg",
+   "data/img/hd_9e596aaaa9db48f1.jpg"
   ],
-  "videos": [],
+  "videos": [
+   {
+    "src": "data/vid/v_2ef7afc113a62ff0.mp4",
+    "poster": "data/vid/v_2ef7afc113a62ff0.jpg"
+   }
+  ],
   "updated": 1794756502
  },
  {
