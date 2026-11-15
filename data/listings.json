@@ -1,5 +1,118 @@
 [
  {
+  "id": 653,
+  "price": 7200000,
+  "price_max": 7200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "245 Thích Quảng Đức",
+  "type": "chung cư",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": "Chung cư",
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy lạnh",
+   "tủ lạnh"
+  ],
+  "description": "CHUNG CƯ MINI MỚI 100%\nGiá 7tr2 có thương lượng\nĐịa chỉ: 245 Thích Quảng Đức, Phú Nhuận\nQuy mô: thang máy\nĐiện 4k, Nước 100k/người\nDịch vụ 200k/phòng, Free 2 xe\nNội thất: giường nệm, máy lạnh, tủ lạnh, bàn ăn, máy giặt riệng, máy nước nóng, tủ đồ",
+  "images": [
+   "data/img/hd_71693042464e360a.jpg",
+   "data/img/hd_3c32ea706f5850d6.jpg",
+   "data/img/hd_52ad43f0380c89b7.jpg",
+   "data/img/hd_6d6165aa8fc0d564.jpg",
+   "data/img/hd_32316ed8a96a0e46.jpg",
+   "data/img/hd_6ecf70afd5c665cc.jpg",
+   "data/img/hd_633e12e7e726c936.jpg",
+   "data/img/hd_563dc61e0953d41b.jpg",
+   "data/img/8e3266efb8ae9e5b.jpg",
+   "data/img/23575cea4e251c60.jpg",
+   "data/img/02a8fa0d0d06861a.jpg"
+  ],
+  "videos": [],
+  "updated": 1794756502
+ },
+ {
+  "id": 651,
+  "price": 5500000,
+  "price_max": 6200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "28 Phan Tây Hồ",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "6tr2\n28 Phan Tây Hồ, Phú Nhuận\nThang máy, nhà xe rộng rãi, hẻm thông Phan Xích Long\nGiặt sấy: 150k/người\nĐiện 4k/kwh, nước 100k/người, xe free\n5tr5 ban công, thang máy",
+  "images": [
+   "data/img/hd_7d2d194aa19d6573.jpg",
+   "data/img/hd_ef8cfb8a7db4a669.jpg",
+   "data/img/hd_b36b35a5584807a0.jpg",
+   "data/img/hd_39b0eed75c613a5e.jpg",
+   "data/img/hd_4bb1b922fc936c21.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_6b860e9e234f339e.mp4",
+    "poster": "data/vid/v_6b860e9e234f339e.jpg"
+   }
+  ],
+  "updated": 1794756439
+ },
+ {
+  "id": 649,
+  "price": 9000000,
+  "price_max": 9000000,
+  "price_deal": null,
+  "area": 33.0,
+  "district": "Quận 7",
+  "ward": null,
+  "street": "Lavida Plus",
+  "type": "chung cư",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": "Chung cư",
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy lạnh",
+   "tủ lạnh"
+  ],
+  "description": "Tin nhắn chưa đọc\nChung cư Lavida Plus Quận 7\nDiện tích 33m2 - Giá thuê 9tr\nNội thất: máy lạnh, tủ lạnh, máy giặt, giường ngủ, tủ, bàn ăn, kệ sách.",
+  "images": [
+   "data/img/hd_ff5fb81852fab45e.jpg",
+   "data/img/hd_b7b1304faa0663ee.jpg",
+   "data/img/hd_dc971d0a1128554a.jpg",
+   "data/img/hd_23e81c90ae2c5ce1.jpg",
+   "data/img/hd_a4e5605de5519c25.jpg",
+   "data/img/hd_95d7eeadcfc7d5cc.jpg"
+  ],
+  "videos": [],
+  "updated": 1794756383
+ },
+ {
   "id": 646,
   "price": 6500000,
   "price_max": 6500000,
