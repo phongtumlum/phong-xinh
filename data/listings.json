@@ -1,5 +1,164 @@
 [
  {
+  "id": 678,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 5",
+  "ward": null,
+  "street": "Trần Hưng Đạo",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng"
+  ],
+  "description": "6tr5 Trần Hưng Đạo O1 gần Q3, Q5\nmáy giặt riêng\nMã căn hộ: T0OT101\nD1",
+  "images": [
+   "data/img/hd_f4d266ca82e5b4e1.jpg",
+   "data/img/hd_22b5ac7942736027.jpg",
+   "data/img/hd_2644124ae5976a2d.jpg",
+   "data/img/hd_2644124ae5976a2d.jpg",
+   "data/img/hd_2644124ae5976a2d.jpg",
+   "data/img/hd_1bcfa0721feebdd4.jpg",
+   "data/img/hd_cafd1233732fdd8f.jpg"
+  ],
+  "videos": [],
+  "updated": 1794759956
+ },
+ {
+  "id": 676,
+  "price": 3900000,
+  "price_max": 3900000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Nam Kỳ Khởi Nghĩa",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng"
+  ],
+  "description": "Nhiều b hỏi mình câu này nên mình trả lời chung lun nha\nCọc mấy tháng”\nĐa số căn trong nhóm cọc 1 tháng á mn, có vài căn khác thì mình báo rõ lúc gửi thông tin nha\nCòn thắc mắc gì cứ nhắn mình nhé\ntr9 Nam Kỳ Khởi Nghĩa Q3 gần Q10\nmáy giặt riêng\nMã căn hộ: T 4439 D1",
+  "images": [
+   "data/img/hd_e4deb50dd755de93.jpg",
+   "data/img/hd_266863fc12b17e92.jpg",
+   "data/img/hd_59a37426ff6c51fd.jpg",
+   "data/img/hd_ff049a1eeab7f338.jpg"
+  ],
+  "videos": [],
+  "updated": 1794759917
+ },
+ {
+  "id": 674,
+  "price": 4300000,
+  "price_max": 4800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 4",
+  "ward": null,
+  "street": "Nguyễn Văn Cừ",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "4tr3 - 4tr8 đường số 5 KDC Trung Sơn gần cầu Nguyễn Văn Cừ Q5, Q4, Q1\nthang máy\nMã căn hộ: T20033203\nD1",
+  "images": [
+   "data/img/hd_1fb6fc269e4fd831.jpg",
+   "data/img/hd_f3a4d6fd9da8af88.jpg",
+   "data/img/hd_058a13519c2fc3ce.jpg",
+   "data/img/hd_2bb86f459af8b3ac.jpg",
+   "data/img/hd_b8177f37421c8864.jpg"
+  ],
+  "videos": [],
+  "updated": 1794759866
+ },
+ {
+  "id": 673,
+  "price": 4600000,
+  "price_max": 5000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 4",
+  "ward": null,
+  "street": "Nguyễn Văn Cừ",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "4tr6 - 5tr đường số 5 KDC Trung Sơn gần cầu Nguyễn Văn Cừ Q5, Q4, Q1\nthang máy\nMã căn hộ: T20033402\nD1",
+  "images": [
+   "data/img/hd_66abd165f26e61d3.jpg",
+   "data/img/hd_7d79e185819638db.jpg",
+   "data/img/hd_c5156c6cacb9c397.jpg",
+   "data/img/hd_33d930b9ac259ae2.jpg",
+   "data/img/hd_0bccf8e870dc2ed6.jpg"
+  ],
+  "videos": [],
+  "updated": 1794759818
+ },
+ {
+  "id": 672,
+  "price": 4800000,
+  "price_max": 5000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 4",
+  "ward": null,
+  "street": "Nguyễn Văn Cừ",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "4tr8 - 5tr đường số 5 KDC Trung Sơn gần cầu Nguyễn Văn Cừ Q5, Q4, Q1\nthang máy\nMã căn hộ: T20033404\nD1",
+  "images": [],
+  "videos": [
+   {
+    "src": "data/vid/v_c6fa6fdace051d11.mp4",
+    "poster": "data/vid/v_c6fa6fdace051d11.jpg"
+   }
+  ],
+  "updated": 1794759802
+ },
+ {
   "id": 668,
   "price": 15000000,
   "price_max": 15000000,
