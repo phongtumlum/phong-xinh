@@ -1,5 +1,75 @@
 [
  {
+  "id": 685,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 22",
+  "street": "5 Phú Mỹ",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "STUDIO FULL NỘI THẤT Q. BÌNH THẠNH (GIÁP QUẬN 1)\nAddress: 5 Phú Mỹ, P22, Bình Thạnh\nTiên ích\nMáy giặt + sấy. Thang Máy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay.\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng. free 2 xe\nGiá 6tr5 (Trống sẵn phòng ở lầu 2 - 201)\nPhòng xem trực tiếp đẹp x2 lần hình chụp",
+  "images": [
+   "data/img/hd_b60d84e44f532d89.jpg",
+   "data/img/hd_20ebe37e86fd212f.jpg",
+   "data/img/hd_dbcad2c19094b386.jpg",
+   "data/img/hd_dbcad2c19094b386.jpg",
+   "data/img/hd_9ceb93801cc13619.jpg",
+   "data/img/hd_e97d9dc53ee8d268.jpg"
+  ],
+  "videos": [],
+  "updated": 1794784521
+ },
+ {
+  "id": 684,
+  "price": 5000000,
+  "price_max": 5000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường 4",
+  "street": "27/30 Cộng Hoà",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 16/11",
+  "available_date": "2026-11-16",
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO CỬA SỐ FULL NỘI THẤT Q. TÂN BÌNH\nAddress: 27/30 Cộng Hoà, P4, Tân Bình (sau lotte Cộng Hoà)\nTiên ích\nMáy giặt/ sấy chung. Thang Máy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nCOC 1,5 THÁNG\nĐiện: 4k/kwh, Nước: 120k/người\nDịch vụ: 200k/phòng, free xe\nGiá 5tr (Ngày 16/11 trống phòng ở lầu 3 - 301)",
+  "images": [
+   "data/img/hd_5c30c1115233b41b.jpg",
+   "data/img/hd_adb404313f24c23f.jpg",
+   "data/img/hd_b78fe9871b55a2f8.jpg",
+   "data/img/hd_ef5bc3e3c0e3e188.jpg",
+   "data/img/hd_b7f80adbcfc2b63a.jpg",
+   "data/img/hd_71ced14b84fcb52b.jpg"
+  ],
+  "videos": [],
+  "updated": 1794784454
+ },
+ {
   "id": 683,
   "price": 7000000,
   "price_max": 8200000,
