@@ -1,5 +1,159 @@
 [
  {
+  "id": 662,
+  "price": 14000000,
+  "price_max": 14000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": "Phường 2",
+  "street": "116 Hoa Đào",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "nuôi thú cưng",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "TRỐNG 2 PHÒNG NGỦ 1WC FULL NỘI THẤT SIÊU ĐẸP Q. PHÚ NHUẬN\nAddress: 116 Hoa Đào, P2, Phú Nhuận\nTiên ích\nMáy Giặt riêng. Ko nuôi pet, thang máy\n2PN + 1 phòng khách có balcon trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 150k/người\nDịch vụ: 250k/Tháng\nPhí xe: free max 2 xe\nGiá fix 14tr (Ngày 1/12 trống phòng ở lầu 2 - 202)",
+  "images": [
+   "data/img/hd_259f43e4ebe8e85d.jpg",
+   "data/img/hd_6fdb3138e0f5ec5a.jpg",
+   "data/img/hd_1ab7e1e792a8a12c.jpg",
+   "data/img/hd_8e727c3f393f478f.jpg",
+   "data/img/hd_17d28d7b589944ea.jpg",
+   "data/img/hd_675b8b5ed3b5ea7d.jpg",
+   "data/img/hd_955e85881313babf.jpg",
+   "data/img/hd_1233fbb7f5f69666.jpg",
+   "data/img/hd_402cdd310b379b1d.jpg",
+   "data/img/hd_70a840241aedc868.jpg",
+   "data/img/hd_e7b9c9a07aa6c285.jpg",
+   "data/img/hd_9e3b8c70a15f6165.jpg",
+   "data/img/hd_dac295790cb9042a.jpg",
+   "data/img/hd_f3ce1a5b20c14a5f.jpg",
+   "data/img/hd_d752b2770cadf9e6.jpg",
+   "data/img/289008b0a07eb1f3.jpg",
+   "data/img/0adeb9151e655a17.jpg",
+   "data/img/c0aea2fb475ae3ee.jpg",
+   "data/img/3962571e9792430b.jpg",
+   "data/img/73941d646bfa6727.jpg",
+   "data/img/4972699163bc241d.jpg",
+   "data/img/d0bb12ad26500bf8.jpg",
+   "data/img/37c74e171e4a4e2c.jpg"
+  ],
+  "videos": [],
+  "updated": 1794758271
+ },
+ {
+  "id": 661,
+  "price": 12000000,
+  "price_max": 12000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường 14",
+  "street": "104/31 Nhất Chi Mai",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "nuôi thú cưng",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "Tin nhắn chưa đọc\nKHAI TRƯƠNG CĂN HỘ MỚI 100% FULL NỘI THẤT Q. TÂN BÌNH\nĐịa chỉ: 104/31 Nhất Chi Mai, P14, Tân Bình (ngay nhà ga T3)\nTiên ích\nMáy giặt riêng. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\no NUÔI PET\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/ Tháng\nPhí xe: Free 2 xe\nGiá 12tr (Trống sẵn 2 phòng ngủ ở Trệt)",
+  "images": [
+   "data/img/hd_892a6f28cf353b20.jpg",
+   "data/img/hd_a6d18c5f78270c8b.jpg",
+   "data/img/31d6975c8145d0f0.jpg",
+   "data/img/84021c50d373b32a.jpg",
+   "data/img/ae60bfedabde1c32.jpg",
+   "data/img/8078a88e732ae56e.jpg",
+   "data/img/b907b781bc71f28f.jpg",
+   "data/img/4f6fd8ecdf699801.jpg",
+   "data/img/hd_2ce001ab72b44832.jpg",
+   "data/img/a58457e4281269f0.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_69ea6e6115861e2d.mp4",
+    "poster": "data/vid/v_69ea6e6115861e2d.jpg"
+   }
+  ],
+  "updated": 1794757901
+ },
+ {
+  "id": 660,
+  "price": 11200000,
+  "price_max": 11200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường 10",
+  "street": "821 Lạc Long Quân",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống 30/11",
+  "available_date": "2026-11-30",
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "2 PHÒNG NGỦ FULL NỘI THẤT SIÊU ĐẸP Q. TÂN BÌNH\nAddress: 821 Lạc Long Quân, P10, Tân Bình (giáp Quận 10)\nTiên ích\nMáy giặt riêng. Thang bộ\n1PN trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: Free 2 xe\nGiá 11tr2 (Ngày 30/11 trống 2 phòng ngủ balcon - Có máy giặt riêng)",
+  "images": [
+   "data/img/hd_e57ee636e7fbde41.jpg",
+   "data/img/hd_476692ff37ea3cbd.jpg",
+   "data/img/hd_5371cf4c52b8991b.jpg",
+   "data/img/hd_0e6f1aabc529b890.jpg",
+   "data/img/hd_619bee644ffbea82.jpg",
+   "data/img/hd_fe7b85e200f09ce0.jpg",
+   "data/img/hd_80307769b387d0bd.jpg",
+   "data/img/hd_d9cb48fb29686e1d.jpg",
+   "data/img/hd_7e49caaccbc3c713.jpg",
+   "data/img/hd_abe707a805d5ef83.jpg",
+   "data/img/hd_77c1af1c907f032a.jpg",
+   "data/img/hd_0acbe1480db01e02.jpg",
+   "data/img/hd_82ac193814e497e0.jpg",
+   "data/img/hd_604b8bb43907c746.jpg",
+   "data/img/hd_bd84c18987e3dd80.jpg",
+   "data/img/cea140705262c4d0.jpg",
+   "data/img/6abadb29be42578c.jpg",
+   "data/img/17fe4898f65fa2e5.jpg",
+   "data/img/9096494347ca1bc8.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_ba829d88371ef81b.mp4",
+    "poster": "data/vid/v_ba829d88371ef81b.jpg"
+   }
+  ],
+  "updated": 1794757762
+ },
+ {
   "id": 659,
   "price": 12800000,
   "price_max": 12800000,
