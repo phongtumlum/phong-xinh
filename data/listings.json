@@ -1,5 +1,119 @@
 [
  {
+  "id": 668,
+  "price": 15000000,
+  "price_max": 15000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Trân Văn Đang",
+  "type": "căn hộ",
+  "layout": "3PN",
+  "layouts": [
+   "3PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [],
+  "description": "Nhiều b hỏi mình câu này nên mình trả lời chung lun nha\nCọc mấy tháng”\nĐa số căn trong nhóm cọc 1 tháng á mn, có vài căn khác thì mình báo rõ lúc gửi thông tin nha\nCòn thắc mắc gì cứ nhắn mình nhé\n15tr 3PN - 2WC Trân Văn Đang Q3 gần Q10\nTrống sẵn\nMã căn hộ: T 4439 D1",
+  "images": [
+   "data/img/hd_4647eee5c289352d.jpg",
+   "data/img/hd_7075859fa65ef400.jpg",
+   "data/img/hd_4f5298677eba4195.jpg",
+   "data/img/hd_e5b6924a1fbf512b.jpg",
+   "data/img/hd_e6be1c5cf57f2164.jpg",
+   "data/img/hd_5d2b571066cf5633.jpg",
+   "data/img/hd_b40aa835454f0c6d.jpg",
+   "data/img/hd_5313d9a5afbd7a93.jpg",
+   "data/img/hd_0e3c7460809ec238.jpg",
+   "data/img/hd_14f3fc4321bbe2c1.jpg",
+   "data/img/hd_1a45a60203cc23f7.jpg",
+   "data/img/f51b2e1dda6467a9.jpg",
+   "data/img/52fdd7f648ccbbeb.jpg",
+   "data/img/495dc7b28df5342a.jpg",
+   "data/img/4f98f071c15fdc83.jpg"
+  ],
+  "videos": [],
+  "updated": 1794759137
+ },
+ {
+  "id": 666,
+  "price": 8000000,
+  "price_max": 8000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 6",
+  "ward": null,
+  "street": "Số",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [],
+  "description": "8tr 2PN Đường Số 33 Q6 gân Q5\nTrống sẵn\nMã căn hộ: T 4439 D1",
+  "images": [
+   "data/img/hd_c269b561ddfd17bb.jpg",
+   "data/img/hd_0c85896065c0f56a.jpg",
+   "data/img/hd_6923432a03dcc7db.jpg",
+   "data/img/hd_f969e8702e1a1671.jpg",
+   "data/img/hd_7d266fdf7ecd0955.jpg",
+   "data/img/hd_df19ddcf2ef36853.jpg"
+  ],
+  "videos": [],
+  "updated": 1794758957
+ },
+ {
+  "id": 665,
+  "price": 8600000,
+  "price_max": 8600000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 5",
+  "ward": null,
+  "street": "Trần Phú",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 30/11",
+  "available_date": "2026-11-30",
+  "amenities": [
+   "máy giặt riêng"
+  ],
+  "description": "8tr6 - T1tr5 2PN Trần Phú Q5\nmáy giặt riêng\nTrống 30/11\nMã căn hộ: T05004401B\nD1",
+  "images": [
+   "data/img/hd_e33a3c26e53521d7.jpg",
+   "data/img/hd_c15cc3a97c9132d6.jpg",
+   "data/img/hd_d4e5a886a5f4ffa4.jpg",
+   "data/img/hd_420c4ff6ce7732fd.jpg",
+   "data/img/hd_fdb78c8dd973332b.jpg",
+   "data/img/hd_41603da51403575f.jpg",
+   "data/img/hd_52ad766d0d4ce59a.jpg",
+   "data/img/hd_ed7c2f78ebaa3ce1.jpg",
+   "data/img/hd_f4fdaa3faaffb133.jpg",
+   "data/img/hd_b83ff5c31fe23262.jpg",
+   "data/img/hd_93674eec117cee8c.jpg",
+   "data/img/hd_14973c69dd822598.jpg",
+   "data/img/hd_662f05ac3322b37a.jpg",
+   "data/img/hd_c1544b1b82d38c04.jpg",
+   "data/img/hd_31f3f41cb2252d70.jpg",
+   "data/img/1f4f536960a4a493.jpg"
+  ],
+  "videos": [],
+  "updated": 1794758831
+ },
+ {
   "id": 662,
   "price": 14000000,
   "price_max": 14000000,
@@ -593,7 +707,12 @@
    "data/img/hd_e3ef1c6cea164f7d.jpg",
    "data/img/hd_1d51cc12f84864ba.jpg"
   ],
-  "videos": [],
+  "videos": [
+   {
+    "src": "data/vid/v_f14f51f4c711b07a.mp4",
+    "poster": "data/vid/v_f14f51f4c711b07a.jpg"
+   }
+  ],
   "updated": 1794669080
  },
  {
