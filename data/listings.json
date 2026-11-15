@@ -1,5 +1,37 @@
 [
  {
+  "id": 700,
+  "price": 4500000,
+  "price_max": 4500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": null,
+  "street": "175 Ni Sư Huỳnh Liên",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt chung",
+   "ban công"
+  ],
+  "description": "4tr5 ban công, gần Quận 10\n175 Ni Sư Huỳnh Liên, Tân Bình\nQuy mô: thang bộ lầu 3\nĐiện 4k, Nước 100k/người, Dv 150k/phòng\nGửi xe: free 2 xe\nGiặt sấy: 100k/người\nThú cưng: không\nMáy giặt chung",
+  "images": [
+   "data/img/hd_c610de05d33661d5.jpg",
+   "data/img/hd_5fc8bf6dcbd19018.jpg",
+   "data/img/hd_1f3b7c2cfa816daf.jpg"
+  ],
+  "videos": [],
+  "updated": 1794785565
+ },
+ {
   "id": 697,
   "price": 6500000,
   "price_max": 6500000,
