@@ -1,5 +1,109 @@
 [
  {
+  "id": 659,
+  "price": 12800000,
+  "price_max": 12800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 5",
+  "ward": null,
+  "street": "80/19 Nguyễn Trãi",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "KHAI TRƯƠNG 1 PHÒNG NGỦ FULL NỘI THẤT SIÊU ĐẸP QUẬN 5\nAddress: 80/19 Nguyễn Trãi, Q5 (giáp Quận 1, Quận 10)\nTiên ích\nMáy giặt/ sấy riêng. Thang Máy\n1PN trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 30k/m3\nDịch vụ: 300k/phòng. Free 1-2 xe\nGiá 12tr8 (trống phòng balcon ở lầu 4 - 403)\npass phòng ở liền được",
+  "images": [
+   "data/img/hd_8aa450339c259866.jpg",
+   "data/img/hd_62d19154b343de10.jpg",
+   "data/img/hd_029e2bf8e9b6498b.jpg",
+   "data/img/hd_6112292d4bf31755.jpg",
+   "data/img/hd_97b06dcf363e24fa.jpg",
+   "data/img/hd_3b73967bec63a363.jpg",
+   "data/img/hd_5ad260ee2fca2d48.jpg",
+   "data/img/hd_3f6aa5ebd2065bfe.jpg",
+   "data/img/hd_7d4026a24dead2ed.jpg",
+   "data/img/hd_a1acd63dcc380ac1.jpg",
+   "data/img/hd_d64ff9126782042f.jpg",
+   "data/img/hd_c34005ddceab4230.jpg",
+   "data/img/hd_e4877824c16a7fe0.jpg",
+   "data/img/hd_806b2331a4edf517.jpg",
+   "data/img/hd_72d3a54e1b2a6b1e.jpg",
+   "data/img/7947c198132fe6d5.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_5f29a064f1980a3b.mp4",
+    "poster": "data/vid/v_5f29a064f1980a3b.jpg"
+   }
+  ],
+  "updated": 1794757459
+ },
+ {
+  "id": 658,
+  "price": 10000000,
+  "price_max": 10000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": "Phường 4",
+  "street": "137/115 Trần Đình Xu",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống 22/11",
+  "available_date": "2026-11-22",
+  "amenities": [
+   "máy giặt chung",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "KHAI TRƯƠNG CĂN HỘ MỚI FULL NỘI THẤT SIÊU ĐẸP QUẬN 1\nAddress: 137/115 Trần Đình Xu, Q1\n(cách hẻm ô tô 30 mét)\nTiên ích\nMáy giặt chung (lắp mgr +500k/ tháng). Thang bộ\ntrang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, nước 120k/ người\nPDV: 300k/ tháng, Free 2 xe\nGiá fix sâu 10tr (Ngày 22/11 trống phòng - P4)\nGiá fix sâu 10tr (Ngày 24/11 trống 1 phòng ngủ có bồn tắm ở Trệt - G01)",
+  "images": [
+   "data/img/hd_31730c89d9584162.jpg",
+   "data/img/hd_4b72984951f47365.jpg",
+   "data/img/hd_0ee663650c72bc96.jpg",
+   "data/img/hd_2a2c1a4791e9622e.jpg",
+   "data/img/hd_41626688d784cbfb.jpg",
+   "data/img/hd_faa0cd74d7a27cc3.jpg",
+   "data/img/hd_a631fdb2b0033b4c.jpg",
+   "data/img/hd_3a0a6f45076854a3.jpg",
+   "data/img/hd_e22b8f577b59d4ac.jpg",
+   "data/img/hd_d3425c090bd2edad.jpg",
+   "data/img/hd_56a5dba6e24bb43d.jpg",
+   "data/img/hd_20bea82618c20823.jpg",
+   "data/img/hd_12615ba1769a5d3f.jpg",
+   "data/img/hd_790527937149cba6.jpg",
+   "data/img/hd_c031039f37cd8092.jpg",
+   "data/img/bc73bd8e13cc5454.jpg",
+   "data/img/4958e3aabf9d714c.jpg",
+   "data/img/a0c0e6d48c76ac4c.jpg",
+   "data/img/f437c7d9f45960e2.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_98a93479f2106970.mp4",
+    "poster": "data/vid/v_98a93479f2106970.jpg"
+   }
+  ],
+  "updated": 1794757302
+ },
+ {
   "id": 653,
   "price": 7200000,
   "price_max": 7200000,
