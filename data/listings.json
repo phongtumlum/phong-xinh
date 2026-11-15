@@ -1,5 +1,44 @@
 [
  {
+  "id": 695,
+  "price": 7300000,
+  "price_max": 7300000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": "Phường 14",
+  "street": "Lý Thường Kiệt",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 15/11",
+  "available_date": "2026-11-15",
+  "amenities": [
+   "máy giặt riêng",
+   "ban công",
+   "tủ lạnh"
+  ],
+  "description": "Lý Thường Kiệt P14 Q10\nếˆ GIỮA THÁNG 15/11 TRỐNG. P102 LẦU 1 GIÁ 7TR3\ntui nội thất giống hình. Có tủ lạnh, máy giặt riêng. Ra vào tự do œ\nQ@Dién: 4.000d/ kw\nEa Nuc: 28.000d/ khéi\nS PDV: 100k/phòng ( wifi, rác, vệ sinh chung )\nFree 2 xe\nLưu ý: tối đa 3 người/ 2 xe. Thêm 1 xe 100k/xe\nAll\n( Quận 10 - 7.000 - 8.000 - Ban Công )",
+  "images": [
+   "data/img/hd_abb0fa530ed90a12.jpg",
+   "data/img/hd_09bd46e3f2074127.jpg",
+   "data/img/hd_801391882515363d.jpg",
+   "data/img/hd_7889f0c542ec68c3.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_1502c693daedb1c4.mp4",
+    "poster": "data/vid/v_1502c693daedb1c4.jpg"
+   }
+  ],
+  "updated": 1794785238
+ },
+ {
   "id": 693,
   "price": 5800000,
   "price_max": 5800000,
