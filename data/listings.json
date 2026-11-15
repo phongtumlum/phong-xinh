@@ -1,5 +1,157 @@
 [
  {
+  "id": 646,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 25",
+  "street": "Võ Oanh",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bếp",
+   "giờ giấc tự do",
+   "nuôi thú cưng"
+  ],
+  "description": "Khách pass phòng ngủ tách bếp\nHợp đồng còn 10 tháng có thể tái ký mới\nMã phòng : P.202 (lầu 2 thang bộ)\nGiá: 6tr5\nĐiện: 4k/kwh\nNước: 100k/người/tháng\nDịch vụ: 200k/phòng/tháng\nFree 2 xe\nA Full nội thất - máy giặt riêng,máy nước nóng\nHẻm xe hơi - Giờ giấc tự do.\nChỉ được phép nuôi mèo ( có cam kết)\nKhông giới hạn số người ở\n[Địa chỉ: Võ Oanh,P.25, Q.Bình Thạnh",
+  "images": [
+   "data/img/hd_c6bb56b5e851676f.jpg",
+   "data/img/hd_4af685119fb64c16.jpg",
+   "data/img/hd_76883ff69583494e.jpg",
+   "data/img/hd_f25c608ca544ef78.jpg",
+   "data/img/hd_615a822029173541.jpg",
+   "data/img/hd_b3c72fcb666bdff2.jpg",
+   "data/img/hd_fdffff2a1b6371f6.jpg",
+   "data/img/hd_467fc54e8c796ba8.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_9ba5172639503a9f.mp4",
+    "poster": "data/vid/v_9ba5172639503a9f.jpg"
+   }
+  ],
+  "updated": 1794755961
+ },
+ {
+  "id": 645,
+  "price": 5500000,
+  "price_max": 8700000,
+  "price_deal": null,
+  "area": 40.0,
+  "district": "Phú Nhuận",
+  "ward": "Phường 9",
+  "street": "Chiến Thắng",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [
+   "ban công"
+  ],
+  "description": "bắc hải\nPhòng lầu 3 ban công\n40m2, 1 phòng ngủ, giá\n8tr7 , nt đầy đủ máy giặt\nriêng.\nĐiện 4k\nNước 120k / người\nDv 200k / phòng\n(1/12 trống)\nf Chiến Thắng p9 PN\nP302 : 5.500.000\nBancol + cửa số trời\nĐiện 4k\nNc 120k/ng\nDịch vụ 200k\n( Phú Nhuận - 5.000 - 6.000 - Ban Công )",
+  "images": [
+   "data/img/hd_e6fdc19b53d818f7.jpg",
+   "data/img/hd_07e8cab540521217.jpg",
+   "data/img/hd_6fdae49d1ac7a0a9.jpg",
+   "data/img/hd_d591c35ae7da2e3b.jpg",
+   "data/img/hd_dba232dd1165ec96.jpg",
+   "data/img/hd_9a9698c500804a8e.jpg",
+   "data/img/hd_7e7b1ac822fc3693.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_6489b9ab8b4a5073.mp4",
+    "poster": "data/vid/v_6489b9ab8b4a5073.jpg"
+   }
+  ],
+  "updated": 1794755874
+ },
+ {
+  "id": 643,
+  "price": 4000000,
+  "price_max": 5000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": null,
+  "street": "7 Hợp",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "7 Hợp đồng 1 năm\n( Tân Bình - 4.000 - 5.000 - Ban Công )",
+  "images": [
+   "data/img/hd_0999b477a644ea5e.jpg",
+   "data/img/hd_f27f0e99a00a8ba0.jpg",
+   "data/img/hd_4ee98e39b35c2983.jpg",
+   "data/img/hd_5e7eafde6f9a04b9.jpg",
+   "data/img/hd_b5de10ca9684f335.jpg"
+  ],
+  "videos": [],
+  "updated": 1794755744
+ },
+ {
+  "id": 641,
+  "price": 5300000,
+  "price_max": 5300000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": "Phường Cầu Kiệu",
+  "street": null,
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp"
+  ],
+  "description": "CẬP NHẬT PHÒNG TRỐNG\nDự án: Nguyễn Công Hoan P.Cầu Kiệu\nTrống sẵn 201 giá 5tr3\nNội thất: tủ áo, máy lạnh, tủ lạnh, tủ bếp\nCho ký ngắn hạn 3th\nĐiện 4k\nNước 120k/ng\nDịch vụ 150k/phòng\n( Phú Nhuận - 5.000 - 6.000 - Ban Công )",
+  "images": [
+   "data/img/hd_2a5d5e9f0484a2b3.jpg",
+   "data/img/hd_c8922258d6f9d530.jpg",
+   "data/img/hd_f4385b79e934bc40.jpg",
+   "data/img/hd_8a687a8337bb7c27.jpg"
+  ],
+  "videos": [],
+  "updated": 1794755706
+ },
+ {
   "id": 639,
   "price": 6200000,
   "price_max": 6200000,
