@@ -1,5 +1,42 @@
 [
  {
+  "id": 639,
+  "price": 6200000,
+  "price_max": 6200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": "Phường 8",
+  "street": "221/23 Võ Văn Tần",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO MỚI SETUP FULL NỘI THẤT QUẬN 3\nĐịa chỉ: 221/23 Võ Văn Tần, Q3\nTiên ích\nMáy giặt + sân phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nPhí\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/ Tháng\nPhí xe: Free 1xe\nGiá 6tr2 (Trống sẵn phòng balcon ở lầu 4 - P8)",
+  "images": [
+   "data/img/e955024ce26194e1.jpg",
+   "data/img/d3440a23e447c3b0.jpg",
+   "data/img/2694749be5f028d3.jpg",
+   "data/img/01d0689e6927deff.jpg",
+   "data/img/41aff07c5bcad1f2.jpg",
+   "data/img/231b74134aecadce.jpg",
+   "data/img/de73d7e9906c8146.jpg",
+   "data/img/0a69e02a98c01119.jpg"
+  ],
+  "videos": [],
+  "updated": 1794755099
+ },
+ {
   "id": 637,
   "price": 10000000,
   "price_max": 10000000,
