@@ -1,5 +1,183 @@
 [
  {
+  "id": 736,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 11",
+  "ward": null,
+  "street": "Thường Kiệt",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "Cúi tháng trống p301 - 6tr5 (lầu 3 thang bộ)\nlý Thường Kiệt Q11\n( Quận T1 - 6.000 - 7.000 - Ban Công )",
+  "images": [
+   "data/img/hd_1d5889192745ec5d.jpg",
+   "data/img/hd_6464699cf089bc93.jpg",
+   "data/img/hd_69cf84869d47a609.jpg",
+   "data/img/hd_883807ef102345cf.jpg"
+  ],
+  "videos": [],
+  "updated": 1794843069
+ },
+ {
+  "id": 735,
+  "price": 5000000,
+  "price_max": 6000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": null,
+  "street": "3 Nội",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "máy lạnh",
+   "bếp",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "3 Nội thất: giường, tủ quần áo, kệ bếp trên dưới, máy lạnh\nlạ) Máy giặt + máy sấy chung, wifi, ra vào vân tay, camera 24/7\nŸ Điện 3k9/số, nước 100k/người, dịch vụ 200k/phòng, xe 100k/xe\n( Không xài bếp ga, không nhận khâch đi xe đạp điện, máy điện)\n( Tân Bình - 5.000 - 6.000 - Ban Công )",
+  "images": [
+   "data/img/hd_8e828b3f3131a10d.jpg",
+   "data/img/hd_7854f8d41c00382a.jpg",
+   "data/img/hd_54cb62f89f7811e5.jpg",
+   "data/img/hd_8e776ec9ea6c9add.jpg",
+   "data/img/hd_9cb2fbe44d7e6d67.jpg"
+  ],
+  "videos": [],
+  "updated": 1794843012
+ },
+ {
+  "id": 734,
+  "price": 5200000,
+  "price_max": 5200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường 20",
+  "street": "Lạc Long Quân",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [],
+  "description": "SẮP TRỐNG #3 #%\n(@P20!1: giá 5tr2 (1/12 trống )\nĐ/c : Lạc Long Quân (Bảy Hiền) PT1I1, Tân Bình @AIl\n(? Nhận khách † xe.",
+  "images": [],
+  "videos": [],
+  "updated": 1794843011
+ },
+ {
+  "id": 733,
+  "price": 8200000,
+  "price_max": 8200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "Huỳnh Văn Bánh Phú",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp"
+  ],
+  "description": "Huỳnh Văn Bánh Phú Nhuận\n2 Phòng ngủ full nội thất\n( giường tủ , nệm, tủ lạnh máy lạnh máy nước nóng, kệ bếp , bàn trang điểm..)\ncửa số trời thoáng\nLầu 2\nGiá 8tr2\nĐiện 4k nc 100/ng dv 200k/p free xe 2c\n( hơn xe gửi nhà hàng xóm kế bên 200k/ xe) k giới hạn người xe\n( Phú Nhuận - 8.000 - 9.000 - 2PN)",
+  "images": [
+   "data/img/hd_dc0a6f70c51f5b6f.jpg",
+   "data/img/hd_7fcaf614e62a601a.jpg",
+   "data/img/hd_6a69e221f2ec32c1.jpg",
+   "data/img/hd_b80b6afb81f27c78.jpg",
+   "data/img/hd_cbd7365ed7d5a6e7.jpg",
+   "data/img/hd_c21872ee857ab43c.jpg",
+   "data/img/hd_e1a3879fae2b80ba.jpg",
+   "data/img/hd_7eef3baed0ac30ba.jpg",
+   "data/img/hd_30055b6d42434bee.jpg",
+   "data/img/hd_30055b6d42434bee.jpg",
+   "data/img/hd_b5fb68f8f85dd3fa.jpg",
+   "data/img/hd_a7c5ebcedd01d88e.jpg",
+   "data/img/hd_6140b5211119aa0f.jpg",
+   "data/img/hd_4ec3ca037cd570f8.jpg",
+   "data/img/hd_b8b1f78d2a52e492.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_c191db1b142fc4a4.mp4",
+    "poster": "data/vid/v_c191db1b142fc4a4.jpg"
+   }
+  ],
+  "updated": 1794842852
+ },
+ {
+  "id": 730,
+  "price": 5500000,
+  "price_max": 5500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Lê Văn Sỹ",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 30/11",
+  "available_date": "2026-11-30",
+  "amenities": [],
+  "description": "Lê Văn Sỹ - Quận 3\nŸ Điện 4k, Nước 100k, Dvu 200k\nP301: 5.500.000 ( 30/11 trống)\n( Quận 3 - 5.000 - 6.000)",
+  "images": [
+   "data/img/hd_8cd753183ebd5815.jpg",
+   "data/img/hd_4f83b5a992d3d168.jpg",
+   "data/img/hd_515a75d191ea73b4.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_69cfdd1dd0fadda6.mp4",
+    "poster": "data/vid/v_69cfdd1dd0fadda6.jpg"
+   }
+  ],
+  "updated": 1794842764
+ },
+ {
   "id": 726,
   "price": 19000000,
   "price_max": 19000000,
