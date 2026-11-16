@@ -1,5 +1,365 @@
 [
  {
+  "id": 717,
+  "price": 5200000,
+  "price_max": 5500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "Nguyễn Đình Chiểu",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Nguyễn Đình Chiểu - F3 - Phú Nhuận\nNhà thang bộ\nP trệt - 5tr5 giảm 5tr2 Studio",
+  "images": [
+   "data/img/hd_ac627e7968c110e1.jpg",
+   "data/img/hd_f656ff2d3a1de701.jpg",
+   "data/img/2390edcc53783e16.jpg",
+   "data/img/e243944896f8818e.jpg",
+   "data/img/6d60a612ee39aabd.jpg",
+   "data/img/000e6949c895c327.jpg"
+  ],
+  "videos": [],
+  "updated": 1794832706
+ },
+ {
+  "id": 716,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "Thach Thị Thanh",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "6tr5 Thach Thị Thanh Q1 gần Q3, Q5\nthang máy",
+  "images": [],
+  "videos": [],
+  "updated": 1794832705
+ },
+ {
+  "id": 715,
+  "price": 5000000,
+  "price_max": 5000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Cao Thắng",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "5tr Cao Thắng Q10\nLưu ý: Lầu 4 thang bộ",
+  "images": [
+   "data/img/hd_4477a6f13a179b76.jpg",
+   "data/img/hd_ae600ca04822acb1.jpg",
+   "data/img/hd_34523788eac1c1c4.jpg",
+   "data/img/hd_c1ce0359188dde29.jpg",
+   "data/img/hd_1025adee7d05fb10.jpg",
+   "data/img/hd_4283abe8cea0549a.jpg",
+   "data/img/hd_5e07d0c4f881987b.jpg",
+   "data/img/hd_c628498996fa99e4.jpg",
+   "data/img/hd_9ca9c1641b390c74.jpg",
+   "data/img/hd_8d16da3f03110fdd.jpg",
+   "data/img/hd_cdfdc3577f253fc2.jpg",
+   "data/img/hd_290cc403cb02a80e.jpg",
+   "data/img/hd_5d3782cd3dbcb52f.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_0735d36bd3f9de31.mp4",
+    "poster": "data/vid/v_0735d36bd3f9de31.jpg"
+   }
+  ],
+  "updated": 1794832557
+ },
+ {
+  "id": 714,
+  "price": 6500000,
+  "price_max": 7000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "163/50 Thành Thái",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "gác",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ DUPLEX/ GÁC FULL NỘI THẤT MÁY GIẶT RIÊNG QUẬN 10\nAddress: 163/50 Thành Thái, Q10\nTiên ích\nMáy giặt riêng. Thang Máy\nPhòng trang bị full nội thất tiện nghi. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 130k/phòng\nPhí xe: 150k/ chiếc\nGiá 6tr5 x 5 tháng đầu/ Giá 7tr x 6 tháng sau\n(Trống phòng ở lầu 2 mã 203 - Pass phòng checkin linh hoạt kí hd 11 tháng)",
+  "images": [
+   "data/img/hd_285116e92fbaed86.jpg",
+   "data/img/hd_86f7b749d728a19a.jpg",
+   "data/img/hd_291c2fbc52e3c164.jpg",
+   "data/img/hd_f76bef20e3585a50.jpg"
+  ],
+  "videos": [],
+  "updated": 1794832516
+ },
+ {
+  "id": 713,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": "Phường 13",
+  "street": "499 Cách Mạng Tháng 8",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt chung",
+   "full nội thất",
+   "nuôi thú cưng",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO MỚI SETUP SIÊU ĐẸP FULL NỘI THẤT QUẬN 10\nAddress: 499 Cách Mạng Tháng 8, P13, Q10\nTiên ích\nThang bộ, máy giặt chung\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 150k/người\nPdv: 200k/ phòng, free 2 xe\nkhông nuôi pet, cọc 1,5 tháng\nGiá fix 6tr5 nếu kí HD 1 năm (Trống sẵn phòng ở lầu 1 rưỡi - 1A)\nPhòng đẹp x2 lần hình",
+  "images": [
+   "data/img/hd_07a355fccd2e6d31.jpg",
+   "data/img/hd_ef717b1004aa494c.jpg",
+   "data/img/hd_f19364a7f41eda83.jpg",
+   "data/img/hd_aeaddef4dfd61b86.jpg",
+   "data/img/hd_2b17a00b5dab70d9.jpg",
+   "data/img/hd_354eda2e882273a4.jpg",
+   "data/img/hd_9606fdd25f26087a.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_72e63d5739515be2.mp4",
+    "poster": "data/vid/v_72e63d5739515be2.jpg"
+   }
+  ],
+  "updated": 1794832428
+ },
+ {
+  "id": 712,
+  "price": 6300000,
+  "price_max": 6300000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "214/B12 Nguyễn Trãi",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "gác",
+   "full nội thất"
+  ],
+  "description": "CĂN HỘ ĐẸP NHƯ HOMESTAY NGAY QUẬN 1 (GIÁP QUẬN 10)\nAddress: 214/B12 Nguyễn Trãi, Q1\nTiên ích\nMáy giặt + sấy. Phòng trang bị full nội thất, decor đẹp như homestay\nĐiện: 4k/kwh, Nước: 150k/người\nDịch vụ: 200k/ Tháng\nPhixe: 150k/ chiéc\nGiá 6tr3 (Trống sẵn phòng Duplex/ Gác cao ở Trệt - P001)\nCó máy giặt riêng",
+  "images": [
+   "data/img/hd_58caaeaf7a12b7f1.jpg",
+   "data/img/hd_2051934a5d84fa83.jpg",
+   "data/img/hd_ad781f44dc7a4c35.jpg",
+   "data/img/hd_444c85f7710db5d1.jpg",
+   "data/img/hd_b7193f6ec29953cf.jpg",
+   "data/img/hd_d9688301a71417cb.jpg",
+   "data/img/hd_0db569d11ccc416c.jpg",
+   "data/img/hd_41b046ebeeed5f91.jpg"
+  ],
+  "videos": [],
+  "updated": 1794832345
+ },
+ {
+  "id": 711,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "212a/A48 Nguyễn Trãi",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống 21/11",
+  "available_date": "2026-11-21",
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "STUDIO ĐẸP NHƯ HOMESTAY FULL NỘI THẤT QUẬN †1\nĐịa chỉ: 212a/A48 Nguyễn Trãi, Q1\nTiên ích\nMáy giặt + sân phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/ Tháng\nPhí xe: Free max 1xe\nGiá 6tr5 (Ngày 19 -> 21/11 trống phòng balcon ở lầu 4 - 401)\nGiá 6tr5 (Ngày 19 -> 21/11 trống phòng balcon ở lầu 4 - 402)",
+  "images": [
+   "data/img/hd_236b223a97e4cce2.jpg",
+   "data/img/hd_a04d34f1a812b8fc.jpg",
+   "data/img/hd_918d659e0b1202a0.jpg",
+   "data/img/hd_4511c7e923eec983.jpg",
+   "data/img/hd_d26957c9544582a8.jpg",
+   "data/img/hd_ac652499212944c9.jpg",
+   "data/img/hd_01ba713ba6114530.jpg",
+   "data/img/hd_1f833e40c511c468.jpg",
+   "data/img/hd_ea27a56a4d715558.jpg",
+   "data/img/hd_ba296408904fe220.jpg",
+   "data/img/hd_547d75f84946860f.jpg"
+  ],
+  "videos": [],
+  "updated": 1794832241
+ },
+ {
+  "id": 710,
+  "price": 6200000,
+  "price_max": 6200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 5",
+  "ward": null,
+  "street": "Trần Hưng Đạo",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "6tr2 Trần Hưng Đạo Q5\nthang máy",
+  "images": [
+   "data/img/hd_7480727df397eb87.jpg",
+   "data/img/hd_4ea09870abdeb288.jpg",
+   "data/img/hd_ac7f5498c7cec780.jpg",
+   "data/img/hd_62c024ce07c13419.jpg",
+   "data/img/hd_14265c020954bdfe.jpg",
+   "data/img/hd_719c23bff1d64891.jpg",
+   "data/img/hd_e3e756402531a550.jpg",
+   "data/img/hd_f611fa23efce05dd.jpg",
+   "data/img/hd_5c5d020f2fa719c3.jpg",
+   "data/img/hd_e8c80edd727b945a.jpg",
+   "data/img/hd_06860c333f5199d1.jpg"
+  ],
+  "videos": [],
+  "updated": 1794832143
+ },
+ {
+  "id": 709,
+  "price": 6000000,
+  "price_max": 6000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 5",
+  "ward": null,
+  "street": "Nguyễn Văn Đừng",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [],
+  "description": "6tr Nguyễn Văn Đừng Q5\nTrống 1/12",
+  "images": [
+   "data/img/hd_1420fadf8912ca03.jpg",
+   "data/img/hd_12ae815bbc9bb351.jpg",
+   "data/img/hd_915c6dfe08a37b0f.jpg",
+   "data/img/hd_16cefd53db2e62eb.jpg"
+  ],
+  "videos": [],
+  "updated": 1794832098
+ },
+ {
+  "id": 708,
+  "price": 6800000,
+  "price_max": 6800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Thành Thái",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "6tr8 Thành Thái Q10\nban công",
+  "images": [
+   "data/img/hd_9b8280d76c03f177.jpg",
+   "data/img/f0e762cd8769b999.jpg",
+   "data/img/71e94416eefece60.jpg",
+   "data/img/d53ff65e974f6821.jpg",
+   "data/img/cf2edb7125640bd5.jpg",
+   "data/img/f9eb746c50cc4706.jpg",
+   "data/img/268a1ff1c2401a4f.jpg",
+   "data/img/5ea7ab27e485a686.jpg",
+   "data/img/9cbc7acf18f0ffa4.jpg",
+   "data/img/164935132a3ed561.jpg"
+  ],
+  "videos": [],
+  "updated": 1794831433
+ },
+ {
   "id": 707,
   "price": 6500000,
   "price_max": 6500000,
