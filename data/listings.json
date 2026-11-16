@@ -1,5 +1,62 @@
 [
  {
+  "id": 738,
+  "price": 5200000,
+  "price_max": 8000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": "Phường 20",
+  "street": "430 Cách Mạng Tháng 8",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "full nội thất",
+   "máy lạnh",
+   "bếp",
+   "nuôi thú cưng",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "430 CMT8, Phường Nhiêu Lộc (Quận 10)\nFull nội thất như hình, chỉ xách vali vào ở\nFree 2 xe\nKhu vực trung tâm Quận 10, gần chợ, siêu thị, trường học\nPhòng sạch đẹp, vào ở ngay\nĐiện: 4.000/kWh\nNước: 100.000/người/tháng\nPhí dịch vụ: 200.000/tháng\nTin nhắn chưa đọc\nNHẬN XE ĐIỆN, CHO NUÔI PET\nGiảm sốc còn 8tr\nPhổ Quang, Tân Bình (khu VIP)\n(@P20!1: giá 5tr2 (1/12 trống)\nT123 Lạc Long Quân, Tân Bình (ngay Lý Thường Kiệt)\nđ? Nhận khách 1 xe.\n(Nội thất: giường, tủ quần áo, kệ bếp trên dưới, máy lạnh\nlạ) Máy giặt + máy sấy chung, wifi, ra vào vân tay, camera 24/7\nŸ Điện 3k9/kwh, nước 100k/người, dịch vụ 200k/phòng, xe 100k/xe\n6tr6 ban công, phòng rộng",
+  "images": [
+   "data/img/hd_1568f843163e2b28.jpg",
+   "data/img/hd_7960b7715fc49bf2.jpg",
+   "data/img/hd_f8d86a13a2b8f37d.jpg",
+   "data/img/hd_e1db0de444b66cee.jpg",
+   "data/img/hd_1d541b203222daf6.jpg",
+   "data/img/hd_b51257655bc2d368.jpg",
+   "data/img/hd_408d4674eda658e5.jpg",
+   "data/img/hd_335b92d35b1c02ac.jpg",
+   "data/img/hd_0a0889210d08d649.jpg",
+   "data/img/hd_d44842a6f4a44b1f.jpg",
+   "data/img/hd_729005bf28e6b574.jpg",
+   "data/img/hd_730d3490645deb7f.jpg",
+   "data/img/hd_17f4d12e58ff044c.jpg",
+   "data/img/hd_c00321ad552fff58.jpg",
+   "data/img/hd_9c191d69dc082387.jpg",
+   "data/img/7cb5f801645374d6.jpg",
+   "data/img/d6fca9eb19f00f95.jpg",
+   "data/img/66f93bfba2b94e36.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_6c7f6b46fd5248d5.mp4",
+    "poster": "data/vid/v_6c7f6b46fd5248d5.jpg"
+   }
+  ],
+  "updated": 1794843568
+ },
+ {
   "id": 737,
   "price": 6500000,
   "price_max": 6500000,
