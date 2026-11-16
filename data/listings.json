@@ -1,5 +1,131 @@
 [
  {
+  "id": 743,
+  "price": 8300000,
+  "price_max": 8300000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "212B/D29 Nguyễn Trãi",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "tủ lạnh",
+   "bếp"
+  ],
+  "description": "CĂN HỘ 1 PHÒNG NGỦ TÁCH BẾP FULL NỘI THẤT QUẬN 1\nAddress: 212B/D29 Nguyễn Trãi, Q1\nTiên ích\nMáy giặt + sấy. Thang Máy\nPhòng trang bị Full nội thất\nNHẬN XE ĐIỆN (CÓ THÊM PHÍ)\nĐiện: 4k/kwh, Nước: 150k/người\nDịch vụ: 200k/ Tháng\nPhí xe: 150k/ chiếc\nGiá 8tr3 (Trống sẵn phòng ở lầu 1 - L02)\nCó tủ lạnh 2 cánh, máy giặt riêng",
+  "images": [
+   "data/img/hd_cae5e597871d12b5.jpg",
+   "data/img/hd_2437f9d688593cf5.jpg",
+   "data/img/hd_3c6bd1076df52014.jpg",
+   "data/img/hd_51f922f26b6fb42b.jpg"
+  ],
+  "videos": [],
+  "updated": 1794844222
+ },
+ {
+  "id": 741,
+  "price": 7900000,
+  "price_max": 7900000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "28/13 Cách Mạng Tháng 8",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bếp",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO TÁCH BẾP MỚI 100% FULL NỘI THẤT QUẬN 3\nĐịa chỉ: 28/13 Cách Mạng Tháng 8, Q3 (giáp Quận 1, Quận 10)\nTiên ích\nMáy giặt riêng. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 120k/người\nDịch vụ: 200k/ Tháng\nPhí xe: Free 2 xe\nGiá 7tr9 (Trống sẵn phòng ở lầu 2 - 201)\nCó máy giặt riêng",
+  "images": [
+   "data/img/hd_d3b61aef8fcbf6a4.jpg",
+   "data/img/hd_055768b0a4889dd2.jpg",
+   "data/img/hd_046da3ba9c22942b.jpg",
+   "data/img/hd_137d01bb1b2892e3.jpg",
+   "data/img/hd_342910fc643edfaf.jpg",
+   "data/img/hd_bd6857c66ea78f61.jpg",
+   "data/img/hd_44ede4d7c6b8340a.jpg",
+   "data/img/hd_f351408dcced6507.jpg",
+   "data/img/hd_1611e2f26e393441.jpg",
+   "data/img/hd_57bea4a011fe8f61.jpg",
+   "data/img/hd_e0ba21431752b74d.jpg",
+   "data/img/hd_f16494c78f28ce7e.jpg",
+   "data/img/hd_a7bec46076049984.jpg",
+   "data/img/hd_f38b074d28044cbc.jpg",
+   "data/img/hd_3727a13aff7efef2.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_6ca6dc3ee7f84b40.mp4",
+    "poster": "data/vid/v_6ca6dc3ee7f84b40.jpg"
+   }
+  ],
+  "updated": 1794844048
+ },
+ {
+  "id": 740,
+  "price": 9200000,
+  "price_max": 9200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "266/16 Tô Hiến Thành",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO BALCON MỚI FULL NỘI THẤT QUẬN 10\nĐịa chỉ: 266/16 Tô Hiến Thành, Q10 (bãi oto đối diện nhà, sát siêu thị Go)\nTiên ích\nMáy giặt riêng. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nCCC 1.5 THÁNG\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/ Tháng\nPhí xe: free 2 xe\nGiá 9tr2 (Ngày 1/12 trống 2 phòng balcon ở lầu 2 & lầu 3)",
+  "images": [
+   "data/img/hd_5e18f61e4167df78.jpg",
+   "data/img/hd_cffa1a5f927d1699.jpg",
+   "data/img/hd_82c8a03f8bbc310b.jpg",
+   "data/img/hd_091f3fa5bb587a44.jpg",
+   "data/img/hd_e4b9e2eee2eca23d.jpg",
+   "data/img/hd_339916454621ee76.jpg",
+   "data/img/hd_b066db9b604e1060.jpg",
+   "data/img/hd_2fcab042d1f8e948.jpg",
+   "data/img/hd_84bf828fa68b2599.jpg",
+   "data/img/hd_53478090e1ad8228.jpg",
+   "data/img/hd_9c31debafdc297dc.jpg"
+  ],
+  "videos": [],
+  "updated": 1794843937
+ },
+ {
   "id": 738,
   "price": 5200000,
   "price_max": 8000000,
