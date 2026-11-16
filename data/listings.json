@@ -1,5 +1,176 @@
 [
  {
+  "id": 707,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": 28.0,
+  "district": "Bình Thạnh",
+  "ward": "Phường 11",
+  "street": "336/95 Phan VĂn Trị",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "nuôi thú cưng",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO FULL NỘI THẤT MỚI 100% Q. BÌNH THẠNH\nAddress: 336/95 Phan VĂn Trị, P.11, Q.Bình Thạnh\nTiên ích\nThang Bộ, máy giặt + sấy chung\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\n3KO NUÔI PET, CỌC 1.5 THÁNG\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nfree 2 xe - max 3 người\nGiá fix sâu 6tr5 -> Áp dụng kí Hợp đồng 1 năm\n(Trống sẵn phòng ở Trệt 28m2)",
+  "images": [
+   "data/img/hd_e51df8c20ad26b7e.jpg",
+   "data/img/hd_1cefa6a21f8cd44a.jpg",
+   "data/img/hd_0d42873b7c7ba2bf.jpg",
+   "data/img/hd_530684590e1c08e1.jpg",
+   "data/img/hd_9def471ae4bde51c.jpg",
+   "data/img/hd_2229440438a3963b.jpg",
+   "data/img/hd_9215507c61e17190.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_feccc9636ab6a79f.mp4",
+    "poster": "data/vid/v_feccc9636ab6a79f.jpg"
+   }
+  ],
+  "updated": 1794831105
+ },
+ {
+  "id": 705,
+  "price": 5800000,
+  "price_max": 5800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": "Phường 10",
+  "street": "142 Lê Văn Sỹ",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "cửa sổ",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO CỬA SỔ FULL NỘI THẤT Q. PHÚ NHUẬN\nĐịa chỉ: 142 Lê Văn Sỹ, P10, Phú Nhuận (giáp Quận 3, Tân Bình)\nTiên ích\nMáy giặt + sân phơi. Thang Máy\nPhòng trang bị full nội thất. Khu vực an ninh, vân tay, bảo vệ 24/7\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/ Tháng\nPhí xe: 150k/ chiếc\nGiá 5tr8 (Trống phòng ở lầu 7 - 703)\nPass phòng checkin linh hoạt",
+  "images": [
+   "data/img/hd_6e81c41a3ed873f5.jpg",
+   "data/img/hd_05991616112253f5.jpg",
+   "data/img/hd_43716449fc7829c1.jpg",
+   "data/img/hd_628d1db504bb57c5.jpg",
+   "data/img/hd_43fed4e404bbb277.jpg",
+   "data/img/hd_5437b6311f3d80ec.jpg",
+   "data/img/hd_09fb189685132a0f.jpg",
+   "data/img/hd_57a352eda2b95a16.jpg",
+   "data/img/hd_0a69dd5d659d0c35.jpg",
+   "data/img/hd_065ed454d9a6e03a.jpg",
+   "data/img/hd_4249cf17ebb6462d.jpg",
+   "data/img/58e9ee28cc0888d0.jpg"
+  ],
+  "videos": [],
+  "updated": 1794830935
+ },
+ {
+  "id": 704,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": 6200000,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường 2",
+  "street": "83/7B Bạch Đằng",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 28/11",
+  "available_date": "2026-11-28",
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "KHAI TRƯƠNG STUDIO MỚI FULL NỘI THẤT Q. TÂN BÌNH\nAddress: 83/7B Bạch Đằng, P2, Tân Bình\nTiên ích\nMáy giặt + sân phơi. Thang Máy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 150k/phòng. Free 2 xe\nGiá 6tr5 nếu kí HĐ 1 năm giảm còn 6tr2\n(Ngày 28/11 trống phòng ở lầu 2 - 203)",
+  "images": [
+   "data/img/hd_b5d8dc5d62ebecf0.jpg",
+   "data/img/hd_86c93e482b46e8fd.jpg",
+   "data/img/hd_a753d552f9e447d1.jpg",
+   "data/img/hd_6b286c4572f092f3.jpg",
+   "data/img/hd_040888c32deff62b.jpg",
+   "data/img/hd_25bb3721de52e2ba.jpg",
+   "data/img/hd_fc59d6962f13ab4f.jpg",
+   "data/img/hd_a9551569c3578104.jpg",
+   "data/img/hd_27b60eeba0b3dd78.jpg",
+   "data/img/hd_27b60eeba0b3dd78.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_a8c2a6956f61ac08.mp4",
+    "poster": "data/vid/v_a8c2a6956f61ac08.jpg"
+   }
+  ],
+  "updated": 1794830818
+ },
+ {
+  "id": 703,
+  "price": 6800000,
+  "price_max": 6800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "58/111 Phan Chu Trinh",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "nuôi thú cưng",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ MỚI XÂY 100% FULL NỘI THẤT Q. BÌNH THẠNH\nĐịa chỉ: 58/111 Phan Chu Trinh, Bình Thạnh\nTiên ích\nMáy giặt + sân phơi. Thang máy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\n3KO NUÔI PET - KO XE ĐIỆN\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/ Tháng\nPhí xe: 100k/ chiếc\nGiá 6tr8 nếu ở 1 người (Trống sẵn phòng ở lầu 2 - 203)",
+  "images": [
+   "data/img/hd_9907debb6a8e91bc.jpg",
+   "data/img/hd_bd5ea7ca606e9c21.jpg",
+   "data/img/hd_38276a0d345228b3.jpg",
+   "data/img/hd_0d4d1988166ddad7.jpg",
+   "data/img/hd_68e03305b9956709.jpg",
+   "data/img/hd_9bc666d73420b5a9.jpg",
+   "data/img/hd_c0a539bd333550b4.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_cd28e166ba97e563.mp4",
+    "poster": "data/vid/v_cd28e166ba97e563.jpg"
+   }
+  ],
+  "updated": 1794830726
+ },
+ {
   "id": 700,
   "price": 4500000,
   "price_max": 4500000,
