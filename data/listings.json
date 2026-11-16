@@ -1,5 +1,248 @@
 [
  {
+  "id": 760,
+  "price": 3500000,
+  "price_max": 3500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "Dương Bá Trạc",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "3tr5 Dương Bá Trạc gần cầu Nguyễn Văn Cừ Q5, Q1\nthang máy\nMã căn hộ: T08019602A\nD1",
+  "images": [
+   "data/img/hd_7872ffd02756b1ac.jpg",
+   "data/img/hd_1fd23f61b2f5a64a.jpg",
+   "data/img/hd_a7e4e232bff07166.jpg",
+   "data/img/hd_bacf3c8a382a923e.jpg"
+  ],
+  "videos": [],
+  "updated": 1794871125
+ },
+ {
+  "id": 759,
+  "price": 4500000,
+  "price_max": 4500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "Dương Bá Trạc",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "4tr5 Dương Bá Trạc gần cầu Nguyễn Văn Cừ Q5, Q1\nthang máy\nMã căn hộ: T08019502A\nD1",
+  "images": [
+   "data/img/hd_095f4728943ebda5.jpg",
+   "data/img/hd_92a0e1c6fab44dcc.jpg",
+   "data/img/hd_9dfc6f28163be88c.jpg",
+   "data/img/hd_caaa3dc15c4cdd29.jpg",
+   "data/img/hd_1c6789b9b566ae03.jpg",
+   "data/img/hd_029bb8ed745a6f06.jpg"
+  ],
+  "videos": [],
+  "updated": 1794871071
+ },
+ {
+  "id": 758,
+  "price": 3300000,
+  "price_max": 3300000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Cách Mạng Tháng Tám",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "3tr3 Cách Mạng Tháng Tám gần Q10, Q3\nMã căn hộ: T21207\nD1",
+  "images": [
+   "data/img/hd_55cbce490b4c9873.jpg",
+   "data/img/hd_f806d39b694aa381.jpg",
+   "data/img/hd_74bb6e205bc95b29.jpg",
+   "data/img/hd_3d1e94fe3da63aed.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_8ef1bbc83ece5f9c.mp4",
+    "poster": "data/vid/v_8ef1bbc83ece5f9c.jpg"
+   }
+  ],
+  "updated": 1794870987
+ },
+ {
+  "id": 751,
+  "price": 5500000,
+  "price_max": 5800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 6",
+  "ward": null,
+  "street": "Số",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [],
+  "description": "5tr5 - 5tr8 Đường Số 88 Q6 gần Q5\nTrống sẵn\nMã căn hộ: T 4439 D1",
+  "images": [
+   "data/img/hd_7fc82f6b2f895046.jpg",
+   "data/img/hd_b656606d9c9149f0.jpg",
+   "data/img/hd_f2feb628c8ce949b.jpg",
+   "data/img/hd_e2db128e94a4bd73.jpg",
+   "data/img/hd_75f1946c637766d5.jpg"
+  ],
+  "videos": [],
+  "updated": 1794845691
+ },
+ {
+  "id": 750,
+  "price": 4500000,
+  "price_max": 4500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Cao Thắng",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "4tr5 Cao Thắng Q10\nLưu ý: Lầu 5 thang bộ\nMã căn hộ: T10165P11\nD1",
+  "images": [
+   "data/img/hd_92cdc748ffee3c53.jpg",
+   "data/img/hd_2c72c722d11a201e.jpg",
+   "data/img/hd_66d0db6499238db5.jpg",
+   "data/img/hd_5185b008ffc2c00b.jpg",
+   "data/img/hd_1596091321508fde.jpg",
+   "data/img/hd_1d9a045f5ab804b1.jpg"
+  ],
+  "videos": [],
+  "updated": 1794845630
+ },
+ {
+  "id": 749,
+  "price": 4000000,
+  "price_max": 4000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Cao Thắng",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "4tr Cao Thắng Q10\nban công\nLưu ý: Lầu 5 thang bộ\nMã căn hộ: T10165P12\nD1",
+  "images": [
+   "data/img/hd_c04bb21a940d4666.jpg",
+   "data/img/hd_9297eafcd9b068a5.jpg",
+   "data/img/hd_852c7409f967317b.jpg",
+   "data/img/hd_df0e3f8991425d1b.jpg",
+   "data/img/hd_1ae49422665628d9.jpg",
+   "data/img/hd_dbfa5c593a2d2669.jpg",
+   "data/img/hd_ad93c688628301a7.jpg"
+  ],
+  "videos": [],
+  "updated": 1794845559
+ },
+ {
+  "id": 748,
+  "price": 3500000,
+  "price_max": 5500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Nguyễn Tri Phương",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "3tr5 - 5tr5 Nguyễn Tri Phương Q10\nban công\nLưu ý: Lầu 4 thang bộ\nMã căn hộ: T10166\nD1",
+  "images": [
+   "data/img/dc66651851d1f7a6.jpg",
+   "data/img/8f8622fa4ded2fbb.jpg",
+   "data/img/f04d70fff1e4c8a8.jpg",
+   "data/img/15abbe1f330bc6dc.jpg",
+   "data/img/e4b21a035dfdd675.jpg",
+   "data/img/a8ea94dd3273044f.jpg",
+   "data/img/ba48e2742d94b9fd.jpg",
+   "data/img/16e20a2f43f29348.jpg",
+   "data/img/hd_5c5d020f2fa719c3.jpg",
+   "data/img/hd_e8c80edd727b945a.jpg",
+   "data/img/hd_06860c333f5199d1.jpg",
+   "data/img/hd_074c3ad501f2c600.jpg",
+   "data/img/hd_e2e07bb1167b16af.jpg",
+   "data/img/hd_390ef06394395cb2.jpg",
+   "data/img/hd_62d3c1a6e5becc0b.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_4f8442e5b6c56951.mp4",
+    "poster": "data/vid/v_4f8442e5b6c56951.jpg"
+   }
+  ],
+  "updated": 1794844948
+ },
+ {
   "id": 747,
   "price": 8000000,
   "price_max": 8000000,
