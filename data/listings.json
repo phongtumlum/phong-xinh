@@ -1,5 +1,45 @@
 [
  {
+  "id": 747,
+  "price": 8000000,
+  "price_max": 8000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 4",
+  "ward": null,
+  "street": "Nguyễn Văn Cừ",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "8tr 2PN đường số 24 KDC Him Lam gần cầu Nguyễn Văn Cừ Q5, Q4, Q1\nMã căn hộ: T20053\nD1",
+  "images": [
+   "data/img/hd_2a92df33f00666cd.jpg",
+   "data/img/hd_a953f21ce4c231af.jpg",
+   "data/img/hd_0baad64d0c1c3ecb.jpg",
+   "data/img/hd_c7135ad6052e32e7.jpg",
+   "data/img/hd_f7f7c8578a73df5a.jpg",
+   "data/img/hd_d273550ab4c91d1e.jpg",
+   "data/img/hd_ffe9cba7eb65c53c.jpg",
+   "data/img/hd_6c9e5d5389d0a43d.jpg",
+   "data/img/hd_a80273eac2bebca1.jpg",
+   "data/img/hd_f1a87ab69d4e0d89.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_b6d070cb472f308f.mp4",
+    "poster": "data/vid/v_b6d070cb472f308f.jpg"
+   }
+  ],
+  "updated": 1794844615
+ },
+ {
   "id": 743,
   "price": 8300000,
   "price_max": 8300000,
