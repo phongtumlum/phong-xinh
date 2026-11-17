@@ -1,5 +1,191 @@
 [
  {
+  "id": 766,
+  "price": 12000000,
+  "price_max": 12000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": "Phường Tân Định",
+  "street": "41a Định Công Tráng",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bếp",
+   "chỗ để xe",
+   "nuôi thú cưng",
+   "bảo vệ"
+  ],
+  "description": "CĂN HỘ CÓ BALCON FULL NỘI THẤT MỚI KENG QUẬN 1\nĐịa chỉ: 41a Định Công Tráng, P. Tân Định, Q1\nĐặc điềm: Thang máy, hầm xe, an ninh, yên tĩnh. Trang bị full nội thất mới. Free Dọn phòng 2 lần/ tuần\n3 NHẬN 2 NGƯỜI 1 XE, KO NUÔI PET\nĐiện 4k,Nước 100k/ người\nPDV: 200k/ phòng, free max 1 xe\nGiá 12tr (Trống sẵn phòng tách bếp có balcon ở lầu 2)",
+  "images": [
+   "data/img/hd_92c84b410163b438.jpg",
+   "data/img/hd_2f05912990202e4e.jpg",
+   "data/img/hd_a10fa7a9fc3ef9eb.jpg",
+   "data/img/hd_2ee89598d14c75f4.jpg",
+   "data/img/hd_7b8c8638f4a6feda.jpg",
+   "data/img/hd_7ae5625057f753ad.jpg",
+   "data/img/hd_667af848c54e5ad0.jpg",
+   "data/img/hd_799e2ddb986b69ef.jpg",
+   "data/img/hd_1ecfcfb93dc40f11.jpg",
+   "data/img/hd_03b8216c6ae363c7.jpg",
+   "data/img/hd_09bf3324beff4660.jpg",
+   "data/img/hd_164d20d47f2d7ad4.jpg",
+   "data/img/hd_28a6e60a23f5d61f.jpg",
+   "data/img/hd_19414423bc10428e.jpg",
+   "data/img/hd_db864dc8a91f561d.jpg",
+   "data/img/c3c550f886efbaf7.jpg"
+  ],
+  "videos": [],
+  "updated": 1794928502
+ },
+ {
+  "id": 765,
+  "price": 6800000,
+  "price_max": 6800000,
+  "price_deal": null,
+  "area": 150.0,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "7a/43 Thành Thái",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống 30/11",
+  "available_date": "2026-11-30",
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO MỚI SETUP FULL NỘI THẤT QUẬN 10\nĐịa chỉ: 7a/43 Thành Thái, Q10\nTiên ích\nMáy giặt + sân phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 3k5/kwh, Nước: 100k/người\nDịch vụ: 200k/ Tháng\nFree 1 xe gửi cách nhà 150m\nGiá 6tr8 (Ngày 30/11 trống phòng balcon ở lầu 2 - 202)",
+  "images": [
+   "data/img/hd_5b5e6127d1cbd2b7.jpg",
+   "data/img/hd_fd610d12aaaf502e.jpg",
+   "data/img/hd_07544a3ad4a9d26e.jpg",
+   "data/img/hd_4ccfbad2e101558d.jpg"
+  ],
+  "videos": [],
+  "updated": 1794928456
+ },
+ {
+  "id": 764,
+  "price": 7000000,
+  "price_max": 8000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "315/22A Lê Văn Sỹ",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO MỚI SETUP FULL NỘI THẤT QUẬN 3\nĐịa chỉ: 315/22A Lê Văn Sỹ, Q3\nTiên ích\nMáy giặt + sân phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 3k5/kwh, Nước: 150k/người\nDịch vụ: 200k/ Tháng\nPhí xe: Free 2 xe\nGiá 7tr5 (Trống sẵn phòng ở lầu 1 - 101)\nCó máy giặt riêng\nGiá 7tr (Trống sẵn phòng ở lầu 1 - 102)\nCó máy giặt riêng\nGiá 8tr (Trống sẵn phòng balcon ở lầu 3 - 301)\nCó máy giặt riêng\nGiá 8tr (Trống sẵn phòng balcon ở lầu 2 - 201)",
+  "images": [
+   "data/img/hd_a5fefcf7500a5fdd.jpg",
+   "data/img/hd_e8815e12417deef4.jpg",
+   "data/img/hd_28b590bb03b67e2f.jpg",
+   "data/img/hd_535f1cf21c999e65.jpg",
+   "data/img/hd_73dbe0de70461d33.jpg",
+   "data/img/hd_e3db41f205c8dcfe.jpg",
+   "data/img/hd_9cd0db4af67b527c.jpg",
+   "data/img/hd_828ee20ce383dfeb.jpg",
+   "data/img/hd_719946bd4fa60108.jpg",
+   "data/img/hd_665e4a8190f7ce80.jpg",
+   "data/img/hd_e26b9dba37476282.jpg",
+   "data/img/hd_257e67cc68cf34e4.jpg",
+   "data/img/hd_567199c237b79c12.jpg",
+   "data/img/hd_cc493e76bddd1191.jpg",
+   "data/img/hd_baa1c16c22f53821.jpg",
+   "data/img/f1f5ef292b34d639.jpg",
+   "data/img/80ba2729515e24d7.jpg",
+   "data/img/b26a0bdd4b2ac6b4.jpg",
+   "data/img/2d53f05b4109942b.jpg",
+   "data/img/a713a8fdce6b764c.jpg",
+   "data/img/0e5275f20c0c16a0.jpg",
+   "data/img/1d5acd8e78dcef12.jpg",
+   "data/img/e9e007752f7536ff.jpg",
+   "data/img/1616e12eeb6b0ae5.jpg",
+   "data/img/a4524d3e93546fbd.jpg"
+  ],
+  "videos": [],
+  "updated": 1794928300
+ },
+ {
+  "id": 762,
+  "price": 9000000,
+  "price_max": 9000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "43A/14 Trần Văn Đang",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 30/11",
+  "available_date": "2026-11-30",
+  "amenities": [
+   "máy giặt riêng",
+   "gác",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "KHAI TRƯƠNG DUPLEX - GÁC MỚI FULL NỘI THẤT QUẬN 3\nAddress: 43A/14 Trần Văn Đang, Q3\nTiên ích\nMáy Giặt, sân phơi. Thang Máy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: Free 2 xe\nGiá 9tr có fix (Ngày 30/11 trống phòng balcon ở lầu 2 - 201)\nCó máy giặt riêng",
+  "images": [
+   "data/img/hd_84b88f2179b8ac4a.jpg",
+   "data/img/hd_90046860603f1b46.jpg",
+   "data/img/hd_d24857e841208420.jpg",
+   "data/img/hd_755dcd8105f1b994.jpg",
+   "data/img/hd_cd4b8f7a07247043.jpg",
+   "data/img/hd_11eefd0acb7c5a75.jpg",
+   "data/img/hd_6e2d909aff04e453.jpg",
+   "data/img/hd_95f4f25ad8679106.jpg",
+   "data/img/hd_8fcc4c3dc82c9fb3.jpg",
+   "data/img/hd_60b950bd6feb6e13.jpg",
+   "data/img/hd_4d831e82c31c31f6.jpg",
+   "data/img/hd_566878aaf44601d4.jpg",
+   "data/img/hd_193ae7311853fb27.jpg",
+   "data/img/hd_1eab8d5c0a63cfc9.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_69c000d6553bb1bf.mp4",
+    "poster": "data/vid/v_69c000d6553bb1bf.jpg"
+   }
+  ],
+  "updated": 1794928116
+ },
+ {
   "id": 760,
   "price": 3500000,
   "price_max": 3500000,
