@@ -1,5 +1,156 @@
 [
  {
+  "id": 778,
+  "price": 6200000,
+  "price_max": 6200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Tô Hiến Thành",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "TÔ HIẾN THÀNH quận 10\nThang máy\n6tr2",
+  "images": [
+   "data/img/hd_4235e891d266f12b.jpg",
+   "data/img/hd_ec234d53c7ba85bf.jpg",
+   "data/img/hd_e72db8149f660178.jpg",
+   "data/img/hd_21606200b3e8f4ee.jpg",
+   "data/img/hd_c1099b9d0a5d1d41.jpg",
+   "data/img/hd_a205887829ffb447.jpg",
+   "data/img/hd_b2eda98870607e21.jpg",
+   "data/img/hd_fc0fbac6da5bc6c6.jpg",
+   "data/img/hd_7f15838882002c00.jpg",
+   "data/img/hd_438f3e26ab6a3f17.jpg",
+   "data/img/hd_7168e2ce6a96d0aa.jpg",
+   "data/img/hd_5a85dec820de07fb.jpg",
+   "data/img/hd_8d6c97b5a8d2ae15.jpg",
+   "data/img/hd_a87c8c997278267c.jpg",
+   "data/img/hd_a87c8c997278267c.jpg"
+  ],
+  "videos": [],
+  "updated": 1794957422
+ },
+ {
+  "id": 777,
+  "price": 6800000,
+  "price_max": 6800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": "Phường Nhiêu Lộc",
+  "street": "Cách Mạng Tháng 8",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "chỗ để xe",
+   "vân tay"
+  ],
+  "description": "Cách Mạng Tháng 8, Phường Nhiêu Lộc, Tp. HCM -( Quận 3 )\nQuy Mo : Thang máy _ hầm Xe -- Vân tay\n6tr8",
+  "images": [
+   "data/img/hd_827a646b1232e717.jpg",
+   "data/img/hd_f37d9983567a0099.jpg",
+   "data/img/hd_a380324b7ec29142.jpg",
+   "data/img/hd_4e58692853cf7e87.jpg",
+   "data/img/hd_84b6ac8db9eeb7b9.jpg",
+   "data/img/hd_5fe2c51fff4b1a6b.jpg",
+   "data/img/hd_8e72f61f7bcbf20e.jpg",
+   "data/img/hd_7600aaf9769491d5.jpg",
+   "data/img/hd_44f599c8e4312024.jpg",
+   "data/img/hd_ecb88055637e941a.jpg",
+   "data/img/hd_16b4b54e46a5b6bc.jpg",
+   "data/img/hd_72058f98cefa8d77.jpg"
+  ],
+  "videos": [],
+  "updated": 1794957313
+ },
+ {
+  "id": 776,
+  "price": 6800000,
+  "price_max": 6800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "Lê Thánh Tôn",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Lê thánh tôn , quận 1\n6tr8",
+  "images": [
+   "data/img/hd_acbb2d1f76f99945.jpg",
+   "data/img/hd_7d21914b7d830421.jpg",
+   "data/img/hd_77445ed60fdc3cab.jpg",
+   "data/img/hd_7b4c758a5cd1605b.jpg",
+   "data/img/hd_2465cf7cd4e495ea.jpg",
+   "data/img/hd_ed6d74003037cfb1.jpg",
+   "data/img/hd_e3e147deb8fa23de.jpg",
+   "data/img/hd_fa12d728934a2d30.jpg",
+   "data/img/hd_fd256c0f62a564ee.jpg"
+  ],
+  "videos": [],
+  "updated": 1794957224
+ },
+ {
+  "id": 774,
+  "price": 5500000,
+  "price_max": 5500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Tam Đảo",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng"
+  ],
+  "description": "Tam Đảo, Quận 10\nMã căn hộ A: Studio 5.500.000/tháng\nMáy giặt riêng\nDién: 3500d/kw, NuGc: 25.000d/m3, Wifi: 150.000d/ thang.",
+  "images": [
+   "data/img/hd_f8d885b4f402000d.jpg",
+   "data/img/hd_99f5b769f31ecfce.jpg",
+   "data/img/hd_69d66ef18903674e.jpg",
+   "data/img/hd_0186b0106cdb9516.jpg",
+   "data/img/hd_77b8fa4012728c5b.jpg",
+   "data/img/hd_0327981c2b03034b.jpg",
+   "data/img/hd_46a063b894d24bd1.jpg"
+  ],
+  "videos": [],
+  "updated": 1794957156
+ },
+ {
   "id": 770,
   "price": 37587000,
   "price_max": 37587000,
