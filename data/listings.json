@@ -1,5 +1,58 @@
 [
  {
+  "id": 770,
+  "price": 37587000,
+  "price_max": 37587000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Phạm Đình Toái",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "37tr587 2PN - 2WC Phạm Đình Toái Q3 gân Q10\nthang máy\nMã căn hộ: T 976 4439 D1",
+  "images": [],
+  "videos": [],
+  "updated": 1794929102
+ },
+ {
+  "id": 767,
+  "price": 8200000,
+  "price_max": 8200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Nguyễn Giãn Thanh",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [],
+  "description": "8tr2 2PN Nguyễn Giãn Thanh Q10\nTrống sẵn\nMã căn hộ: T10115\nD1",
+  "images": [],
+  "videos": [
+   {
+    "src": "data/vid/v_c7e5e0d95a70d5b7.mp4",
+    "poster": "data/vid/v_c7e5e0d95a70d5b7.jpg"
+   }
+  ],
+  "updated": 1794928914
+ },
+ {
   "id": 766,
   "price": 12000000,
   "price_max": 12000000,
