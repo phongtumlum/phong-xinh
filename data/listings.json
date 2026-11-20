@@ -1,5 +1,86 @@
 [
  {
+  "id": 801,
+  "price": 11000000,
+  "price_max": 11000000,
+  "price_deal": null,
+  "area": 40.0,
+  "district": "Quận 1",
+  "ward": "Phường 2",
+  "street": "121/37 Lê Thị Riêng",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống 5/12",
+  "available_date": "2026-12-05",
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ 2 PHÒNG NGỦ 1WC 40M2 FULL NỘI THẤT QUẬN †1\nAddress: 121/37 Lê Thị Riêng, P. Bến Thành, Q1\nTiên ích\nMáy giặt + sân phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/ Tháng\nPhí xe: free 2 xe\nGiá 11tr (Ngày 5/12 trống phòng ở lầu 2 - P02)",
+  "images": [
+   "data/img/hd_e1ab44c7726f7bcb.jpg",
+   "data/img/hd_dcbf2f0635c0d06c.jpg",
+   "data/img/hd_7b091a606bf77b40.jpg",
+   "data/img/hd_7de78b0a8e64130b.jpg",
+   "data/img/hd_7de78b0a8e64130b.jpg",
+   "data/img/hd_03808ae340221dcb.jpg",
+   "data/img/6db4e895d09857f4.jpg",
+   "data/img/1219989adee0f2ac.jpg",
+   "data/img/ed78a05d49d6d9c8.jpg",
+   "data/img/a84ce357ffbd50b8.jpg"
+  ],
+  "videos": [],
+  "updated": 1795193329
+ },
+ {
+  "id": 799,
+  "price": 1200000,
+  "price_max": 1200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "112 Nguyễn Xí",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "2 PHÒNG NGỦ 1WC MÁY GIẶT RIÊNG FULL NỘI THẤT Q. BÌNH THẠNH\nAddress: 112 Nguyễn Xí, Bình Thạnh\nTiên ích\nMáy Giặt, sân phơi. Thang Máy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: 100k/ chiếc\nGiá T1tr2 (Trống phòng ở Trệt - G02)\nPass phòng checkin linh hoạt",
+  "images": [
+   "data/img/hd_93da0151710d19af.jpg",
+   "data/img/hd_6e32b4d0114f21f4.jpg",
+   "data/img/hd_2f03431ea99499d8.jpg",
+   "data/img/hd_8a64534d8bb17d2d.jpg",
+   "data/img/hd_572cb5a8b9f61b4f.jpg",
+   "data/img/hd_30ff2b7a882841b8.jpg",
+   "data/img/hd_d7afc86763449fc0.jpg",
+   "data/img/hd_db567b41ef60272b.jpg",
+   "data/img/hd_de6c835a82c8035a.jpg",
+   "data/img/hd_84700565056f74e8.jpg",
+   "data/img/hd_12f9753e57da585e.jpg",
+   "data/img/hd_03be92b3cbfb617b.jpg"
+  ],
+  "videos": [],
+  "updated": 1795193226
+ },
+ {
   "id": 797,
   "price": 12500000,
   "price_max": 12500000,
