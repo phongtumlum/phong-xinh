@@ -1,5 +1,140 @@
 [
  {
+  "id": 806,
+  "price": 13000000,
+  "price_max": 13000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Trường Sa",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "13tr 2PN Trường Sa Q3 gần Q10\nthang máy - ban công\nMã căn hộ: T03162A\nD1",
+  "images": [
+   "data/img/hd_d39c0915b62e991c.jpg",
+   "data/img/hd_f5cd23baa15dfa4b.jpg",
+   "data/img/hd_673f07e8040d8c36.jpg",
+   "data/img/hd_e9a2f2fe866059da.jpg",
+   "data/img/hd_671b734441518e9b.jpg",
+   "data/img/hd_671b734441518e9b.jpg",
+   "data/img/hd_f10c974402c3b6c0.jpg"
+  ],
+  "videos": [],
+  "updated": 1795194100
+ },
+ {
+  "id": 805,
+  "price": 17000000,
+  "price_max": 17000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Trường Sa",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "17tr 2PN Trường Sa Q3 gần Q10\nthang máy\nMã căn hộ: T03162B\nD1",
+  "images": [
+   "data/img/hd_f7f06c296112f028.jpg",
+   "data/img/hd_e24627f3b75e00c0.jpg",
+   "data/img/hd_2633eeebb7d32ed7.jpg",
+   "data/img/hd_12ace11222b1710f.jpg",
+   "data/img/hd_de96e03bd4a3a69b.jpg",
+   "data/img/hd_63e28787fb08639f.jpg",
+   "data/img/hd_19a27c1c3db22a8c.jpg",
+   "data/img/hd_13af1abefa0aa215.jpg",
+   "data/img/hd_10487c636c96ece8.jpg"
+  ],
+  "videos": [],
+  "updated": 1795194006
+ },
+ {
+  "id": 804,
+  "price": 18000000,
+  "price_max": 18000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Trường Sa",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "18tr 2PN Trường Sa Q3 gần Q10\nthang máy\nMã căn hộ: T03162C\nD1",
+  "images": [
+   "data/img/hd_d45730922ba613a0.jpg",
+   "data/img/hd_d45730922ba613a0.jpg",
+   "data/img/hd_26b73a2190e10da1.jpg",
+   "data/img/hd_8a1797ee0cdafe0e.jpg",
+   "data/img/hd_535a77410069eee5.jpg",
+   "data/img/hd_aea3c9fba3b0d34d.jpg",
+   "data/img/hd_8a43ad87c2416d70.jpg",
+   "data/img/hd_177666619cfa58ff.jpg"
+  ],
+  "videos": [],
+  "updated": 1795193925
+ },
+ {
+  "id": 803,
+  "price": 30000000,
+  "price_max": 30000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Số",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "30tr 2PN Đường Số 2 CX Đô Thành Q3 gần Q10\nMã căn hộ: T 4439 D1",
+  "images": [
+   "data/img/hd_141b303912644d16.jpg",
+   "data/img/hd_b36dfdc49fe727a7.jpg",
+   "data/img/hd_7008ec70c8e63d6b.jpg",
+   "data/img/hd_b04e9a4b6b16c71c.jpg",
+   "data/img/hd_a9dab68c70d748e2.jpg",
+   "data/img/hd_0d5040c3fdae23cc.jpg",
+   "data/img/hd_7e0f8c4a9f2c3905.jpg",
+   "data/img/hd_2548b503cbe46097.jpg",
+   "data/img/hd_210fb84b60e8a5ef.jpg"
+  ],
+  "videos": [],
+  "updated": 1795193827
+ },
+ {
   "id": 801,
   "price": 11000000,
   "price_max": 11000000,
