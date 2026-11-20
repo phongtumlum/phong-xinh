@@ -1,5 +1,296 @@
 [
  {
+  "id": 797,
+  "price": 12500000,
+  "price_max": 12500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Gò Vấp",
+  "ward": null,
+  "street": "1 LẦ",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "tủ lạnh",
+   "bảo vệ"
+  ],
+  "description": "CHO THUÊ NHÀ 1 TRỆT 1 LẦU 2PN SIÊU ĐẸP NỘI THẤT ĐẦY ĐỦ\n890 QUANG TRUNG, GÒ VẤP\nNội thất: Full - mua để ở nên bao xịn từ a đến Z, tivi tủ lạnh to chà bá\nHẻm an ninh yên tĩnh thông thoáng\nĐiện nước giá nhà nước\nGiá: 12.500.000",
+  "images": [
+   "data/img/0effa7c7ee57904e.jpg",
+   "data/img/f7c1050d2c2e9de3.jpg",
+   "data/img/091c1834cb4eaa11.jpg",
+   "data/img/e3dce1b9005937d4.jpg",
+   "data/img/a316703159dbf5e8.jpg",
+   "data/img/f76f9e37058f4e57.jpg",
+   "data/img/809c7f817a7056a3.jpg",
+   "data/img/8521426daebf5dd4.jpg",
+   "data/img/d358ef63271c258b.jpg",
+   "data/img/3980d9769c4885f0.jpg",
+   "data/img/2012529fdd809933.jpg",
+   "data/img/b7371feef6c32431.jpg",
+   "data/img/40a3ade1bd55efcb.jpg",
+   "data/img/12f7564b42290c53.jpg",
+   "data/img/993ce925d27f2f62.jpg",
+   "data/img/8eda046122540fab.jpg"
+  ],
+  "videos": [],
+  "updated": 1795191867
+ },
+ {
+  "id": 796,
+  "price": 5500000,
+  "price_max": 5500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": "Phường 3",
+  "street": "Nguyễn Đình Chiều",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "ban công",
+   "full nội thất"
+  ],
+  "description": "5.500.000 BAN CÔNG FULL NỘI THẤT MÁY GIẶT RIÊNG TOÀ NHÀ THANG MÁY\nVị trí: Nguyễn Đình Chiều, Phường 3, Quận Phú Nhuận (cạnh Phan Xích Long)\nĐiện 4.000/kwh, nước 120.000/người, free 2 xe, dịch vụ 250.000/phòng",
+  "images": [
+   "data/img/59ba7a2e1d6dca96.jpg",
+   "data/img/da855d3425ff8dab.jpg",
+   "data/img/8a513c97cf8fbc77.jpg",
+   "data/img/8d4271c268aaf5ac.jpg",
+   "data/img/2c029c2c2b152502.jpg",
+   "data/img/372976424400bbd7.jpg",
+   "data/img/f0371929003a7866.jpg",
+   "data/img/0650f65af4a7a509.jpg"
+  ],
+  "videos": [],
+  "updated": 1795191302
+ },
+ {
+  "id": 795,
+  "price": 5500000,
+  "price_max": 5500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": "Phường Hoà Hưng",
+  "street": "Hoà Hưng",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "máy giặt chung",
+   "full nội thất",
+   "nuôi thú cưng"
+  ],
+  "description": "5tr5 thang máy, cửa số\nCư xá Bắc Hải, P. Hoà Hưng, Quận 10\nThang máy, nhà xe, PCCC &: lối thoát hiểm\nFull nội thất, máy giặt riêng từng phòng, không có máy giặt chung và chỗ phơi\nChính sách toà nhà\nĐiện 3.5k/kwh\nNước 25k/m3\nDịch vụ 150k/phòng\nXe free\nXe điện: Không\nPets: Được nuôi mèo\nNhận khách nước ngoài (KHÔNG TRUNG QUỐC)",
+  "images": [
+   "data/img/f931ea865e11f6df.jpg",
+   "data/img/c275298eb7966a90.jpg",
+   "data/img/d90959534440f4e0.jpg",
+   "data/img/hd_04e1dddf9e05aff5.jpg",
+   "data/img/hd_a93e4aad1b0a1d60.jpg"
+  ],
+  "videos": [],
+  "updated": 1795191021
+ },
+ {
+  "id": 794,
+  "price": 6200000,
+  "price_max": 6200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "128 Lê Văn Duyệt",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "6tr2 ban công lầu 2 thang bộ\n128 Lê Văn Duyệt, Bình Thạnh (ngay Quận 1)",
+  "images": [
+   "data/img/0786a3494f25cca0.jpg",
+   "data/img/40e45f302544f860.jpg",
+   "data/img/635e01811e35cb0f.jpg",
+   "data/img/3d4201465fc95d16.jpg",
+   "data/img/ba7817a7f6d5b074.jpg",
+   "data/img/b77782aed3058687.jpg"
+  ],
+  "videos": [],
+  "updated": 1795190588
+ },
+ {
+  "id": 793,
+  "price": 6000000,
+  "price_max": 6000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": null,
+  "street": "57 Lam Sơn",
+  "type": "chung cư",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": "Chung cư",
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "ban công"
+  ],
+  "description": "CHUNG CƯ MINI CAO CẤP 6tr (máy giặt riêng, phơi ban công logia)\n57 Lam Sơn, Tân Bình (khu sân bay)\nĐiện 4k/kwh, nước 150k/ng/tháng, phí QL 200k/tháng, miễn phí 1 Xe",
+  "images": [
+   "data/img/dae9b2aeefed672f.jpg",
+   "data/img/8455b436db87d405.jpg",
+   "data/img/9f50f75503688b7c.jpg",
+   "data/img/1ed8ae7f486831f5.jpg",
+   "data/img/945d9bc8bac535eb.jpg",
+   "data/img/b550e84612392e62.jpg",
+   "data/img/bc29cd626bfb5ab0.jpg",
+   "data/img/906f42a0fcc046be.jpg",
+   "data/img/a98d1d57186c042c.jpg",
+   "data/img/dae9b2aeefed672f.jpg",
+   "data/img/6a48dfa27875a0e2.jpg",
+   "data/img/0a175f24a4574d08.jpg"
+  ],
+  "videos": [],
+  "updated": 1795189720
+ },
+ {
+  "id": 791,
+  "price": 5500000,
+  "price_max": 5500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "60 Phan Tây Hồ",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "bếp"
+  ],
+  "description": "1PN ban công tách bếp giá chỉ 5tr5\n60 Phan Tây Hồ, Phú Nhuận\nP301: Ban công, thang máy lầu 3\nĐiện 4k/kwh\nNước 100k/khách\nDịch vụ: 150/phòng\nối aa2 người - 2 xe free",
+  "images": [
+   "data/img/03d67ab34dce5f3e.jpg",
+   "data/img/f1d161d2363aa3e4.jpg",
+   "data/img/c1c9d962b4a3599b.jpg",
+   "data/img/11fa1377a8fd1e36.jpg",
+   "data/img/3eda3d883a5f495f.jpg",
+   "data/img/bf6a9bce1d437e42.jpg",
+   "data/img/e57849bcf5b08727.jpg"
+  ],
+  "videos": [],
+  "updated": 1795189083
+ },
+ {
+  "id": 790,
+  "price": 4500000,
+  "price_max": 4500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường Bảy Hiền",
+  "street": "2 Gò Cẩm Đệm",
+  "type": "chung cư",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": "Chung cư",
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "nuôi thú cưng"
+  ],
+  "description": "CHUNG CƯ MINI CAO CẤP - 4tr5 thang máy\n2 Gò Cẩm Đệm, phường Bảy Hiền, Tân Bình (gần Lữ Gia Quận 10, Quận 11...)\nĐiện 4000đ/kwh\nNước 100.000đ/người\nXe FREE 2 xe\nDịch vụ 200.000đ/Phòng\nSỐ LƯỢNG NGƯỜI VÀ XE: 2 người 2 xe\nĐược nuôi thú cưng không ồn / Không xe điện / Khách nước ngoài 200.000 chỉ phí tạm trú / Khoan đục phải\nthông qua quản lý",
+  "images": [
+   "data/img/f3cdfea2d867b385.jpg",
+   "data/img/5884ce418d951fbe.jpg",
+   "data/img/d59776bed48f9c24.jpg",
+   "data/img/e66cb0e617e7ebc8.jpg",
+   "data/img/7ae19d0c0fea2264.jpg",
+   "data/img/51cb595cfbfc8a51.jpg",
+   "data/img/99a131a35a6360de.jpg"
+  ],
+  "videos": [],
+  "updated": 1795188528
+ },
+ {
+  "id": 789,
+  "price": 6000000,
+  "price_max": 6000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "69 Nguyễn Công",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "6tr ban công, thang máy\nĐịa chỉ: 69 Nguyễn Công\nHoan, Phú Nhuận (khu\nPhan Xích Long)\nĐiện: 4k/kw\nNước 100k/ người\nPhí dịch vụ 200k/ phòng\nXe free",
+  "images": [],
+  "videos": [],
+  "updated": 1795188457
+ },
+ {
   "id": 786,
   "price": 10500000,
   "price_max": 10500000,
@@ -17150,1964 +17441,6 @@
   ],
   "videos": [],
   "updated": 1793703386
- },
- {
-  "id": 124,
-  "price": 6800000,
-  "price_max": 6800000,
-  "price_deal": null,
-  "area": null,
-  "district": "Quận 10",
-  "ward": null,
-  "street": "606/49/ Đường 3/2",
-  "type": "studio",
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": "Thang máy",
-  "available": "Trống sẵn",
-  "available_date": null,
-  "amenities": [
-   "full nội thất",
-   "bếp",
-   "bảo vệ",
-   "vân tay"
-  ],
-  "description": "CĂN HỘ STUDIO TÁCH BẾP MỚI 100% FULL NỘI THẤT QUẬN 10\nAddress: 606/49/ đường 3/2, Q10\nTiên ích\nMáy Giặt, sân phơi. Thang Máy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nFree 1 xe, xe t2 +200k\nGiá 6tr8 (Trống sẵn phòng ở lầu 2 - 204)",
-  "images": [
-   "data/img/hd_f4ef35140af5a5d7.jpg",
-   "data/img/hd_adbec7cd1564a688.jpg",
-   "data/img/hd_6b0b9fe16c4c7044.jpg",
-   "data/img/hd_c2cb4d30b68fd429.jpg",
-   "data/img/hd_85bb6a7b26c90d2d.jpg",
-   "data/img/hd_0868a0dee4b79862.jpg",
-   "data/img/hd_e470edb350f3028c.jpg",
-   "data/img/hd_f64359ff4a56e86f.jpg",
-   "data/img/hd_5f6b2fe9c1d43eca.jpg",
-   "data/img/hd_52bd6c5e35ecbde6.jpg"
-  ],
-  "videos": [],
-  "updated": 1793456621
- },
- {
-  "id": 123,
-  "price": 7500000,
-  "price_max": 7500000,
-  "price_deal": 7300000,
-  "area": null,
-  "district": "Quận 10",
-  "ward": "Phường 14",
-  "street": "7A/5/46 Thành Thái",
-  "type": "studio",
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": "Thang máy",
-  "available": "Trống sẵn",
-  "available_date": null,
-  "amenities": [
-   "máy giặt riêng",
-   "full nội thất",
-   "chỗ để xe"
-  ],
-  "description": "CĂN HỘ STUDIO BALCON MỚI KENG NGAY QUẬN 10\nĐịa chỉ: 7A/5/46 Thành Thái, P14, Q10\nĐặc điểm: tế” Full nội thất mới có máy giặt riêng. Nhà thang máy, hầm xe, hẻm lớn\nĐiện 4k/kwh, Nước 100k/ người\n200k/phòng, Free 2 xe\nGiá 7tr5 nếu kí HĐ 1 năm giảm còn 7tr3\n(trống sẵn phòng ở lầu 2)",
-  "images": [
-   "data/img/hd_a59b2a524fa9aa85.jpg",
-   "data/img/hd_5db8ace3d563efd0.jpg",
-   "data/img/hd_3536b2045f95a35f.jpg",
-   "data/img/hd_2391bdaa7716ef45.jpg",
-   "data/img/hd_aaf8e6d09ba27ffc.jpg",
-   "data/img/hd_783f0a504e83abc3.jpg",
-   "data/img/hd_805c81c2408dfcfe.jpg",
-   "data/img/hd_f9eace3bb43e2e11.jpg",
-   "data/img/hd_3e2083e8de1b6b2c.jpg",
-   "data/img/hd_60abb2ea16445c13.jpg",
-   "data/img/hd_7bc8791665708872.jpg",
-   "data/img/hd_dd3abc9b7036face.jpg",
-   "data/img/bfb04d2e9986a783.jpg"
-  ],
-  "videos": [],
-  "updated": 1793456522
- },
- {
-  "id": 122,
-  "price": 6500000,
-  "price_max": 6500000,
-  "price_deal": 6300000,
-  "area": null,
-  "district": "Quận 3",
-  "ward": "Phường 4",
-  "street": "394 Nguyễn Đình Chiểu",
-  "type": "studio",
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": "Thang bộ",
-  "available": "Trống sẵn",
-  "available_date": null,
-  "amenities": [
-   "full nội thất",
-   "bảo vệ",
-   "vân tay"
-  ],
-  "description": "CĂN HỘ STUDIO FULL NỘI THẤT QUẬN 3\nAddress: 394 Nguyễn Đình Chiểu, P.4, Q3 (Nhà mới xây)\nTiên ích\nMáy giặt + sấy. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 150k/phòng, free 2 xe\nGiá 6tr5 nếu kí HĐ 1 năm giảm còn 6tr3\n(trống sẵn phòng balcon đứng ở lầu 2 - P6)",
-  "images": [
-   "data/img/hd_76ff69a3e02d81c3.jpg",
-   "data/img/hd_a583ff2081bc793b.jpg",
-   "data/img/hd_b8663074ea6f2c85.jpg",
-   "data/img/hd_0f53ad00e37c4e09.jpg",
-   "data/img/hd_8b9781e0d13515dd.jpg",
-   "data/img/hd_f20135ede2d77572.jpg",
-   "data/img/hd_ae3cc3063b8ea000.jpg",
-   "data/img/hd_cb01e15b4f00dbe2.jpg"
-  ],
-  "videos": [],
-  "updated": 1793456460
- },
- {
-  "id": 121,
-  "price": 6000000,
-  "price_max": 6000000,
-  "price_deal": null,
-  "area": null,
-  "district": "Bình Thạnh",
-  "ward": null,
-  "street": "72/9A Bạch Đằng",
-  "type": "studio",
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": "Thang máy",
-  "available": null,
-  "available_date": null,
-  "amenities": [
-   "máy giặt riêng",
-   "full nội thất",
-   "tủ lạnh",
-   "bảo vệ",
-   "vân tay"
-  ],
-  "description": "KHAI TRƯƠNG STUDIO MỚI 100% FULL NỘI THẤT Q. BÌNH THẠNH\nAddress: 72/9A Bạch Đằng, Bình Thạnh\nTiên ích\nMáy Giặt Riêng. Thang Máy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay, bảo vệ 24/7\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 150k/phòng\nPhí xe: 150k/ chiếc\nGiá 6tr (trống phòng ở lầu 3 - 304)\nCó máy giặt riêng + tủ lạnh 2 cánh",
-  "images": [
-   "data/img/hd_b5708af42ebc0d1b.jpg",
-   "data/img/hd_bca2649293a3fe9a.jpg",
-   "data/img/hd_100da1935777816b.jpg",
-   "data/img/hd_fff0f1e1e437063b.jpg",
-   "data/img/hd_62c81d86621a9dc1.jpg"
-  ],
-  "videos": [],
-  "updated": 1793456176
- },
- {
-  "id": 120,
-  "price": 6500000,
-  "price_max": 6500000,
-  "price_deal": null,
-  "area": null,
-  "district": "Phú Nhuận",
-  "ward": null,
-  "street": "75/9C Nguyễn Đình Chiều",
-  "type": "studio",
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": "Thang bộ",
-  "available": "Trống 15/11",
-  "available_date": "2026-11-15",
-  "amenities": [
-   "full nội thất",
-   "bảo vệ",
-   "vân tay"
-  ],
-  "description": "Tin nhắn chưa đọc\nBei\nCĂN HỘ STUDIO MỚI 100% FULL NỘI THẤT Q. PHÚ NHUẬN\nAddress: 75/9C nguyễn đình chiều, Phú Nhuận\nTiên ích\nMáy giặt + sấy. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 150k/phòng\nPhí xe: Free max 1xe\nGiá 6tr5 (Ngày 15/11 trống phòng ở lầu 3 - 301)",
-  "images": [
-   "data/img/hd_a46844f4c0f83258.jpg",
-   "data/img/hd_50bc2aa62c63e58e.jpg",
-   "data/img/hd_88837b7f95f4cb5d.jpg",
-   "data/img/hd_97ab86a70889ae6d.jpg",
-   "data/img/hd_35251e2555619d52.jpg",
-   "data/img/hd_45c52bf697f555b2.jpg",
-   "data/img/hd_761f270b00c34c02.jpg",
-   "data/img/hd_129d23413870cab9.jpg",
-   "data/img/hd_9ab34e274704ce02.jpg",
-   "data/img/hd_559ddf271e680780.jpg",
-   "data/img/hd_bf1a0b6ce3e72fcf.jpg",
-   "data/img/hd_0edfef2a8533b5cb.jpg",
-   "data/img/hd_ec385f60f33fb456.jpg",
-   "data/img/hd_f2ab7e1bdd1863db.jpg",
-   "data/img/hd_9173f65a2db779b1.jpg",
-   "data/img/3fbb3b7cdb1a95e8.jpg",
-   "data/img/8f729201e91b9227.jpg",
-   "data/img/131e1a2c00c1486e.jpg"
-  ],
-  "videos": [],
-  "updated": 1793456059
- },
- {
-  "id": 119,
-  "price": 8400000,
-  "price_max": 8400000,
-  "price_deal": null,
-  "area": null,
-  "district": "Bình Thạnh",
-  "ward": null,
-  "street": "170 Ung Văn Khiêm",
-  "type": "căn hộ",
-  "layout": "1PN",
-  "layouts": [
-   "1PN"
-  ],
-  "kind": null,
-  "elevator": "Thang máy",
-  "available": "Trống sẵn",
-  "available_date": null,
-  "amenities": [
-   "máy giặt riêng",
-   "full nội thất",
-   "bảo vệ",
-   "vân tay"
-  ],
-  "description": "TRỐNG CĂN 1PHÒNG NGỦ FULL NỘI THẤT SIÊU ĐẸP Q. BÌNH THANH\nAddress: 170 Ung Văn Khiêm, Bình thạnh\nTiên ích\nMáy Giặt Riêng. Thang Máy\n1PN trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 150k/người\nDịch vụ: 200k/phòng\nPhí xe: 100k/ chiếc\nGiá 8tr4 (Trống sẵn 2 phòng ở lầu 3 & lầu 7 - Mã 02)",
-  "images": [
-   "data/img/hd_7edb6c0efd38907a.jpg",
-   "data/img/hd_ef9589d896123a3c.jpg",
-   "data/img/hd_cfc6338b6f5a343f.jpg",
-   "data/img/3c8f7811bc9650b7.jpg",
-   "data/img/acb927b6c1c0e544.jpg",
-   "data/img/3504ceec5e1bed69.jpg",
-   "data/img/a7667b6628bb521c.jpg",
-   "data/img/6ec31cfe5d304837.jpg",
-   "data/img/ce6b3446bc0eae4e.jpg",
-   "data/img/0b41bbc70f427ae4.jpg"
-  ],
-  "videos": [],
-  "updated": 1793455718
- },
- {
-  "id": 118,
-  "price": 4500000,
-  "price_max": 4500000,
-  "price_deal": null,
-  "area": null,
-  "district": "Tân Bình",
-  "ward": null,
-  "street": "403 Trường Chinh",
-  "type": null,
-  "layout": "1PN",
-  "layouts": [
-   "1PN"
-  ],
-  "kind": null,
-  "elevator": null,
-  "available": null,
-  "available_date": null,
-  "amenities": [],
-  "description": "4tr5 thương lượng được 100-200K\n403 Trường Chinh, Tân Bình (khu eTown, K300, Bàu Cát...)\nŸ$Điện 3.800/kwh, nước 100k/người, dvu 150k/phòng, xe free",
-  "images": [
-   "data/img/hd_940b561b6bef0087.jpg",
-   "data/img/hd_a43f36ba5364ef09.jpg",
-   "data/img/hd_3027b622f68c842d.jpg",
-   "data/img/hd_d86dc1df2c48eaa0.jpg",
-   "data/img/hd_45d740462945fbf5.jpg",
-   "data/img/hd_aa319f202d4d3895.jpg",
-   "data/img/hd_0600994a7f35e79a.jpg",
-   "data/img/2a3cc26419237a7f.jpg"
-  ],
-  "videos": [],
-  "updated": 1793454887
- },
- {
-  "id": 116,
-  "price": 5000000,
-  "price_max": 5000000,
-  "price_deal": null,
-  "area": null,
-  "district": "Phú Nhuận",
-  "ward": null,
-  "street": "50 Đào Duy Anh",
-  "type": null,
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": "Thang máy",
-  "available": null,
-  "available_date": null,
-  "amenities": [],
-  "description": "5tr cửa số lớn, thang máy\n50 Đào Duy Anh, Phú Nhuận (F9-QPN)\nĐiện 4k, Nước 100k/người\nDvu 200k/phòng, Free xe\nKhu giặt, khu phơi: sân thượng",
-  "images": [
-   "data/img/hd_120f1e7d27fcae3d.jpg",
-   "data/img/hd_b01792bf4d3c3f85.jpg",
-   "data/img/hd_5f6d49e9fa19f41c.jpg",
-   "data/img/hd_46a76584e7a7c7c0.jpg",
-   "data/img/hd_46a76584e7a7c7c0.jpg",
-   "data/img/hd_47cd353a73e5f931.jpg"
-  ],
-  "videos": [],
-  "updated": 1793447928
- },
- {
-  "id": 115,
-  "price": 11500000,
-  "price_max": 11500000,
-  "price_deal": null,
-  "area": null,
-  "district": "Bình Thạnh",
-  "ward": "Phường 24",
-  "street": "217/102/ Bùi Đình Tuý",
-  "type": "căn hộ",
-  "layout": "2PN",
-  "layouts": [
-   "2PN"
-  ],
-  "kind": null,
-  "elevator": "Thang bộ",
-  "available": "Trống sẵn",
-  "available_date": null,
-  "amenities": [
-   "máy giặt riêng",
-   "full nội thất",
-   "bảo vệ",
-   "vân tay"
-  ],
-  "description": "1+†' 2 PHÒNG NGỦ MỚI XÂY FULL NỘI THẤT SIÊU ĐẸP Q. BÌNH THẠNH\nAddress: 217/102/ Bùi đình Tuý, P.24. Q. Bình thạnh\nTiên ích\nCó máy giặt riêng. Thang bộ\n2PN trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/ tháng. Free 2 xe\nGiá 11tr5 (Trống sẵn 2 phòng ở lầu 1 & lầu 3 - Mã 01)",
-  "images": [
-   "data/img/85be19d5b69b0de3.jpg",
-   "data/img/hd_42a393c1b616b618.jpg",
-   "data/img/hd_fd94e3deb98b0e8f.jpg",
-   "data/img/hd_7bc50dc246704744.jpg",
-   "data/img/hd_bf4afa942f6825b9.jpg",
-   "data/img/hd_357cbf9e6101e617.jpg",
-   "data/img/hd_e01b1d59ab359a33.jpg",
-   "data/img/hd_c41cf2c8f8e15d91.jpg",
-   "data/img/hd_44af1a04b58272db.jpg",
-   "data/img/hd_1538ba1b9589e88d.jpg",
-   "data/img/hd_c7bbd1107e3cd739.jpg"
-  ],
-  "videos": [],
-  "updated": 1793446991
- },
- {
-  "id": 114,
-  "price": 11900000,
-  "price_max": 11900000,
-  "price_deal": null,
-  "area": null,
-  "district": "Quận 1",
-  "ward": null,
-  "street": "191 Điện Biên Phủ",
-  "type": "căn hộ",
-  "layout": "2PN",
-  "layouts": [
-   "2PN"
-  ],
-  "kind": null,
-  "elevator": "Thang máy",
-  "available": "Trống sẵn",
-  "available_date": null,
-  "amenities": [
-   "full nội thất",
-   "bảo vệ",
-   "vân tay"
-  ],
-  "description": "TRỐNG CĂN 2 PHÒNG NGỦ FULL NỘI THẤT ĐẸP QUẬN 1\nAddress: 191 Điện Biên Phủ, Q1\nTiên ích\nMáy giặt + sân phơi. Thang Máy\n2PN trang bị full nội thất đầy đủ tiện nghỉ. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 150k/người\nDịch vụ: 400k/ tháng\nPhí xe: 150k/ chiếc\nGiá 11tr9 (Trống sẵn phòng balcon ở lầu 3 - 301)",
-  "images": [
-   "data/img/hd_71b5c6ef3cbea52a.jpg",
-   "data/img/hd_7f416dd7a329171d.jpg",
-   "data/img/hd_0b8e0a4e879b7b5b.jpg",
-   "data/img/hd_8a9a094582b73423.jpg",
-   "data/img/hd_40178216775b26c0.jpg",
-   "data/img/hd_9b4327ce7570be4f.jpg",
-   "data/img/hd_519868c328d04faf.jpg",
-   "data/img/hd_0bc894dd979bde9f.jpg",
-   "data/img/hd_299fbd9b3d33bf55.jpg",
-   "data/img/hd_21ec45485ef57a0b.jpg"
-  ],
-  "videos": [],
-  "updated": 1793446897
- },
- {
-  "id": 113,
-  "price": 17200000,
-  "price_max": 17500000,
-  "price_deal": null,
-  "area": null,
-  "district": "Quận 1",
-  "ward": "Phường Tân Định",
-  "street": "3 Trần Nhật Duật",
-  "type": "căn hộ",
-  "layout": "2PN",
-  "layouts": [
-   "2PN"
-  ],
-  "kind": null,
-  "elevator": "Thang máy",
-  "available": "Trống 8/11",
-  "available_date": "2026-11-08",
-  "amenities": [
-   "cửa sổ",
-   "bảo vệ"
-  ],
-  "description": "CĂN HỘ 2 PHÒNG NGỦ CỬA SỔ SANG XỊN NGAY QUẬN 1\nET]Đia chỉ: 3 Trần Nhật Duật, P. Tân Định, Q1\nĐặc điểm\nNhà mặt tiền, xe hơi ra vào dễ, khu an ninh bảo vệ 24/24. Nhà thang máy, giặt sấy free\nĐiện 4k/kwh, Nước 120k/người\nf~ PDV 120k/ người, Free 1 xe (Xe t2 tính 250k có bảo vệ)\nGiá 17tr5 (Ngày 8/11 trống phòng ở lầu 2 - 203)\nGiá 17tr2 (Ngày 1/12 trống phòng ở lầu 7 - 702)",
-  "images": [
-   "data/img/hd_dfe9b658d497fc98.jpg",
-   "data/img/hd_f6de671da9aa54d9.jpg",
-   "data/img/hd_ba96a88090493b8c.jpg",
-   "data/img/hd_9230f285f6ee76d1.jpg",
-   "data/img/hd_43409c3205b3d83f.jpg",
-   "data/img/hd_14c3846998ca9c9f.jpg",
-   "data/img/hd_68199b73a62f49f1.jpg",
-   "data/img/hd_357c573bd0af33dd.jpg",
-   "data/img/hd_dd7d7fccaadfbc9f.jpg",
-   "data/img/hd_d26087bbcc2983b0.jpg",
-   "data/img/hd_a211280347efe731.jpg",
-   "data/img/hd_5692dd5594ca1461.jpg",
-   "data/img/hd_cbdbd8a8cf755d03.jpg",
-   "data/img/hd_f3c74ac23ee29d30.jpg",
-   "data/img/hd_51769993ad39df18.jpg",
-   "data/img/33fc8520865e033c.jpg",
-   "data/img/bece343ac357d3d2.jpg",
-   "data/img/9489f9c05e28fa6b.jpg",
-   "data/img/6617b94e346024ba.jpg"
-  ],
-  "videos": [],
-  "updated": 1793446764
- },
- {
-  "id": 112,
-  "price": 16000000,
-  "price_max": 16000000,
-  "price_deal": null,
-  "area": null,
-  "district": "Quận 1",
-  "ward": "Phường Phạm Ngủ",
-  "street": "100 Trần Hưng Đạo",
-  "type": "căn hộ",
-  "layout": "2PN",
-  "layouts": [
-   "2PN"
-  ],
-  "kind": null,
-  "elevator": "Thang máy",
-  "available": "Trống 5/11",
-  "available_date": "2026-11-05",
-  "amenities": [
-   "full nội thất"
-  ],
-  "description": "Tin nhắn chưa đọc\nCĂN HỘ 2 PHÒNG NGỦ 1WC GIÁ TỐT NGAY QUẬN 1\nElaia chỉ: 100 Trần Hưng Đạo, phường Phạm Ngủ Lão, Q1\nĐặc điểm: Ấế“ Có thang máy, ra vào tự do, có Khu giặt đồ. 1 phòng ngủ + 1 phòng khách trang bị full nội thất\nđiện 4k/kwh, Nước 150k/người\nPDV: 200k/ phòng, xe 100k/ chiếc\nGiá 16tr (Ngày 5/11 trống phòng ở lầu 5 - 503)",
-  "images": [
-   "data/img/8431fb61c5be0028.jpg"
-  ],
-  "videos": [],
-  "updated": 1793446754
- },
- {
-  "id": 110,
-  "price": 13800000,
-  "price_max": 15500000,
-  "price_deal": null,
-  "area": null,
-  "district": "Quận 3",
-  "ward": null,
-  "street": "220 Nguyễn Thị Minh Khai",
-  "type": "căn hộ",
-  "layout": "1PN",
-  "layouts": [
-   "1PN"
-  ],
-  "kind": null,
-  "elevator": "Thang máy",
-  "available": "Trống sẵn",
-  "available_date": null,
-  "amenities": [
-   "full nội thất",
-   "bảo vệ",
-   "vân tay"
-  ],
-  "description": "CĂN HỘ 1 PHÒNG NGỦ FULL NỘI THẤT SANG TRỌNG QUẬN 3\nAddress: 220 Nguyễn Thị Minh Khai, Q3 (đối diện công viên tao đàn)\nTiên ích\nMáy Giặt, sân phơi. Thang Máy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 150k/người\nDịch vụ: 200k/phòng\nPhí xe: Free 2 xe\nGiá 15tr5 (Ngày 1/12 trống 1 phòng ngủ ở lầu 3 - 301)\nGiá fix 14tr9 (Trống sẵn phòng cửa số lớn view công viên ở lầu 1 - 102)\nGiá 13tr8 (Ngày 2/12 trống 1 phòng ngủ ở Trệt - G01)",
-  "images": [
-   "data/img/hd_715c007eef3fb598.jpg",
-   "data/img/hd_7e39f56c06e8ead3.jpg",
-   "data/img/hd_09da8d8cb95a2c6d.jpg",
-   "data/img/hd_d7e03920c65c9578.jpg",
-   "data/img/hd_3ed58c090f3239b5.jpg",
-   "data/img/hd_da117462ff1915df.jpg",
-   "data/img/hd_8c7c18a2f2fddc16.jpg",
-   "data/img/hd_c35e329ad68db420.jpg",
-   "data/img/hd_20c5d19111c2acfd.jpg",
-   "data/img/hd_4512cb1f71059e15.jpg",
-   "data/img/hd_1128d4570c349b04.jpg",
-   "data/img/hd_b4cf8dcfcbcb25b5.jpg",
-   "data/img/hd_69a92d4b37c96f5d.jpg",
-   "data/img/hd_bdcc21840b14ca08.jpg",
-   "data/img/hd_33994faef44e8f09.jpg",
-   "data/img/1f603ed42ce8a900.jpg",
-   "data/img/6f1de74f343f168e.jpg",
-   "data/img/fb0f83a61e483f2e.jpg",
-   "data/img/0e590d39bf42f9f1.jpg",
-   "data/img/e9a8ebcb08a46761.jpg",
-   "data/img/fa97f2d4176015a9.jpg",
-   "data/img/e05bd6d519b3cb52.jpg",
-   "data/img/c4b370e817ca6fba.jpg",
-   "data/img/fdc1bff09e8844f6.jpg",
-   "data/img/c6e55defbd2b204c.jpg",
-   "data/img/2f68d1d5b3459eca.jpg",
-   "data/img/4bd0c521563b1026.jpg",
-   "data/img/a291d46d266c21e7.jpg",
-   "data/img/2103e699fcd8d89c.jpg",
-   "data/img/d06b62971699ca74.jpg",
-   "data/img/5cf967e80300c279.jpg",
-   "data/img/98979e4dd151d888.jpg",
-   "data/img/c5251aeaa807917c.jpg"
-  ],
-  "videos": [],
-  "updated": 1793446481
- },
- {
-  "id": 109,
-  "price": 8000000,
-  "price_max": 8000000,
-  "price_deal": null,
-  "area": null,
-  "district": "Quận 3",
-  "ward": "Phường 14",
-  "street": "108/66 Trần Quang Diệu",
-  "type": "studio",
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": "Thang máy",
-  "available": "Trống sẵn",
-  "available_date": null,
-  "amenities": [
-   "full nội thất",
-   "bảo vệ",
-   "vân tay"
-  ],
-  "description": "CĂN HỘ STUDIO THOÁNG MỚI KENG NGAY QUẬN 3\nET]Đia chỉ: 108/66 Trần Quang Diệu, P14 Q3\nĐặc điểm: tế“ Gần chợ, thang máy, an ninh 24/24, ra vào vân tay. Phòng trang bị đầy đủ nội thất hiện đại\n(? Điện 4k2/kwh, nước 100k/ người\n(@PDV: 200k/ phòng, free 2 xe\nGiá fix 8tr -> nếu kí HĐ 1 năm\n(trống sẵn phòng ở lầu 2 - 205)\nGiá fix 8tr -> nếu kí HĐ 1 năm\n(trống sẵn phòng ở lầu 1 - 104)",
-  "images": [
-   "data/img/hd_9cf9ab9a5bdb4510.jpg",
-   "data/img/hd_5386fac149183245.jpg",
-   "data/img/hd_acd0cc6d8e66a60a.jpg",
-   "data/img/hd_9bf3b85ef7bee5e5.jpg",
-   "data/img/hd_164cb00170e434af.jpg",
-   "data/img/hd_93aa7c5e7cbbc400.jpg",
-   "data/img/hd_9ace10c8411fd179.jpg",
-   "data/img/hd_011d2eb2dc6435dc.jpg",
-   "data/img/hd_dd195d15f6579295.jpg",
-   "data/img/hd_4e62f2fc3b923f9b.jpg",
-   "data/img/hd_7c5953e586ae09c3.jpg"
-  ],
-  "videos": [],
-  "updated": 1793446380
- },
- {
-  "id": 108,
-  "price": 8500000,
-  "price_max": 8500000,
-  "price_deal": null,
-  "area": null,
-  "district": "Quận 1",
-  "ward": null,
-  "street": "258/64 Trần Hưng Đạo",
-  "type": "studio",
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": "Thang máy",
-  "available": "Trống 30/11",
-  "available_date": "2026-11-30",
-  "amenities": [
-   "máy giặt riêng",
-   "gác",
-   "full nội thất",
-   "bếp",
-   "chỗ để xe"
-  ],
-  "description": "ÈCĂN HỘ STUDIO XA BẾP FULL NỘI THẤT QUẬN 1\nAddress: 258/64 Trần Hưng Đạo, OI (hẻm 3 gác)\nĐặc điềm: Nhà mới full nội thất, có hầm xe, máy giặt riêng, lò vi sóng, bếp điện,... Thang Máy, hẻm ba gác\nĐiện 4k, Nước 100k/ người\nf~ PDV 200k/phòng, Free 2 xe\nFree dọn phòng 2 lần/ tuần, thay Drap 1 lần/tuần\nGiá 8tr5 (Ngày 30/11 trống phòng ở Trệt có lối đi riêng)",
-  "images": [
-   "data/img/hd_06183de731b7a3fd.jpg",
-   "data/img/hd_13d8c17d270124ec.jpg",
-   "data/img/hd_6e4ae74897aca0d4.jpg",
-   "data/img/b348abae97759704.jpg",
-   "data/img/hd_20640c1100117c68.jpg",
-   "data/img/hd_41df3b6d5772d2cc.jpg",
-   "data/img/hd_d822b26bea7ceeb1.jpg",
-   "data/img/hd_0afa427c1662bcc2.jpg",
-   "data/img/hd_2a8f04d1baf47d4f.jpg",
-   "data/img/hd_e1798eaa4e5bfc9d.jpg",
-   "data/img/hd_e286357a9fc0a136.jpg",
-   "data/img/hd_5f5c798b316e10ce.jpg",
-   "data/img/hd_283e54876c362ba7.jpg",
-   "data/img/hd_7693dd91e4374ecf.jpg"
-  ],
-  "videos": [],
-  "updated": 1793446261
- },
- {
-  "id": 107,
-  "price": 8000000,
-  "price_max": 10500000,
-  "price_deal": null,
-  "area": null,
-  "district": "Quận 3",
-  "ward": null,
-  "street": "105bis Võ Thị Sáu",
-  "type": "studio",
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": "Thang bộ",
-  "available": "Trống sẵn",
-  "available_date": null,
-  "amenities": [
-   "full nội thất",
-   "bảo vệ",
-   "vân tay"
-  ],
-  "description": "CĂN HỘ STUDIO FULL NỘI THẤT QUẬN 3\nAddress: 105bis Võ Thị Sáu, Q3\nTiên ích\nMáy giặt + sân phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nree dọn phòng 2 lần/ tuần\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: free 1-2 xe\nGiá 8tr (Trống sẵn phòng ở lầu 3 - 303)\nGiá 10tr5 (Trống sẵn phòng balcon ở lầu 3 - 301)",
-  "images": [
-   "data/img/hd_8fd4abe9ddb2d66b.jpg",
-   "data/img/hd_7fad25832ab4670d.jpg",
-   "data/img/hd_ba50288e171315db.jpg",
-   "data/img/hd_a06389c4c1062af3.jpg",
-   "data/img/hd_2ec146cbe31b651c.jpg",
-   "data/img/hd_ab7279aa4313e3a1.jpg",
-   "data/img/hd_1b316c210f824e97.jpg",
-   "data/img/hd_ef82409bf055efd2.jpg",
-   "data/img/hd_c1d9f8b9c26a1020.jpg",
-   "data/img/hd_0520d553f7b3153d.jpg",
-   "data/img/hd_60e1ede7f63298a3.jpg",
-   "data/img/hd_6044cb8a2b56b0d9.jpg",
-   "data/img/hd_648211a299786a45.jpg",
-   "data/img/hd_4e6d4c6208ef0cc2.jpg",
-   "data/img/hd_21167a80b9ccad09.jpg",
-   "data/img/4222a28351ee72bc.jpg",
-   "data/img/20e823cfcbad09bd.jpg",
-   "data/img/355690e24404a632.jpg",
-   "data/img/e844e84224f8ec0b.jpg",
-   "data/img/4be2e2be676520b0.jpg",
-   "data/img/2a53324e83f3ff2b.jpg",
-   "data/img/2ce220cadc99118d.jpg",
-   "data/img/4dc6cbf3fececbbe.jpg",
-   "data/img/68de3d090af09a47.jpg"
-  ],
-  "videos": [],
-  "updated": 1793446121
- },
- {
-  "id": 106,
-  "price": 6500000,
-  "price_max": 6500000,
-  "price_deal": 6300000,
-  "area": null,
-  "district": "Quận 10",
-  "ward": "Phường 14",
-  "street": "525/48 Tô Hiến Thành",
-  "type": "studio",
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": "Thang máy",
-  "available": "Trống 5/11",
-  "available_date": "2026-11-05",
-  "amenities": [
-   "full nội thất",
-   "bảo vệ",
-   "vân tay"
-  ],
-  "description": "TRỐNG STUDIO FULL NỘI THẤT SIÊU ĐẸP QUẬN 10\nAddress: 525/48 Tô Hiến Thành, Phường 14, Q10\nTiên ích\nMáy giặt. Thang Máy, bảo vệ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nxe số 120k, tay ga 150k\nGiá 6tr5 kí HĐÐ 1 năm giảm 6 tháng đầu còn 6tr3\n(Ngày 5/11 trống phòng ở lầu 4 - 402)",
-  "images": [
-   "data/img/hd_b4530e6ae8c10082.jpg",
-   "data/img/hd_f4344edce03e63ba.jpg",
-   "data/img/hd_7cde1418b81f3746.jpg",
-   "data/img/hd_7cde1418b81f3746.jpg",
-   "data/img/hd_3f984c8ee7b445af.jpg",
-   "data/img/hd_500748dd895d0cc1.jpg",
-   "data/img/hd_d259ee33661fd4d8.jpg",
-   "data/img/hd_07b8208ca8b57174.jpg",
-   "data/img/hd_1138ef3b1a4e82e2.jpg",
-   "data/img/hd_1138ef3b1a4e82e2.jpg"
-  ],
-  "videos": [],
-  "updated": 1793446027
- },
- {
-  "id": 105,
-  "price": 6600000,
-  "price_max": 6600000,
-  "price_deal": null,
-  "area": null,
-  "district": "Quận 3",
-  "ward": null,
-  "street": "24 Cư Xá Trần Quang Diệu",
-  "type": "căn hộ",
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": "Thang bộ",
-  "available": "Trống sẵn",
-  "available_date": null,
-  "amenities": [
-   "máy giặt riêng",
-   "full nội thất",
-   "bếp",
-   "bảo vệ",
-   "vân tay"
-  ],
-  "description": "CĂN HỘ MỚI SETUP FULL NỘI THẤT QUẬN 3\nAddress: 24 Cư xá Trần Quang Diệu, Q3\nTiên ích\nMáy giặt + sân phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: Free 2 xe\nGiá 6tr6 (Trống sẵn phòng ở lầu 1 - L0I)\nLưu ý: Phòng hiện tại là giường tủ kết hợp, kệ bếp giống ảnh, không có máy giặt riêng, diện tích nhỏ hơn\nphòng trên ảnh chút",
-  "images": [
-   "data/img/hd_c9650f9de73b1ca2.jpg",
-   "data/img/hd_8002844b566df61b.jpg",
-   "data/img/hd_1cadf0cd48db9dce.jpg",
-   "data/img/hd_1641761a9c56e3de.jpg"
-  ],
-  "videos": [],
-  "updated": 1793445979
- },
- {
-  "id": 104,
-  "price": 5200000,
-  "price_max": 5200000,
-  "price_deal": null,
-  "area": null,
-  "district": "Phú Nhuận",
-  "ward": "Phường 8",
-  "street": "173 Trần Huy Liệu",
-  "type": null,
-  "layout": "Gác (duplex)",
-  "layouts": [
-   "Gác (duplex)"
-  ],
-  "kind": null,
-  "elevator": null,
-  "available": null,
-  "available_date": null,
-  "amenities": [
-   "ban công",
-   "gác",
-   "máy lạnh",
-   "bếp",
-   "nuôi thú cưng"
-  ],
-  "description": "5tr2 gác, ban công + cửa số\n173 Trần Huy Liệu, Phường 8, Phú Nhuận\nĐiện: 4k/kwh\nNước: 120k/người\nDịch vụ: 200k/phòng\nXe free 2 chiếc\nCho nuôi pet, không xe điện\nTối đa 4 người 2 xe\nNội thất: máy lạnh, kệ bếp",
-  "images": [
-   "data/img/hd_a9099d2e3d4acf21.jpg",
-   "data/img/hd_86e55845ba2aeaba.jpg",
-   "data/img/hd_10981bb23d2fbb26.jpg",
-   "data/img/hd_368b478937e8e039.jpg",
-   "data/img/hd_081173aef9007bed.jpg",
-   "data/img/hd_303223d705fc25a5.jpg",
-   "data/img/hd_a525916c83eba79e.jpg",
-   "data/img/hd_efb149d60bf4e1d6.jpg",
-   "data/img/hd_a8efbcab2c5370cc.jpg",
-   "data/img/hd_c4c76f032585c40c.jpg",
-   "data/img/hd_1da91879c5271e29.jpg",
-   "data/img/hd_7726383ec3cccf3c.jpg",
-   "data/img/8ea61bacd3c6f59a.jpg",
-   "data/img/9169f9283add4688.jpg"
-  ],
-  "videos": [],
-  "updated": 1793445499
- },
- {
-  "id": 103,
-  "price": 6000000,
-  "price_max": 7000000,
-  "price_deal": null,
-  "area": 35.0,
-  "district": "Quận 3",
-  "ward": "Phường 14",
-  "street": "Trần Quang Diệu",
-  "type": null,
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": null,
-  "available": null,
-  "available_date": null,
-  "amenities": [
-   "ban công",
-   "giờ giấc tự do",
-   "vân tay"
-  ],
-  "description": "Trần Quang Diệu P.14 Quận 3. Hẻm xe hơi lớn.\nPhòng 35m2 Lầu 2.5 ( qua lầu lửng)\nGóc Lê Văn Sỹ - Trần Quang Diệu - Trần Huy Liệu . Sát Phú Nhuận, gần các khu Trung tâm thương mại, chợ,\nHẻm xe hơi rộng rãi khu dân trí. An tâm cho phòng chống PCCC.\nRa vào tự do bằng khóa vân tay và không chung chủ.\nĐiện 4000, nước 100k, phí dv 200k . Xe 100k\n( Quận 3 - 6.000 - 7.000 - Ban Công )",
-  "images": [
-   "data/img/hd_fc675c68f8e294ae.jpg",
-   "data/img/hd_6c91b0d4b5259908.jpg",
-   "data/img/hd_f5a126c848656e3a.jpg",
-   "data/img/hd_7c72cfa1797d18f7.jpg",
-   "data/img/hd_00c5f4a77f5370f4.jpg",
-   "data/img/hd_dd81fa3e695a4a4a.jpg",
-   "data/img/hd_8ad447ee39f2d41c.jpg",
-   "data/img/hd_8ad447ee39f2d41c.jpg",
-   "data/img/hd_eb868f265a7906c7.jpg",
-   "data/img/hd_7a8b05a64ab20820.jpg"
-  ],
-  "videos": [],
-  "updated": 1793445266
- },
- {
-  "id": 102,
-  "price": 6000000,
-  "price_max": 6000000,
-  "price_deal": null,
-  "area": null,
-  "district": "Quận 5",
-  "ward": "Phường T",
-  "street": "Trần Hưng Đạo",
-  "type": null,
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": null,
-  "available": null,
-  "available_date": null,
-  "amenities": [
-   "máy giặt chung",
-   "ban công",
-   "full nội thất",
-   "bảo vệ",
-   "vân tay"
-  ],
-  "description": "trần hưng đạo phường T1 quận 5.\nMã phòng 401 giá 6tr\ncó ban công và cửa số\nfull nội thất ( nội thất mới 100% ,)\nDv 200 k, nước 150k/1 người , điện 4k\nTiện ích ; cửa cổng vân tay, camera an ninh ngoài cửa + trong nhà , máy giặt chung .\n( Quận 5 - 5.000 - 6.000 - Ban Công )",
-  "images": [
-   "data/img/hd_cad246131ceebf2f.jpg",
-   "data/img/hd_8ca24ae53268a977.jpg",
-   "data/img/hd_c08929a4889a250d.jpg",
-   "data/img/hd_9eb6c7acfb7074e8.jpg"
-  ],
-  "videos": [],
-  "updated": 1793445218
- },
- {
-  "id": 101,
-  "price": 8000000,
-  "price_max": 9000000,
-  "price_deal": null,
-  "area": null,
-  "district": "Quận 10",
-  "ward": null,
-  "street": "2 Pn",
-  "type": "căn hộ",
-  "layout": "2PN",
-  "layouts": [
-   "2PN"
-  ],
-  "kind": null,
-  "elevator": null,
-  "available": null,
-  "available_date": null,
-  "amenities": [],
-  "description": "( Quận 10 - 8.000 - 9.000 - 2Pn )",
-  "images": [],
-  "videos": [],
-  "updated": 1793445217
- },
- {
-  "id": 100,
-  "price": 8500000,
-  "price_max": 8700000,
-  "price_deal": null,
-  "area": 40.0,
-  "district": "Quận 10",
-  "ward": null,
-  "street": "Hồ Bá Kiện",
-  "type": "căn hộ",
-  "layout": "2PN",
-  "layouts": [
-   "2PN"
-  ],
-  "kind": null,
-  "elevator": null,
-  "available": "Trống 31/10",
-  "available_date": "2026-10-31",
-  "amenities": [
-   "bếp"
-  ],
-  "description": "HỒ BÁ KIỆN, Q10\nMã VIP B103 2 Phòng Ngủ (31/10 TRỐNG)\nCăn hộ siêu rộng 40m, 2PN - 1 PK TÁCH BẾP, không gian sang trọng và thoáng sáng.\n02 Phòng Ngủ riêng biệt\nPhòng Khách rộng rãi\nThiết kế hiện đại, ở cực kỳ thoải mái\nX Giá thuê\nHĐ 12 tháng: 8.700.000đ\nHĐ 18 tháng: 8.600.000đ\nHĐ 24 tháng: 8.500.000đ",
-  "images": [
-   "data/img/hd_a83924f652cc595b.jpg",
-   "data/img/hd_938e072d3cd664f5.jpg",
-   "data/img/hd_95b1cfb380e4896d.jpg",
-   "data/img/hd_5c04c82f440b008a.jpg",
-   "data/img/hd_4a66f36786cdfde8.jpg",
-   "data/img/hd_783d8c150c1d252e.jpg",
-   "data/img/hd_c9cfcf11b3d6b026.jpg",
-   "data/img/hd_136548c74cec1b66.jpg",
-   "data/img/hd_cea35a859c33757e.jpg"
-  ],
-  "videos": [],
-  "updated": 1793445134
- },
- {
-  "id": 99,
-  "price": 8000000,
-  "price_max": 8000000,
-  "price_deal": null,
-  "area": 36.0,
-  "district": "Quận 10",
-  "ward": null,
-  "street": "3 Tháng 2",
-  "type": null,
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": null,
-  "available": null,
-  "available_date": null,
-  "amenities": [
-   "ban công",
-   "full nội thất",
-   "bếp"
-  ],
-  "description": "đường 3/2 Q10\nPhòng bancon lầu 3 rộng 36m giá 8tr. - Full nội thất: Máy sấy chung , máy giặt\nriêng\n2 người, Free 2 xe máy\nĐiện 4k, nước 120k, phí dịch vụ 200k\nKý 12 tháng\nKhông xe điện , bếp ga, thú cưng\n( Quận 10 - 7.000 - 8.000 - Ban Công )",
-  "images": [
-   "data/img/hd_867ecb310f639af0.jpg",
-   "data/img/hd_f25efb2ffe66c697.jpg",
-   "data/img/hd_04a68513bfdf4546.jpg",
-   "data/img/hd_1a150cc05a11dcd8.jpg",
-   "data/img/hd_04a68513bfdf4546.jpg",
-   "data/img/hd_f68137a9842a8235.jpg",
-   "data/img/hd_9c5258a3a4c683a6.jpg",
-   "data/img/hd_f0f4ab60c93092ca.jpg",
-   "data/img/hd_1b41df2e858fedd2.jpg",
-   "data/img/hd_56e815d81033904a.jpg",
-   "data/img/hd_3c3d2f174e76f5ad.jpg",
-   "data/img/hd_7292447c6a4c30fb.jpg",
-   "data/img/hd_56b2e9347dbc740c.jpg",
-   "data/img/hd_068fdc847433137b.jpg"
-  ],
-  "videos": [],
-  "updated": 1793445013
- },
- {
-  "id": 98,
-  "price": 6200000,
-  "price_max": 6200000,
-  "price_deal": null,
-  "area": null,
-  "district": "Quận 1",
-  "ward": "Phường Tân Định",
-  "street": "Trần Quang Khải",
-  "type": null,
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": null,
-  "available": "Trống 1/11",
-  "available_date": "2026-11-01",
-  "amenities": [],
-  "description": "Trần Quang Khải, Phường Tân Định, Q†1\nGiá: 6.200.000\nĐiện 4k\nNước 150k/người\nPhí dịch vụ 200k/phòng\nXe free (giới hạn 1 xe)\nGiặt sấy free\nMã phòng: 1.2\nNgày trống: 1/11\n( Quận 1 - 6.000 - 7.000)",
-  "images": [
-   "data/img/hd_2cbdcfc9f4979abc.jpg",
-   "data/img/hd_5b211519df23fdc4.jpg",
-   "data/img/hd_b999e7c6b169a846.jpg",
-   "data/img/hd_c54acab7e502e7da.jpg",
-   "data/img/hd_a83869595a1332e4.jpg",
-   "data/img/hd_099018398c7b60f7.jpg",
-   "data/img/hd_028e2e42078bc344.jpg",
-   "data/img/6d06073a9f481ee2.jpg"
-  ],
-  "videos": [],
-  "updated": 1793444934
- },
- {
-  "id": 97,
-  "price": 6200000,
-  "price_max": 6200000,
-  "price_deal": null,
-  "area": null,
-  "district": "Quận 10",
-  "ward": null,
-  "street": "Cách Mạng Tháng 8",
-  "type": "căn hộ",
-  "layout": "1PN",
-  "layouts": [
-   "1PN"
-  ],
-  "kind": null,
-  "elevator": null,
-  "available": "Trống sẵn",
-  "available_date": null,
-  "amenities": [
-   "bếp"
-  ],
-  "description": "Đã trống sẵn, ở liền được\n1pn mã 203 lầu 2. Giá 6,2tr\n1PN tách bếp.\ncmt8 Quận 10.\n( Quận 10 - 6.000 - 7.000 - 1PN)",
-  "images": [
-   "data/img/hd_7ff7140a536f9970.jpg",
-   "data/img/hd_21a36479247674ae.jpg",
-   "data/img/hd_a2065e463b074807.jpg",
-   "data/img/hd_f8395ba9fbcd56ac.jpg",
-   "data/img/hd_aed596632069af92.jpg",
-   "data/img/hd_b08191e6f0db8a63.jpg",
-   "data/img/hd_083304c84afc93fd.jpg",
-   "data/img/hd_cd6bd7b62cf188b1.jpg",
-   "data/img/hd_76215e9b6e1ec568.jpg",
-   "data/img/hd_259f6d223c49a77e.jpg",
-   "data/img/hd_d07582d8e1068e25.jpg",
-   "data/img/hd_31d280a238bdf55f.jpg"
-  ],
-  "videos": [],
-  "updated": 1793444827
- },
- {
-  "id": 95,
-  "price": 4600000,
-  "price_max": 4600000,
-  "price_deal": null,
-  "area": null,
-  "district": "Quận 10",
-  "ward": null,
-  "street": "Lý Thường Kiệt",
-  "type": "studio",
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": null,
-  "available": "Trống sẵn",
-  "available_date": null,
-  "amenities": [
-   "ban công",
-   "full nội thất"
-  ],
-  "description": "Lý Thường Kiệt, q10\nGần Đh Bách Khoa, Tô Hiến Thành\n4tr6\nStudio ban công thoáng\nFull nội thất\np303 trống sẵn\nĐiện 4k, nước 100k, dv 200k, free 2xe\n(Quận 10 - 4.000 - 5.000 - ban công)",
-  "images": [
-   "data/img/hd_5b980afb29ee62dc.jpg",
-   "data/img/hd_c3b96638c02a0759.jpg",
-   "data/img/hd_173229969383e34a.jpg",
-   "data/img/hd_d22c638b18072a18.jpg",
-   "data/img/hd_418b4a528dba320d.jpg"
-  ],
-  "videos": [],
-  "updated": 1793444781
- },
- {
-  "id": 94,
-  "price": 5200000,
-  "price_max": 5200000,
-  "price_deal": null,
-  "area": null,
-  "district": "Bình Thạnh",
-  "ward": "Phường Gia Định",
-  "street": "Vũ Tùng",
-  "type": null,
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": null,
-  "available": "Trống 19/11",
-  "available_date": "2026-11-19",
-  "amenities": [
-   "máy lạnh",
-   "tủ lạnh",
-   "bếp"
-  ],
-  "description": "Vũ Tùng, Phường Gia Định, TP. HCM #3\nPhòng 203 giá 5tr2 ( khách Sang Phòng 19/11 có thể vào ở được ) xem phòng sau 8h tối.\nNội thất: tủ quần áo, kệ bếp, máy lạnh,\ntủ lạnh thêm 300k/tháng\nTối đa 2 xe\nĐiện 4k,nước 120k , dvu 200k, xe 200k\n( Bình Thạnh - 5.000 - 6.000)",
-  "images": [
-   "data/img/hd_93c222515c2f3b1d.jpg",
-   "data/img/hd_4eb66e6e443bfe89.jpg",
-   "data/img/hd_148982cfb154f06e.jpg",
-   "data/img/hd_9caba0662420c80e.jpg",
-   "data/img/hd_fa5594683ac31f84.jpg",
-   "data/img/hd_c7c2276c23bac1bb.jpg"
-  ],
-  "videos": [],
-  "updated": 1793444718
- },
- {
-  "id": 93,
-  "price": 6000000,
-  "price_max": 6200000,
-  "price_deal": null,
-  "area": null,
-  "district": "Bình Thạnh",
-  "ward": "Phường 12",
-  "street": "194 Phan Văn Trị",
-  "type": "căn hộ",
-  "layout": "1PN",
-  "layouts": [
-   "1PN"
-  ],
-  "kind": null,
-  "elevator": null,
-  "available": null,
-  "available_date": null,
-  "amenities": [
-   "cửa sổ",
-   "máy lạnh",
-   "tủ lạnh",
-   "bếp",
-   "chỗ để xe",
-   "bảo vệ",
-   "vân tay"
-  ],
-  "description": "194 Phan Văn Trị - P12 - Bình Thạnh\nSL:2 PHÒNG\nNgay Đại Học Văn Lang CS2, CS3, Đại Học Công Nghiệp\nĐiện 4k , nước 100k/người , DV 200k/ phòng, Free xe\nPHÒNG 101 Giá 6tr2 cửa sổ, tách bếp( ngày 10/11 xem phòng)\nPHÒNG 301 Giá 6tr cửa sổ, tách bếp ( ngày 1/12 xem phòng)\nTiện ích: Giường, tủ áo, tủ bếp, máy lạnh, tủ lạnh, đệm, vệ sinh hành lang, cầu thang hàng tuần sạch sẽ, ra vào\nbằng khoá vân tay, hệ thống camera giám sát an ninh, khu vực để xe rộng.\nChính sách cọc\nHĐ 12 tháng cọc 1 tháng\n( Bình Thạnh - 5.000 - 6.000 - 1PN )",
-  "images": [
-   "data/img/hd_75cc7533e99783e0.jpg",
-   "data/img/hd_b8403caf92f42971.jpg",
-   "data/img/hd_4ca89fbc60ef3b91.jpg",
-   "data/img/hd_9c699aa9efe7d1ce.jpg",
-   "data/img/hd_fbc5603aaa99fb10.jpg",
-   "data/img/hd_b75989176230c17c.jpg",
-   "data/img/hd_0bdf6fa1fad3beb2.jpg",
-   "data/img/hd_154683f8ae659761.jpg"
-  ],
-  "videos": [],
-  "updated": 1793444646
- },
- {
-  "id": 92,
-  "price": 6500000,
-  "price_max": 6500000,
-  "price_deal": null,
-  "area": null,
-  "district": "Tân Bình",
-  "ward": null,
-  "street": "Tân Trang",
-  "type": null,
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": null,
-  "available": null,
-  "available_date": null,
-  "amenities": [],
-  "description": "Tân Trang, Tân Bình\nPhòng trống: 201\nGia 6tr5",
-  "images": [
-   "data/img/hd_3c80cf950a52a34d.jpg",
-   "data/img/hd_549c557949ad7b8c.jpg",
-   "data/img/hd_325a697eef5dce2f.jpg",
-   "data/img/hd_94310ac39f0071d5.jpg",
-   "data/img/hd_5fae984818546f8a.jpg",
-   "data/img/hd_32d946228aca3bfd.jpg",
-   "data/img/hd_f9de69075efe1ceb.jpg",
-   "data/img/hd_bbbc4fd338d19372.jpg",
-   "data/img/hd_8a05d27e88506fee.jpg",
-   "data/img/hd_7ca64709de730e35.jpg",
-   "data/img/hd_35519aa433684ebc.jpg"
-  ],
-  "videos": [],
-  "updated": 1793444384
- },
- {
-  "id": 91,
-  "price": 4500000,
-  "price_max": 4500000,
-  "price_deal": null,
-  "area": null,
-  "district": "Tân Bình",
-  "ward": null,
-  "street": "Âu Cơ",
-  "type": null,
-  "layout": "Gác (duplex)",
-  "layouts": [
-   "Gác (duplex)"
-  ],
-  "kind": null,
-  "elevator": null,
-  "available": null,
-  "available_date": null,
-  "amenities": [
-   "gác"
-  ],
-  "description": "Âu Cơ Quận Tân bình\n4.500.000",
-  "images": [
-   "data/img/hd_01ab1467fdf4a542.jpg",
-   "data/img/hd_877cc03d2189cbe6.jpg",
-   "data/img/hd_cdc5570f41f02e6e.jpg",
-   "data/img/hd_7f1acfcff75d3fae.jpg",
-   "data/img/hd_ddff0f6c9f31941c.jpg"
-  ],
-  "videos": [],
-  "updated": 1793444331
- },
- {
-  "id": 90,
-  "price": 5200000,
-  "price_max": 5200000,
-  "price_deal": null,
-  "area": null,
-  "district": "Tân Bình",
-  "ward": null,
-  "street": "Hiệp Nhất",
-  "type": null,
-  "layout": "Gác (duplex)",
-  "layouts": [
-   "Gác (duplex)"
-  ],
-  "kind": null,
-  "elevator": "Thang máy",
-  "available": "Trống sẵn",
-  "available_date": null,
-  "amenities": [
-   "gác"
-  ],
-  "description": "P204 - Lầu 2 thang máy - 5,2tr - Trống sẵn",
-  "images": [
-   "data/img/hd_424e3d3e023f45e1.jpg",
-   "data/img/hd_80125238ef94c39d.jpg",
-   "data/img/hd_3a6cd0e076d945b3.jpg",
-   "data/img/hd_6a2a23c40c7a9ea2.jpg",
-   "data/img/hd_a7081652a1887398.jpg"
-  ],
-  "videos": [],
-  "updated": 1793444274
- },
- {
-  "id": 89,
-  "price": 5300000,
-  "price_max": 5800000,
-  "price_deal": 5000000,
-  "area": null,
-  "district": "Quận 3",
-  "ward": null,
-  "street": "219/93a Trần Văn Đang",
-  "type": "studio",
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": "Thang bộ",
-  "available": "Trống 1/12",
-  "available_date": "2026-12-01",
-  "amenities": [
-   "cửa sổ",
-   "full nội thất",
-   "bảo vệ",
-   "vân tay"
-  ],
-  "description": "ÈCĂN HỘ STUDIO CỬA SỔ FULL NỘI THẤT QUẬN 3\nAddress: 219/93a Trần Văn Đang, Q3\nTiện ích\nMáy giặt/sấy/ phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nFree max 1xe (Nhận 1 xe)\nGiá 5tr8 (Ngày 1/12 trống phòng ở lầu 1 - L0)\nNgọc Hân Công Chúa Quận T1\nGiá chuẩn 5,3tr. Giảm 6 tháng đầu còn 5tr",
-  "images": [
-   "data/img/hd_5863a34d1c5ab9ee.jpg",
-   "data/img/hd_c87c85fb463312af.jpg",
-   "data/img/hd_38754cd938645019.jpg",
-   "data/img/hd_c411cab1679a8bc2.jpg",
-   "data/img/hd_67cc544cf7da5b30.jpg",
-   "data/img/hd_fca1f567fd356c80.jpg",
-   "data/img/hd_8600acdbb7035ff0.jpg",
-   "data/img/hd_2809b7e295ea4073.jpg",
-   "data/img/hd_052615ac024d9666.jpg",
-   "data/img/hd_d6de885474a1f588.jpg",
-   "data/img/hd_91f3bfae62589919.jpg",
-   "data/img/hd_9c2e56f89f127838.jpg",
-   "data/img/hd_9a461bdd2c3ee64c.jpg",
-   "data/img/hd_08621823535b86e3.jpg",
-   "data/img/hd_5ee72448ec869ad7.jpg",
-   "data/img/9e3690c7576c2b7a.jpg",
-   "data/img/61f33095b3193440.jpg",
-   "data/img/def509456bf00db6.jpg"
-  ],
-  "videos": [],
-  "updated": 1793444142
- },
- {
-  "id": 88,
-  "price": 4100000,
-  "price_max": 4100000,
-  "price_deal": null,
-  "area": null,
-  "district": "Quận 1",
-  "ward": "Phường Phạm Ngũ",
-  "street": "260 Bùi Viện",
-  "type": "studio",
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": "Thang bộ",
-  "available": null,
-  "available_date": null,
-  "amenities": [
-   "full nội thất",
-   "máy lạnh",
-   "tủ lạnh",
-   "bếp"
-  ],
-  "description": "CĂN HỘ STUDIO MINI FULL NỘI THẤT TIỆN NGHI QUẬN 1\nAddress: 260 Bùi Viện, P. Phạm Ngũ Lão, Q1 (Đầu bùi viện nên rất yên tĩnh)\nTiên ích\nThang bộ ngắn. Phòng trang bị nội thất (Máy lạnh, tủ lạnh 901, nệm + pallet, kệ bếp, tủ đồ nhỏ, quạt).\nĐiện: 3,460/kwh, Nước: 120k/người\nDịch vụ: 200k/ phòng\nfree max 1 xe - max 1 người ở\nGiá fix 4tr1 -> Giá chốt (trống phòng ở lầu 2 - 201)\nPass phòng checkin linh hoạt",
-  "images": [
-   "data/img/hd_facccc87a3545941.jpg",
-   "data/img/hd_c322005c74efc435.jpg",
-   "data/img/hd_da213432ee9e41b8.jpg",
-   "data/img/hd_3ff0056d5bcf12f6.jpg",
-   "data/img/hd_c8c6f4c76c018d79.jpg",
-   "data/img/hd_009e271a989f0195.jpg"
-  ],
-  "videos": [],
-  "updated": 1793444085
- },
- {
-  "id": 87,
-  "price": 6000000,
-  "price_max": 6000000,
-  "price_deal": null,
-  "area": null,
-  "district": "Quận 1",
-  "ward": "Phường Tân Định",
-  "street": "15/5 Bà Lê Chân",
-  "type": "studio",
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": "Thang máy",
-  "available": "Trống sẵn",
-  "available_date": null,
-  "amenities": [
-   "full nội thất",
-   "chỗ để xe",
-   "bảo vệ",
-   "vân tay"
-  ],
-  "description": "CĂN HỘ STUDIO FULL NỘI THẤT NGAY QUẬN 1\nAddress: 15/5 Bà Lê Chân, P.Tân Định, Q1\nTiên ích\nThang máy, hầm xe, máy giặt/ sấy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: 150k/chiếc\nGiá 6tr (Trống sẵn phòng ở lầu 2 - 2S)\nCó quạt trần",
-  "images": [
-   "data/img/hd_a3d00c27f1405fbe.jpg",
-   "data/img/hd_a3d00c27f1405fbe.jpg",
-   "data/img/hd_7e75ca720587cd2d.jpg",
-   "data/img/hd_c0d7558dabb5243a.jpg",
-   "data/img/hd_4863c84a022f286c.jpg",
-   "data/img/hd_64151dc5dc2aba5f.jpg",
-   "data/img/hd_a2a8cd22eb3dca6b.jpg",
-   "data/img/hd_cc867052fc7cd9e4.jpg",
-   "data/img/hd_76d52744cca5297c.jpg",
-   "data/img/hd_8929f8a373245779.jpg",
-   "data/img/hd_b9e26f35b82c0138.jpg"
-  ],
-  "videos": [],
-  "updated": 1793443985
- },
- {
-  "id": 86,
-  "price": 5900000,
-  "price_max": 5900000,
-  "price_deal": null,
-  "area": 28.0,
-  "district": "Quận 10",
-  "ward": null,
-  "street": "458/54 Đường 3/2",
-  "type": "studio",
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": "Thang máy",
-  "available": "Trống sẵn",
-  "available_date": null,
-  "amenities": [
-   "full nội thất",
-   "bảo vệ",
-   "vân tay"
-  ],
-  "description": "CĂN HỘ STUDIO FULL NỘI THẤT QUẬN 10\nAddress: 458/54 đường 3/2, Q10\nTiên ích\nMáy giặt + sân phơi. Thang máy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 100k/người\nPhí xe: free 2 xe\nGiá fix sâu 5tr9 (trống sẵn phòng 28m2 ở lầu 1 - 103)",
-  "images": [
-   "data/img/hd_39530376a41cd0ba.jpg",
-   "data/img/hd_0605dc5cc493bc14.jpg",
-   "data/img/hd_556d6fa18d513a0d.jpg",
-   "data/img/hd_a37997da0cb938ee.jpg"
-  ],
-  "videos": [],
-  "updated": 1793443948
- },
- {
-  "id": 85,
-  "price": 4800000,
-  "price_max": 5000000,
-  "price_deal": null,
-  "area": null,
-  "district": "Quận 11",
-  "ward": null,
-  "street": "Hàn Hải Nguyên",
-  "type": null,
-  "layout": "Gác (duplex)",
-  "layouts": [
-   "Gác (duplex)"
-  ],
-  "kind": null,
-  "elevator": null,
-  "available": null,
-  "available_date": null,
-  "amenities": [
-   "gác"
-  ],
-  "description": "Hàn hải nguyên, Q11\n5tr\nHàn Hải Nguyên, Q11\n4tr8",
-  "images": [
-   "data/img/hd_5c4ebc02319cc5aa.jpg",
-   "data/img/hd_641b4c4967d46045.jpg",
-   "data/img/hd_defd84fad5878cf8.jpg",
-   "data/img/hd_defd84fad5878cf8.jpg",
-   "data/img/hd_6159444bfb5e6195.jpg",
-   "data/img/hd_5cdc6d0f1d8fc41c.jpg",
-   "data/img/hd_32e6280529c462c2.jpg",
-   "data/img/hd_c62bf469df948d28.jpg",
-   "data/img/hd_9a9da609ce5e74b8.jpg",
-   "data/img/hd_6bdd42f9c3206954.jpg"
-  ],
-  "videos": [],
-  "updated": 1793443852
- },
- {
-  "id": 83,
-  "price": 5500000,
-  "price_max": 5500000,
-  "price_deal": null,
-  "area": null,
-  "district": "Tân Bình",
-  "ward": null,
-  "street": "16 Võ Thành Trang",
-  "type": "studio",
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": "Thang máy",
-  "available": "Trống sẵn",
-  "available_date": null,
-  "amenities": [
-   "full nội thất",
-   "bảo vệ",
-   "vân tay"
-  ],
-  "description": "CĂN HỘ STUDIO FULL NỘI THẤT Q. TÂN BÌNH\nAddress: 16 Võ Thành Trang, Tân Bình (ngã tư bảy hiền)\nTiên ích\nMáy giặt + sân phơi. Thang Máy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 150k/ Tháng\nPhí xe: Free 2 xe\nGiá 5tr5 (Trống sẵn phòng ở lầu 2 - 202)",
-  "images": [
-   "data/img/hd_7860e794fbce632a.jpg",
-   "data/img/hd_7860e794fbce632a.jpg",
-   "data/img/hd_1573a6de56df771f.jpg",
-   "data/img/hd_e55262254ceebce6.jpg",
-   "data/img/hd_e55262254ceebce6.jpg",
-   "data/img/hd_8c051a0a7e4a1e0b.jpg",
-   "data/img/hd_901be8a6051d1ff8.jpg",
-   "data/img/hd_51e3a9c82c802e88.jpg"
-  ],
-  "videos": [],
-  "updated": 1793443655
- },
- {
-  "id": 82,
-  "price": 5500000,
-  "price_max": 5500000,
-  "price_deal": null,
-  "area": null,
-  "district": "Tân Bình",
-  "ward": "Phường 4",
-  "street": "57 Nguyễn Trọng Lội",
-  "type": "studio",
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": "Thang máy",
-  "available": "Trống sẵn",
-  "available_date": null,
-  "amenities": [
-   "máy lạnh",
-   "tủ lạnh",
-   "bảo vệ"
-  ],
-  "description": "CĂN HỘ STUDIO MỚI KHAI TRƯƠNG QUẬN TÂN BÌNH\nAddress: 57 Nguyễn Trọng Lội, Phường 4, Tân Bình (Khu sân bay)\nĐặc điểm: £Ế“ Gần chợ, yên tĩnh, an ninh, Nội thất mới 100%: Tủ, máy lạnh, tủ lạnh. Nhà có thang máy\nđiện 4k/kwh, nước 100k/người\nDịch vụ 150k/ phòng\ntf- Xe: 200k/ chiếc (Có bảo vệ)\nGiá 5tr5 (Trống sẵn phòng ở lầu 4 - 407)",
-  "images": [
-   "data/img/hd_96dc52d4f8adbd51.jpg",
-   "data/img/hd_5eac0ab1363a5f20.jpg",
-   "data/img/hd_ca62cf0d97d4292f.jpg",
-   "data/img/hd_8e38fcdddfde9384.jpg",
-   "data/img/hd_337f297280735852.jpg",
-   "data/img/hd_4fff7693138ab97f.jpg"
-  ],
-  "videos": [],
-  "updated": 1793443599
- },
- {
-  "id": 81,
-  "price": 4600000,
-  "price_max": 4600000,
-  "price_deal": null,
-  "area": null,
-  "district": "Bình Thạnh",
-  "ward": "Phường 11",
-  "street": "69/42 Nơ Trang Long",
-  "type": "studio",
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": "Thang bộ",
-  "available": "Trống sẵn",
-  "available_date": null,
-  "amenities": [
-   "full nội thất",
-   "bảo vệ",
-   "vân tay"
-  ],
-  "description": "STUDIO FULL NỘI THẤT GIÁ MỀM Q. BÌNH THẠNH\nAddress: 69/42 Nơ Trang Long, P11, Bình Thạnh\nTiên ích\nMáy Giặt, sân phơi. Thang bộ\nPhòng trang bị full nội thất mới setup. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: free 2 xe\nGiá fix sâu 4tr6 (Trống sẵn phòng ở Trệt)",
-  "images": [
-   "data/img/hd_103a50161ac89480.jpg",
-   "data/img/hd_4e013973193475da.jpg",
-   "data/img/hd_aea4c3f8c0cabf6a.jpg",
-   "data/img/hd_a4626177636dc635.jpg",
-   "data/img/hd_ee8484527fe90054.jpg",
-   "data/img/hd_4949c1231eda4640.jpg",
-   "data/img/hd_80a26c505b9ecd6d.jpg",
-   "data/img/hd_e194374c5ddb88f7.jpg"
-  ],
-  "videos": [],
-  "updated": 1793443524
- },
- {
-  "id": 80,
-  "price": 5100000,
-  "price_max": 5100000,
-  "price_deal": null,
-  "area": null,
-  "district": "Tân Bình",
-  "ward": null,
-  "street": "333/24 Lê Văn Sỹ",
-  "type": "studio",
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": "Thang bộ",
-  "available": "Trống sẵn",
-  "available_date": null,
-  "amenities": [
-   "full nội thất",
-   "bảo vệ",
-   "vân tay"
-  ],
-  "description": "CĂN HỘ STUDIO GIƯỜNG TẦNG FULL NỘI THẤT Q. TÂN BÌNH\nĐịa chỉ: 333/24 Lê Văn Sỹ, Tân Bình (Giáp quận 3, Phú nhuận)\nTiên ích\nMáy giặt + sân phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/ Tháng\nPhí xe: Free 1xe\nGiá fix sâu 5tr1 (Trống sẵn phòng có giường tầng ở Trệt)",
-  "images": [
-   "data/img/hd_d46497b1d80a93cd.jpg",
-   "data/img/hd_4640db0a5f391825.jpg",
-   "data/img/hd_8ae33665c6bc2bbf.jpg",
-   "data/img/hd_b33fa7fdedb6d29c.jpg",
-   "data/img/hd_1b6544acf6282b07.jpg",
-   "data/img/hd_355c302a55acc879.jpg"
-  ],
-  "videos": [
-   {
-    "src": "data/vid/v_1f21d3b7b446b762.mp4",
-    "poster": "data/vid/v_1f21d3b7b446b762.jpg"
-   }
-  ],
-  "updated": 1793443460
- },
- {
-  "id": 79,
-  "price": 5200000,
-  "price_max": 5200000,
-  "price_deal": null,
-  "area": null,
-  "district": "Bình Thạnh",
-  "ward": null,
-  "street": "301/5A Phan Văn Trị",
-  "type": "studio",
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": "Thang bộ",
-  "available": "Trống sẵn",
-  "available_date": null,
-  "amenities": [
-   "full nội thất",
-   "bảo vệ",
-   "vân tay"
-  ],
-  "description": "CĂN HỘ STUDIO FULL NỘI THẤT Q. BÌNH THẠNH\nĐịa chỉ: 301/5A Phan Văn Trị, Bình Thạnh\nTiên ích\nMáy giặt + sân phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 3k8/kwh, Nước: 100k/người\nDịch vụ: 200k/ Tháng\nPhí xe: Free 2 xe\nGiá 5tr2 (Trống sẵn phòng ở lầu 2 - 202)\nFree 3 xe",
-  "images": [
-   "data/img/hd_f91ed7a1d17d5e90.jpg",
-   "data/img/hd_f5b98c99e5af9486.jpg",
-   "data/img/hd_a656ddeb63e16005.jpg",
-   "data/img/hd_3818dd3509fe951d.jpg",
-   "data/img/hd_f8484072350d6db8.jpg",
-   "data/img/hd_cf5952b4b9436c5d.jpg",
-   "data/img/hd_cfd1ab5bf34e18be.jpg"
-  ],
-  "videos": [],
-  "updated": 1793443397
- },
- {
-  "id": 78,
-  "price": 6500000,
-  "price_max": 6500000,
-  "price_deal": null,
-  "area": null,
-  "district": "Bình Thạnh",
-  "ward": "Phường 12",
-  "street": "Hẻm 170 Bùi Đình Tuý",
-  "type": "studio",
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": "Thang máy",
-  "available": null,
-  "available_date": null,
-  "amenities": [
-   "máy giặt riêng",
-   "full nội thất",
-   "bảo vệ",
-   "vân tay"
-  ],
-  "description": "KHAI TRƯƠNG STUDIO MỚI 100% FULL NỘI THẤT Q. BÌNH THẠNH\nAddress: Hẻm 170 Bùi Đình Tuý, P12, Bình Thạnh\nTiên ích\nMáy giặt riêng. Thang Máy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 130k/phòng\nPhí xe: 150k/ chiếc\nGiá 6tr5 (Trống phòng ở lầu 1 - 102)\nPass phòng checkin linh hoạt\nGiá 6tr5 (Trống phòng balcon ở lầu 2 - 201)\nPass phòng checkin linh hoạt",
-  "images": [
-   "data/img/hd_3ef206875c76f228.jpg",
-   "data/img/hd_6db7a01e36bfce28.jpg",
-   "data/img/hd_d5bdbf789cf53f38.jpg",
-   "data/img/hd_0a08fa1cc1fd7030.jpg",
-   "data/img/hd_d2fc67f4f066d4be.jpg",
-   "data/img/hd_e37bf61ef0451894.jpg",
-   "data/img/hd_335ffe110bde3010.jpg",
-   "data/img/hd_6c02d3202696d72d.jpg",
-   "data/img/hd_b81e27025c23f921.jpg",
-   "data/img/hd_ea8b19b9e34fd9fb.jpg",
-   "data/img/hd_06427d963a307255.jpg",
-   "data/img/hd_4f9dc50042b8bea9.jpg",
-   "data/img/hd_86dafa50d78b374c.jpg",
-   "data/img/hd_10cdc45fcda42c41.jpg",
-   "data/img/hd_651730cec31f3756.jpg"
-  ],
-  "videos": [],
-  "updated": 1793443266
- },
- {
-  "id": 77,
-  "price": 6300000,
-  "price_max": 7800000,
-  "price_deal": null,
-  "area": null,
-  "district": "Phú Nhuận",
-  "ward": null,
-  "street": "86/21 Thích Quảng Đức",
-  "type": "studio",
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": "Thang máy",
-  "available": "Trống sẵn",
-  "available_date": null,
-  "amenities": [
-   "bảo vệ",
-   "vân tay"
-  ],
-  "description": "Giá 6tr3 (Trống sẵn phòng ở Trệt - G01)\nCĂN HỘ STUDIO BALCON SANG NGAY QUẬN PHÚ NHUẬN\nEEĐia chỉ : 86/21 Thích Quảng Đức, Phú Nhuận\nMác điểm: Có Thang máy, ra vào tự do, vân tay, khu an ninh yên tĩnh. Hẻm 2 xe tải bự\nĐiện 4k/kwh, Nước 100k/người\nDịch vụ 200/phòng, xe 100k/c\nGiá 7tr8 (Trống sẵn phòng ở lầu 4 - 401)",
-  "images": [
-   "data/img/hd_d2029915873ad08b.jpg",
-   "data/img/hd_eb93a4f28270fa97.jpg",
-   "data/img/hd_6ada507508270201.jpg",
-   "data/img/hd_461c8f30f0b069fc.jpg",
-   "data/img/hd_9c62955f1ab056bb.jpg",
-   "data/img/hd_627621ad9e2e5779.jpg",
-   "data/img/hd_f9dec4869638fc55.jpg",
-   "data/img/hd_4a33d5b9046d2014.jpg",
-   "data/img/hd_a1d41d01dace804a.jpg",
-   "data/img/hd_831f675761d96ef3.jpg",
-   "data/img/hd_21a34b838bb1b5aa.jpg",
-   "data/img/e7cf821888f1bfa6.jpg",
-   "data/img/hd_4db9f6eb79a6073e.jpg",
-   "data/img/hd_4db9f6eb79a6073e.jpg",
-   "data/img/hd_a9acdffcde062c06.jpg",
-   "data/img/9cd9144c746ccfec.jpg",
-   "data/img/649026874f9e68dc.jpg",
-   "data/img/07be96e775e4cfe2.jpg",
-   "data/img/ca780122890d5f1e.jpg",
-   "data/img/3166724a71295ce1.jpg",
-   "data/img/406334073596eeee.jpg",
-   "data/img/253e9efe7b90f5f2.jpg",
-   "data/img/02a46c5a5a5b7c90.jpg"
-  ],
-  "videos": [],
-  "updated": 1793443013
- },
- {
-  "id": 76,
-  "price": 7800000,
-  "price_max": 7800000,
-  "price_deal": null,
-  "area": null,
-  "district": "Bình Thạnh",
-  "ward": null,
-  "street": "304E Nguyễn Văn Đậu",
-  "type": "studio",
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": "Thang máy",
-  "available": "Trống sẵn",
-  "available_date": null,
-  "amenities": [
-   "full nội thất",
-   "bảo vệ",
-   "vân tay"
-  ],
-  "description": "KHAI TRƯƠNG STUDIO FULL NỘI THẤT MỚI 100% Q. BÌNH THẠNH\nAddress: 304E Nguyễn Văn Đậu, Bình Thạnh\nTiên ích\nMáy Giặt, sân phơi. Thang Máy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 150k/người\nDịch vụ: 200k/phòng\nPhí xe: Free 1xe\nGiá 7tr8 (Trống sẵn phòng balcon ở lầu 4 - 401)",
-  "images": [
-   "data/img/hd_b84d3ab93c38c74d.jpg",
-   "data/img/hd_20b52f7390005f31.jpg",
-   "data/img/hd_543d7dc5c0f13b85.jpg",
-   "data/img/hd_8bfafa867028b2a7.jpg",
-   "data/img/hd_7a213aa866c13536.jpg",
-   "data/img/hd_241e5f6783f046ad.jpg",
-   "data/img/hd_e2d4ed9568bacfb8.jpg",
-   "data/img/hd_0b93ebb573ba4400.jpg",
-   "data/img/hd_7450bb96c1684048.jpg",
-   "data/img/hd_d449c89e5b53cc48.jpg",
-   "data/img/hd_52d4a850507565f0.jpg"
-  ],
-  "videos": [],
-  "updated": 1793442918
- },
- {
-  "id": 75,
-  "price": 8300000,
-  "price_max": 8900000,
-  "price_deal": 7900000,
-  "area": null,
-  "district": "Bình Thạnh",
-  "ward": "Phường 2",
-  "street": "18 Võ Trường Toản",
-  "type": null,
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": "Thang máy",
-  "available": "Trống sẵn",
-  "available_date": null,
-  "amenities": [
-   "máy giặt riêng",
-   "full nội thất",
-   "bếp",
-   "nuôi thú cưng",
-   "bảo vệ",
-   "vân tay"
-  ],
-  "description": "TRỐNG PHÒNG XA BẾP ĐẸP Q. BÌNH THANH\nAddress: 18 Võ Trường Toản, P2, Bình Thạnh\nTiên ích\nMáy Giặt riêng/ sấy. Thang Máy\ntrang bị full nội thất. Khu vực an ninh, ra vào vân tay\nCoc 1,5 tháng, cho nuôi pet\nĐiện: 4k/kwh, nước 100k/ người\nPdv: 200k/ phòng, free 2 xe\nGiá 8tr9 nếu kí HĐ 1 năm giảm còn 8tr3 -> Nếu checkin trong 3 ngày bớt còn 7tr9\n(Trống sẵn phòng ở lầu 4 - 404)",
-  "images": [
-   "data/img/hd_d7381552a95d0115.jpg",
-   "data/img/hd_c42efae22e7d78b2.jpg",
-   "data/img/hd_7ca95865bd5e2466.jpg",
-   "data/img/hd_f808aba3b09d0e11.jpg",
-   "data/img/hd_91e9734e07593104.jpg",
-   "data/img/hd_5080e84dd5e8705e.jpg",
-   "data/img/hd_7442b88510b62e23.jpg",
-   "data/img/hd_8793abb7aff337a2.jpg",
-   "data/img/hd_ff17295303244d6b.jpg",
-   "data/img/hd_6a6de6457d5f174f.jpg",
-   "data/img/hd_73f68aab81d6cf8d.jpg",
-   "data/img/hd_b8bd4dd6b319bb15.jpg",
-   "data/img/hd_71d3fad1ea4ad8f6.jpg",
-   "data/img/hd_3342346183d8bc0f.jpg",
-   "data/img/hd_68b7788d982bde87.jpg",
-   "data/img/11f758fb55c986e7.jpg"
-  ],
-  "videos": [],
-  "updated": 1793442784
- },
- {
-  "id": 74,
-  "price": 7600000,
-  "price_max": 7600000,
-  "price_deal": null,
-  "area": null,
-  "district": "Bình Thạnh",
-  "ward": "Phường 11",
-  "street": "332/42/ Phan Văn Trị",
-  "type": "studio",
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": "Thang bộ",
-  "available": "Trống sẵn",
-  "available_date": null,
-  "amenities": [
-   "máy giặt riêng",
-   "full nội thất",
-   "bảo vệ",
-   "vân tay"
-  ],
-  "description": "KHAI TRƯƠNG STUDIO FULL NỘI THẤT MỚI Q. BÌNH THẠNH\nAddress: 332/42/ Phan Văn Trị, P11, Q. Bình Thạnh\nTiên ích\nMáy Giặt riêng. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng, free 2 xe\nGiá 7tr6 (trống sẵn phòng ở lầu 1 - 101)",
-  "images": [
-   "data/img/hd_1b7ceaefde2dfc7f.jpg",
-   "data/img/hd_95599d11b4b05929.jpg",
-   "data/img/hd_0831a016b583afa9.jpg",
-   "data/img/hd_506794c2d52d2e14.jpg",
-   "data/img/hd_2128a5187036050d.jpg",
-   "data/img/hd_633909f937a01af2.jpg",
-   "data/img/hd_2ca39cc0929d3061.jpg",
-   "data/img/hd_4f7e3bad9510be42.jpg",
-   "data/img/hd_b8df8f22bd4cda82.jpg"
-  ],
-  "videos": [],
-  "updated": 1793442700
- },
- {
-  "id": 73,
-  "price": 10500000,
-  "price_max": 10500000,
-  "price_deal": 10000000,
-  "area": 42.0,
-  "district": "Tân Bình",
-  "ward": "Phường 2",
-  "street": "50 Trường Sơn",
-  "type": "căn hộ",
-  "layout": "1PN",
-  "layouts": [
-   "1PN"
-  ],
-  "kind": null,
-  "elevator": "Thang máy",
-  "available": "Trống sẵn",
-  "available_date": null,
-  "amenities": [
-   "máy giặt riêng",
-   "full nội thất",
-   "máy lạnh",
-   "tủ lạnh",
-   "bếp",
-   "nuôi thú cưng"
-  ],
-  "description": "CĂN HỘ 1 PHÒNG NGỦ MÁY GIẶT RIÊNG QUẬN TÂN BÌNH\nĐịa chỉ 50 Trường Sơn, P2, Tân Bình\nTiện ích\n(@ Phòng trang bị full nội thất ( Song, nồi chén đũa, Máy lạnh, tủ lạnh, tủ quần áo, giường, bếp, nước nóng lạnh,\nmáy giặt)\nCó máy giặt, chỗ phơi riêng trong phòng, thang máy, cho nuôi thú cưng\nDịch vụ\nĐiện 4k/kwh, Nước 150k/ người\ntf~ PDV: 200k/ phòng, Free 2 xe\nGiá 10tr5 nếu kí HĐ 1 năm giảm còn 10tr\n(Trống sẵn phòng 42m2 ở lầu 2 - 202)",
-  "images": [
-   "data/img/hd_df7731e6cf9174b8.jpg",
-   "data/img/hd_0ab6dae186031673.jpg",
-   "data/img/hd_f1a147e54134bfb7.jpg",
-   "data/img/hd_e76dd6d106ae5ce1.jpg",
-   "data/img/hd_49384709cda71af2.jpg",
-   "data/img/hd_f0041506f40c7e78.jpg",
-   "data/img/hd_be6c5db3679b4815.jpg",
-   "data/img/hd_7dc94e626ad9ca68.jpg",
-   "data/img/hd_4c1e473b473a7735.jpg",
-   "data/img/hd_2180f14c0b7f3364.jpg"
-  ],
-  "videos": [],
-  "updated": 1793442609
- },
- {
-  "id": 72,
-  "price": 6500000,
-  "price_max": 6500000,
-  "price_deal": null,
-  "area": null,
-  "district": "Bình Thạnh",
-  "ward": null,
-  "street": "8/36 Hoàng Hoa Thám",
-  "type": "studio",
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": "Thang máy",
-  "available": "Trống sẵn",
-  "available_date": null,
-  "amenities": [
-   "full nội thất",
-   "nuôi thú cưng",
-   "bảo vệ",
-   "vân tay"
-  ],
-  "description": "CĂN HỘ STUDIO BALCON LỚN FULL NỘI THẤT Q. BÌNH THẠNH\nAddress: 8/36 Hoàng Hoa Thám, Q. Bình Thạnh (Giáp quận 1)\nTiên ích\nđf~ Máy Giặt/ sấy. Thang Máy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\n3KO NUÔI PET\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/ phòng/ 1 người (người thứ 2 +100k). Free 1 xe\nGiá fix sâu 6tr5 (Trống sẵn phòng ở lầu 5 - 505)",
-  "images": [
-   "data/img/hd_a30d7303e28042b1.jpg",
-   "data/img/hd_747a40a7336b1712.jpg",
-   "data/img/hd_034425d7b87e14a3.jpg",
-   "data/img/hd_c0f51fff36935a5e.jpg",
-   "data/img/hd_da11fd8baf500117.jpg",
-   "data/img/hd_49e7a2b9d7ff75a7.jpg"
-  ],
-  "videos": [],
-  "updated": 1793442555
- },
- {
-  "id": 71,
-  "price": 7600000,
-  "price_max": 7600000,
-  "price_deal": null,
-  "area": null,
-  "district": "Phú Nhuận",
-  "ward": "Phường 4",
-  "street": "237 Thích Quảng Đức",
-  "type": "studio",
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": "Thang bộ",
-  "available": null,
-  "available_date": null,
-  "amenities": [
-   "máy giặt riêng",
-   "full nội thất",
-   "bếp",
-   "bảo vệ",
-   "vân tay"
-  ],
-  "description": "STUDIO BALCON XA BẾP MỚI 100% FULL NỘI THẤT Q. PHÚ NHUẬN\nAddress: 237 Thích Quảng Đức, P4, Phú Nhuận\nTiên ích\nMáy giặt riêng. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng, free 2 xe\nGiá fix 7tr6 (trống phòng ở lầu 1 - 101)",
-  "images": [
-   "data/img/hd_2da38003215cf777.jpg",
-   "data/img/hd_9a25cc4cd9b51c53.jpg",
-   "data/img/hd_878c635c5b5a7fb9.jpg",
-   "data/img/hd_a38aba4d4ad5a16c.jpg",
-   "data/img/hd_a8a827f724d9f563.jpg",
-   "data/img/hd_d6422061af535e07.jpg",
-   "data/img/hd_e30d2e80bb1996ea.jpg",
-   "data/img/hd_026dc9261b5d1497.jpg"
-  ],
-  "videos": [],
-  "updated": 1793442482
  },
  {
   "id": 56,
