@@ -1,5 +1,200 @@
 [
  {
+  "id": 819,
+  "price": 5000000,
+  "price_max": 5000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": "Phường 3",
+  "street": "Hẻm 788 Nguyễn Kiệm",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bếp",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO TÁCH BẾP CAO CẤP MỚI KENG Q. PHÚ NHUẬN\nAddress: Hẻm 788 Nguyễn Kiệm, P3, Phú Nhuận (giáp Gò Vấp, cv Gia Định)\nTiên ích\nMáy Giặt/ Phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 150k/phòng\nPhí xe: Free 2 xe\nGiá fix sâu còn 5tr -> Áp dụng nếu kí HĐ 1 năm\n(trống sẵn phòng ở lầu 1)",
+  "images": [
+   "data/img/hd_7382d79e55d1069a.jpg",
+   "data/img/hd_8f870702600c436e.jpg",
+   "data/img/hd_222855742d86c6d2.jpg",
+   "data/img/hd_1f36c5a217a47807.jpg",
+   "data/img/hd_1a7abdfbec489b80.jpg",
+   "data/img/hd_80673e62949d7a88.jpg",
+   "data/img/hd_1d5a734aea9ab367.jpg",
+   "data/img/hd_ae186cc034728879.jpg",
+   "data/img/hd_8f160859b8ac3410.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_da40042771701277.mp4",
+    "poster": "data/vid/v_da40042771701277.jpg"
+   }
+  ],
+  "updated": 1795274718
+ },
+ {
+  "id": 818,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 12",
+  "street": "Hẻm 170 Bùi Đình Tuý",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "KHAI TRƯƠNG STUDIO MỚI 100% FULL NỘI THẤT Q. BÌNH THẠNH\nAddress: Hẻm 170 Bùi Đình Tuý, P12, Bình Thạnh\nTiên ích\nMáy giặt riêng. Thang Máy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 130k/phòng\nPhí xe: 150k/ chiếc\nGiá 6tr5 (Trống phòng ở Trệt có hiên sau thoáng - 102)\nPass phòng checkin linh hoạt",
+  "images": [
+   "data/img/hd_86c987e43b49891d.jpg",
+   "data/img/hd_eac7e23893595a49.jpg",
+   "data/img/hd_91f85edb35cf1fc1.jpg",
+   "data/img/hd_c078e2fd1a5f5f12.jpg",
+   "data/img/hd_df17c1345712a166.jpg"
+  ],
+  "videos": [],
+  "updated": 1795274670
+ },
+ {
+  "id": 817,
+  "price": 6200000,
+  "price_max": 6200000,
+  "price_deal": 6000000,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường 10",
+  "street": "737/57/ Lạc Long Quân",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 30/11",
+  "available_date": "2026-11-30",
+  "amenities": [
+   "máy giặt riêng",
+   "cửa sổ",
+   "gác",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "KHAI TRƯƠNG STUDIO MỚI 100% FULL NỘI THẤT Q. TÂN BÌNH\nAddress: 737/57/ Lạc Long Quân, P10, Tân Bình (hẻm 3 gác)\nTiên ích\nMáy giặt riêng. Thang máy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: Free max 2 xe\nGiá 6tr2 kí HĐÐ 1 năm giảm 6 tháng đầu còn 6tr - Hiện tại phòng ko có cửa sổ\n(Ngày 30/11 trống phòng ở lầu 1 - 104)",
+  "images": [
+   "data/img/hd_9bf1e49da15499e9.jpg",
+   "data/img/hd_f0b11e9e8fd94972.jpg",
+   "data/img/hd_6ab96d428458f774.jpg",
+   "data/img/hd_dd7e7192d02eaf82.jpg",
+   "data/img/hd_73036daa55a52074.jpg",
+   "data/img/hd_12e2aa24b6df9d54.jpg"
+  ],
+  "videos": [],
+  "updated": 1795274613
+ },
+ {
+  "id": 816,
+  "price": 6400000,
+  "price_max": 6400000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "482/51/ Lê Quang Định",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống 30/11",
+  "available_date": "2026-11-30",
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO FULL NỘI THẤT Q. BÌNH THẠNH\nAddress: 482/51/ Lê Quang Định, Bình Thạnh\nTiên ích\nMáy giặt + sấy chung. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng, free 2 xe\nGiá 6tr4 (Trống phòng ở lầu 2 - 201A)\nPass phòng checkin linh hoạt\nGiá 6tr4 (Ngày 30/11 trống phòng ở lầu 3 - 301A)",
+  "images": [
+   "data/img/hd_5e2d61a14439bec9.jpg",
+   "data/img/hd_8914357528a91c24.jpg",
+   "data/img/hd_129241faa77ca150.jpg",
+   "data/img/hd_63251b7aa4132a12.jpg",
+   "data/img/hd_490d449936fc1950.jpg",
+   "data/img/hd_7bdbb2436b850844.jpg",
+   "data/img/hd_ada32c9f5456b6fe.jpg",
+   "data/img/hd_fe046e75b9c2a203.jpg",
+   "data/img/hd_eadc17073a7cd93a.jpg",
+   "data/img/hd_1a292c94c9da5c58.jpg",
+   "data/img/hd_fc33bc5fc3b6a4c8.jpg",
+   "data/img/hd_f858ac460f357ce7.jpg",
+   "data/img/hd_7c9e5209e41b8e07.jpg",
+   "data/img/hd_435ff0f506c20bf3.jpg"
+  ],
+  "videos": [],
+  "updated": 1795274474
+ },
+ {
+  "id": 815,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": "Phường 7",
+  "street": "6 Hoa Hồng",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": "Chung cư",
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO CÓ MÁY GIẶT RIÊNG Q. PHÚ NHUẬN\nAddress: 6 Hoa Hồng, P7, Phú Nhuận\nTiên ích\nMáy Giặt riêng. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\n3CỌC 1,5 THÁNG\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 100k/phòng\nPhí xe: Gửi ở chung cư Miếu Nổi sát bên nhà (hỗ trợ free 1 xe)\nGiá fix 6tr5 (Trống sẵn phòng)",
+  "images": [
+   "data/img/hd_544f86e537a7d7f7.jpg",
+   "data/img/hd_0a16973d52964fec.jpg",
+   "data/img/hd_c21d7c14ccdb8f50.jpg",
+   "data/img/hd_8f9bf1d78f0ceb84.jpg",
+   "data/img/hd_54b529fcb9a1d8b5.jpg"
+  ],
+  "videos": [],
+  "updated": 1795274424
+ },
+ {
   "id": 814,
   "price": 10900000,
   "price_max": 10900000,
