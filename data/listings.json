@@ -1,5 +1,66 @@
 [
  {
+  "id": 846,
+  "price": 7700000,
+  "price_max": 9000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "7B/105 Thành Thái",
+  "type": "chung cư",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": "Chung cư",
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "bếp",
+   "chỗ để xe",
+   "nuôi thú cưng",
+   "bảo vệ"
+  ],
+  "description": "[Ưu tiên 3 khách đầu tiên đậu xe hơi không tính phí trước nhà\nP301 - 9tr 1PN ban công lớn\nĐẠA CHỈ: Hồ Văn Huê, Phú Nhuận\nHiện ích khu nội bộ chung cư an ninh\nNhận khách nước ngoài\nCho nuôi mèo cam kết\nKế bên nhà có bãi xe điện\nPhí dịch vụ\nĐiện: 3.800/kWh\nNước: 120k/người\nDịch vụ: 200k/tháng\nGửi xe: Miễn phí 2 xe\nCHUNG CƯ MINI 1PN TÁCH BẾP CÓ BAN CÔNG GIÁ 7tr7\n7B/105 Thành Thái, Quận 10\nToà nhà thang máy, hầm xe\nĐiện 4k/kWh\nNước 100k/người\nDịch vụ 200k/phòng\nXe 150k/chiếc",
+  "images": [
+   "data/img/hd_5f318512ee8a0542.jpg",
+   "data/img/hd_7fac95d913f6198c.jpg",
+   "data/img/hd_3e21bf0bdc59088d.jpg",
+   "data/img/hd_677e3cae5b9316ff.jpg",
+   "data/img/hd_1c093c77ad5222ed.jpg",
+   "data/img/hd_fd2eefb963d66ccc.jpg",
+   "data/img/hd_94d75463fdd0a842.jpg",
+   "data/img/hd_9c3995bbad35d1ab.jpg",
+   "data/img/hd_c37dcf771b7ab8c5.jpg",
+   "data/img/hd_dd868903c766b228.jpg",
+   "data/img/hd_6d90d6c18e354e08.jpg",
+   "data/img/hd_040039123a64a0aa.jpg",
+   "data/img/hd_dede2e0723a52005.jpg",
+   "data/img/hd_263895ea9fed8954.jpg",
+   "data/img/hd_1105e25ae29ff19b.jpg",
+   "data/img/88e237c54289fc9d.jpg",
+   "data/img/1274f001e71c1446.jpg",
+   "data/img/0968eff89e2058c5.jpg",
+   "data/img/43f23be15bbc7bbf.jpg",
+   "data/img/9e87541a67c6a172.jpg",
+   "data/img/faeceea791a2226d.jpg",
+   "data/img/6853182f027b41a8.jpg",
+   "data/img/6724fa4996adc1ac.jpg",
+   "data/img/1b32a16d72df8eab.jpg",
+   "data/img/f2ad974ba5413516.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_1739048b7b128e05.mp4",
+    "poster": "data/vid/v_1739048b7b128e05.jpg"
+   }
+  ],
+  "updated": 1795277129
+ },
+ {
   "id": 843,
   "price": 7800000,
   "price_max": 10000000,
