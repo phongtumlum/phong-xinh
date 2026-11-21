@@ -1,5 +1,162 @@
 [
  {
+  "id": 830,
+  "price": 4900000,
+  "price_max": 4900000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Hồ Bá Kiện",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "HỒ BÁ KIỆN, P DIÊN HỒNG Quận 10\n4tr9",
+  "images": [
+   "data/img/hd_4ccf7570bbf00f96.jpg",
+   "data/img/hd_5eb58cd3af714339.jpg",
+   "data/img/hd_80f6423a2695b8f7.jpg",
+   "data/img/hd_921c1c9bfe39f274.jpg",
+   "data/img/hd_4e21e7b2df3a14b2.jpg",
+   "data/img/hd_8c2cfb4f81fe6432.jpg"
+  ],
+  "videos": [],
+  "updated": 1795275434
+ },
+ {
+  "id": 829,
+  "price": 6000000,
+  "price_max": 6000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Ngô Gia Tự",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Ngô Gia Tự - Quận 10\n6.000.000",
+  "images": [
+   "data/img/hd_cbb9c09c13ec2af7.jpg",
+   "data/img/hd_8fb00b9af2b19ce2.jpg",
+   "data/img/hd_60116c48ace23b5a.jpg",
+   "data/img/hd_54c55d2afa68680a.jpg",
+   "data/img/hd_22cc199701795d18.jpg",
+   "data/img/hd_1c736abce3622017.jpg",
+   "data/img/hd_e4152a5c2e03940c.jpg",
+   "data/img/hd_6a0cac49a50fcacd.jpg",
+   "data/img/hd_05037e28ccf19f0b.jpg",
+   "data/img/hd_3566aba4c867e725.jpg"
+  ],
+  "videos": [],
+  "updated": 1795275344
+ },
+ {
+  "id": 828,
+  "price": 7700000,
+  "price_max": 7700000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": "Phường Diên Hồng",
+  "street": "Diên Hồng",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "chỗ để xe"
+  ],
+  "description": "Thành Thái P.Diên Hồng Quận 10\nHầm xe, Thang máy\n7tr7",
+  "images": [
+   "data/img/hd_d996a4b2822e99ce.jpg",
+   "data/img/hd_f8c3dfcb042741f4.jpg",
+   "data/img/hd_9b6a5e273ce26268.jpg",
+   "data/img/hd_f99ff404413f20b4.jpg",
+   "data/img/hd_601547d94ef44a16.jpg"
+  ],
+  "videos": [],
+  "updated": 1795275299
+ },
+ {
+  "id": 826,
+  "price": 4900000,
+  "price_max": 4900000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Nguyễn Thống",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Nguyễn Thống Quận 3\n303 4.900.000\nNội thất cơ bản",
+  "images": [
+   "data/img/hd_fdccbe41015fbbb5.jpg",
+   "data/img/hd_fdccbe41015fbbb5.jpg",
+   "data/img/hd_fdccbe41015fbbb5.jpg",
+   "data/img/hd_5c666d77ca1de5cc.jpg",
+   "data/img/hd_96c774b0a624201d.jpg",
+   "data/img/hd_96c774b0a624201d.jpg"
+  ],
+  "videos": [],
+  "updated": 1795275244
+ },
+ {
+  "id": 820,
+  "price": 4500000,
+  "price_max": 4500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": "Phường Tân Định",
+  "street": null,
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "LỘ, P. Tân Định, Q1 (Gốc Bà Lê Chân ngay chợ Tân Định)\nStudio Mã căn 101: £Ế” 4Tr5",
+  "images": [],
+  "videos": [],
+  "updated": 1795275020
+ },
+ {
   "id": 819,
   "price": 5000000,
   "price_max": 5000000,
