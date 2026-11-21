@@ -1,5 +1,123 @@
 [
  {
+  "id": 853,
+  "price": 10000000,
+  "price_max": 10000000,
+  "price_deal": null,
+  "area": 38.0,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "38 Đinh Tiên Hoàng",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO CỬA SỐ RỘNG 38M2 FULL NỘI THẤT QUẬN 1\nAddress: 38 Đinh Tiên Hoàng, Q1\nTiên ích\nMáy giặt + sấy. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nxv Dọn phòng 3I/ tuần, thay dra 1l/ tuân\nĐiện: 4k/kwh, Nước: 100k/người\nFree Dịch vụ, Free xe\nGiá 10tr (trống sẵn phòng ở lầu 3)",
+  "images": [
+   "data/img/hd_cb8c5347250287e7.jpg",
+   "data/img/hd_c2d6474c8c9a255d.jpg",
+   "data/img/hd_c2d6474c8c9a255d.jpg",
+   "data/img/hd_e14da3b32c29d68b.jpg",
+   "data/img/hd_cb8c5347250287e7.jpg",
+   "data/img/hd_aa7e6123342be0ba.jpg",
+   "data/img/hd_f673137bbdaa303b.jpg",
+   "data/img/hd_e14da3b32c29d68b.jpg",
+   "data/img/hd_cb8c5347250287e7.jpg",
+   "data/img/hd_febf20ca94adbb38.jpg",
+   "data/img/hd_d421fa81bf8efc23.jpg",
+   "data/img/hd_f0931e5764f7b02f.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_c345d0219e2ce47e.mp4",
+    "poster": "data/vid/v_c345d0219e2ce47e.jpg"
+   }
+  ],
+  "updated": 1795277622
+ },
+ {
+  "id": 851,
+  "price": 6800000,
+  "price_max": 6800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "656/40 Cách Mạng Tháng 8",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO MỚI SETUP FULL NỘI THẤT QUẬN 3\nĐịa chỉ: 656/40 Cách Mạng Tháng 8, Q3\nTiên ích\nMáy giặt riêng. Thang Máy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/ Tháng\nPhí xe: Free 2 xe\nGiá 6tr8 (Trống phòng ở lầu 2 - 2.1)\nPass phòng checkin linh hoạt",
+  "images": [
+   "data/img/hd_18b2b50021e57c6a.jpg",
+   "data/img/hd_6ae99a9f5d2a1f02.jpg",
+   "data/img/hd_865ac497c8750779.jpg",
+   "data/img/hd_0342ceb6daddf221.jpg",
+   "data/img/hd_6d17377c8b714de7.jpg",
+   "data/img/hd_b81ae9d3ae76bef8.jpg"
+  ],
+  "videos": [],
+  "updated": 1795277565
+ },
+ {
+  "id": 850,
+  "price": 7500000,
+  "price_max": 7500000,
+  "price_deal": null,
+  "area": 35.0,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "43/41 Thành Thái",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO BALCON 35M2 FULL NỘI THẤT QUẬN 10\nAddress: 43/41 Thành Thái, Q10\nTiên ích\nMáy giặt riêng. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 150k/người\nFree Dịch vụ, Free 2 xe\nGiá 7tr5 (Trống sẵn phòng ở lầu 4 thang bộ)",
+  "images": [
+   "data/img/hd_11a95e89f42aa156.jpg",
+   "data/img/hd_b6905548e3491721.jpg",
+   "data/img/hd_73456d4b6070eecf.jpg",
+   "data/img/hd_77f0f3576548b433.jpg",
+   "data/img/hd_c47f2fb17418b24e.jpg",
+   "data/img/hd_2c864c7efb7c9345.jpg"
+  ],
+  "videos": [],
+  "updated": 1795277507
+ },
+ {
   "id": 846,
   "price": 7700000,
   "price_max": 9000000,
