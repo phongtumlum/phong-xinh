@@ -1,5 +1,264 @@
 [
  {
+  "id": 838,
+  "price": 4300000,
+  "price_max": 4300000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": "Phường 15",
+  "street": "Hồ Bá Kiện",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "gác",
+   "full nội thất"
+  ],
+  "description": "Hồ Bá Kiện, P15, Q10\nPhòng lầu 3 (P401), cửa số trời thoáng mát, full nội thất\nGiá 4tr3 (tối đa 2 xe)\nĐiện 4000\nNước 120k\nDv 200k\nCUỐI THÁNG TRỐNG\n( Quận 10 - 4.000 - 5.000 - Duplex )",
+  "images": [
+   "data/img/hd_1ffa82fe83daf088.jpg",
+   "data/img/hd_2cb22d1ad5b96dc4.jpg",
+   "data/img/hd_169ce0ced782983e.jpg",
+   "data/img/hd_9175ca771239ff27.jpg",
+   "data/img/hd_e60bb567010c9bda.jpg"
+  ],
+  "videos": [],
+  "updated": 1795276163
+ },
+ {
+  "id": 837,
+  "price": 8700000,
+  "price_max": 8700000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Nguyễn Duy Dương",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [
+   "máy lạnh",
+   "bếp"
+  ],
+  "description": "Lầu 4 thang máy phòng 302 2 phòng ngủ\nGiá 8.700.000/tháng cọc 1 thanh toán †1\nNội thất cơ bản giường tủ áo tủ bếp bàn học\nNệm 2 cái máy lạnh 2 cái\nPhòng ngủ nhỏ xài tấm balet\nĐồng hồ điện riêng 4.000/klw\nĐồng hồ nước riêng 25.000/m3\nMiễn phí 4 xe máy\nkhông phí dịch vụ\nXem phòng ngày thường sau 19:00\nThứ 7 CN giờ nào cũng được nha\nNgày 1/12/2026 trống nha mấy bạn ơi\nNgày 25/12 này khách cho xem phòng á mấy bạn\nNguyễn Duy Dương - Quận 10\n( Quận 10 - 8.000 - 9.000 - 1PN )",
+  "images": [
+   "data/img/hd_e153179e7a116f57.jpg",
+   "data/img/hd_4d29d9ddf86b2aaf.jpg",
+   "data/img/hd_abe53328c615a6ac.jpg",
+   "data/img/hd_1982c85c923e61b8.jpg",
+   "data/img/hd_9d6e91582d0a4d0a.jpg",
+   "data/img/hd_334896e93a5cbb4d.jpg",
+   "data/img/hd_6a567004ab2965c4.jpg",
+   "data/img/hd_520354557b0f3d77.jpg",
+   "data/img/hd_e16635384c417d46.jpg"
+  ],
+  "videos": [],
+  "updated": 1795276075
+ },
+ {
+  "id": 836,
+  "price": 4100000,
+  "price_max": 4100000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": "Phường Bảy Hiền",
+  "street": null,
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "gác"
+  ],
+  "description": "P304 - 4Tr1\nGần Bắc Hải - Q10\nTrần Văn Quang Phường Bảy Hiền\nĐiện 3,8K/số Nước 100K/người\nXe 100K/xe DV 100K/người\nP2A P3A - STrS\nGần Bắc Hải - Q10\nTrần Văn Quang Phường Bảy Hiền\nĐiện 3,8K/số Nước 100K/người\nXe 100K/xe DV 100K/người\n( Tân Bình - 4.000 - 5.000 )\n( Tân Bình - 5.000 - 6.000 - Duplex )",
+  "images": [
+   "data/img/hd_9d891f19bbb0d1d5.jpg",
+   "data/img/hd_95e3543de117ca83.jpg",
+   "data/img/hd_127734a5c4f7085e.jpg",
+   "data/img/hd_be976ffe2c195ad0.jpg",
+   "data/img/hd_3f182be8a6e28e8e.jpg",
+   "data/img/hd_d54913ef018b8f8e.jpg",
+   "data/img/hd_f09ae3c2cdde6caf.jpg",
+   "data/img/hd_cb442b36ee801197.jpg",
+   "data/img/hd_e8d79566375e4110.jpg",
+   "data/img/hd_ff6fe9933dd3d3d1.jpg",
+   "data/img/hd_8e6209f516b01117.jpg",
+   "data/img/hd_38c6b7a87a9d38b5.jpg",
+   "data/img/hd_25e14d67916d5a73.jpg",
+   "data/img/hd_e856d1c074b264d1.jpg"
+  ],
+  "videos": [],
+  "updated": 1795275950
+ },
+ {
+  "id": 835,
+  "price": 5000000,
+  "price_max": 6000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": null,
+  "street": "2 Cửa",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "cửa sổ",
+   "gác",
+   "full nội thất"
+  ],
+  "description": "2 Cửa sổ thoáng\nnội thất đầy đủ, hẻm xe tải\nCuối tT1 trống\nĐiện: 4k\nNước: 100k/người\nPhí dịch vụ : 200k/phòng\nFree 2xe\n( Tân Bình - 5.000 - 6.000 - Duplex )",
+  "images": [],
+  "videos": [],
+  "updated": 1795275949
+ },
+ {
+  "id": 834,
+  "price": 5100000,
+  "price_max": 5100000,
+  "price_deal": null,
+  "area": 35.0,
+  "district": "Tân Bình",
+  "ward": "Phường 4",
+  "street": "Cộng Hòa",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "gác"
+  ],
+  "description": "CỘng hòa, p4, Tân Bình\nt5tr1\nDuplex trệt cực rộng , 35m2, ở đc 3-4 người",
+  "images": [
+   "data/img/hd_3f444f7ceb9c1f7d.jpg",
+   "data/img/hd_4ca1251b19a36166.jpg",
+   "data/img/hd_d52abd89016742db.jpg",
+   "data/img/hd_88b1f8a705b7a075.jpg",
+   "data/img/hd_36234d7bccc7f2cc.jpg"
+  ],
+  "videos": [],
+  "updated": 1795275900
+ },
+ {
+  "id": 833,
+  "price": 4100000,
+  "price_max": 4900000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 8",
+  "street": "Trần Hữu Trang Phú",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "gác",
+   "full nội thất",
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp"
+  ],
+  "description": "Mặt tiền: Lê Quang Định, Bình Thạnh\ntàgiá 4tr1\nDuplex 2 ban công cực thoáng\nFull Nội thất : máy lạnh gác, tủ lạnh, kệ bếp, bàn ghế, tủ quần áo .\nMđiện 4k, nước 100k, dv 200k, free 2xe\nP8 lầu 2 : trống sẵn\n( Bình Thạnh - 4.000 - 5.000 - Duplex - Ban công )\nTrần Hữu Trang, Phú Nhuận\ntà4tr9\nStudio cửa số trời\nFull Nội thất : tủ lạnh, giường nệm, máy lạnh, tủ quần áo, kệ bếp.\np302: cuối t†1 trống\nđiện 4k, nước 100k, dv 200k, free 2xe\n( Phú Nhuận - 4.000 - 5.000 )",
+  "images": [
+   "data/img/hd_902bc8b935a33248.jpg",
+   "data/img/hd_b0537974e8e3d6cc.jpg",
+   "data/img/hd_0e21d200c4216721.jpg",
+   "data/img/hd_4f65a42103cd5681.jpg",
+   "data/img/hd_fbcccbb73c4222ff.jpg",
+   "data/img/hd_abf99a3b3e277cf3.jpg",
+   "data/img/hd_008d0c425702f5da.jpg",
+   "data/img/hd_e70ac276c9ed4e0d.jpg",
+   "data/img/hd_f34bd968786188e2.jpg",
+   "data/img/hd_667cc625dbb5c844.jpg",
+   "data/img/hd_107457e686a4db7e.jpg",
+   "data/img/hd_561f972257171a70.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_9b2ba9c64d8344dd.mp4",
+    "poster": "data/vid/v_9b2ba9c64d8344dd.jpg"
+   }
+  ],
+  "updated": 1795275768
+ },
+ {
+  "id": 832,
+  "price": 6800000,
+  "price_max": 6800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "Trần Quang Khải",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bếp",
+   "vân tay"
+  ],
+  "description": "ly Cho thuê phòng P101 đường Trần Quang Khải, Tân Định, Q1 [6tr8] đây đủ tiện ích\nPhòng ngủ tách bếp, full nội thất, bếp điện và máy hút mùi, nước nóng lạnh, cửa vân tay, thang máy\nĐiện 4k, nước 100k/người, phí dịch vụ 200k/phòng\nTin nhắn đã được thu hồi\nTin nhắn đã được thu hồi\n( Quận 1 - 6.000 - 7.000 - 1PN )",
+  "images": [
+   "data/img/hd_c31c1d095a49a47a.jpg",
+   "data/img/hd_e2fbf97d4d595ecb.jpg",
+   "data/img/hd_ce058b08f9b7d72e.jpg",
+   "data/img/hd_3252196d80dd2a2d.jpg",
+   "data/img/hd_8274884dcfd65b37.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_8012ea0ec682c83d.mp4",
+    "poster": "data/vid/v_8012ea0ec682c83d.jpg"
+   }
+  ],
+  "updated": 1795275701
+ },
+ {
   "id": 830,
   "price": 4900000,
   "price_max": 4900000,
