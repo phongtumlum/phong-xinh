@@ -1,5 +1,99 @@
 [
  {
+  "id": 866,
+  "price": 5500000,
+  "price_max": 5500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 8",
+  "ward": null,
+  "street": "Phạm Nhữ Tăng",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "5tr5 Phạm Nhữ Tăng Q8 gần Q5\nthang máy\nMã căn hộ: T 976 4439 D1",
+  "images": [
+   "data/img/hd_8b5a1bdff13cec6c.jpg",
+   "data/img/hd_1d63c47926e6cae6.jpg",
+   "data/img/hd_734bec8b67a0eb21.jpg",
+   "data/img/hd_e71e2dad2c545ad2.jpg",
+   "data/img/hd_93f67b14db7a5b08.jpg",
+   "data/img/hd_5ddb9cbebdc22500.jpg"
+  ],
+  "videos": [],
+  "updated": 1795279099
+ },
+ {
+  "id": 865,
+  "price": 3200000,
+  "price_max": 3200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 4",
+  "ward": null,
+  "street": "Nguyễn Văn Cừ",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [],
+  "description": "3tr2 đường số 10 KDC Trung Sơn gần cầu Nguyễn Văn Cừ Q5, Q4, Q1\nTrống sẵn\nMã căn hộ: T20049304\nD1",
+  "images": [
+   "data/img/hd_60a513008edb9fc2.jpg",
+   "data/img/hd_88a1ffde009fadc1.jpg",
+   "data/img/hd_3b8579484a019151.jpg",
+   "data/img/hd_905e3613242141ff.jpg",
+   "data/img/hd_bc8369552ac8b9ab.jpg",
+   "data/img/hd_f64bfc9dabcd8512.jpg"
+  ],
+  "videos": [],
+  "updated": 1795279046
+ },
+ {
+  "id": 864,
+  "price": 6700000,
+  "price_max": 6700000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Hoàng Sa",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "6tr7 Hoàng Sa Q3 gần Q10\nMã căn hộ: T 4439 D1",
+  "images": [
+   "data/img/hd_7516d134e76e9ad7.jpg",
+   "data/img/hd_257cf50d913ef496.jpg",
+   "data/img/hd_9e1e05fd763ec613.jpg",
+   "data/img/hd_9b88ca837cbd2a35.jpg"
+  ],
+  "videos": [],
+  "updated": 1795279011
+ },
+ {
   "id": 862,
   "price": 26000000,
   "price_max": 26000000,
