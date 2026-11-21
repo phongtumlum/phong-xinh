@@ -1,5 +1,57 @@
 [
  {
+  "id": 879,
+  "price": 6500000,
+  "price_max": 11500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": null,
+  "street": "Út Tịch",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "ban công",
+   "full nội thất"
+  ],
+  "description": "Địa chỉ: Út Tịch, Tân Bình\nFull nội thất - máy giặt riêng\nĐiện 4k\nNước 120k/người\nDịch vụ 200k/phòng\nFree 1 xe máy, xe thứ 2 phí 150k\nPhòng ở tối đa 2 người, 2 xe\nƯU ĐÃI CỰC LỚN THÁNG T1\n135 Ngô Thị Thu Minh, Tân Bình\nI202,402 - 11tr5 giảm còn 10tr\nĐiện 4K\nNước 150.000/người\nDịch vụ 200.000 /phòng\nXe 150.000/chiếc\n6tr5 ban công nhận xe điện",
+  "images": [
+   "data/img/hd_b6bfcf39103e8907.jpg",
+   "data/img/hd_69c9407a749753ee.jpg",
+   "data/img/hd_c4e67a173190b2b6.jpg",
+   "data/img/hd_ee327124bc8bf214.jpg",
+   "data/img/hd_01adce13cf67b76d.jpg",
+   "data/img/hd_a663c5b7d5bb44cc.jpg",
+   "data/img/hd_ac965006e89ca31a.jpg",
+   "data/img/hd_f6dea41b6059ed9d.jpg",
+   "data/img/hd_7a6d8fbe6a286eb5.jpg",
+   "data/img/hd_cdfde35e3927cb8d.jpg",
+   "data/img/hd_70b3118c01a8c527.jpg",
+   "data/img/hd_de80b5f35e907618.jpg",
+   "data/img/hd_2ee6d63c2649bb36.jpg",
+   "data/img/hd_e5d19a970c0f245c.jpg",
+   "data/img/hd_32bf3d93488a26e7.jpg",
+   "data/img/02430ad8bdb4a0c6.jpg",
+   "data/img/21c84fd2f2cd0ac2.jpg",
+   "data/img/b682e6a8f7189ebd.jpg",
+   "data/img/1e09eff344453add.jpg",
+   "data/img/51b3c13136be1b69.jpg",
+   "data/img/c32bdb94f36a6fd3.jpg",
+   "data/img/059aa8ad5e77c763.jpg"
+  ],
+  "videos": [],
+  "updated": 1795303473
+ },
+ {
   "id": 877,
   "price": 9000000,
   "price_max": 9000000,
