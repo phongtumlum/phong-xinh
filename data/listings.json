@@ -1,5 +1,184 @@
 [
  {
+  "id": 917,
+  "price": 4000000,
+  "price_max": 5000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "2 Nước",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp",
+   "wc riêng"
+  ],
+  "description": "2 Nước 120k/người\nRóc vệ sinh + móy giặt : 80k/người\nWifi 100k/phòng\nPhòng cửa sồ mở được, có ánh súng trời.\nNội thết y hình: máy lạnh, tủ lạnh, tủ bếp, bàn,\nnệm, tủ quần éo.\nToilet riêng.\n( Quận 10 - 4.000 - 5.000 )",
+  "images": [],
+  "videos": [],
+  "updated": 1795389560
+ },
+ {
+  "id": 916,
+  "price": 4800000,
+  "price_max": 4800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Lê Hồng Phong",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống đầu tháng 12",
+  "available_date": null,
+  "amenities": [],
+  "description": "Phòng ở Lê Hồng Phong , Quận 10\nPhòng 202 lầu 2: giá 4.8tr\nĐầu tháng 12 trống, khách đang ở hẹn khách xem liên hệ trước đề sắp xếp thời gian.\nĐiện 4k/kwh",
+  "images": [
+   "data/img/hd_28e9368b314cd95f.jpg",
+   "data/img/hd_f9d8de1abd818628.jpg",
+   "data/img/hd_bebe7cae78452a8c.jpg",
+   "data/img/hd_670e53d8809f7eb4.jpg",
+   "data/img/hd_8bc15771cba7c242.jpg"
+  ],
+  "videos": [],
+  "updated": 1795389513
+ },
+ {
+  "id": 915,
+  "price": 5000000,
+  "price_max": 7900000,
+  "price_deal": null,
+  "area": 35.0,
+  "district": "Quận 3",
+  "ward": "Phường 1",
+  "street": "Lý Chính Thắng",
+  "type": "căn hộ",
+  "layout": "3PN",
+  "layouts": [
+   "3PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp",
+   "nuôi thú cưng"
+  ],
+  "description": "Địa chỉ: Lý Chính Thắng, Quận 3\nToà nhà thang bộ\nFull nội thất: Tủ lạnh, máy lạnh giường - nệm, kệ bếp, máy nóng lạnh, tủ quần áo , rèm cửa , gương , đèn ngủ ,\nthảm , MGR.\nChỉ phí dịch vụ\nVv pién 4.000 4/Kwh\nNước 100k/người\nDịch vụ 200k/phòng . ( đã bao gồm wf, rác , vệ sinh , bảo trì)\nđ@ xe tree tối đa 3 chiếc ( đối với 3PN )\nCho nuôi pet với điều kiện cọc thêm 5tr (lưu ý nếu nuôi mèo, rèm hay các vật dụng trong nhà bị cào phá thì phải\nbồi thường)\nTrống sẵn : PPN tách bếp 35m2\n( Quận 3 - 7.000 - 8.000 - 1PN )",
+  "images": [
+   "data/img/hd_18a55304439602eb.jpg",
+   "data/img/hd_b076639fbff5826f.jpg",
+   "data/img/hd_cca9e20fb3c38632.jpg",
+   "data/img/hd_cca9e20fb3c38632.jpg",
+   "data/img/hd_fba631eaa2e30831.jpg",
+   "data/img/hd_cca9e20fb3c38632.jpg",
+   "data/img/hd_a2fae5aa5034b254.jpg",
+   "data/img/hd_7439bde365f23c6f.jpg"
+  ],
+  "videos": [],
+  "updated": 1795389438
+ },
+ {
+  "id": 914,
+  "price": 4600000,
+  "price_max": 4600000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Lê Hồng Phong",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "All phòng cuối tháng T1 trống\nLê Hồng Phong\n4tr6, lầu 3 thang bộ cửa số trời\n( Quận 10 - 4.000 - 5.000 h",
+  "images": [
+   "data/img/hd_6651f53fef55b34e.jpg",
+   "data/img/hd_acf33d66394bd257.jpg",
+   "data/img/hd_7272179d50aeb1a1.jpg",
+   "data/img/hd_972b398bf25435db.jpg"
+  ],
+  "videos": [],
+  "updated": 1795389399
+ },
+ {
+  "id": 911,
+  "price": 7000000,
+  "price_max": 7000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường 2",
+  "street": "Nguyễn Thanh Tuyền",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt chung",
+   "ban công",
+   "cửa sổ",
+   "máy lạnh",
+   "bếp",
+   "nuôi thú cưng",
+   "vân tay"
+  ],
+  "description": "Đã trống sẵn p301\nX bạ Chỉ: Nguyễn Thanh Tuyền, P2, Tân Bình\nTòa nhà thang máy 5 lầu, ra vào vân tay, xe đề trệt\nDạng phòng: Studio cửa sổ và bancol\nCăn hộ được trang bị đầy đủ nội: Máy lạnh, tủ lanh, giường nệm, tủ quần áo, kệ tủ, tivi có ở phòng bancol,\nmáy nóng lạnh mặt trời, kệ bếp\nChính sách dịch vụ và quy định của tòa nhà\nĐiện: 4k/kwh\nNước: 100k/người\nWifi+ Phí dịch vụ: 150k/phòng\nGửi xe: Free 1 xe, xe t2 100k/chiếc .\nNuôi thú cưng dưới 5kg có cam kết\nSố xe: Tối đa 2 xe/phòng.\nMáy giặt chung ở trệt\nPhơi đồ giếng trời mỗi tầng.\nChính sách cọc và thanh toán tiền nhà\nCọc 1 tháng\nCọc tối thiểu 2 triệu. Sau 03 ngày bổ sung cọc đủ\nThời gian giữ phòng tối đa là 7 ngày kể từ ngày phát sinh cọc.\nKhách hàng vào thanh toán đủ tiền cọc và tiền nhà 1 tháng.\nGiá thuê 7.000.000đ\n( Tân Bình - 6.000 - 7.000 - Ban Công )",
+  "images": [
+   "data/img/hd_ab3c2a7fa9f222e8.jpg",
+   "data/img/hd_5f431116e1e90671.jpg",
+   "data/img/hd_d1b737871163a5c9.jpg",
+   "data/img/hd_c50113cf21a6e545.jpg",
+   "data/img/hd_82dfb901b7d3f10e.jpg",
+   "data/img/hd_bc531a03ac0f3064.jpg",
+   "data/img/hd_71899b0eb6a9b2f1.jpg",
+   "data/img/hd_e99cd169670c3edc.jpg",
+   "data/img/hd_05016fee8a74753a.jpg",
+   "data/img/hd_3037f2e2252473c7.jpg",
+   "data/img/hd_33da29dbe3b732b2.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_9ece73b7bb7185a1.mp4",
+    "poster": "data/vid/v_9ece73b7bb7185a1.jpg"
+   }
+  ],
+  "updated": 1795389223
+ },
+ {
   "id": 909,
   "price": 5800000,
   "price_max": 5800000,
