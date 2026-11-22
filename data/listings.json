@@ -1,5 +1,139 @@
 [
  {
+  "id": 932,
+  "price": 7800000,
+  "price_max": 7800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": "Phường Tân Định",
+  "street": "21 Đặng Dung",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "KHAI TRƯƠNG CĂN HỘ MỚI 100% FULL NỘI THẤT QUẬN 1\nĐịa chỉ: 21 Đặng Dung, P. Tân Định, Q1\nTiên ích\nMáy giặt/ sấy riêng. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/ Tháng\nPhí xe: 100k/ chiếc\nGiá fix 7tr8 (Trống sẵn phòng ở lầu 2 - 202)",
+  "images": [
+   "data/img/hd_9e68181228e0252d.jpg",
+   "data/img/hd_a114a498b2428813.jpg",
+   "data/img/hd_b4247eab35decb50.jpg",
+   "data/img/hd_8bd67f70469693de.jpg",
+   "data/img/hd_7e9127372e0b75ff.jpg",
+   "data/img/hd_16b39afb3c1910ca.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_f40217a15b46b035.mp4",
+    "poster": "data/vid/v_f40217a15b46b035.jpg"
+   }
+  ],
+  "updated": 1795391177
+ },
+ {
+  "id": 928,
+  "price": 10000000,
+  "price_max": 10000000,
+  "price_deal": 9500000,
+  "area": null,
+  "district": "Quận 10",
+  "ward": "Phường 13",
+  "street": "499 Cách Mạng Tháng 8",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "gác",
+   "full nội thất",
+   "nuôi thú cưng",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ DUPLEX MỚI SETUP SIÊU ĐẸP FULL NỘI THẤT QUẬN 10\nAddress: 499 Cách Mạng Tháng 8, P13, Q10\nTiên ích\nf~ Thang máy/bảo vệ, máy giặt riêng\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 150k/người\nPdv: 200k/ phòng, free 2 xe\nkhông nuôi pet, cọc 1,5 tháng\nGiá 10tr nếu kí HĐ 1 năm giảm còn 9tr5\n(Trống sẵn phòng balcon view thành phố ở lầu 4 - A4)",
+  "images": [
+   "data/img/hd_a6ce4cbcb403053b.jpg",
+   "data/img/hd_ec9b9d7cbafeeef6.jpg",
+   "data/img/hd_c72c4f37b3c182fc.jpg",
+   "data/img/hd_e763eea599e7b3c5.jpg",
+   "data/img/hd_cd46948990ecd9dd.jpg",
+   "data/img/hd_84b0b0f0ec4a129f.jpg",
+   "data/img/hd_789c8c21479bb8d1.jpg",
+   "data/img/hd_7aa3511153fe2637.jpg",
+   "data/img/hd_4cb4abbc113b704a.jpg",
+   "data/img/hd_6a3ea165175acc81.jpg",
+   "data/img/hd_feb32b20ad2989e5.jpg",
+   "data/img/hd_0fb9760513099c0d.jpg",
+   "data/img/hd_0cb7a173288ddabd.jpg",
+   "data/img/hd_f9d201b372c7107c.jpg",
+   "data/img/hd_202065f57be5b007.jpg",
+   "data/img/c1069e4a3b0258cc.jpg",
+   "data/img/fcfedc139e97b5bc.jpg",
+   "data/img/1ee58aaef5bce30c.jpg",
+   "data/img/708b813945311a6f.jpg",
+   "data/img/97725646c5b52bf9.jpg"
+  ],
+  "videos": [],
+  "updated": 1795390935
+ },
+ {
+  "id": 927,
+  "price": 6500000,
+  "price_max": 8000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": "Phường 14",
+  "street": "386/25A Lê Văn Sỹ",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 25/12",
+  "available_date": "2026-12-25",
+  "amenities": [
+   "full nội thất",
+   "nuôi thú cưng",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ STUDIO MỚI FULL NỘI THẤT QUẬN 3\nĐịa chỉ: 386/25A Lê Văn Sỹ, P14, Q3\nTiên ích\nMáy giặt/ sấy/ phơi. Thang Máy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nFree dọn phòng 1 lần/ tuần - KO NUÔI PET\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/ Tháng. Free xe\nGiá 8tr (Ngày 25/12 trống phòng ở lầu 4 - 4.4)\nGiá 6tr5 (Ngày 30/11 trống phòng ở Trệt - P002)",
+  "images": [
+   "data/img/hd_2ba54e363c2da9bc.jpg",
+   "data/img/hd_2a9ea478b9081640.jpg",
+   "data/img/hd_d19f545ef9966410.jpg",
+   "data/img/hd_c0db1378eb671ca4.jpg",
+   "data/img/hd_61ec990254b92d5e.jpg",
+   "data/img/hd_e08adcf22abf676c.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_87c95ac31accfc99.mp4",
+    "poster": "data/vid/v_87c95ac31accfc99.jpg"
+   }
+  ],
+  "updated": 1795390861
+ },
+ {
   "id": 925,
   "price": 7500000,
   "price_max": 7500000,
