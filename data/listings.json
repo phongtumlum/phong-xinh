@@ -1,5 +1,132 @@
 [
  {
+  "id": 904,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Nguyễn Duy",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "6tr5 Nguyễn Duy gần cầu Nguyễn Tri Phương Q5, Q10\nthang máy - ban công\nMã căn hộ: T08060A\nD1",
+  "images": [
+   "data/img/hd_8f8bdc5ff0f99a11.jpg",
+   "data/img/hd_9cecf5b392ffeb1b.jpg",
+   "data/img/hd_8d3786708f01e544.jpg",
+   "data/img/hd_73c7352d4910c948.jpg",
+   "data/img/hd_ff137f68c8456ad0.jpg"
+  ],
+  "videos": [],
+  "updated": 1795363303
+ },
+ {
+  "id": 903,
+  "price": 6200000,
+  "price_max": 6200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Nguyễn Duy",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "6tr2 Nguyễn Duy gần cầu Nguyễn Tri Phương Q5, Q10\nthang máy\nMã căn hộ: T08060D\nD1",
+  "images": [
+   "data/img/hd_fe198a0ee44570c9.jpg",
+   "data/img/hd_fe059c1f95f0abb0.jpg",
+   "data/img/hd_ac71f8e30da48fd5.jpg",
+   "data/img/hd_536f97fbb1f9af78.jpg"
+  ],
+  "videos": [],
+  "updated": 1795363265
+ },
+ {
+  "id": 902,
+  "price": 4200000,
+  "price_max": 4200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 5",
+  "ward": null,
+  "street": "Cách Mạng Tháng Tám",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "4tr2 Cách Mạng Tháng Tám Q3 gần Q10, Q5\nthang máy\nMã căn hộ: T 4439 D1\nNhiều b hỏi mình câu này nên mình trả lời chung lun nha\nCó nhận thuê ngắn hạn ko”\nBên mình ko nhận ngắn hạn á mn, thời gian thuê tối thiểu tùy căn, mình báo rõ từng căn nha\nCòn thắc mắc gì cứ nhắn mình nhé",
+  "images": [
+   "data/img/hd_75443cd7a63b6694.jpg",
+   "data/img/hd_ddd14fa2f22ae7ee.jpg"
+  ],
+  "videos": [],
+  "updated": 1795363245
+ },
+ {
+  "id": 895,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 4",
+  "ward": null,
+  "street": "Nguyễn Văn Cừ",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [],
+  "description": "6tr5 đường số 3 KDC Trung Sơn gần cầu Nguyễn Văn Cừ Q5, Q4, Q1\nthang máy\nTrống sẵn\nMã căn hộ: T20077203\nD1",
+  "images": [
+   "data/img/hd_5e2f5cbe5aa70f67.jpg",
+   "data/img/hd_9469d008f496fc5b.jpg",
+   "data/img/hd_90b8f6c1e3efd1ad.jpg",
+   "data/img/hd_fe233963b399ce1c.jpg",
+   "data/img/hd_0f8113984f1cc870.jpg",
+   "data/img/hd_47b11466991b2fdb.jpg",
+   "data/img/hd_b3bb7a5dfb897ca4.jpg",
+   "data/img/hd_9df0c707ef157296.jpg",
+   "data/img/hd_eb100c9d4474b65c.jpg",
+   "data/img/hd_f9abfd170131e71a.jpg"
+  ],
+  "videos": [],
+  "updated": 1795362910
+ },
+ {
   "id": 891,
   "price": 9500000,
   "price_max": 9500000,
