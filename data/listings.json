@@ -1,5 +1,186 @@
 [
  {
+  "id": 888,
+  "price": 9000000,
+  "price_max": 9000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "120 Phổ Quang",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "full nội thất",
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp"
+  ],
+  "description": "1PN ban công 9tr giá thương lượng\nĐịa chỉ: 120 Phổ Quang, Phú Nhuận\nFull nội thất: máy lạnh, tủ lạnh, tủ đồ, kệ bếp, máy nước nóng, máy giặt, tủ bếp, giường nệm, bàn ghế\nĐiện 4k, Nước 100k/ người\nFree 2xe/phòng (xe t3 + 200k)\nDvu thang bộ 150k/phòng\nPet chỉ được nuôi nhỏ (cam kết)\nKhông xe điện, Không bếp ga",
+  "images": [
+   "data/img/hd_4bbdcfcdc8f0863a.jpg",
+   "data/img/hd_73440e605942a2d1.jpg",
+   "data/img/hd_9d63d91729604e8e.jpg",
+   "data/img/hd_d41931cdeafcc5a6.jpg",
+   "data/img/hd_6507d9b14d5bb4b5.jpg",
+   "data/img/hd_b819a45bc04ad581.jpg",
+   "data/img/hd_ab555e613d9a6685.jpg",
+   "data/img/hd_4f4cbea9fcd8c989.jpg",
+   "data/img/hd_22e8f9b3f1086c27.jpg",
+   "data/img/hd_e096609a447319e4.jpg",
+   "data/img/hd_e2f02b4e712471bd.jpg",
+   "data/img/hd_7798586026840727.jpg",
+   "data/img/hd_ff9b593b74d1db3c.jpg",
+   "data/img/hd_725d13074ae6c3a8.jpg",
+   "data/img/hd_9f1f5fd3bd7a1297.jpg",
+   "data/img/dd6ecb64531db899.jpg",
+   "data/img/0652f8b1ba394a0d.jpg",
+   "data/img/6a1f43e74542bf56.jpg",
+   "data/img/f558a2d0d0319765.jpg"
+  ],
+  "videos": [],
+  "updated": 1795361572
+ },
+ {
+  "id": 887,
+  "price": 5800000,
+  "price_max": 5800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "163 Thành Thái",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt chung",
+   "ban công",
+   "vân tay"
+  ],
+  "description": "5tr8 ban công\n163 Thành Thái, Quận 10\nCó máy giặt chung, sân phơi, cổng vân tay, hẻm lớn ô tô đón tận cửa\nTối đa 2ng 2xe\nĐiện 4k/kwh\nNước 100k/người\nDịch vụ 150k/phòng",
+  "images": [
+   "data/img/3ec519f606a8263d.jpg",
+   "data/img/a0605ebec1ad1cc8.jpg",
+   "data/img/141dac640e9845d7.jpg",
+   "data/img/7ea26f58da802655.jpg",
+   "data/img/f338f4479aae8fa0.jpg"
+  ],
+  "videos": [],
+  "updated": 1795361300
+ },
+ {
+  "id": 886,
+  "price": 12000000,
+  "price_max": 12000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "161 Thích Quảng Đức",
+  "type": "căn hộ dịch vụ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": "Căn hộ dịch vụ",
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng"
+  ],
+  "description": "CĂN HỘ DỊCH VỤ CAO CẤP\n161 Thích Quảng Đức, Phú Nhuận\nP401 - 12.000.000 (tivi, máy giặt riêng, bồn tắm) - Thang máy\nĐiện 4k/kwh, nước 150k/người, PDV 200k/phòng, xe free",
+  "images": [
+   "data/img/540ddf4020d1ede1.jpg",
+   "data/img/fc507e92f7a62774.jpg",
+   "data/img/fc3b27c968f1b382.jpg",
+   "data/img/f70d897fd66bc546.jpg",
+   "data/img/864437d32df2660d.jpg",
+   "data/img/4dfd19401ffdb06f.jpg",
+   "data/img/006f3f31ed18d686.jpg",
+   "data/img/1539a7a12b0021f4.jpg",
+   "data/img/73a379c2c835d4da.jpg",
+   "data/img/02b002f2605c84e3.jpg",
+   "data/img/6743e1155980cc20.jpg",
+   "data/img/fe306a04b1e447b9.jpg"
+  ],
+  "videos": [],
+  "updated": 1795360744
+ },
+ {
+  "id": 884,
+  "price": 3400000,
+  "price_max": 3600000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Hẻm 766 CMT8 Hoặc Hẻm 159 Phạm Văn Hai",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "3tr4 -> 3tr6 siêu rẻ cạnh Bắc Hải Quận 10\nVị trí: hẻm 766 CMT8 hoặc hẻm 159 Phạm Văn Hai, Tân Bình\nĐiện 3.500/kwh\nDịch vụ 100.000/phòng\nNước 100.000/người\nFree 1 xe",
+  "images": [
+   "data/img/58d604baf993fcb0.jpg",
+   "data/img/f23fe996eb3f4865.jpg",
+   "data/img/3f8e14212e0aba9e.jpg"
+  ],
+  "videos": [],
+  "updated": 1795360507
+ },
+ {
+  "id": 883,
+  "price": 6800000,
+  "price_max": 6800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "7B/105 Thành Thái",
+  "type": "chung cư",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": "Chung cư",
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "CHUNG CƯ MINI 6tr8\nBAN CÔNG\n7B/105 Thành Thái, Quận\n10\nToà nhà thang máy, hầm\nxe\nĐiện 4k/kWh\nNước 100k/người\nDịch vụ 200k/phòng\nXe 150k/chiếc",
+  "images": [],
+  "videos": [],
+  "updated": 1795360460
+ },
+ {
   "id": 879,
   "price": 6500000,
   "price_max": 11500000,
