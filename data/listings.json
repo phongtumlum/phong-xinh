@@ -705,13 +705,14 @@
    "data/img/hd_7798586026840727.jpg",
    "data/img/hd_ff9b593b74d1db3c.jpg",
    "data/img/hd_725d13074ae6c3a8.jpg",
-   "data/img/hd_9f1f5fd3bd7a1297.jpg",
-   "data/img/dd6ecb64531db899.jpg",
-   "data/img/0652f8b1ba394a0d.jpg",
-   "data/img/6a1f43e74542bf56.jpg",
-   "data/img/f558a2d0d0319765.jpg"
+   "data/img/hd_9f1f5fd3bd7a1297.jpg"
   ],
-  "videos": [],
+  "videos": [
+   {
+    "src": "data/vid/v_379fd23faed3bec0.mp4",
+    "poster": "data/vid/v_379fd23faed3bec0.jpg"
+   }
+  ],
   "updated": 1795361572
  },
  {
@@ -740,13 +741,18 @@
   ],
   "description": "5tr8 ban công\n163 Thành Thái, Quận 10\nCó máy giặt chung, sân phơi, cổng vân tay, hẻm lớn ô tô đón tận cửa\nTối đa 2ng 2xe\nĐiện 4k/kwh\nNước 100k/người\nDịch vụ 150k/phòng",
   "images": [
-   "data/img/3ec519f606a8263d.jpg",
-   "data/img/a0605ebec1ad1cc8.jpg",
-   "data/img/141dac640e9845d7.jpg",
-   "data/img/7ea26f58da802655.jpg",
-   "data/img/f338f4479aae8fa0.jpg"
+   "data/img/hd_3e63213b43e8f56c.jpg",
+   "data/img/hd_4849269c2c869269.jpg",
+   "data/img/hd_f52dfd1fe42f1fe6.jpg",
+   "data/img/hd_26f67c7ecbb9a8b6.jpg",
+   "data/img/hd_f53fda5a7df05a05.jpg"
   ],
-  "videos": [],
+  "videos": [
+   {
+    "src": "data/vid/v_c2cc545efedbc706.mp4",
+    "poster": "data/vid/v_c2cc545efedbc706.jpg"
+   }
+  ],
   "updated": 1795361300
  },
  {
