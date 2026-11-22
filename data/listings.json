@@ -1,5 +1,138 @@
 [
  {
+  "id": 891,
+  "price": 9500000,
+  "price_max": 9500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "91 Cù Lao",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "2 PHÒNG NGỦ MỚI SETUP FULL NỘI THẤT Q. PHÚ NHUẬN\nĐịa chỉ: 91 Cù Lao, Phú Nhuận (khu Phan Xích Long)\nTiên ích\nMáy giặt + sân phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 3,460k/kwh, Nước: 120k/người\nDịch vụ: 200k/ Tháng. Free 1 xe\nGiá fix sâu 9tr5 (Trống sẵn phòng ở lầu 3 - 301)\nCó máy giặt riêng",
+  "images": [
+   "data/img/hd_8e40ae65ce40b43e.jpg",
+   "data/img/hd_b249924b9d2bdf8d.jpg",
+   "data/img/hd_55ea133a9e1329d7.jpg",
+   "data/img/hd_6e8535c63c0080d3.jpg",
+   "data/img/hd_9f6821aa1c3b6430.jpg",
+   "data/img/hd_02783191fa122664.jpg",
+   "data/img/hd_c8521b35f6b3f46d.jpg",
+   "data/img/hd_814067aa158cfd54.jpg",
+   "data/img/hd_0b32e3fe958f0b39.jpg",
+   "data/img/hd_42607ff66b7db9ba.jpg",
+   "data/img/hd_63860041b460e7d5.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_8e36c14fc6d72fcc.mp4",
+    "poster": "data/vid/v_8e36c14fc6d72fcc.jpg"
+   }
+  ],
+  "updated": 1795362279
+ },
+ {
+  "id": 890,
+  "price": 12600000,
+  "price_max": 13700000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "236/29/15 Điện Biên Phủ",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "KHAI TRƯƠNG CĂN HỘ MỚI 100% FULL NỘI THẤT Q. BÌNH THẠNH\nĐịa chỉ: 236/29/15 Điện Biên Phủ, Bình Thạnh (đường 2 chiều)\nTiên ích\nMáy giặt + sân phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nNhận xe điện nhưng ko c sạc\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/ Tháng\nPhí xe: Free 2 xe\nGiá 12tr8 (Trống sẵn 2\nphòng ngủ balcon ở lầu 3\n301)\nGiá 12tr6 (Trống sẵn 2\nphòng ngủ balcon ở lầu 3\n302)\nGiá 13tr7 (Trống sẵn 2 phòng ngu ở lầu 1 - 102)\nPhòng hiện tại đã lót sàn gỗ đẹp",
+  "images": [
+   "data/img/hd_09fa6db1dfdd475a.jpg",
+   "data/img/hd_a96ee07e1c793b11.jpg",
+   "data/img/hd_ccae916991da8aef.jpg",
+   "data/img/hd_54a89185b11c37b0.jpg",
+   "data/img/hd_5755dee95dd1ffd3.jpg",
+   "data/img/hd_1dc1f9ea62812d82.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_2b653079e6118563.mp4",
+    "poster": "data/vid/v_2b653079e6118563.jpg"
+   }
+  ],
+  "updated": 1795362182
+ },
+ {
+  "id": 889,
+  "price": 10900000,
+  "price_max": 10900000,
+  "price_deal": null,
+  "area": 45.0,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "133 Bà Huyện Thanh Quan",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 30/11",
+  "available_date": "2026-11-30",
+  "amenities": [
+   "máy giặt riêng",
+   "ban công",
+   "cửa sổ",
+   "full nội thất",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "CĂN HỘ 2 PHÒNG NGỦ 1WC 45M2 FULL NỘI THẤT QUẬN 3\nAddress: 133 Bà Huyện Thanh Quan, Q3\nTiên ích\nThang máy, máy giặt riêng/ sấy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 150k/người\nDịch vụ: 150k/phòng\nPhí xe: free 2-3 xe\nPhòng hiện tại chỉ có cửa sổ lớn, ko có ban công\nCó 2 giường 2 nệm, 2 tủ đồ...\nGiá fix 10tr9 -> nếu kí HĐ 1năm\n(Ngày 30/11 trống phòng ở lầu 2 - 201)",
+  "images": [
+   "data/img/hd_9c7f090602bf5774.jpg",
+   "data/img/hd_e05105f37da9f015.jpg",
+   "data/img/hd_2429359ac42fa619.jpg",
+   "data/img/hd_7de81664dd474d3b.jpg",
+   "data/img/hd_d59d09633094071e.jpg",
+   "data/img/hd_84da74c9f53c854d.jpg",
+   "data/img/hd_f7a80a88f7f3df21.jpg",
+   "data/img/hd_a99cbd33cfc2339f.jpg",
+   "data/img/hd_24f567b442d9bc98.jpg",
+   "data/img/hd_82db8e2fab4ab3ca.jpg",
+   "data/img/hd_181abf372f85f073.jpg",
+   "data/img/hd_da6be40650bacf8a.jpg",
+   "data/img/hd_c358511e46ff8ff7.jpg",
+   "data/img/hd_4feab34a59de44c7.jpg"
+  ],
+  "videos": [],
+  "updated": 1795362063
+ },
+ {
   "id": 888,
   "price": 9000000,
   "price_max": 9000000,
