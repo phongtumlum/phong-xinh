@@ -1,5 +1,98 @@
 [
  {
+  "id": 936,
+  "price": 9000000,
+  "price_max": 9000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Nguyễn Tri Phương",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [],
+  "description": "9tr 2PN Tạ Quang Bửu gần cầu Nguyễn Tri Phương Q5, Q10\nTrống 1/12\nMã căn hộ: T 976 4439 D1",
+  "images": [],
+  "videos": [],
+  "updated": 1795392004
+ },
+ {
+  "id": 935,
+  "price": 1000000,
+  "price_max": 1000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Kỳ Đồng",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 23/11",
+  "available_date": "2026-11-23",
+  "amenities": [],
+  "description": "2PN - 2WC Kỳ Đồng Q3 gần Q10\nĐẶC BIỆT: GIẢM 1tr/tháng cho 03 tháng đầu hợp đồng.\nthang máy\nTrống 23/11\nMã căn hộ: T 976 4439 D1",
+  "images": [
+   "data/img/1b36b89290ec78dd.jpg",
+   "data/img/66525fde53d523d9.jpg",
+   "data/img/81ee5f0b1b674b49.jpg",
+   "data/img/b97d490992aa1103.jpg",
+   "data/img/53df64cfa2b1fc80.jpg",
+   "data/img/668fc26a488ec1d0.jpg",
+   "data/img/e25532a72ab42c30.jpg",
+   "data/img/e99c4ee9df58f854.jpg",
+   "data/img/60a5f3858161d3c1.jpg"
+  ],
+  "videos": [],
+  "updated": 1795391774
+ },
+ {
+  "id": 934,
+  "price": 9600000,
+  "price_max": 10000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Trương Định",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "ban công",
+   "nuôi thú cưng"
+  ],
+  "description": "2PN Trương Định Q3 gần Q10\n2PN 10tr giảm 9tr 6 tháng đầu\nMã căn hộ: T 4439 D1\nAll Mấy căn mình lọc sẵn theo nhu cầu nè mn\nCần ban công: T2†181 - 2PN Lạc Long Quân gần Lý Thường Kiệt Q10\nCó máy giặt riêng: T21182302 - 2PN Âu Cơ gần Lý Thường Kiệt Q10\nNgại leo thang, có thang máy: T21225 - 2PN Bành Văn Trân gần Bắc Hải Q10\nNuôi pet được: T10101P301 - 3PN Hoà Hảo Q10\nDọn vào liền: T10068 - 2PN Lê Hồng Phong Q10\nƯng căn nào nhắn mình mã căn hẹn xem nhe",
+  "images": [
+   "data/img/2b90f49cd0798fe9.jpg",
+   "data/img/2a3cc5dff7cb5713.jpg",
+   "data/img/f2ac63fa11f28db9.jpg",
+   "data/img/3ff4e8653fcac078.jpg",
+   "data/img/2ae7167db5ff8052.jpg",
+   "data/img/0c7673889ab8e096.jpg"
+  ],
+  "videos": [],
+  "updated": 1795391465
+ },
+ {
   "id": 932,
   "price": 7800000,
   "price_max": 7800000,
