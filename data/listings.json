@@ -1,5 +1,38 @@
 [
  {
+  "id": 960,
+  "price": 4000000,
+  "price_max": 4000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 8",
+  "ward": null,
+  "street": "Bùi Minh Trực Bình",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "4tr Bùi Minh Trực Bình Đông Q8 gần Q5\nLưu ý: Lầu 4 thang bộ\nMã căn hộ: T 4439 D1",
+  "images": [
+   "data/img/hd_5c882a0117188460.jpg",
+   "data/img/hd_2235644c55f0d0c5.jpg",
+   "data/img/hd_e5b770a3613a7431.jpg",
+   "data/img/hd_7ec53fcc7f342433.jpg",
+   "data/img/hd_cd5b652621fb7f8c.jpg",
+   "data/img/hd_37071346fd24a133.jpg",
+   "data/img/hd_6977e7efa4e156ae.jpg"
+  ],
+  "videos": [],
+  "updated": 1795475158
+ },
+ {
   "id": 957,
   "price": 6300000,
   "price_max": 6300000,
@@ -24,8 +57,11 @@
   ],
   "description": "6tr3 Điện Biên Phủ Q10\nmáy giặt riêng - ban công\nMã căn hộ: T 4439 OO",
   "images": [
-   "data/img/2bc0aba37292ad06.jpg",
-   "data/img/f80b351ab3c6eee6.jpg"
+   "data/img/hd_20468a055d064ace.jpg",
+   "data/img/hd_d0ceb39b78040b80.jpg",
+   "data/img/hd_47db486a8d130a66.jpg",
+   "data/img/hd_509799803e4cd30f.jpg",
+   "data/img/hd_ffc94269dd34fef8.jpg"
   ],
   "videos": [],
   "updated": 1795448588
@@ -51,7 +87,14 @@
   "available_date": null,
   "amenities": [],
   "description": "6tr5 Tạ Quang Bửu gần cầu Nguyễn Tri Phương Q5, Q10\nLưu ý: Lầu 4 thang bộ\nMã căn hộ: T 976 4439 D1",
-  "images": [],
+  "images": [
+   "data/img/hd_243d2d89288c976c.jpg",
+   "data/img/hd_ef08a1bda097c418.jpg",
+   "data/img/hd_4654d6f2c38a6afc.jpg",
+   "data/img/hd_92eeda2f790098b4.jpg",
+   "data/img/hd_97801b323f9b95cc.jpg",
+   "data/img/hd_366a7a3ad66a2c3c.jpg"
+  ],
   "videos": [],
   "updated": 1795448587
  },
@@ -180,10 +223,13 @@
   ],
   "description": "7tr Cách Mạng Tháng Tám Q3 gần Q10, Q5\nthang máy - máy giặt riêng - ban công\nMã căn hộ: T 976 4439 D1",
   "images": [
-   "data/img/43911adba2084ad9.jpg",
-   "data/img/ba2c273fa207de2f.jpg",
-   "data/img/0134f90e7590a4fd.jpg",
-   "data/img/f79b834caa213390.jpg"
+   "data/img/hd_b4373b6db370ef5c.jpg",
+   "data/img/hd_0398205607cdfc48.jpg",
+   "data/img/hd_af26bd494010043c.jpg",
+   "data/img/hd_bce5087a576c9011.jpg",
+   "data/img/hd_960d7a01fe7e3dd8.jpg",
+   "data/img/hd_0fe03950a2e439d3.jpg",
+   "data/img/hd_424decb7e0d8d81e.jpg"
   ],
   "videos": [],
   "updated": 1795447888
@@ -18890,207 +18936,6 @@
   ],
   "videos": [],
   "updated": 1793768980
- },
- {
-  "id": 194,
-  "price": 6500000,
-  "price_max": 6500000,
-  "price_deal": null,
-  "area": null,
-  "district": "Bình Thạnh",
-  "ward": "Phường 19",
-  "street": "206/69/ Xô Viết Nghệ Tĩnh",
-  "type": "studio",
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": "Thang bộ",
-  "available": "Trống sẵn",
-  "available_date": null,
-  "amenities": [
-   "full nội thất",
-   "máy lạnh",
-   "tủ lạnh",
-   "bếp",
-   "vân tay"
-  ],
-  "description": "CĂN HỘ STUDIO FULL NỘI THẤT Q. BÌNH THẠNH (GIÁP QUẬN 1)\nAddress: 206/69/ Xô Viết Nghệ Tĩnh, P19, Bình Thạnh (hẻm 2 xe máy)\nTiên ích\nMáy Giặt, sân phơi. Thang bộ\nPhòng trang bị full nội thất (Kệ bếp, Nệm, Tủ quần áo, Máy lạnh, khoá cửa vân tay, tủ lạnh)\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: free 2 xe\nGiá 6tr5 (Trống sẵn phòng ở lầu 2 - 202)",
-  "images": [
-   "data/img/hd_99bf169f1012a8f5.jpg",
-   "data/img/hd_5204368d01988549.jpg",
-   "data/img/hd_827f98e1c05c1249.jpg",
-   "data/img/hd_2ebf6544d53ab37d.jpg",
-   "data/img/hd_3b39ddb8e4b17e7d.jpg",
-   "data/img/hd_9e5400a44067517a.jpg",
-   "data/img/hd_7602c95f195b6879.jpg",
-   "data/img/hd_3b62ef2e678ccef4.jpg"
-  ],
-  "videos": [],
-  "updated": 1793732416
- },
- {
-  "id": 193,
-  "price": 8500000,
-  "price_max": 8500000,
-  "price_deal": null,
-  "area": null,
-  "district": "Bình Thạnh",
-  "ward": "Phường 25",
-  "street": "29/16 Tân Cảng",
-  "type": "studio",
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": "Thang bộ",
-  "available": null,
-  "available_date": null,
-  "amenities": [
-   "full nội thất",
-   "bảo vệ",
-   "vân tay"
-  ],
-  "description": "CĂN HỘ STUDIO BALCON FULL NỘI THẤT Q. BÌNH THẠNH\nAddress: 29/16 Tân Cảng, P25, Bình Thạnh\nTiên ích\nMáy Giặt, sân phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: free 2 xe\nGiá 8tr5 (Ngày 1/12 trồn phòng ở lầu 2 - 201)",
-  "images": [
-   "data/img/hd_5eba020fb35dee11.jpg",
-   "data/img/hd_646c13efcb8002cc.jpg",
-   "data/img/hd_1313a608afd3e6c7.jpg",
-   "data/img/hd_804ffffff55ca95b.jpg",
-   "data/img/hd_14977f6cf4f68cdf.jpg",
-   "data/img/hd_f72238a84a5f5092.jpg",
-   "data/img/hd_c402dbc477028fe2.jpg",
-   "data/img/hd_010307f1f3403e08.jpg",
-   "data/img/hd_2e7ab381d0ad5112.jpg"
-  ],
-  "videos": [],
-  "updated": 1793732297
- },
- {
-  "id": 192,
-  "price": 6500000,
-  "price_max": 6500000,
-  "price_deal": null,
-  "area": null,
-  "district": "Bình Thạnh",
-  "ward": null,
-  "street": "629 Điện Biên Phủ",
-  "type": "studio",
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": null,
-  "available": "Trống sẵn",
-  "available_date": null,
-  "amenities": [
-   "full nội thất",
-   "bảo vệ",
-   "vân tay"
-  ],
-  "description": "STUDIO BALCON FULL NỘI THẤT Q. BÌNH THẠNH\nĐịa chỉ: 629 Điện Biên Phủ, Bình Thạnh (gần Tân Cảng, landmark)\nTiên ích\nMáy giặt + sân phơi. Thang bôk\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/ Tháng\nPhí xe: Xe gửi cạnh nhà\nGiá fix 6tr5 (Trống sẵn phòng ở lầu 2 - 201)",
-  "images": [
-   "data/img/hd_d9d6eb0bb371112d.jpg",
-   "data/img/hd_e85e426b0453b4c9.jpg",
-   "data/img/hd_aae5efa07d6ac107.jpg",
-   "data/img/hd_7e059bf48cf9a13a.jpg",
-   "data/img/e0cbcf1373d48c4c.jpg"
-  ],
-  "videos": [],
-  "updated": 1793731318
- },
- {
-  "id": 191,
-  "price": 5900000,
-  "price_max": 5900000,
-  "price_deal": null,
-  "area": null,
-  "district": "Bình Thạnh",
-  "ward": "Phường 2",
-  "street": "194/48 Bạch Đằng",
-  "type": "studio",
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": "Thang bộ",
-  "available": null,
-  "available_date": null,
-  "amenities": [
-   "full nội thất",
-   "bảo vệ",
-   "vân tay"
-  ],
-  "description": "STUDIO BALCON MỚI SETUP FULL NỘI THẤT Q. BÌNH THẠNH\nAddress: 194/48 Bạch Đằng, P2, Q. Bình Thạnh\nTiện ích\nMáy giặt + sân phơi. Thang bộ\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 100k/người\nDịch vụ: 200k/phòng\nPhí xe: Free 2 xe\nGiá fix 5tr9 (trống phòng balcon ở lầu 2 - 202)",
-  "images": [
-   "data/img/596cfb4ea7a4beb6.jpg",
-   "data/img/64bd450a975262bb.jpg",
-   "data/img/a6340b7ae0711e6c.jpg",
-   "data/img/1a5d999fa686b015.jpg",
-   "data/img/a7e9d756cc1c1305.jpg",
-   "data/img/d4130f3860c672c7.jpg",
-   "data/img/hd_f7737d5879cada68.jpg",
-   "data/img/hd_f7737d5879cada68.jpg",
-   "data/img/hd_88f3b1a44968b9c8.jpg",
-   "data/img/hd_2aeb0e8cdcf35aee.jpg"
-  ],
-  "videos": [],
-  "updated": 1793731246
- },
- {
-  "id": 190,
-  "price": 9000000,
-  "price_max": 10000000,
-  "price_deal": null,
-  "area": 38.0,
-  "district": "Tân Bình",
-  "ward": "Phường 4",
-  "street": "65 Nguyễn Trọng Lội",
-  "type": "studio",
-  "layout": "Studio",
-  "layouts": [
-   "Studio"
-  ],
-  "kind": null,
-  "elevator": "Thang máy",
-  "available": "Trống 28/11",
-  "available_date": "2026-11-28",
-  "amenities": [
-   "máy giặt riêng",
-   "full nội thất",
-   "bếp",
-   "bảo vệ",
-   "vân tay"
-  ],
-  "description": "STUDIO BALCON 38M2 XA BẾP FULL NỘI THẤT Q. TÂN BÌNH\nAddress: 65 Nguyễn Trọng Lội, P4, Tân Bình (Khu sân bay)\nTiên ích\nMáy Giặt riêng. Thang máy\nPhòng trang bị full nội thất. Khu vực an ninh, ra vào vân tay\nĐiện: 4k/kwh, Nước: 30k/m3\nDịch vụ: 300k/phòng (Free dọn phòng 2 lần/ tuần). Free 2 xe\nGiá 10tr (Ngày 28/11 trống phòng ở lầu 4 - 401)\nGiá 9tr (Ngày 25/11 trống phòng balcon ở lầu 3 - 303)",
-  "images": [
-   "data/img/hd_d191dff561a9e229.jpg",
-   "data/img/hd_5d474a4178d74f1f.jpg",
-   "data/img/hd_04751e98c853b3d7.jpg",
-   "data/img/hd_8b77b5c658ce93dd.jpg",
-   "data/img/hd_4e65725d9f2f4ee7.jpg",
-   "data/img/hd_afc67267c48cc7f8.jpg",
-   "data/img/hd_f8521d4c7313a3b1.jpg",
-   "data/img/hd_352dc5bb55872986.jpg",
-   "data/img/hd_5c7b823a99ad27fa.jpg",
-   "data/img/hd_b654232171462965.jpg",
-   "data/img/hd_60cf4ec33fc8a6ef.jpg",
-   "data/img/hd_7dde27bd349e0f20.jpg",
-   "data/img/hd_76164e6df6a77a60.jpg",
-   "data/img/hd_fe326ce183850a74.jpg",
-   "data/img/hd_9a2e1c76061a3741.jpg",
-   "data/img/7cbe5b1270b2eb3e.jpg",
-   "data/img/132b2c7a58169e16.jpg",
-   "data/img/f43d9eb96810b9f2.jpg",
-   "data/img/826468a9e7d7d676.jpg",
-   "data/img/084bb3d1333b649b.jpg"
-  ],
-  "videos": [],
-  "updated": 1793731082
  },
  {
   "id": 188,
