@@ -1,5 +1,261 @@
 [
  {
+  "id": 981,
+  "price": 7000000,
+  "price_max": 7000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "Nguyễn Trãi",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "7tr Nguyễn Trãi Q1 gần Q3, Q5\nMã căn hộ: T 976 4439 D1",
+  "images": [],
+  "videos": [],
+  "updated": 1795534696
+ },
+ {
+  "id": 980,
+  "price": 5000000,
+  "price_max": 5000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "Nguyễn Trãi",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "5tr Nguyễn Trãi Q1 gần Q3, Q5\nMã căn hộ: T01173P 4439 D1",
+  "images": [
+   "data/img/hd_557f5f2e57580186.jpg",
+   "data/img/hd_33342d57ac84b6d9.jpg",
+   "data/img/hd_7dd266f33ad3a8d1.jpg",
+   "data/img/hd_accc1610fa4f9cb2.jpg",
+   "data/img/hd_80c7dca356c758fd.jpg",
+   "data/img/hd_fb31281e5d4c4354.jpg",
+   "data/img/hd_01ea0215b07cf8f6.jpg",
+   "data/img/hd_eb737361e47e7222.jpg",
+   "data/img/hd_74db31ef035b5944.jpg"
+  ],
+  "videos": [],
+  "updated": 1795534606
+ },
+ {
+  "id": 979,
+  "price": 6800000,
+  "price_max": 6800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 5",
+  "ward": null,
+  "street": "Cách Mạng Tháng Tám",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "ban công"
+  ],
+  "description": "6tr8 Cách Mạng Tháng Tám Q3 gần Q10, Q5\nthang máy - máy giặt riêng - ban công\nTrống sẵn\nMã căn hộ: T 976 4439 D1",
+  "images": [
+   "data/img/hd_2bcee3eb63536ec7.jpg",
+   "data/img/hd_797d71b1a70203f0.jpg",
+   "data/img/hd_377400b59f7ff7cf.jpg",
+   "data/img/hd_af894073011f9e08.jpg"
+  ],
+  "videos": [],
+  "updated": 1795534561
+ },
+ {
+  "id": 978,
+  "price": 5200000,
+  "price_max": 5200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 5",
+  "ward": null,
+  "street": "Cách Mạng Tháng Tám",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [],
+  "description": "5tr2 Cách Mạng Tháng Tám Q3 gần Q10, Q5\nthang máy\nTrống sẵn\nMã căn hộ: T 976 4439 D1",
+  "images": [
+   "data/img/hd_f19b9269738afe98.jpg",
+   "data/img/hd_97f1ea155acf1ba9.jpg",
+   "data/img/hd_c3f6503f7a6dfa6b.jpg",
+   "data/img/hd_0b60ebcf8b98b2ca.jpg",
+   "data/img/hd_b5472f257509be3e.jpg",
+   "data/img/hd_8031909333da8f6e.jpg",
+   "data/img/hd_85a20b2d672d8eb3.jpg",
+   "data/img/hd_787de905dc66474f.jpg"
+  ],
+  "videos": [],
+  "updated": 1795534481
+ },
+ {
+  "id": 976,
+  "price": 6000000,
+  "price_max": 6000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "Điện Biên Phủ",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "6tr Điện Biên Phủ Q1 gần Q3, Q5\nMã căn hộ: T 976 4439 D1",
+  "images": [
+   "data/img/hd_662cd3f9101c8afb.jpg",
+   "data/img/hd_3e5212e87ea2b094.jpg",
+   "data/img/hd_88baa5426647c549.jpg",
+   "data/img/hd_c56656ddfdea9e44.jpg"
+  ],
+  "videos": [],
+  "updated": 1795534440
+ },
+ {
+  "id": 974,
+  "price": 4600000,
+  "price_max": 4600000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "Nguyễn Trãi",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "4tr6 Nguyễn Trãi Q1 gần Q3, Q5\nthang máy\nMã căn hộ: T01128E\nD1",
+  "images": [],
+  "videos": [
+   {
+    "src": "data/vid/v_8bba71b457ba507e.mp4",
+    "poster": "data/vid/v_8bba71b457ba507e.jpg"
+   }
+  ],
+  "updated": 1795534411
+ },
+ {
+  "id": 973,
+  "price": 4700000,
+  "price_max": 4700000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 6",
+  "ward": null,
+  "street": "Hậu Giang",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "ban công",
+   "nuôi thú cưng"
+  ],
+  "description": "4tr7 Hậu Giang gần Hồng Bàng Q5\nTrống 29/11/2026\nMã căn hộ: T06005B201\nD1\nAll Mấy căn mình lọc sẵn theo nhu cầu nè mn\nCần ban công: T06003 - Đường Số 2 Q6 gần Q5\nCó máy giặt riêng: T11025P301 - Đường Số 2 gần Q10\nNgại leo thang, có thang máy: T05098 - Võ Văn Kiệt Q5\nNuôi pet được: T05031102 - An Bình Q5\nDọn vào liền: T1002010 - Tô Hiến Thành Q10\nƯng căn nào nhắn mình mã căn hẹn xem nhe",
+  "images": [
+   "data/img/hd_10e903443b28257a.jpg",
+   "data/img/hd_f93aa9daf7bfd31b.jpg",
+   "data/img/hd_c8e92b553ddad345.jpg",
+   "data/img/hd_3cc2aa9a0d1daae2.jpg",
+   "data/img/hd_5749929f3ee78f95.jpg",
+   "data/img/hd_e798b2235b01eb45.jpg"
+  ],
+  "videos": [],
+  "updated": 1795534349
+ },
+ {
+  "id": 972,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 5",
+  "ward": null,
+  "street": "Võ Văn Kiệt",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "6tr5 Võ Văn Kiệt Q5\nthang máy\nMã căn hộ: T 4439 llQ",
+  "images": [
+   "data/img/hd_b7061bcac20013fd.jpg",
+   "data/img/hd_8bfe2e18e9f29445.jpg",
+   "data/img/hd_436b9072e3f47c17.jpg",
+   "data/img/hd_1667a2a504d13314.jpg",
+   "data/img/hd_065b75569c7f49ad.jpg",
+   "data/img/hd_46e9544993672016.jpg",
+   "data/img/hd_3b8ee4c32fe41ab6.jpg"
+  ],
+  "videos": [],
+  "updated": 1795534280
+ },
+ {
   "id": 971,
   "price": 10000000,
   "price_max": 10000000,
