@@ -1,5 +1,40 @@
 [
  {
+  "id": 971,
+  "price": 10000000,
+  "price_max": 10000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "Nguyễn Trãi",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "10tr 2PN Nguyễn Trãi Q1 gần Q3, Q5\nMã căn hộ: T 976 4439 D1\nTin nhắn đã được thu hồi\nTin nhắn đã được thu hồi",
+  "images": [
+   "data/img/efa3cf7cb0f4eded.jpg",
+   "data/img/bd17914161fb3042.jpg",
+   "data/img/1452236c7bab3afd.jpg",
+   "data/img/f30474faee9f6490.jpg",
+   "data/img/125b83aacb18d978.jpg",
+   "data/img/e9a5074ce0c50968.jpg",
+   "data/img/b95179bb89e64984.jpg",
+   "data/img/6b4a3e84ea929d1c.jpg",
+   "data/img/975bfbd287b39c0e.jpg",
+   "data/img/f915813415552e5b.jpg"
+  ],
+  "videos": [],
+  "updated": 1795533847
+ },
+ {
   "id": 970,
   "price": 5800000,
   "price_max": 7800000,
