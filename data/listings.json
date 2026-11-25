@@ -1,5 +1,269 @@
 [
  {
+  "id": 75,
+  "price": 9200000,
+  "price_max": 9200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": null,
+  "street": "Trương Công Định Tân",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "Trương Công Định Tân Bình\nCuối tháng trống Ban công f201. Giá 9,2tr",
+  "images": [
+   "data/img/hd_04e8592601407d31.jpg",
+   "data/img/hd_6d5962cd197ec319.jpg",
+   "data/img/hd_389d10347e47d121.jpg",
+   "data/img/hd_f87574fd1b657566.jpg",
+   "data/img/hd_3d79b6a4ceae7042.jpg",
+   "data/img/hd_87913fabb83a6156.jpg",
+   "data/img/hd_393c3e383f2d445f.jpg",
+   "data/img/hd_2c3c394cc8524bb0.jpg",
+   "data/img/hd_ec305f3ebd8a49cc.jpg",
+   "data/img/hd_5f22a3a94a6b1800.jpg",
+   "data/img/hd_decd7e3af64c2c7e.jpg"
+  ],
+  "videos": [],
+  "updated": 1795588293
+ },
+ {
+  "id": 74,
+  "price": 5600000,
+  "price_max": 5600000,
+  "price_deal": null,
+  "area": 20.0,
+  "district": "Bình Thạnh",
+  "ward": "Phường 25",
+  "street": "Nguồn",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [],
+  "description": "1/12 trống\nMã 1B\nNguồn D5, P25, Bình Thạnh\nNgay ĐH Ngoại Thương\nNhà có thang máy\nGiá 5.600.000 ( xe khách tự gửi ngoài cách nhà 20m, phí tự chịu )\nXem P 24/24\n80773771620 ( c. Loan ) - Minh\nAll",
+  "images": [
+   "data/img/hd_d2c018d45d2dfec5.jpg",
+   "data/img/hd_297c1cf22c01c357.jpg",
+   "data/img/hd_58397d4eb251fddd.jpg",
+   "data/img/hd_9271d67149024920.jpg",
+   "data/img/hd_31af5dd58d367540.jpg",
+   "data/img/hd_619e9ed5b6df183a.jpg",
+   "data/img/hd_5314b7165204baa6.jpg",
+   "data/img/hd_c8aa60c40c397f6d.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_39f3a5db4e22fe90.mp4",
+    "poster": "data/vid/v_39f3a5db4e22fe90.jpg"
+   }
+  ],
+  "updated": 1795588196
+ },
+ {
+  "id": 73,
+  "price": 7500000,
+  "price_max": 7500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường 10",
+  "street": "Âu Cơ",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp",
+   "nuôi thú cưng"
+  ],
+  "description": "Mã căn: 302\nTình trạng: TRỐNG SẴN\nĐịa chỉ: Âu Cơ, p10, Tân Bình (hẻm XE TẢI, thông Âu Cơ - Ni Sư Huỳnh Liên)\nDạng phòng: 2pn Bancon, wc, bếp, phòng khách. Full nội thất (máy lạnh, tủ lạnh, tắm nước nóng, giường nệm, tủ\nquần áo, bàn ghế, bếp, máy giặt - phơi riêng)\nĐiện 4k/ký\nNước 100k/người\nPhí dịch vụ: 200k\nKHÔNG NUÔI PET, KHÔNG HÚT THUỐC, KO XE ĐIỆN\nFree 3 xe\nLiên hệ : Mr Hiệu, Bắc",
+  "images": [
+   "data/img/hd_53e12058de93c2e6.jpg",
+   "data/img/hd_2a4a0e0412409fe9.jpg",
+   "data/img/hd_98b9eba5ccedc3d0.jpg",
+   "data/img/hd_901f549e8eb69b59.jpg",
+   "data/img/hd_4b43708589b899d5.jpg",
+   "data/img/hd_6b16501958653e90.jpg",
+   "data/img/hd_c70bcc369ef4a485.jpg",
+   "data/img/hd_149350a85dcdcefa.jpg",
+   "data/img/hd_906f3aa9f59e12e3.jpg",
+   "data/img/hd_e878507936cb4654.jpg",
+   "data/img/hd_e878507936cb4654.jpg"
+  ],
+  "videos": [],
+  "updated": 1795588097
+ },
+ {
+  "id": 72,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 22",
+  "street": "Phú Mỹ",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất"
+  ],
+  "description": "PHÒNG 407 full nội thất trống sẵn\nfÑh Phú Mỹ P22 Q Bình Thạnh (gần Hàng Xanh, giáp ranh Quận 1, các Trường ĐH lớn, chợ, siêu thị đủ tiện ích).\nGiá phòng: 6.5tr/tháng\nÿHH: 50%- 80%\n[Phí dv 200k, Nước 100k, Điện 4k\nXe máy: free 1 xe, tối đa 2 xe.\nŒf1- Mr Thông\n2 - Mr Thanh",
+  "images": [
+   "data/img/hd_4f62c2b7454b454f.jpg",
+   "data/img/hd_4264ce721c53404f.jpg",
+   "data/img/hd_f4a5ee637a2b1577.jpg",
+   "data/img/hd_491d4121be299921.jpg"
+  ],
+  "videos": [],
+  "updated": 1795588057
+ },
+ {
+  "id": 71,
+  "price": 5100000,
+  "price_max": 5300000,
+  "price_deal": 5000000,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 14",
+  "street": "HỒ",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "cửa sổ",
+   "full nội thất"
+  ],
+  "description": "HỒ XUÂN HƯƠNG, P14, BÌNH THẠNH\nGiá: 5tr3 ( giảm còn 5tr cho 6th đầu, 5tr1 6th sau )\nCửa sổ HL, Full NT MỚI KENG\nTRỐNG: 405\n3 THƯỞNG NÓNG 500K",
+  "images": [
+   "data/img/hd_3fd1a73f5d4b242d.jpg",
+   "data/img/hd_00e8572fce5d0fec.jpg",
+   "data/img/hd_3fd1a73f5d4b242d.jpg",
+   "data/img/hd_00e8572fce5d0fec.jpg",
+   "data/img/hd_664cd66c4b143c85.jpg",
+   "data/img/hd_d80ab85ff57933c7.jpg",
+   "data/img/hd_d0b8f56300e24305.jpg",
+   "data/img/hd_7e17531d8df44064.jpg",
+   "data/img/hd_61d80e6981b0b0f0.jpg"
+  ],
+  "videos": [],
+  "updated": 1795587975
+ },
+ {
+  "id": 70,
+  "price": 6000000,
+  "price_max": 6000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 14",
+  "street": "HỒ",
+  "type": null,
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [
+   "cửa sổ",
+   "gác",
+   "full nội thất"
+  ],
+  "description": "Ấˆ HỒ XUÂN HƯƠNG, P14, BÌNH THẠNH\nGiá: 6Tr\nGác, Cửa sổ tròi, Full NT MỚI KENG\nTRỐNG: 407",
+  "images": [
+   "data/img/hd_d0e267d756588cd4.jpg",
+   "data/img/hd_bdf6c8d5f0d22434.jpg",
+   "data/img/hd_eaee04cf0803622c.jpg",
+   "data/img/hd_9c42703d73fcf578.jpg",
+   "data/img/hd_9ad1ac519620d95e.jpg",
+   "data/img/hd_ab7eb34a96a3f52a.jpg"
+  ],
+  "videos": [],
+  "updated": 1795587910
+ },
+ {
+  "id": 67,
+  "price": 6500000,
+  "price_max": 6800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": null,
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 7/12",
+  "available_date": "2026-12-07",
+  "amenities": [],
+  "description": "NGUYỄN CỬU VÂN, BÌNH THẠNH\n201 giá 6tr5 (TRỐNG)\nì 10 giá 6tr8 (TRỐNG)",
+  "images": [
+   "data/img/hd_d9859cc6c96cd0ea.jpg",
+   "data/img/hd_d9859cc6c96cd0ea.jpg",
+   "data/img/hd_0c0a323c86fe2001.jpg",
+   "data/img/hd_c16f3e3168eaa0ab.jpg",
+   "data/img/hd_935a32cbfbb6501f.jpg",
+   "data/img/hd_24b97c3e180b7965.jpg",
+   "data/img/hd_24b97c3e180b7965.jpg",
+   "data/img/hd_fbd8471a787b5215.jpg",
+   "data/img/hd_fbd8471a787b5215.jpg",
+   "data/img/hd_e5ecffe617c01171.jpg",
+   "data/img/hd_4c2b71fbe5d90a41.jpg",
+   "data/img/hd_483a123ea8a2c492.jpg",
+   "data/img/hd_d2cf29f36f217c19.jpg"
+  ],
+  "videos": [],
+  "updated": 1795587688
+ },
+ {
   "id": 65,
   "price": 14000000,
   "price_max": 14000000,
