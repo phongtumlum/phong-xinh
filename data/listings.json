@@ -1,1 +1,317 @@
-[]
+[
+ {
+  "id": 9,
+  "price": 4200000,
+  "price_max": 5000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 13",
+  "street": "Điện Biên Phủ Bình",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt chung",
+   "cửa sổ",
+   "máy lạnh",
+   "bếp"
+  ],
+  "description": "Điện Biên Phủ Bình Thạnh\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,\n554 Phạm Văn Đồng, P13, B.Thanh\nế~ Ngay cầu Bình Lợi, Trang bị thang máy.\nStudio - Cửa sổ LỚN\n3 P 101 --> 5tr00\n4tr200\nMáy lạnh, tủ bếp, tủ quần áo, tủ sách, bàn, tủ giày. Máy giặt chung.\nDién: 3.800 d/kwh\nNước: 100.000/người\nDịch vụ: 180.000 đ / phòng\nXe: 2 xe (Free)\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "images": [
+   "data/img/hd_3fe59b07f3b50302.jpg",
+   "data/img/hd_4d4b54876181f82c.jpg",
+   "data/img/hd_2043512b3f701d2f.jpg",
+   "data/img/hd_8537c59e87839b3e.jpg",
+   "data/img/hd_e1585af9977c0232.jpg",
+   "data/img/hd_8c13619f3f2dea6c.jpg",
+   "data/img/hd_5edda4caf159745d.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_af7ca63901d5aad5.mp4",
+    "poster": "data/vid/v_af7ca63901d5aad5.jpg"
+   }
+  ],
+  "updated": 1795580648
+ },
+ {
+  "id": 8,
+  "price": 3500000,
+  "price_max": 4000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Phan Bội Châu Bình",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy lạnh"
+  ],
+  "description": "Vu Tuong Huy - Apex\n4tr trệt\nCó máy lạnh\nPhan Bội Châu Bình Thạnh\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,\n3tr6\nCó máy lạnh\nPhan Bội Châu Bình Thạnh\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,\n3tr5\nK nội thất",
+  "images": [
+   "data/img/hd_78f35d737a0d415d.jpg",
+   "data/img/hd_45372fe67102c843.jpg",
+   "data/img/hd_cda5d785dd47e505.jpg",
+   "data/img/hd_5600f00d770baf87.jpg",
+   "data/img/hd_4fc5ca0ea6c4c9df.jpg",
+   "data/img/hd_27ae2d2e4329a8e1.jpg",
+   "data/img/hd_27ae2d2e4329a8e1.jpg",
+   "data/img/hd_0f24e812a2cbf569.jpg",
+   "data/img/hd_f62b05f42f358557.jpg",
+   "data/img/hd_136019a680e1d45f.jpg",
+   "data/img/hd_89bd9599ecf0b95e.jpg",
+   "data/img/hd_8463194b71d13a44.jpg"
+  ],
+  "videos": [],
+  "updated": 1795580539
+ },
+ {
+  "id": 7,
+  "price": 4200000,
+  "price_max": 4200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Đinh Bộ Lĩnh Bình",
+  "type": null,
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "gác"
+  ],
+  "description": "Đinh Bộ Lĩnh Bình Thạnh\nĐang trống mã gác ban công\n4tr2\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "images": [
+   "data/img/hd_8138e1a5b60bd91d.jpg",
+   "data/img/hd_f621d12c44364a3e.jpg"
+  ],
+  "videos": [],
+  "updated": 1795580520
+ },
+ {
+  "id": 6,
+  "price": 3800000,
+  "price_max": 3800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Định Bộ Lĩnh Bình",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [],
+  "description": "Vu Tuong Huy - Apex\nĐịnh Bộ Lĩnh Bình Thạnh\nĐang trống 2 mã\n3tr8/ phòng",
+  "images": [],
+  "videos": [
+   {
+    "src": "data/vid/v_d87865948f44777f.mp4",
+    "poster": "data/vid/v_d87865948f44777f.jpg"
+   }
+  ],
+  "updated": 1795580504
+ },
+ {
+  "id": 5,
+  "price": 3500000,
+  "price_max": 3900000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Đặng Thuỳ Trâm",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Vu Tuong Huy - Apex\nĐặng Thuỳ Trâm\nGiá 3tr5\nĐiện 3k8\nNước khối\nRác wf 90k/1p\nGiặt 100k/1ng - 150k/2ng\nXe free\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,\n295 nguyễn gia trí\nStudio Nhỏ Pull Nội thất\n3tr9 ( đầy đủ Thang máy .\nmáy giặt . nước nóng lạnh\nở ngay cuối Nguyễn\nGia Trí (D2) thuận tiện\nsang các quận khác trung\ntâm gần ngoại thương .\nGTVT. Hutech ...\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "images": [
+   "data/img/hd_e57c75338e0be4a8.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_06e1f0e280993b50.mp4",
+    "poster": "data/vid/v_06e1f0e280993b50.jpg"
+   }
+  ],
+  "updated": 1795580478
+ },
+ {
+  "id": 4,
+  "price": 3000000,
+  "price_max": 3800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Nguyễn Văn Đậu",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy lạnh",
+   "bếp"
+  ],
+  "description": "Vu Tuong Huy - Apex\nCập Nhật Phòng Trống Nguyễn Văn Đậu @AII\nMã Phòng : 101 - 3tr8 - TRỐNG SẴN.. Dắt khách 24/24\n3tr\nMáy lạnh, kệ bếp\nFree xe",
+  "images": [
+   "data/img/hd_6b5cc90a901ec39b.jpg",
+   "data/img/hd_42976f31d2641e4b.jpg",
+   "data/img/hd_76141cf8e31014dd.jpg",
+   "data/img/hd_3f5694a24ee1d809.jpg"
+  ],
+  "videos": [],
+  "updated": 1795580440
+ },
+ {
+  "id": 3,
+  "price": 4200000,
+  "price_max": 4200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Gò Vấp",
+  "ward": "Phường 1",
+  "street": "Trương Đăng Quế P1",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bếp",
+   "giờ giấc tự do"
+  ],
+  "description": "Vu Tuong Huy - Apex\nĐịa chỉ trương Đăng quế p1 Gò Vấp\nNgay Phạm Văn Đồng Bình Thạnh luôn nha\nGiá rẻ\nĐang trống sẵn\nFull NT\nGiá Thuê 4tr2 cho khách ở liền Lầu 1\nĐiện 4k\nNước 100k/ng\nPhí DV 200k/phòng\nXe free 2 xe\nCó máy giặt máy sấy giờ giấc tự do ko chung chủ\nHồ trợ lắm bếp cho khách nếu cần '+ f\\+\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "images": [
+   "data/img/hd_e42f2a79d5fbb4d5.jpg",
+   "data/img/hd_50174b5f169a697f.jpg",
+   "data/img/hd_e125562a075c48bb.jpg",
+   "data/img/hd_84c79ff981b535eb.jpg",
+   "data/img/hd_969c61161f6eda2a.jpg",
+   "data/img/hd_09e97b6a752462bc.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_8529a3c082aab467.mp4",
+    "poster": "data/vid/v_8529a3c082aab467.jpg"
+   }
+  ],
+  "updated": 1795580349
+ },
+ {
+  "id": 2,
+  "price": 4300000,
+  "price_max": 4300000,
+  "price_deal": null,
+  "area": null,
+  "district": "Gò Vấp",
+  "ward": null,
+  "street": "Vu Tuong Huy Apex",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất"
+  ],
+  "description": "Vu Tuong Huy - Apex\n4tr3 trệt\nFull nội thất\nMáy giặt riêng\nT14 Dương Quảng Hàm Gò Vấp\nCạnh Văn Lang cs3\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "images": [
+   "data/img/hd_ee2096872ea1cc34.jpg",
+   "data/img/hd_a90e2e27dcbffca2.jpg",
+   "data/img/hd_0d5b5f5333903bb4.jpg",
+   "data/img/hd_0b760ce849dcea44.jpg",
+   "data/img/hd_0e45fe19fe381241.jpg",
+   "data/img/hd_ac0784d1431081f6.jpg"
+  ],
+  "videos": [],
+  "updated": 1795580291
+ },
+ {
+  "id": 1,
+  "price": 4200000,
+  "price_max": 4200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Võ Oanh",
+  "type": null,
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "gác"
+  ],
+  "description": "L- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,\nVõ Oanh Bình Thạnh\nGác 4tr2\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "images": [
+   "data/img/59f0856997400c5e.jpg",
+   "data/img/c98f853859b784ea.jpg",
+   "data/img/458d3e49f6736a68.jpg",
+   "data/img/hd_9be370f1e7f0083d.jpg",
+   "data/img/hd_b8f29cf9de1f6642.jpg",
+   "data/img/hd_dd12ad7a53b3db69.jpg",
+   "data/img/hd_413dfa47c9a893ea.jpg",
+   "data/img/hd_153a60de94059c04.jpg",
+   "data/img/hd_2420a615f3be3c15.jpg",
+   "data/img/hd_5e95985413104ba0.jpg",
+   "data/img/hd_19be4bcd2680a173.jpg"
+  ],
+  "videos": [],
+  "updated": 1795580031
+ }
+]
