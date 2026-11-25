@@ -1,5 +1,410 @@
 [
  {
+  "id": 50,
+  "price": 7600000,
+  "price_max": 7600000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Điện Biên Phủ",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "cửa sổ",
+   "full nội thất",
+   "bếp"
+  ],
+  "description": "Khánh - Apex Saigon Living\n7tr6 cửa sổ\n1PN tách bếp\nThang máy\nFull nội thất\nĐiện Biên Phủ",
+  "images": [
+   "data/img/hd_4c8eb8405f8763a3.jpg",
+   "data/img/hd_feb20b67e3fbc31c.jpg",
+   "data/img/hd_c244aea933843c62.jpg",
+   "data/img/hd_29a16f54fd4b8383.jpg",
+   "data/img/hd_f965118fdcdd2efd.jpg",
+   "data/img/hd_c4ae74c8cf837e0f.jpg",
+   "data/img/hd_963d7e3091102983.jpg",
+   "data/img/hd_6f1e4f259b357c3e.jpg",
+   "data/img/hd_442b4a4115b6afe3.jpg",
+   "data/img/hd_0c6d3343dfaaee5b.jpg",
+   "data/img/hd_d8a896ff8cc81078.jpg",
+   "data/img/hd_03290fad6d257514.jpg",
+   "data/img/hd_0365371f645ba0d0.jpg",
+   "data/img/hd_1163d7447e473251.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_4f2b2fe7b0121008.mp4",
+    "poster": "data/vid/v_4f2b2fe7b0121008.jpg"
+   }
+  ],
+  "updated": 1795584869
+ },
+ {
+  "id": 48,
+  "price": 5800000,
+  "price_max": 5800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Nguyễn Xí",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 10/12",
+  "available_date": "2026-12-10",
+  "amenities": [
+   "full nội thất",
+   "bếp"
+  ],
+  "description": "5tr8 cửa số\n1PN tách bếp\nThang máy\nFull nội thất\nNguyễn Xí\n10/12 trống",
+  "images": [
+   "data/img/hd_7069c32eec15bc42.jpg",
+   "data/img/hd_6892eebb5113af77.jpg",
+   "data/img/hd_65925afaa5cd67c7.jpg"
+  ],
+  "videos": [],
+  "updated": 1795584826
+ },
+ {
+  "id": 47,
+  "price": 7800000,
+  "price_max": 7800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Nguyễn Hữu Cảnh",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "cửa sổ",
+   "full nội thất",
+   "bếp"
+  ],
+  "description": "Khánh - Apex Saigon Living\n7tr8 cửa sổ\n1PN tách bếp\nFull nội thất\nMáy giặt riêng\nNguyễn Hữu Cảnh",
+  "images": [
+   "data/img/hd_b5feef82987d1bf4.jpg",
+   "data/img/hd_f36e8840481f04ce.jpg",
+   "data/img/hd_da1b8d6fc4c2e831.jpg",
+   "data/img/hd_da3345fcf15025a7.jpg",
+   "data/img/hd_ad4eef245c37f038.jpg",
+   "data/img/hd_fdc4de40e444d040.jpg",
+   "data/img/hd_9e626046bd22c64d.jpg",
+   "data/img/hd_d4f8e8a1ad3dd950.jpg",
+   "data/img/hd_045fb4380c3f1594.jpg",
+   "data/img/hd_b9bba387c9d0f195.jpg",
+   "data/img/hd_12e1b0c6da3e44ea.jpg",
+   "data/img/hd_fa447e6e082ee0fb.jpg"
+  ],
+  "videos": [],
+  "updated": 1795584721
+ },
+ {
+  "id": 46,
+  "price": 9500000,
+  "price_max": 9500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Bùi Đình Túy",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bếp",
+   "bảo vệ"
+  ],
+  "description": "9tr5 cửa số\n1PN tách bếp\nThang máy, bảo vệ\nFull nội thất\nMáy giặt riêng\nBùi Đình Túy",
+  "images": [
+   "data/img/hd_a386932d88c14d5e.jpg",
+   "data/img/hd_9ceaf57e32fd8fac.jpg",
+   "data/img/hd_e1673ff9c8363ee3.jpg",
+   "data/img/hd_0cc469464a31bf88.jpg",
+   "data/img/hd_b417eefc33d2e55b.jpg",
+   "data/img/hd_f50668674a6e1628.jpg",
+   "data/img/hd_ba474b647b4d396a.jpg",
+   "data/img/hd_d65146a91ee37316.jpg",
+   "data/img/hd_03c226d1853dd946.jpg",
+   "data/img/hd_8479c5a03ad5e30c.jpg"
+  ],
+  "videos": [],
+  "updated": 1795584631
+ },
+ {
+  "id": 45,
+  "price": 11650000,
+  "price_max": 11650000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Mê Linh",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bếp"
+  ],
+  "description": "Khánh - Apex Saigon Living\n11tr650 cửa số\n1PN tách bếp\nFull nội thất\nMáy giặt riêng\nMê Linh",
+  "images": [
+   "data/img/hd_fa3a6c0f5e13e592.jpg",
+   "data/img/hd_cf68c755d9d3aeca.jpg",
+   "data/img/hd_ab6dd32133bc3b2c.jpg",
+   "data/img/hd_52ffa6a5d151a183.jpg",
+   "data/img/hd_4fbee23c3f4585d3.jpg",
+   "data/img/hd_8a32d5ef687b4463.jpg",
+   "data/img/hd_30e2e6597c5651aa.jpg",
+   "data/img/hd_084efcd6da6e9f45.jpg",
+   "data/img/hd_fc73ee3bcad4fa33.jpg",
+   "data/img/hd_99efb47ecf4273d1.jpg",
+   "data/img/hd_11ac9585f04f9f5e.jpg",
+   "data/img/hd_195da3d6b84f739c.jpg",
+   "data/img/hd_fe4bec6ec37e92ef.jpg",
+   "data/img/hd_8eeb5c40aa8c11cf.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_1cf20152e7cb015a.mp4",
+    "poster": "data/vid/v_1cf20152e7cb015a.jpg"
+   }
+  ],
+  "updated": 1795584491
+ },
+ {
+  "id": 44,
+  "price": 4800000,
+  "price_max": 4800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Đặng Thùy Trâm",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "bếp"
+  ],
+  "description": "Khánh - Apex Saigon Living\n4tr8\n1PN tách bếp\nNội thất như hình\nĐiện 3k6, free xe\nĐặng Thùy Trâm\nCó thể làm 2PN",
+  "images": [
+   "data/img/hd_6f849c14d95f086c.jpg",
+   "data/img/hd_27bda9bc2a5c1cc1.jpg",
+   "data/img/hd_0bfe65147ad3caae.jpg",
+   "data/img/hd_755ad631738b5117.jpg",
+   "data/img/hd_7da1248a6527a081.jpg",
+   "data/img/hd_4f42ca410df24b89.jpg"
+  ],
+  "videos": [],
+  "updated": 1795584437
+ },
+ {
+  "id": 43,
+  "price": 5500000,
+  "price_max": 5500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Vũ Tùng",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bếp"
+  ],
+  "description": "5tr5 cửa số\n1PN tách bếp\nFull nội thất\nVũ Tùng",
+  "images": [
+   "data/img/hd_e303f05d2a47bc08.jpg",
+   "data/img/hd_4f0b8844a4ebb2e2.jpg",
+   "data/img/hd_82d9293cb283dc87.jpg",
+   "data/img/hd_ef871f302b835b77.jpg",
+   "data/img/hd_431ea6231e53d19d.jpg",
+   "data/img/hd_a638391c3fd83e32.jpg",
+   "data/img/hd_0bcc18543f598088.jpg",
+   "data/img/hd_8e2431cc72be8c07.jpg",
+   "data/img/hd_6e74e70dfcb02db3.jpg",
+   "data/img/hd_37a82b6233733221.jpg"
+  ],
+  "videos": [],
+  "updated": 1795584350
+ },
+ {
+  "id": 42,
+  "price": 1900000,
+  "price_max": 1900000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": null,
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "gác"
+  ],
+  "description": "T1tr9 trệt\nDuplex\nCó thể kinh doanh\nQuốc Lộ 13",
+  "images": [
+   "data/img/hd_b38a2f7b58c81302.jpg",
+   "data/img/hd_afefb2b186311c73.jpg",
+   "data/img/hd_de17b8b602a20315.jpg",
+   "data/img/hd_aff4654095016cec.jpg",
+   "data/img/hd_47a1e0fef12a1da0.jpg",
+   "data/img/hd_db0f6f5023507597.jpg",
+   "data/img/hd_288c5429997431d9.jpg",
+   "data/img/hd_eb00071ccc1e1edc.jpg",
+   "data/img/hd_f82333f01fcd5c4c.jpg",
+   "data/img/hd_c59116bc8e7b40c7.jpg",
+   "data/img/hd_803cfedf9f08024f.jpg",
+   "data/img/hd_e6c183fe2e4e3336.jpg",
+   "data/img/hd_4a7e3137c18c3ffa.jpg",
+   "data/img/hd_fae942e748bde190.jpg"
+  ],
+  "videos": [],
+  "updated": 1795584233
+ },
+ {
+  "id": 41,
+  "price": 8500000,
+  "price_max": 8500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Lê Quang Định",
+  "type": "nhà nguyên căn",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất"
+  ],
+  "description": "Khánh - Apex Saigon Living\n8tr5 nguyên căn\n1PN 1WC\nCó sân vườn\nFull nội thất\nLê Quang Định",
+  "images": [
+   "data/img/hd_b1da45c530f3f336.jpg",
+   "data/img/hd_1fd68d9ca502a3b0.jpg",
+   "data/img/hd_bfc03f03160c0ed9.jpg",
+   "data/img/hd_4822b4c532b30284.jpg",
+   "data/img/hd_d986a01e2c3c03ad.jpg",
+   "data/img/hd_113a6e7759c4fd01.jpg",
+   "data/img/hd_8d83571c2156a0df.jpg",
+   "data/img/hd_304c34f5d0311371.jpg",
+   "data/img/hd_77d83e24f230b187.jpg",
+   "data/img/hd_d30fecd627dc96fe.jpg",
+   "data/img/hd_1630c27840ccf826.jpg",
+   "data/img/hd_4a974e1c1a85d4a8.jpg"
+  ],
+  "videos": [],
+  "updated": 1795584128
+ },
+ {
+  "id": 40,
+  "price": 9500000,
+  "price_max": 9500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": null,
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [
+   "máy giặt riêng",
+   "cửa sổ",
+   "full nội thất"
+  ],
+  "description": "Khánh - Apex Saigon Living\n9tr5 cửa sổ\n2PN riêng biệt\nFull nội thất\nMáy giặt riêng\nT11 Đặng Thùy Trâm\n1/12 trống lầu 1",
+  "images": [
+   "data/img/hd_de25994852a67534.jpg",
+   "data/img/hd_1c5723a237cf670d.jpg",
+   "data/img/hd_2163786e8361d2d7.jpg",
+   "data/img/hd_07fe9c321afabf1d.jpg",
+   "data/img/hd_cbf68557e15422ae.jpg",
+   "data/img/hd_2f77cbc4ea9c7138.jpg",
+   "data/img/hd_83dbfdbf978aa77e.jpg",
+   "data/img/hd_bbf12cdf68e20a4b.jpg",
+   "data/img/hd_78c787c026644644.jpg",
+   "data/img/hd_1a22361a9cead54e.jpg",
+   "data/img/hd_1f16f3ec20628d67.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_a9f63ffeafe6591b.mp4",
+    "poster": "data/vid/v_a9f63ffeafe6591b.jpg"
+   }
+  ],
+  "updated": 1795584013
+ },
+ {
   "id": 39,
   "price": 13000000,
   "price_max": 13000000,
