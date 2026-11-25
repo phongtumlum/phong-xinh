@@ -41,7 +41,7 @@
   };
   const S = {
     district: 'Tất cả', ward: 'Tất cả', kind: 'Tất cả', layout: 'Tất cả', lift: 'Tất cả', avail: 'Tất cả',
-    maxPrice: null, amen: new Set(), onlySaved: false,
+    minPrice: null, maxPrice: null, amen: new Set(), onlySaved: false,
     saved: new Set(store.get('px_saved', []))
   };
   let LIST = [];
@@ -100,9 +100,14 @@
     }
   }
 
+  function showPriceErr(on) {
+    $('#priceErr').hidden = !on;
+    if (!on) ['#priceMin', '#priceMax'].forEach((q) => { $(q).classList.remove('bad'); $(q).removeAttribute('aria-invalid'); });
+  }
+
   function setupPrice() {
-    S.maxPrice = null;                      // ô trống = mọi mức giá
-    $('#price').value = '';
+    S.minPrice = S.maxPrice = null;         // ô trống = mọi mức giá
+    $('#priceMin').value = ''; $('#priceMax').value = '';
   }
 
   // ---------- bộ lọc ----------
@@ -150,6 +155,7 @@
       (S.kind === 'Tất cả' || l.kind === S.kind) &&
       (S.layout === 'Tất cả' || (l.layouts || [l.layout]).indexOf(S.layout) >= 0) &&
       (!S.maxPrice || !l.price || effPrice(l) <= S.maxPrice * 1e6 + 1) &&
+      (!S.minPrice || !l.price || effPrice(l) >= S.minPrice * 1e6 - 1) &&
       Array.from(S.amen).every((a) => (l.amenities || []).indexOf(a) !== -1) &&
       (!S.onlySaved || S.saved.has(l.id))
     );
@@ -414,19 +420,30 @@
     bindViewer();
     bindGift();
     $('#reset').addEventListener('click', () => {
-      Object.assign(S, { district: 'Tất cả', ward: 'Tất cả', kind: 'Tất cả', layout: 'Tất cả', maxPrice: null, onlySaved: false });
+      Object.assign(S, { district: 'Tất cả', ward: 'Tất cả', kind: 'Tất cả', layout: 'Tất cả', minPrice: null, maxPrice: null, onlySaved: false });
       S.amen.clear();
-      $('#price').value = '';
+      $('#priceMin').value = ''; $('#priceMax').value = '';
+      showPriceErr();
       renderAll();
     });
     $('#onlySaved').addEventListener('click', () => { S.onlySaved = !S.onlySaved; renderAll(); });
-    $('#price').addEventListener('input', (e) => {
-      // khách gõ "7", "7,5", "7.5" hoặc "7tr5" -> số triệu; xoá trống = mọi mức giá
-      const raw = String(e.target.value || '').toLowerCase().replace(/\s/g, '');
-      const m = raw.match(/^(\d{1,3})(?:[.,](\d{1,2})|tr(\d{1,2})|triệu)?/);
-      S.maxPrice = m ? parseFloat(m[1] + '.' + (m[2] || m[3] || '0')) : null;
+    // giá: chỉ nhận số nguyên (5, 6, 7...). Gõ sai -> viền đỏ + nhắc, bộ lọc bỏ qua ô đó
+    const readPrice = (el) => {
+      const v = String(el.value || '').trim();
+      const ok = v === '' || /^\d{1,3}$/.test(v);
+      el.classList.toggle('bad', !ok);
+      el.setAttribute('aria-invalid', ok ? 'false' : 'true');
+      return { ok, n: ok && v !== '' ? parseInt(v, 10) : null };
+    };
+    const onPrice = () => {
+      const a = readPrice($('#priceMin')), b = readPrice($('#priceMax'));
+      S.minPrice = a.n; S.maxPrice = b.n;
+      if (S.minPrice && S.maxPrice && S.minPrice > S.maxPrice) { const t = S.minPrice; S.minPrice = S.maxPrice; S.maxPrice = t; }
+      showPriceErr(!(a.ok && b.ok));
       renderGrid();
-    });
+    };
+    $('#priceMin').addEventListener('input', onPrice);
+    $('#priceMax').addEventListener('input', onPrice);
     $('#grid').addEventListener('click', (e) => {
       const save = e.target.closest('[data-save]');
       if (save) { toggleSave(Number(save.dataset.save) || save.dataset.save, save); return; }

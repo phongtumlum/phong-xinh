@@ -10,7 +10,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;700;800&family=Nunito:wght@500;600;700;800&display=swap">
-<link rel="stylesheet" href="style.css?v=20261109a">
+<link rel="stylesheet" href="style.css?v=20261125a">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 21s-8-5.3-8-11a4.5 4.5 0 0 1 8-2.8A4.5 4.5 0 0 1 20 10c0 5.7-8 11-8 11z' fill='%23FF8FB8' stroke='%23141013' stroke-width='2'/%3E%3C/svg%3E">
 </head>
 <body>
@@ -126,8 +126,9 @@
 
 
 <div class="group">
-<label class="group-label" for="price">Giá cần tìm:</label>
-<div class="pricebox"><input id="price" type="text" inputmode="decimal" autocomplete="off" placeholder="vd: 7" aria-describedby="priceUnit"><span id="priceUnit">triệu đổ lại</span></div>
+<label class="group-label" for="priceMin">Giá cần tìm:</label>
+<div class="pricebox"><span>từ</span><input id="priceMin" type="text" inputmode="numeric" pattern="[0-9]*" maxlength="3" autocomplete="off" placeholder="5" aria-describedby="priceErr"><span>đến</span><input id="priceMax" type="text" inputmode="numeric" pattern="[0-9]*" maxlength="3" autocomplete="off" placeholder="9" aria-label="Giá đến (triệu)" aria-describedby="priceErr"><span>triệu</span></div>
+<p class="price-err" id="priceErr" role="alert" hidden>Khách iu nhập kiểu 5, 6, 7, 8, 9,.... nha.</p>
 </div>
 
 <!-- ĐIỀU ĐẶC BIỆT: hộp quà bấm vào hiện lời nhắn -->
@@ -244,6 +245,6 @@
 </div>
 </dialog>
 
-<script src="app.js?v=20261109a"></script>
+<script src="app.js?v=20261125a"></script>
 </body>
 </html>

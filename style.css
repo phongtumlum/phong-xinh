@@ -245,7 +245,7 @@ dialog.viewer::backdrop{background:#141013}
 .fact.ready::before{background:#1E9E5A}
 .fact.soon::before{background:#FF5C9A}
 .pricebox{display:flex; align-items:center; gap:10px; flex-wrap:wrap}
-.pricebox input{width:120px; height:48px; font:inherit; font-size:20px; font-weight:800; text-align:center; color:var(--ink); background:#fff; border:2.5px solid var(--ink); border-radius:999px; box-shadow:3px 3px 0 var(--ink); outline:none}
+.pricebox input{width:84px; height:48px; font:inherit; font-size:20px; font-weight:800; text-align:center; color:var(--ink); background:#fff; border:2.5px solid var(--ink); border-radius:999px; box-shadow:3px 3px 0 var(--ink); outline:none}
 .pricebox input:focus{background:var(--blush)}
 .pricebox input::placeholder{color:var(--muted); font-weight:700}
 .pricebox span{font-weight:800; font-size:16px}
@@ -324,3 +324,6 @@ button.pill[aria-pressed="true"]{background:var(--hot); color:#fff}
 .thumbs button.isvid{position:relative}
 .thumbs button.isvid::after{content:"▶"; position:absolute; inset:0; display:flex; align-items:center; justify-content:center;
   color:#fff; font-size:20px; background:rgba(20,16,19,.35); text-shadow:0 1px 3px #000}
+
+.pricebox input.bad{border-color:#e0245e; box-shadow:3px 3px 0 #e0245e; background:#fff0f4}
+.price-err{margin:8px 0 0; color:#e0245e; font-weight:800; font-size:15px}
