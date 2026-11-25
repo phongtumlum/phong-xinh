@@ -1,5 +1,47 @@
 [
  {
+  "id": 10,
+  "price": 5200000,
+  "price_max": 5200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Nguyễn Hữu Cảnh",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "full nội thất"
+  ],
+  "description": "Vu Tuong Huy - Apex\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,\n5tr2 ban công\nFull nội thất\nChỉ tính điện nước\nNguyễn Hữu Cảnh\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "images": [
+   "data/img/hd_6db319ed5eb2e4ed.jpg",
+   "data/img/hd_2c4b66bcf0318f8c.jpg",
+   "data/img/hd_be86a5b3676868d0.jpg",
+   "data/img/hd_0c37d14af1ae349a.jpg",
+   "data/img/hd_07cf20cb26ea72ff.jpg",
+   "data/img/hd_68c546c271cdc4f9.jpg",
+   "data/img/hd_23444702bc06a43c.jpg",
+   "data/img/hd_b33a35f3d6f46517.jpg",
+   "data/img/hd_523eeae71adff5f0.jpg",
+   "data/img/hd_5bf7db46f11ab59d.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_53249ae978f9683e.mp4"
+   }
+  ],
+  "updated": 1795580843
+ },
+ {
   "id": 9,
   "price": 4200000,
   "price_max": 5000000,
