@@ -1,5 +1,275 @@
 [
  {
+  "id": 63,
+  "price": 7500000,
+  "price_max": 7500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Điện",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 30/12",
+  "available_date": "2026-12-30",
+  "amenities": [
+   "chỗ để xe",
+   "bảo vệ"
+  ],
+  "description": "Điện biên phủ Q10\nMã 3a01 7tr5 30/12 trống\nGiá 7tr5\nDv 200/p\nNc 150k/ng\nXe 100k/c\nHầm xem bảo vệ thang máy",
+  "images": [
+   "data/img/hd_2a8fd73acc835608.jpg",
+   "data/img/hd_ca9d71506d352184.jpg",
+   "data/img/hd_855f122a906cf25b.jpg",
+   "data/img/hd_f972c66200c4cffd.jpg",
+   "data/img/hd_7a7a282a132de160.jpg",
+   "data/img/hd_e63f72bfb0660460.jpg",
+   "data/img/hd_20a2c99cd4560fef.jpg",
+   "data/img/hd_2fd636ff9254f2bd.jpg",
+   "data/img/hd_f0c939df6d456348.jpg"
+  ],
+  "videos": [],
+  "updated": 1795586952
+ },
+ {
+  "id": 62,
+  "price": 7500000,
+  "price_max": 7500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "Nguyễn Văn Nguyễn",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "ban công",
+   "máy lạnh",
+   "tủ lạnh"
+  ],
+  "description": "Tin nhắn chưa đọc\nTRỐNG 1 PHÒNG 7TR5 ( P102) - trống sẳn\nGÍA THƯƠNG LƯỢNG\nĐịa chỉ: Nguyễn Văn Nguyễn, p Tân Định, Quận 1.\n3Ý Số đt liên hệ : gặp chị Tuyết\nNội Thất: như hình , tất cả các phòng đều có Máy giặt, máy lạnh, tủ lạnh, máy nước nóng riêng.\nToà nhà thang máy, có balcony + Máy giặt riêng\n7,5 triệu ( có tolet, ban công)\nChính sách dịch vụ và quy định của tòa nhà\nDién: 4.000d/kwh\nNước : 150.000đ/người\nPhí dịch vụ : 150k/ phòng\nXe :Íree 2 xe\nPet :ko đc nuôi\nChính sách cọc và thanh toán tiền nhà\nHĐ 6 tháng cọc 1 tháng\n12 tháng cọc 1,5 tháng\nPhần trăm cho sale\n6 tháng 50%\n12 tháng 80%",
+  "images": [
+   "data/img/hd_0b73ad1719c82b4a.jpg",
+   "data/img/hd_7e64bfeb5cbc1455.jpg",
+   "data/img/hd_5d7f273cad647b92.jpg",
+   "data/img/hd_0c9b0af5b6e1425f.jpg",
+   "data/img/hd_7c13fa5fd73062c2.jpg",
+   "data/img/hd_25270e65619a62ed.jpg",
+   "data/img/hd_bf815ff504a3242a.jpg"
+  ],
+  "videos": [],
+  "updated": 1795586884
+ },
+ {
+  "id": 61,
+  "price": 7600000,
+  "price_max": 7600000,
+  "price_deal": null,
+  "area": 45.0,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": null,
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [
+   "máy giặt riêng",
+   "ban công",
+   "full nội thất",
+   "máy lạnh"
+  ],
+  "description": "(1/12 trống)\nf159 ĐĂNG VĂN NGỮ, Phú Nhuận\nP302 : 7.600.000\n45m2\n1PN, Ban Công\nFull nội thất, 2 máy lạnh, máy nước nóng,Máy giặt riêng\nPhí #\nĐiện 4k\nNước 120k\nDv 300k",
+  "images": [
+   "data/img/hd_9e1b5080cc831534.jpg",
+   "data/img/hd_b78d117099519f88.jpg",
+   "data/img/hd_f44c0d5381f8e36e.jpg",
+   "data/img/hd_472cdf5bab15f02b.jpg",
+   "data/img/hd_f2fc6e70bade40f4.jpg",
+   "data/img/hd_ecca11c6810f56aa.jpg",
+   "data/img/hd_91258805a4b2b32d.jpg",
+   "data/img/hd_18b4b908a37a2034.jpg",
+   "data/img/hd_46cddd1ea78d785a.jpg"
+  ],
+  "videos": [],
+  "updated": 1795586797
+ },
+ {
+  "id": 60,
+  "price": 8500000,
+  "price_max": 8500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Trần Quang Diệu Quận",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Trần Quang Diệu Quận 3\n204: 8tr5 (cuối tháng trống)\nĐiện: 4200/kw\nNước: 100k/ng\nPhí qly/dvu: 200k/phòng\nXe: 150k/xe (free †1)",
+  "images": [
+   "data/img/hd_9afd2bc6a269ba14.jpg",
+   "data/img/hd_e35e225cdc7b0d6c.jpg",
+   "data/img/hd_c5f771a9cc938f2a.jpg",
+   "data/img/hd_9d9e6f70c1980782.jpg"
+  ],
+  "videos": [],
+  "updated": 1795586759
+ },
+ {
+  "id": 59,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "Nguyễn Thị Huỳnh",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 29/11",
+  "available_date": "2026-11-29",
+  "amenities": [
+   "máy giặt riêng",
+   "gác",
+   "full nội thất",
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp",
+   "vân tay"
+  ],
+  "description": "Đ/C: Nguyễn Thị Huỳnh , Phú Nhuận\nMã 10T1- Lầu 1 Duplex-Bancol\nGiá : 6.5tr - 29/11 trống\nĐiện 4k/Kwh, Nước: 100k/người, Dvu 150k.\nFull Nội thất: tủ lạnh, máy lạnh, tủ bếp trên dưới+ kệ chén, máy giặt riêng, bộ bàn học, nệm, tủ quần áo, quạt,\nnước nóng NLMT, Khoá vân tay, máy sấy...\nAce dẫn khách xem nhà liên hệ sđt Zalo/ ( Mr.Hậu)",
+  "images": [
+   "data/img/hd_b5de071638889fa4.jpg",
+   "data/img/hd_2bfe0f180d7e36f6.jpg",
+   "data/img/hd_bf584dec219966fc.jpg",
+   "data/img/hd_8b160346ccde4b0a.jpg",
+   "data/img/hd_ca4fce7344a7b1ad.jpg",
+   "data/img/hd_4ebf848192abdf6a.jpg",
+   "data/img/hd_e8ba1737a9b70fff.jpg",
+   "data/img/hd_2c890a2884a8d8f9.jpg"
+  ],
+  "videos": [],
+  "updated": 1795586684
+ },
+ {
+  "id": 57,
+  "price": 9200000,
+  "price_max": 9200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": "Phường 1",
+  "street": "Điện Biên Phủ",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [
+   "máy giặt riêng",
+   "ban công",
+   "full nội thất"
+  ],
+  "description": "Â Dự án xây mới 100%\nĐiện Biên Phủ, P1, Q3 (Phường Bàn Cờ mới).\nGiá 9.2 Triệu\nPhòng 201,(Ban công căn góc)\nThang máy, Lầu 2 - (Trống).\nFull nội thất, máy giặt riêng\nThông Nguyễn Thiện Thuật Q3(Hẻm xe hơi).\n(Điện 4K| Nước 100k/ Người| PDV 200k/Phòng).\nMr Thanh\nĐịnh vị gần đúng",
+  "images": [
+   "data/img/hd_e28b92d99c7a322d.jpg",
+   "data/img/hd_34e3e2b5d5ab5f75.jpg",
+   "data/img/hd_926859da6d6c1e2d.jpg",
+   "data/img/hd_3047c3999bda64e0.jpg",
+   "data/img/hd_a85d8aa323d4bb9a.jpg",
+   "data/img/hd_17d037822dbe697c.jpg",
+   "data/img/hd_a7ad70db46cb3591.jpg",
+   "data/img/hd_279ce031fae5649b.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_cc4cabd242ee2a6e.mp4",
+    "poster": "data/vid/v_cc4cabd242ee2a6e.jpg"
+   }
+  ],
+  "updated": 1795586587
+ },
+ {
+  "id": 56,
+  "price": 6800000,
+  "price_max": 6800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Trần Văn Đang",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "Cập nhật mã 07( Lầu 3, ban công)\nsGiá\n6.800.000\nhđ con 10 tháng, cọc 1.5 tháng\nĐịa chỉ: Trần Văn Đang Quận 3\nĐiện 4k, nước 100k, Dvu 200k, xe free 1xe ( 200k/c thứ 2 )",
+  "images": [
+   "data/img/hd_4075e8da7e3518dc.jpg",
+   "data/img/hd_7b2082903dd7717e.jpg",
+   "data/img/hd_f6eda107605949cf.jpg",
+   "data/img/hd_df93bd4c2d5347ff.jpg",
+   "data/img/hd_ef24ad5bff2664e5.jpg",
+   "data/img/hd_1084b98ce1fde535.jpg",
+   "data/img/hd_ef938bedce371017.jpg",
+   "data/img/hd_9893c624f9b72efc.jpg",
+   "data/img/hd_05b9005689522db9.jpg",
+   "data/img/hd_c80bc44ac2c90222.jpg",
+   "data/img/hd_53b15ab148c0eac3.jpg",
+   "data/img/hd_5903914d38934f0f.jpg"
+  ],
+  "videos": [],
+  "updated": 1795586483
+ },
+ {
   "id": 55,
   "price": 5200000,
   "price_max": 5200000,
