@@ -1,5 +1,313 @@
 [
  {
+  "id": 27,
+  "price": 5000000,
+  "price_max": 5000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Quốc Lộ",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất"
+  ],
+  "description": "Quốc Lộ 13 Bình Thạnh\nTRỐNG SẲN STUDIO - 203A - 408 FULL NỘI THẤT GIẢM GIÁ SỐC 5tr TRONG THÁNG\nThang máy\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "images": [
+   "data/img/hd_c18a17b38f58605f.jpg",
+   "data/img/hd_94693c29d35ee718.jpg",
+   "data/img/hd_ca2a5b48fbb992b1.jpg"
+  ],
+  "videos": [],
+  "updated": 1795582842
+ },
+ {
+  "id": 26,
+  "price": 5000000,
+  "price_max": 5500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Dich",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "full nội thất",
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp",
+   "giờ giấc tự do",
+   "vân tay"
+  ],
+  "description": "Dich vu:200k/phong\nGiờ giấc tự do, ra vào vân tay\nKhông nhận xe điện\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,\n445 Nơ Trang Long quận Bình Thạnh ngay văn lang cs3 ( Studio ban công full nội thất giá 5tr )\nThang máy\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,\nKhai trương dự án Nguyễn gia trí. Bình Thạnh\n5tr5\nNội thất: Giường. Nệm. Máy lạnh. Tủ lạnh . Kệ bếp. Máy nóng lạnh. Tủ đồ\nTrống sẵn. Có thể ở liền.\nHẻm ô tô.\nĐiện 4k\nNước 100k/ng\nDV 200k/p\nXe 100k/c\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "images": [
+   "data/img/hd_0009244a38bf2655.jpg",
+   "data/img/hd_1f72071688b565d5.jpg",
+   "data/img/hd_d93c840b29db3ad1.jpg",
+   "data/img/hd_ffe68c96241de8fe.jpg",
+   "data/img/hd_3cfc1fd0533fa22f.jpg",
+   "data/img/hd_204c8506d925a4fa.jpg",
+   "data/img/hd_78a1d18e9cade967.jpg",
+   "data/img/hd_41bd4f4ebaa71564.jpg",
+   "data/img/hd_b869fce587e8ad77.jpg",
+   "data/img/hd_2bade24784528786.jpg",
+   "data/img/hd_ef7509594f7022dc.jpg",
+   "data/img/hd_c355b114ac1657a1.jpg",
+   "data/img/hd_5a3ab7551b142659.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_ead9aac645465462.mp4",
+    "poster": "data/vid/v_ead9aac645465462.jpg"
+   }
+  ],
+  "updated": 1795582704
+ },
+ {
+  "id": 25,
+  "price": 4600000,
+  "price_max": 4600000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Bùi Đình Tuý",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Vu Tuong Huy - Apex\nGiá 4tr6\nĐịa chỉ: Bùi Đình Tuý, Bình Thạnh\nMã phòng: 202 - cuối thang trống\nĐiện: 4k/kWh\n150k/ người",
+  "images": [],
+  "videos": [],
+  "updated": 1795582703
+ },
+ {
+  "id": 24,
+  "price": 5200000,
+  "price_max": 5200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường Gia Định",
+  "street": "Dự Án: 23 Đường Nơ Trang Long",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp"
+  ],
+  "description": "Địa chỉ dự án: Đường Nơ Trang Long, Phường Gia Định, Thành phố Hồ Chí Minh\nGiá phòng: 5,200,000\nSố tiền cọc: 5tr2\nMã phòng: 202\nNgày dọn đi: 01/12\nNội thất: bếp từ, kệ bếp , bồn rửa chén, tủ bếp, tủ lạnh, tủ áo quần, giường ,nệm, máy lạnh, điều kiển máy lạnh\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "images": [
+   "data/img/hd_415c721e0ce8a2de.jpg",
+   "data/img/hd_62e218b1d17a488e.jpg",
+   "data/img/hd_f5772f7f800c068d.jpg",
+   "data/img/hd_0b0cd5866d4fcaf6.jpg",
+   "data/img/hd_d885d51cd9f40328.jpg",
+   "data/img/hd_0c55a3a8cd485cc2.jpg",
+   "data/img/hd_79adf04ec83f752f.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_ce2c4a4888d20f56.mp4",
+    "poster": "data/vid/v_ce2c4a4888d20f56.jpg"
+   }
+  ],
+  "updated": 1795582621
+ },
+ {
+  "id": 23,
+  "price": 5500000,
+  "price_max": 5500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Vu Tuong Huy Apex",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Vu Tuong Huy - Apex\nT13 võ duy ninh bình thạnh\nGiảm 5tr5\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "images": [
+   "data/img/hd_c4bb69241e15caf3.jpg",
+   "data/img/hd_ae08a9e27ef775d8.jpg",
+   "data/img/hd_a7ac432c5629f669.jpg",
+   "data/img/hd_6d113ae06dc5d338.jpg",
+   "data/img/hd_870e96d2c76a5cd6.jpg",
+   "data/img/hd_1f1df4b9805bcc4f.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_d1e27b7f41e029fd.mp4",
+    "poster": "data/vid/v_d1e27b7f41e029fd.jpg"
+   }
+  ],
+  "updated": 1795582553
+ },
+ {
+  "id": 22,
+  "price": 4400000,
+  "price_max": 4400000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Đặng Thùy Trâm",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt chung",
+   "máy lạnh",
+   "bếp",
+   "wc riêng",
+   "giờ giấc tự do",
+   "bảo vệ"
+  ],
+  "description": "Địa chỉ: Đặng Thùy Trâm, Bình Thạnh\nN'201: 4tr4 (ĐANG TRỐNG)\nChỉ tiết\nPallet, nệm, tủ bếp, máy lạnh, wc riêng, cửa số\nLưu ý: Những đồ còn lại dùng để decor\nChỉ phí\nĐiện: 4k/kw\nNước: 100k/người\nPhí dịch vụ chung: 200k/phòng\nXe: 120k/chiếc\nToà nhà có bảo vệ, máy giặt chung\nGiờ giấc tự do\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "images": [
+   "data/img/hd_6687908b8709ac48.jpg",
+   "data/img/hd_6f6d6e21bd9ad06f.jpg",
+   "data/img/hd_a1cd37e4fff8f11f.jpg",
+   "data/img/hd_e753ac5771c89a20.jpg",
+   "data/img/hd_48579aff8cd69765.jpg",
+   "data/img/hd_b4ee104bd03e3e27.jpg",
+   "data/img/hd_67769268458b0a74.jpg",
+   "data/img/hd_c5b8d9fcb4416f72.jpg",
+   "data/img/hd_bbda6027c48c7a9c.jpg",
+   "data/img/hd_d4cd7ebfb8db1e40.jpg",
+   "data/img/hd_37819904bb0b9305.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_a5ad1394f90cde60.mp4",
+    "poster": "data/vid/v_a5ad1394f90cde60.jpg"
+   }
+  ],
+  "updated": 1795582445
+ },
+ {
+  "id": 21,
+  "price": 4400000,
+  "price_max": 4400000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Xô Viết Nghệ Tĩnh",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 30/11",
+  "available_date": "2026-11-30",
+  "amenities": [
+   "máy lạnh",
+   "bếp",
+   "wc riêng",
+   "giờ giấc tự do"
+  ],
+  "description": "Địa chỉ: Xô Viết Nghệ Tĩnh, Bình Thạnh\nL2: 4tr4 (TRỐNG)\nChỉ tiết\nTủ bếp, máy lạnh, wc riêng, sân sau\nLưu ý: Những đồ còn lại dùng để decor\nChỉ phí\nĐiện: 4k/kw\nNước: 100k/người\nNet: 100k/phòng\nXe: 2 xe/phòng (free)\nGiờ giấc tự do",
+  "images": [
+   "data/img/hd_49a988a347b8913f.jpg",
+   "data/img/hd_d5d556bb046e84a4.jpg",
+   "data/img/hd_5a68ab43e03d10e5.jpg",
+   "data/img/hd_db60afbe702e1938.jpg",
+   "data/img/hd_09603bbd0712348f.jpg",
+   "data/img/hd_4c13f19dea580166.jpg",
+   "data/img/hd_eca2b1f008ed2010.jpg",
+   "data/img/hd_989e7084bd666866.jpg"
+  ],
+  "videos": [],
+  "updated": 1795582370
+ },
+ {
+  "id": 20,
+  "price": 4300000,
+  "price_max": 4300000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Nguyễn Thượng Hiền Bình",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Nguyễn Thượng Hiền Bình Thạnh\n4tr3\nThang máy\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "images": [
+   "data/img/hd_9120615e4f9e2e92.jpg",
+   "data/img/hd_dd58a253e64de692.jpg",
+   "data/img/hd_bd655ea4a68a2787.jpg",
+   "data/img/hd_5dd3f0bcc839e6f1.jpg",
+   "data/img/hd_6956fca0178a483c.jpg",
+   "data/img/hd_ce61394f60436ed7.jpg",
+   "data/img/hd_9cfea026e81ff1fa.jpg",
+   "data/img/hd_3bc40d503e969521.jpg",
+   "data/img/hd_20913332650d9d9c.jpg",
+   "data/img/hd_427ade9944d81065.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_4691dd71c8f53a61.mp4",
+    "poster": "data/vid/v_4691dd71c8f53a61.jpg"
+   }
+  ],
+  "updated": 1795582258
+ },
+ {
   "id": 19,
   "price": 5000000,
   "price_max": 5000000,
