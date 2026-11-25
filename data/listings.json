@@ -1,5 +1,339 @@
 [
  {
+  "id": 39,
+  "price": 13000000,
+  "price_max": 13000000,
+  "price_deal": null,
+  "area": 20.2,
+  "district": "Bình Thạnh",
+  "ward": "Phường 5",
+  "street": "Nguyễn Thượng Hiền",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Vu Tuong Huy - Apex\nEM Giá thuê 13tr\nNhà hẻm 5x/ Nguyễn Thượng Hiền, P.5, Bình Thạnh ( P. Bình Lợi Trung)\nDiện tích: 3.2 x 7 (CN: 20.2m2) Hiện trạng 24m2 - SỬ DỤNG: 60m2\nKết cấu: Trệt Lầu + Lửng 2 Phòng ngủ 2 toilet\nHướng: Đông Bắc\nx_\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "images": [
+   "data/img/hd_723461c755efa05d.jpg",
+   "data/img/hd_a076d5c611ccc392.jpg",
+   "data/img/hd_8b920c3f578aef2f.jpg",
+   "data/img/hd_74af8a44ec889372.jpg",
+   "data/img/hd_bdd73b58237106a5.jpg",
+   "data/img/hd_416c9428d883ebd4.jpg",
+   "data/img/hd_58e3fec7b7a87a6b.jpg",
+   "data/img/hd_9b5a95f818b7b6db.jpg",
+   "data/img/hd_a09486b5fbb4064e.jpg",
+   "data/img/hd_f579afa1054bdcad.jpg",
+   "data/img/hd_17f0ecaaded0fe73.jpg"
+  ],
+  "videos": [],
+  "updated": 1795583700
+ },
+ {
+  "id": 38,
+  "price": 9500000,
+  "price_max": 9500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Quốc Lộ",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Vu Tuong Huy - Apex\nQuốc Lộ 13, Bình Thạnh\n2PN 9tr5\nKo giới hạn ng và xe\nThang máy\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "images": [
+   "data/img/hd_97b204cb7dd69472.jpg",
+   "data/img/hd_79b000c65a54aa3d.jpg",
+   "data/img/hd_0aabb44e8c861187.jpg",
+   "data/img/hd_1b75513f0bf31671.jpg",
+   "data/img/hd_d183ec58620d2bb9.jpg"
+  ],
+  "videos": [],
+  "updated": 1795583653
+ },
+ {
+  "id": 37,
+  "price": 8300000,
+  "price_max": 8300000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Mặt Tiền 630 Lê Quang Định Bình Thạnh. S",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất"
+  ],
+  "description": "Vu Tuong Huy - Apex\nVị trí: mặt tiền 630 lê quang định bình thạnh. Sát bên đh công nghiệp. Dh hutech và dh văn lang.\nGiá chốt 8tr3\nChi phí: Điện 4k, nước 120k/ người, dịch vụ 150k /người, xe 100k xe. Mã phòng 201, 301. Gồm 2 phòng ngủ.\nFull nội thất. Tủ lanh. Máy lanh. Tu quan ao. May giat. 2 giuong. 2 nệm. Thang máy.\nThú cưng : cho phép có cam kết\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "images": [
+   "data/img/hd_9a7d73aad83f1be9.jpg",
+   "data/img/hd_0c4fed477e8a7860.jpg",
+   "data/img/hd_732001b87db65ed5.jpg",
+   "data/img/hd_ba281ccd4d368487.jpg",
+   "data/img/hd_4fd1237575b66720.jpg",
+   "data/img/hd_622bc09cc7a001d7.jpg",
+   "data/img/hd_a14a5ec62bde8beb.jpg",
+   "data/img/hd_0bb92d07cf044b89.jpg",
+   "data/img/hd_c35e4eaffb46f6c6.jpg",
+   "data/img/hd_147c9eb216d3a8f7.jpg",
+   "data/img/hd_147c9eb216d3a8f7.jpg"
+  ],
+  "videos": [],
+  "updated": 1795583547
+ },
+ {
+  "id": 36,
+  "price": 8900000,
+  "price_max": 8900000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường Thạnh Mỹ",
+  "street": "Nguyễn Gia Trí",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "bếp"
+  ],
+  "description": "Nguyễn Gia Trí, Phường Thạnh Mỹ Tây\nđế- đ~ Mã 301: Căn 2 PN riêng, Bancol rộng, máy giặt riêng, cửa số bếp siêu thoáng Chốt 10T: * 3\nkêu bã người, 2 xe nha\nđf- #- Mã 302: Căn 2 PN riêng, phòng bếp, Giặt sấychung ______ Chốt8.9 Triệu $3 +\nLên ở 4ng. 2 xe nha\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "images": [
+   "data/img/hd_75957b29bc168e23.jpg",
+   "data/img/hd_ac22d7c4541e96c9.jpg",
+   "data/img/hd_3b014b058ec542db.jpg",
+   "data/img/hd_33488ef60dd169f6.jpg",
+   "data/img/hd_3c00f40a0d94d6b3.jpg",
+   "data/img/hd_4995ddaec04e5148.jpg",
+   "data/img/hd_4a006b8fc713bd39.jpg",
+   "data/img/hd_e463e5c90944d803.jpg",
+   "data/img/hd_59b2f33f4e766a81.jpg",
+   "data/img/hd_426b700226eca358.jpg"
+  ],
+  "videos": [],
+  "updated": 1795583458
+ },
+ {
+  "id": 35,
+  "price": 5700000,
+  "price_max": 5700000,
+  "price_deal": null,
+  "area": 40.0,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Phạm Văn Đồng",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất"
+  ],
+  "description": "Vu Tuong Huy - Apex\n5tr7 trệt\n2PN riêng biệt\nFull nội thất\nFree xe\nPhạm Văn Đồng\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,\nX X X X cănhộ2PN40M2 Full NT Khu D",
+  "images": [
+   "data/img/hd_933eada5f6b7d446.jpg",
+   "data/img/hd_edf3153cf5fa180d.jpg",
+   "data/img/hd_b50ff9dcef7d47d8.jpg",
+   "data/img/hd_783fd8f0a2f93370.jpg",
+   "data/img/hd_f67dea9f43c129aa.jpg",
+   "data/img/hd_f7a14a183398aa2d.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_97cfe2cce16faf09.mp4",
+    "poster": "data/vid/v_97cfe2cce16faf09.jpg"
+   }
+  ],
+  "updated": 1795583389
+ },
+ {
+  "id": 34,
+  "price": 6800000,
+  "price_max": 6800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 13",
+  "street": "Đặng Thuỳ Trâm",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất"
+  ],
+  "description": "Vu Tuong Huy - Apex\nĐặng Thuỳ Trâm, Phường 13, Bình Thạnh , HCM\nfÑtPhòng pent - 2 PN - bên cạnh Văn Lang CS3 - trống sẵn\nGiá : 6tr8\nFull NT - mặt tiền ô tô -thang máy - PCCC đạt chuẩn\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "images": [
+   "data/img/hd_48f515a29dafec74.jpg",
+   "data/img/hd_06e895ae066f9e1d.jpg",
+   "data/img/hd_55408a17d0709450.jpg",
+   "data/img/hd_950448632619f65d.jpg",
+   "data/img/hd_097731a6e36e9b04.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_e9b5d648afa5b5ec.mp4",
+    "poster": "data/vid/v_e9b5d648afa5b5ec.jpg"
+   }
+  ],
+  "updated": 1795583330
+ },
+ {
+  "id": 33,
+  "price": 8900000,
+  "price_max": 8900000,
+  "price_deal": 8500000,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Đường 9",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "full nội thất",
+   "giờ giấc tự do"
+  ],
+  "description": "Vu Tuong Huy - Apex\n2PN ( cửa số, ban công ) lầu 4, thang máy\nGiá : 8tr9 ( chốt nhanh fix 8tr5 )\nĐ/c : đường 9, Hiệp bình Chánh\nFull Nội thất , Giờ giấc tự do , Không chung chủ\nĐiện 4k , nước 100k/ng , dvu 200k/phòng ( Free xe )\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "images": [
+   "data/img/hd_0961e76eb805a246.jpg",
+   "data/img/hd_9caef9fc1c580bfb.jpg",
+   "data/img/hd_4c4440eb6d00b59e.jpg",
+   "data/img/aff8c2cf48f47241.jpg"
+  ],
+  "videos": [],
+  "updated": 1795583289
+ },
+ {
+  "id": 32,
+  "price": 12200000,
+  "price_max": 12200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": null,
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "Vu Tuong Huy - Apex\n236 điện biên phủ bình thạnh\n2Pn ban công 12tr2\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "images": [
+   "data/img/hd_bd1b51d27041f6e7.jpg",
+   "data/img/hd_047575b94ff794f0.jpg",
+   "data/img/hd_8159597db19dd9b7.jpg",
+   "data/img/hd_74b3b3bae5456dc6.jpg",
+   "data/img/hd_7053318ec2be637c.jpg",
+   "data/img/hd_f7fd2215c0cf6a39.jpg",
+   "data/img/hd_b85f6176e5119fd9.jpg",
+   "data/img/hd_4dfc98ad9f939b7b.jpg",
+   "data/img/hd_4dfc98ad9f939b7b.jpg",
+   "data/img/hd_3e5dbe9b6278bdd4.jpg",
+   "data/img/hd_e6fdede2f94b54fa.jpg",
+   "data/img/hd_850d77845fa89d4c.jpg",
+   "data/img/hd_990ca6e42d3fae2c.jpg",
+   "data/img/hd_df8f81e6e51e8d38.jpg",
+   "data/img/hd_926b8247fe8a0c8f.jpg"
+  ],
+  "videos": [],
+  "updated": 1795583148
+ },
+ {
+  "id": 31,
+  "price": 6200000,
+  "price_max": 7500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường T",
+  "street": "Nguyên Hồng",
+  "type": "căn hộ dịch vụ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": "Căn hộ dịch vụ",
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "cửa sổ",
+   "full nội thất",
+   "máy lạnh",
+   "bếp"
+  ],
+  "description": "Vu Tuong Huy - Apex\n150 chu văn an\nh Mã phòng G0! - 2pn\ntách bếp + 1wc_ Giá chốt\n7,5tr _ 2 máy lạnh_ Tầng\ntrệt\nChốt 7tr\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,\nCHDV MỚI 100% (7 căn 2 Phòng ngủ )\nĐịa chỉ : Nguyên Hồng, Phường T1, Bình Thạnh\nP001, Tâng Trệt có 2 phòng ngủ , Cửa sổ, full nội thất\nGiá : 6tr2 (nhận 3xe)\nĐiện: 4k\nNước: 120k/người\nDv: 200k/phòng\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "images": [
+   "data/img/hd_5b3663e8cf4fee60.jpg",
+   "data/img/hd_66e45033360db92a.jpg",
+   "data/img/hd_bfe9f11c0417d85b.jpg",
+   "data/img/hd_e6439fb18c19574e.jpg",
+   "data/img/hd_8c1771c357e41780.jpg",
+   "data/img/hd_20dd4316a8420763.jpg",
+   "data/img/hd_d974bbcc23acbe86.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_0058b3212181c697.mp4",
+    "poster": "data/vid/v_0058b3212181c697.jpg"
+   }
+  ],
+  "updated": 1795583071
+ },
+ {
   "id": 27,
   "price": 5000000,
   "price_max": 5000000,
