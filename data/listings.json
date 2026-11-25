@@ -1,5 +1,362 @@
 [
  {
+  "id": 19,
+  "price": 5000000,
+  "price_max": 5000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Nơ Trang Long Bình",
+  "type": null,
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Nơ Trang Long Bình Thạnh\n5tr\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "images": [
+   "data/img/hd_bff8f76060d325eb.jpg",
+   "data/img/hd_567948eab78ad721.jpg",
+   "data/img/hd_165ef5802e1e0608.jpg",
+   "data/img/hd_8d2fec9d7b2a2282.jpg",
+   "data/img/hd_516185b2d3211e16.jpg",
+   "data/img/hd_577c60ec03292f93.jpg"
+  ],
+  "videos": [],
+  "updated": 1795581993
+ },
+ {
+  "id": 18,
+  "price": 5000000,
+  "price_max": 5000000,
+  "price_deal": null,
+  "area": 30.0,
+  "district": "Bình Thạnh",
+  "ward": "Phường 27",
+  "street": "Vũ Tùng",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "gác",
+   "full nội thất",
+   "chỗ để xe",
+   "bảo vệ"
+  ],
+  "description": "Địa chỉ : Vũ Tùng Bình Thạnh\nGiá : 5tr\nFull nội thất . Thang máy hầm xe bảo vệ 24/24\nDịch vụ : Điện 4k . Nước 100k/ người . Wifi 100k/ phòng . Giặt : 100k/ phòng ( Nếu dùng ) . Xe free 2 chiếc (chiếc\nt3 phụ thu thêm )\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,\nTrống lại mã : 106 ( I1)\nGiá: 5tr\nRộng 30m2\nFull nội thất cơ bản\nGác cao rộng\nĐc: Bình Quới p.Bình Thạnh\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "images": [
+   "data/img/hd_b1252c6fa2c5b184.jpg",
+   "data/img/hd_df62c7333ea591cf.jpg",
+   "data/img/hd_e2972533c09414ba.jpg",
+   "data/img/hd_9cd57411589fbb25.jpg",
+   "data/img/hd_f09cfdd0da6b9117.jpg",
+   "data/img/hd_6da63d9c6498cf17.jpg"
+  ],
+  "videos": [],
+  "updated": 1795581936
+ },
+ {
+  "id": 17,
+  "price": 4200000,
+  "price_max": 4800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Chu Văn An Bình",
+  "type": null,
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Chu Văn An Bình Thạnh\nGiảm 4tr8\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,\nChu Văn An Bình Thạnh\nGiảm 4tr2\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "images": [
+   "data/img/hd_00400390ad1ad583.jpg",
+   "data/img/hd_0cb1994d92aa7b76.jpg",
+   "data/img/hd_9f0916e807b98d3c.jpg",
+   "data/img/hd_99ee34cc1cc17bf5.jpg",
+   "data/img/hd_d971797b89b44e0f.jpg",
+   "data/img/hd_57eee6652e6a0a69.jpg",
+   "data/img/hd_ad047aad04c474cd.jpg",
+   "data/img/hd_6f377f5cd4327629.jpg"
+  ],
+  "videos": [],
+  "updated": 1795581865
+ },
+ {
+  "id": 16,
+  "price": 5300000,
+  "price_max": 5300000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Xô Viết Nghệ Tĩnh",
+  "type": null,
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "gác",
+   "full nội thất"
+  ],
+  "description": "Xô Viết Nghệ Tĩnh ngay đại học Hutech ( có gác full nội thất giá 5tr3 )\nThang máy\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "images": [
+   "data/img/hd_04239e888375c55a.jpg",
+   "data/img/hd_6923377a881fde3a.jpg",
+   "data/img/hd_9559e3d883a01974.jpg",
+   "data/img/hd_8fa9c89722c64818.jpg",
+   "data/img/hd_069789f19818f72a.jpg",
+   "data/img/hd_56bfc0e14515e07b.jpg",
+   "data/img/hd_5a80b3e1e917d9ff.jpg",
+   "data/img/hd_d780ba35a8b4fd89.jpg",
+   "data/img/hd_c4b322099fefed2d.jpg",
+   "data/img/hd_24adfda194f4e611.jpg",
+   "data/img/hd_229a964c5f785703.jpg",
+   "data/img/hd_23c9bcc7554353af.jpg",
+   "data/img/hd_22d4b0beb2adede5.jpg"
+  ],
+  "videos": [],
+  "updated": 1795581749
+ },
+ {
+  "id": 15,
+  "price": 4200000,
+  "price_max": 4500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 13",
+  "street": "Đặng Thuỳ Trâm",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "gác",
+   "máy lạnh",
+   "bếp"
+  ],
+  "description": "Vu Tuong Huy - Apex\nĐặng Thuỳ Trâm, P13, B.Thanh\nDuplex - Cửa Số\n3(P2A2 --> 4tr500\n4tr2 (Trống sẵn)\nNội thất: Máy lạnh, Kệ bếp, tủ bếp dưới, tủ quần áo.\nDién: 3.800 d/kwh\nNước: 100.000 đ/người\nDịch vụ: 150.000 đ/ phòng\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "images": [
+   "data/img/hd_3b523f86324c05d6.jpg",
+   "data/img/hd_95662616de82a378.jpg",
+   "data/img/hd_c864dd15bd6d0da8.jpg",
+   "data/img/hd_3e59df72aedf2273.jpg",
+   "data/img/hd_cfd0e4ffe82fc2c8.jpg",
+   "data/img/hd_ba7908dc30ce1bf2.jpg",
+   "data/img/hd_995ef09d12fc183d.jpg",
+   "data/img/hd_47b866a17d287416.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_d28665a79ded3d40.mp4",
+    "poster": "data/vid/v_d28665a79ded3d40.jpg"
+   }
+  ],
+  "updated": 1795581659
+ },
+ {
+  "id": 14,
+  "price": 4000000,
+  "price_max": 5000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Bùi Đình Túy",
+  "type": null,
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "cửa sổ",
+   "gác",
+   "full nội thất",
+   "máy lạnh",
+   "bếp"
+  ],
+  "description": "TRỐNG SẴN PHÒNG MỚI - MÃ PHÒNG 47306\nĐịa chỉ: Bùi Đình Túy\nñ T3 nhà mới thang máy - Máy lạnh - Gác - Kệ bếp - Cửa sổ\nBlGiá: 4tr 7tháng.\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,\n5tr trệt\nFull nội thất\n31 Ủng Văn Khiêm\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "images": [
+   "data/img/hd_523f766d87db29e0.jpg",
+   "data/img/hd_28b1034182e7b9c5.jpg",
+   "data/img/hd_cc02c8e862519cec.jpg",
+   "data/img/hd_2b550da941788d3f.jpg",
+   "data/img/hd_e67c35433bdc46de.jpg",
+   "data/img/hd_7cc37cc3d52caae2.jpg",
+   "data/img/hd_71cd8cf63afd592a.jpg",
+   "data/img/hd_ea22d568debbde65.jpg",
+   "data/img/hd_6088b5d2ec22e14e.jpg",
+   "data/img/hd_3e19057f004db1ab.jpg",
+   "data/img/hd_eb6389f032ea4349.jpg",
+   "data/img/hd_77a32c3e8966f25f.jpg",
+   "data/img/hd_a8a4d9258546277e.jpg",
+   "data/img/hd_35a7de9ab1d3fff5.jpg",
+   "data/img/hd_c28f796144176749.jpg",
+   "data/img/11c2a6e4cec8cab7.jpg"
+  ],
+  "videos": [],
+  "updated": 1795581527
+ },
+ {
+  "id": 13,
+  "price": 5000000,
+  "price_max": 5000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Gò Vấp",
+  "ward": "Phường 14",
+  "street": "Bùi Đình Túy",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 30/11",
+  "available_date": "2026-11-30",
+  "amenities": [
+   "gác",
+   "máy lạnh",
+   "bếp"
+  ],
+  "description": "Bùi Đình Túy, P.14, Bình Thạnh (gần chợ, khu vực trung tâm, thuận tiện đi q1, gò vấp, q2)\nếˆ Mã phòng: 209 - 5tr - TRỐNG - DuplexgáccOo 77777 7s\nỰ4 Nội thất: Cửa số thông tầng, Máy lạnh, kệ bếp, máy nước nóng lạnh, tủ quần áo\nỰ4 Điện 4/kWh ô Nước 100k/người $> PDV 200k/phòng, xe 150K/ chiếc.\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "images": [
+   "data/img/hd_3a7306c825e4d41d.jpg",
+   "data/img/hd_c98ceb88214a126e.jpg",
+   "data/img/hd_5458e932175ed26d.jpg",
+   "data/img/hd_6315e4b6d94fb4fd.jpg",
+   "data/img/hd_ee5df59ba43799e2.jpg",
+   "data/img/hd_ee5df59ba43799e2.jpg",
+   "data/img/hd_e622018d78effe5e.jpg",
+   "data/img/hd_6315e4b6d94fb4fd.jpg",
+   "data/img/hd_6315e4b6d94fb4fd.jpg"
+  ],
+  "videos": [],
+  "updated": 1795581445
+ },
+ {
+  "id": 12,
+  "price": 4300000,
+  "price_max": 5000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Gò Vấp",
+  "ward": "Phường 12",
+  "street": "Bùi Đình Túy",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "cửa sổ",
+   "gác",
+   "máy lạnh",
+   "bếp"
+  ],
+  "description": "Vu Tuong Huy - Apex\nBùi Đình Túy, P.12, Bình Thạnh (gần chợ, khu vực trung tâm, thuận tiện đi q1, gò vấp, q2)\nẤˆ Mã phòng: 208 - 5tr - TRỐNG SẴN- Duplex\nỰ4 Nội thất: Cửa sổ hành lang thoáng mát, Máy lạnh, kệ bếp, máy nước nóng lạnh, tủ quần áo\nĐiện 4/kWh Nước 100K/người PDV 200k/phòng, xe 150K/ chiếc. Giặt: 20.000/1 lần\nBùi Đình Túy, P.12, Bình Thạnh (gần chợ, khu vực trung tâm, thuận tiện đi q1, gò vấp, q2)\nẤˆ Mã phòng: 102 - 4tr8 - TRỐNG - Duplex\nỰ4 Nội thất: Cửa sổ hành lang thoáng mát, Máy lạnh, kệ bếp, máy nước nóng lạnh, tủ quần áo\nẤˆ Điện 4/kWh Nước 100K/người s PDV 200k/phòng, xe 150K/ chiếc.fÊGiặt: 20.000/1 lần\nBùi Đình Túy, P.12, Bình Thạnh (gần chợ, khu vực trung tâm, thuận tiện đi q1, gò vấp, q2)\nẤƒ Mã phòng: 310 - 4tr3 - TRỐNG SẴN - Duplex\nỰ4 Nội thất: Cửa sổ hành lang thoáng mát, Máy lạnh, kệ bếp, máy nước nóng lạnh, tủ quần áo\nẤˆ Điện 4/kWh Nước 100K/người s PDV 200k/phòng, xe 150K/ chiếc.fÊGiặt: 20.000/1 lần",
+  "images": [
+   "data/img/hd_2a0e838c6889fd90.jpg",
+   "data/img/hd_ac0f1880f7c9807f.jpg",
+   "data/img/hd_48d8cddaa25afba4.jpg",
+   "data/img/hd_2584b12795bd4443.jpg",
+   "data/img/hd_b8f9b1e2dc384ec1.jpg",
+   "data/img/hd_0ccc88036a788414.jpg",
+   "data/img/hd_390cb7e37a9fbe03.jpg",
+   "data/img/hd_aff7a1e25ec6321c.jpg",
+   "data/img/hd_756bcffc39926e97.jpg",
+   "data/img/hd_beca58cbf0b8744f.jpg",
+   "data/img/hd_f469d4c493037865.jpg",
+   "data/img/hd_8639a8cfa22aecf1.jpg",
+   "data/img/hd_afc6ddd595c7cf34.jpg",
+   "data/img/hd_00d6c1dd5b9bde59.jpg"
+  ],
+  "videos": [],
+  "updated": 1795581307
+ },
+ {
+  "id": 11,
+  "price": 5800000,
+  "price_max": 6800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Đặng Thuỳ Trâm",
+  "type": null,
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "chỗ để xe"
+  ],
+  "description": "pa Ma : 102\nfÑĐia chỉ: Đặng Thuỳ Trâm\nE]Giá:5tr8( điện 4k, nước 100k/ng, dịch vụ 200k)\nThang máy, hầm xe\nfa Ma : 301\nfÑĐia chỉ: Đặng Thuỳ Trâm\nEmj]Giá :6tr8( điện 4k, nước 100k/ng, dịch vụ 200k)\nThang máy, hầm xe, máy giặt riêng\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "images": [
+   "data/img/hd_da045ec9a33ef15c.jpg",
+   "data/img/hd_079a65b6787bb4b2.jpg",
+   "data/img/hd_c0e830fa840a442a.jpg",
+   "data/img/hd_b7732f41935a3cdd.jpg",
+   "data/img/hd_b7732f41935a3cdd.jpg",
+   "data/img/hd_93085cd06a7040f3.jpg",
+   "data/img/hd_4e3ba26aab3777c4.jpg",
+   "data/img/hd_3c5408f7517d1d32.jpg",
+   "data/img/hd_e31765d047203312.jpg",
+   "data/img/hd_9c42c8b390b0a9e8.jpg",
+   "data/img/hd_7ed6ead2f463fddd.jpg",
+   "data/img/hd_2ae0209d8c3772a6.jpg",
+   "data/img/hd_879f30766939ae8e.jpg",
+   "data/img/hd_70244f11377e0c86.jpg",
+   "data/img/hd_a6be1a3cecab5050.jpg",
+   "data/img/83f654a551425efe.jpg",
+   "data/img/4ad6884ff69e027c.jpg"
+  ],
+  "videos": [],
+  "updated": 1795581160
+ },
+ {
   "id": 10,
   "price": 5200000,
   "price_max": 5200000,
