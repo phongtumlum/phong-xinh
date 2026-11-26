@@ -1,5 +1,366 @@
 [
  {
+  "id": 85,
+  "price": 3800000,
+  "price_max": 3800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Vạn Kiếp",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "3tr8",
+  "images": [
+   "data/img/hd_7da2ea14dffc166a.jpg",
+   "data/img/8fa6d8ea0cccd575.jpg"
+  ],
+  "videos": [],
+  "updated": 1795664170
+ },
+ {
+  "id": 84,
+  "price": 4200000,
+  "price_max": 4200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Nơ Trang Long",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Nơ Trang Long Bình Thạnh\n4tr2",
+  "images": [
+   "data/img/hd_5292cee5f8d509d6.jpg",
+   "data/img/hd_77027cedf092268f.jpg",
+   "data/img/hd_a50cefa484a29d93.jpg",
+   "data/img/hd_0c33e56fc1926c4a.jpg"
+  ],
+  "videos": [],
+  "updated": 1795664132
+ },
+ {
+  "id": 83,
+  "price": 3700000,
+  "price_max": 3700000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 7",
+  "street": "Nhiêu Tứ",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "cửa sổ",
+   "full nội thất",
+   "giờ giấc tự do"
+  ],
+  "description": "PHÒNG XINH PHÚ NHUẬN - CHỈ 3TR7\nkí Nhiêu Tứ, P.7, Phú Nhuận - gần Phan Xích Long.\nPhòng full nội thất, decor có gu, cửa sổ thoáng sáng, không gian riêng tư và ấm cúng. Có máy giặt, chỗ đề xe\nmiễn phí, giờ giấc tự do, không chung chủ.\nPhù hợp sinh viên và người đi làm đang tìm một nơi ở đẹp, tiện nghi với mức giá dễ chịu.",
+  "images": [
+   "data/img/hd_90df285d5538e644.jpg",
+   "data/img/hd_90df285d5538e644.jpg",
+   "data/img/hd_9a8eaf52e24ad053.jpg",
+   "data/img/hd_e0ef0da227ec6179.jpg",
+   "data/img/hd_482427bbe3b0337d.jpg"
+  ],
+  "videos": [],
+  "updated": 1795664085
+ },
+ {
+  "id": 82,
+  "price": 3800000,
+  "price_max": 3800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 26",
+  "street": "Xvnt",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp",
+   "giờ giấc tự do",
+   "vân tay"
+  ],
+  "description": "Địa chỉ: xvnt p26 bình Thạnh\ntrống sẵn\nVị trí: lầu 4: phòng 402 giá 3tr8\ntrống sẵn\nPhí Dịch vụ\nĐiện: 3,800/kWh\nNước: 100k/ người\nDịch vụ: 150k/phòng\nđồ xe 100k/ xe\nđổ Tòa nhà thang bộ\nGiờ giấc tự do, ra vào khóa Vân tay\nNội thất : tủ lạnh, máy lạnh, kệ bếp\nđồ giặt chung",
+  "images": [
+   "data/img/hd_c100ef930e66dfba.jpg",
+   "data/img/hd_4125edda3a2e64ef.jpg",
+   "data/img/hd_36fa859756f0d510.jpg",
+   "data/img/hd_988865dd647ba4e5.jpg",
+   "data/img/hd_2f27ad12746a3f1a.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_57d3e77ad6c967a2.mp4",
+    "poster": "data/vid/v_57d3e77ad6c967a2.jpg"
+   }
+  ],
+  "updated": 1795664027
+ },
+ {
+  "id": 81,
+  "price": 3700000,
+  "price_max": 3700000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Đặng Thuỳ Trăm",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống đầu tháng 12",
+  "available_date": null,
+  "amenities": [
+   "gác",
+   "bếp",
+   "chỗ để xe"
+  ],
+  "description": "Đặng Thuỳ Trăm Bình Thạnh\nđầu tháng 12 mình trống lại phòng duplex mini 1 người, không bếp. Giá 3tr7\nđiện 3800; nước nóng lạnh 100.000; dịch vụ 100.000/ phòng nhé.\nThang máy hầm xe",
+  "images": [
+   "data/img/hd_d32b04fe24ce830c.jpg",
+   "data/img/hd_29a97e0e462efa10.jpg",
+   "data/img/hd_3669aff37fcc1715.jpg",
+   "data/img/hd_c17ff68c2852bff1.jpg",
+   "data/img/hd_b75beee862cc1883.jpg",
+   "data/img/hd_99755422e08372ab.jpg",
+   "data/img/hd_f89f1343526b1d14.jpg",
+   "data/img/hd_e8cc7d97b6dd6644.jpg",
+   "data/img/hd_1d67dd86c8af2a2f.jpg",
+   "data/img/hd_68570541169da66b.jpg"
+  ],
+  "videos": [],
+  "updated": 1795663937
+ },
+ {
+  "id": 80,
+  "price": 3200000,
+  "price_max": 3900000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Đặng Thuỳ Trăm",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp"
+  ],
+  "description": "Đặng Thuỳ Trăm Bình Thạnh\nTrống sẵn mã 3tr2\nMáy lạnh, tủ lạnh, quạt gió, tủ đồ, tủ chén\n89 bùi đình tuý bình thạnh\n3tr9 có máy lạnh kệ bếp",
+  "images": [
+   "data/img/hd_6c681bb4699b453b.jpg",
+   "data/img/hd_b812197cfa0b2fe6.jpg",
+   "data/img/hd_536814581b362f89.jpg",
+   "data/img/hd_ab0765b6eb2194e4.jpg",
+   "data/img/hd_1a482be15dd2f3e6.jpg",
+   "data/img/hd_9aceb73b204d8594.jpg",
+   "data/img/hd_a58c4bd8bca6a863.jpg",
+   "data/img/hd_6742bec8cc37fb12.jpg",
+   "data/img/hd_b0286604b20f2ab1.jpg",
+   "data/img/hd_114dd98f7535b8e0.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_da69a3f837403cfa.mp4",
+    "poster": "data/vid/v_da69a3f837403cfa.jpg"
+   }
+  ],
+  "updated": 1795663836
+ },
+ {
+  "id": 79,
+  "price": 4000000,
+  "price_max": 4000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 4",
+  "street": "Thích Quảng Đức",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt chung",
+   "máy lạnh",
+   "bếp",
+   "giờ giấc tự do",
+   "vân tay"
+  ],
+  "description": "Địa chỉ: Thích Quảng Đức, phường 4, Phú Nhuận\nGia 4tr có máy lạnh + tu lanh, kệ bếp\nM knuoi thú cưng, xe điện\nMáy giặt chung, wifi 6\nChi phí\nĐiện 3.8/Kwh; Nuớc: 120K/người; Dịch vụ: 200k/phòng 2 người\n34 free xe oe\nGiờ giấc tự do, ra vào vân tay , không chung chủ, máy giặt chung",
+  "images": [
+   "data/img/hd_8cda8a513e4810c3.jpg",
+   "data/img/hd_673923a399cc4fb8.jpg",
+   "data/img/hd_f1689c5ee08fec57.jpg"
+  ],
+  "videos": [],
+  "updated": 1795663806
+ },
+ {
+  "id": 78,
+  "price": 3800000,
+  "price_max": 3800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Nguyễn Văn Thương",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [],
+  "description": "Nguyễn Văn Thương\n446 lê Quang Định. Bình Thạnh\nNgày Trống\nMã :102\nGiá : 3tr8",
+  "images": [
+   "data/img/hd_20ec47ea087b12be.jpg",
+   "data/img/hd_20db113eb8ca94a2.jpg",
+   "data/img/hd_a16ede7877e9dad1.jpg",
+   "data/img/hd_9b17a3386f1c285c.jpg",
+   "data/img/hd_100eb78378e14a13.jpg",
+   "data/img/hd_2c5f6fc5e0402f3b.jpg",
+   "data/img/hd_2c5f6fc5e0402f3b.jpg",
+   "data/img/hd_100eb78378e14a13.jpg",
+   "data/img/hd_2c5f6fc5e0402f3b.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_b1d397fea98d81e8.mp4",
+    "poster": "data/vid/v_b1d397fea98d81e8.jpg"
+   }
+  ],
+  "updated": 1795663705
+ },
+ {
+  "id": 77,
+  "price": 3600000,
+  "price_max": 3800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Lê Quang Định",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy lạnh",
+   "bếp"
+  ],
+  "description": "3tr8 cửa số\nCó máy lạnh\nFree xe\nLê Quang Định Bình Thạnh\n3tr6\nMáy lạnh, kệ bếp\nLầu 4 thang bộ\n1 người ở",
+  "images": [
+   "data/img/hd_2aa79bb4c6682d8a.jpg",
+   "data/img/hd_f8678637caf8866e.jpg",
+   "data/img/hd_f8678637caf8866e.jpg",
+   "data/img/hd_2f1c56c547e49a51.jpg"
+  ],
+  "videos": [],
+  "updated": 1795663659
+ },
+ {
+  "id": 76,
+  "price": 4100000,
+  "price_max": 4200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Định Bộ Lĩnh",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy lạnh",
+   "bếp"
+  ],
+  "description": "155 nơ trang long\n4tr2\n4tr1 lầu 1\nMáy lạnh, kệ bếp\nFree xe\nĐịnh Bộ Lĩnh Bình Thạnh",
+  "images": [
+   "data/img/hd_27d0ded66c3e0364.jpg",
+   "data/img/hd_4cb4a43f6b165199.jpg",
+   "data/img/hd_b241a51a53143746.jpg",
+   "data/img/619fc012c7d58ded.jpg",
+   "data/img/hd_f40f51a80a7d3882.jpg",
+   "data/img/hd_953d4dd41563ab51.jpg",
+   "data/img/hd_953d4dd41563ab51.jpg",
+   "data/img/hd_953d4dd41563ab51.jpg",
+   "data/img/hd_c148d245c8f6c6b0.jpg",
+   "data/img/hd_b321a167a5e20c6c.jpg",
+   "data/img/hd_a3189159abe34858.jpg",
+   "data/img/hd_827c9563b55acc9b.jpg",
+   "data/img/hd_2df91aad751afc43.jpg",
+   "data/img/hd_1a3f4b02c31d3776.jpg"
+  ],
+  "videos": [],
+  "updated": 1795663536
+ },
+ {
   "id": 75,
   "price": 9200000,
   "price_max": 9200000,
