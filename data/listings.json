@@ -7,7 +7,7 @@
   "area": null,
   "district": "Tân Bình",
   "ward": null,
-  "street": "Trương Công Định Tân",
+  "street": "Trương Công Định",
   "type": null,
   "layout": "Studio / 1PN",
   "layouts": [
@@ -58,7 +58,7 @@
   "available": "Trống 1/12",
   "available_date": "2026-12-01",
   "amenities": [],
-  "description": "1/12 trống\nMã 1B\nNguồn D5, P25, Bình Thạnh\nNgay ĐH Ngoại Thương\nNhà có thang máy\nGiá 5.600.000 ( xe khách tự gửi ngoài cách nhà 20m, phí tự chịu )\nXem P 24/24\n80773771620 ( c. Loan ) - Minh\nAll",
+  "description": "1/12 trống\nMã 1B\nNguồn D5, P25, Bình Thạnh\nNgay ĐH Ngoại Thương\nNhà có thang máy\nGiá 5.600.000 ( xe khách tự gửi ngoài cách nhà 20m, phí tự chịu )\nXem P 24/24\nAll",
   "images": [
    "data/img/hd_d2c018d45d2dfec5.jpg",
    "data/img/hd_297c1cf22c01c357.jpg",
@@ -102,7 +102,7 @@
    "bếp",
    "nuôi thú cưng"
   ],
-  "description": "Mã căn: 302\nTình trạng: TRỐNG SẴN\nĐịa chỉ: Âu Cơ, p10, Tân Bình (hẻm XE TẢI, thông Âu Cơ - Ni Sư Huỳnh Liên)\nDạng phòng: 2pn Bancon, wc, bếp, phòng khách. Full nội thất (máy lạnh, tủ lạnh, tắm nước nóng, giường nệm, tủ\nquần áo, bàn ghế, bếp, máy giặt - phơi riêng)\nĐiện 4k/ký\nNước 100k/người\nPhí dịch vụ: 200k\nKHÔNG NUÔI PET, KHÔNG HÚT THUỐC, KO XE ĐIỆN\nFree 3 xe\nLiên hệ : Mr Hiệu, Bắc",
+  "description": "Mã căn: 302\nTình trạng: TRỐNG SẴN\nĐịa chỉ: Âu Cơ, p10, Tân Bình (hẻm XE TẢI, thông Âu Cơ - Ni Sư Huỳnh Liên)\nDạng phòng: 2pn Bancon, wc, bếp, phòng khách. Full nội thất (máy lạnh, tủ lạnh, tắm nước nóng, giường nệm, tủ\nquần áo, bàn ghế, bếp, máy giặt - phơi riêng)\nĐiện 4k/ký\nNước 100k/người\nPhí dịch vụ: 200k\nKHÔNG NUÔI PET, KHÔNG HÚT THUỐC, KO XE ĐIỆN\nFree 3 xe",
   "images": [
    "data/img/hd_53e12058de93c2e6.jpg",
    "data/img/hd_2a4a0e0412409fe9.jpg",
@@ -141,7 +141,7 @@
   "amenities": [
    "full nội thất"
   ],
-  "description": "PHÒNG 407 full nội thất trống sẵn\nfÑh Phú Mỹ P22 Q Bình Thạnh (gần Hàng Xanh, giáp ranh Quận 1, các Trường ĐH lớn, chợ, siêu thị đủ tiện ích).\nGiá phòng: 6.5tr/tháng\nÿHH: 50%- 80%\n[Phí dv 200k, Nước 100k, Điện 4k\nXe máy: free 1 xe, tối đa 2 xe.\nŒf1- Mr Thông\n2 - Mr Thanh",
+  "description": "PHÒNG 407 full nội thất trống sẵn\nfÑh Phú Mỹ P22 Q Bình Thạnh (gần Hàng Xanh, giáp ranh Quận 1, các Trường ĐH lớn, chợ, siêu thị đủ tiện ích).\nGiá phòng: 6.5tr/tháng\n[Phí dv 200k, Nước 100k, Điện 4k\nXe máy: free 1 xe, tối đa 2 xe.",
   "images": [
    "data/img/hd_4f62c2b7454b454f.jpg",
    "data/img/hd_4264ce721c53404f.jpg",
@@ -212,7 +212,7 @@
    "gác",
    "full nội thất"
   ],
-  "description": "Ấˆ HỒ XUÂN HƯƠNG, P14, BÌNH THẠNH\nGiá: 6Tr\nGác, Cửa sổ tròi, Full NT MỚI KENG\nTRỐNG: 407",
+  "description": "HỒ XUÂN HƯƠNG, P14, BÌNH THẠNH\nGiá: 6Tr\nGác, Cửa sổ tròi, Full NT MỚI KENG\nTRỐNG: 407",
   "images": [
    "data/img/hd_d0e267d756588cd4.jpg",
    "data/img/hd_bdf6c8d5f0d22434.jpg",
@@ -232,7 +232,7 @@
   "area": null,
   "district": "Bình Thạnh",
   "ward": null,
-  "street": null,
+  "street": "Nguyễn Cửu Vân",
   "type": null,
   "layout": "Studio / 1PN",
   "layouts": [
@@ -282,7 +282,7 @@
   "available": null,
   "available_date": null,
   "amenities": [],
-  "description": "2pn 2wc banconl, 2wc 14./9 đào duy anh Phú Nhuận",
+  "description": "2pn 2wc banconl, 2wc 14.000.000\nđào duy anh Phú Nhuận",
   "images": [
    "data/img/hd_00347f6bf053b567.jpg",
    "data/img/hd_8576d1194f99c84b.jpg",
@@ -400,7 +400,7 @@
    "máy lạnh",
    "tủ lạnh"
   ],
-  "description": "Tin nhắn chưa đọc\nTRỐNG 1 PHÒNG 7TR5 ( P102) - trống sẳn\nGÍA THƯƠNG LƯỢNG\nĐịa chỉ: Nguyễn Văn Nguyễn, p Tân Định, Quận 1.\n3Ý Số đt liên hệ : gặp chị Tuyết\nNội Thất: như hình , tất cả các phòng đều có Máy giặt, máy lạnh, tủ lạnh, máy nước nóng riêng.\nToà nhà thang máy, có balcony + Máy giặt riêng\n7,5 triệu ( có tolet, ban công)\nChính sách dịch vụ và quy định của tòa nhà\nDién: 4.000d/kwh\nNước : 150.000đ/người\nPhí dịch vụ : 150k/ phòng\nXe :Íree 2 xe\nPet :ko đc nuôi\nChính sách cọc và thanh toán tiền nhà\nHĐ 6 tháng cọc 1 tháng\n12 tháng cọc 1,5 tháng\nPhần trăm cho sale\n6 tháng 50%\n12 tháng 80%",
+  "description": "Tin nhắn chưa đọc\nTRỐNG 1 PHÒNG 7TR5 ( P102) - trống sẳn\nGÍA THƯƠNG LƯỢNG\nĐịa chỉ: Nguyễn Văn Nguyễn, p Tân Định, Quận 1.\nNội Thất: như hình , tất cả các phòng đều có Máy giặt, máy lạnh, tủ lạnh, máy nước nóng riêng.\nToà nhà thang máy, có balcony + Máy giặt riêng\n7,5 triệu ( có tolet, ban công)\nChính sách dịch vụ và quy định của tòa nhà\nDién: 4.000d/kwh\nNước : 150.000đ/người\nPhí dịch vụ : 150k/ phòng\nXe :Íree 2 xe\nPet :ko đc nuôi\nChính sách cọc và thanh toán tiền nhà\nHĐ 6 tháng cọc 1 tháng\n12 tháng cọc 1,5 tháng\nPhần trăm cho sale",
   "images": [
    "data/img/hd_0b73ad1719c82b4a.jpg",
    "data/img/hd_7e64bfeb5cbc1455.jpg",
@@ -421,7 +421,7 @@
   "area": 45.0,
   "district": "Phú Nhuận",
   "ward": null,
-  "street": null,
+  "street": "Đăng Văn Ngữ",
   "type": "căn hộ",
   "layout": "Studio / 1PN",
   "layouts": [
@@ -461,7 +461,7 @@
   "area": null,
   "district": "Quận 3",
   "ward": null,
-  "street": "Trần Quang Diệu Quận",
+  "street": "Trần Quang Diệu",
   "type": null,
   "layout": "Studio / 1PN",
   "layouts": [
@@ -510,7 +510,7 @@
    "bếp",
    "vân tay"
   ],
-  "description": "Đ/C: Nguyễn Thị Huỳnh , Phú Nhuận\nMã 10T1- Lầu 1 Duplex-Bancol\nGiá : 6.5tr - 29/11 trống\nĐiện 4k/Kwh, Nước: 100k/người, Dvu 150k.\nFull Nội thất: tủ lạnh, máy lạnh, tủ bếp trên dưới+ kệ chén, máy giặt riêng, bộ bàn học, nệm, tủ quần áo, quạt,\nnước nóng NLMT, Khoá vân tay, máy sấy...\nAce dẫn khách xem nhà liên hệ sđt Zalo/ ( Mr.Hậu)",
+  "description": "Đ/C: Nguyễn Thị Huỳnh , Phú Nhuận\nMã 10T1- Lầu 1 Duplex-Bancol\nGiá : 6.5tr - 29/11 trống\nĐiện 4k/Kwh, Nước: 100k/người, Dvu 150k.\nFull Nội thất: tủ lạnh, máy lạnh, tủ bếp trên dưới+ kệ chén, máy giặt riêng, bộ bàn học, nệm, tủ quần áo, quạt,\nnước nóng NLMT, Khoá vân tay, máy sấy...",
   "images": [
    "data/img/hd_b5de071638889fa4.jpg",
    "data/img/hd_2bfe0f180d7e36f6.jpg",
@@ -548,7 +548,7 @@
    "ban công",
    "full nội thất"
   ],
-  "description": "Â Dự án xây mới 100%\nĐiện Biên Phủ, P1, Q3 (Phường Bàn Cờ mới).\nGiá 9.2 Triệu\nPhòng 201,(Ban công căn góc)\nThang máy, Lầu 2 - (Trống).\nFull nội thất, máy giặt riêng\nThông Nguyễn Thiện Thuật Q3(Hẻm xe hơi).\n(Điện 4K| Nước 100k/ Người| PDV 200k/Phòng).\nMr Thanh\nĐịnh vị gần đúng",
+  "description": "Â Dự án xây mới 100%\nĐiện Biên Phủ, P1, Q3 (Phường Bàn Cờ mới).\nGiá 9.2 Triệu\nPhòng 201,(Ban công căn góc)\nThang máy, Lầu 2 - (Trống).\nFull nội thất, máy giặt riêng\nThông Nguyễn Thiện Thuật Q3(Hẻm xe hơi).\nĐịnh vị gần đúng",
   "images": [
    "data/img/hd_e28b92d99c7a322d.jpg",
    "data/img/hd_34e3e2b5d5ab5f75.jpg",
@@ -627,7 +627,7 @@
   "available": null,
   "available_date": null,
   "amenities": [],
-  "description": "AIll Khách pass P103 giá 5tr2 lầu 1 thang bộ.\nDắt khách liên hệ Quỳnh để hẹn xem phòng.\nĐịa chỉ: CMT8, P.13, Quận 10.\nKhông nhận xe điện nha các bạn.\nKhông nhận khách TƯ\nĐiện 4k và Nước 100k/người/tháng.\nMiễn phí dịch vụ dọn phòng 2 lần/tuần.\n(@ Liên hệ mở cửa: Quỳnh",
+  "description": "AIll Khách pass P103 giá 5tr2 lầu 1 thang bộ.\nĐịa chỉ: CMT8, P.13, Quận 10.\nKhông nhận xe điện nha các bạn.\nKhông nhận khách TƯ\nĐiện 4k và Nước 100k/người/tháng.\nMiễn phí dịch vụ dọn phòng 2 lần/tuần.",
   "images": [
    "data/img/hd_c8c38289f1e610f9.jpg",
    "data/img/hd_e6fcf110737b9f98.jpg",
@@ -694,7 +694,7 @@
   "available": "Trống 1/12",
   "available_date": "2026-12-01",
   "amenities": [],
-  "description": "Trần Văn Đang - P. Nhiêu Lộc - Quận 3 - TP. HCM (hẻm xe hơi tận nhà)\nMã phòng: L0I†\nGiá:5.800.000 (chốt 5tr5 cho khách ở 1 người)\nThang bộ tầng lửng\nĐiện: 4.000/\nNước 120.000đ/Người\nØ$ Dịch vụ (rác, wifi, vệ sinh chung, sấy...)\n200.000/phòng (1 người)\n250.000/phòng (2 người)\nFree 1 xe (xe thứ 2 - 150k/chiếc)\nGiặt sấy tầng trệt, giặt phơi sân thượng\nLiên hệ xem phòng\nI1/12/2026 Trống\nXem phòng vui lòng liên hệ trước\nÑ Chốt trong tháng 11 thưởng nóng 500k",
+  "description": "Trần Văn Đang - P. Nhiêu Lộc - Quận 3 - TP. HCM (hẻm xe hơi tận nhà)\nMã phòng: L0I†\nGiá:5.800.000 (chốt 5tr5 cho khách ở 1 người)\nThang bộ tầng lửng\nĐiện: 4.000/\nNước 120.000đ/Người\nØ$ Dịch vụ (rác, wifi, vệ sinh chung, sấy...)\n200.000/phòng (1 người)\n250.000/phòng (2 người)\nFree 1 xe (xe thứ 2 - 150k/chiếc)\nGiặt sấy tầng trệt, giặt phơi sân thượng\nI1/12/2026 Trống\nXem phòng vui lòng liên hệ trước\nÑ Chốt trong tháng 11 thưởng nóng 500k",
   "images": [
    "data/img/hd_5863a34d1c5ab9ee.jpg",
    "data/img/hd_bf93c67aefcd5bd6.jpg",
@@ -778,7 +778,7 @@
    "máy lạnh",
    "tủ lạnh"
   ],
-  "description": "Nhà CMT8 Quận Tân Bình, Phường Tân Sơn Nhất\n1⁄12 TRỐNG\ntŒ- &- đf- Mã 205: phòng rộng, gác cao, MÁY LẠNH, TỦ LẠNH Giá 4.6 Tr ( ưu tiên ở 1 xe)\nHD 1 năm Ÿ*Ÿ*Ÿ 7o%\nĐiện 4K\nNước 120/ng\nPhí dv 200/ phòng\nBB Ms Binh",
+  "description": "Nhà CMT8 Quận Tân Bình, Phường Tân Sơn Nhất\n1⁄12 TRỐNG\ntŒ- &- đf- Mã 205: phòng rộng, gác cao, MÁY LẠNH, TỦ LẠNH Giá 4.6 Tr ( ưu tiên ở 1 xe)\nĐiện 4K\nNước 120/ng\nPhí dv 200/ phòng",
   "images": [
    "data/img/92e0ea9eca66c111.jpg",
    "data/img/4dab4127d8a4b1ee.jpg",
@@ -1216,7 +1216,7 @@
   "available": null,
   "available_date": null,
   "amenities": [],
-  "description": "Vu Tuong Huy - Apex\nEM Giá thuê 13tr\nNhà hẻm 5x/ Nguyễn Thượng Hiền, P.5, Bình Thạnh ( P. Bình Lợi Trung)\nDiện tích: 3.2 x 7 (CN: 20.2m2) Hiện trạng 24m2 - SỬ DỤNG: 60m2\nKết cấu: Trệt Lầu + Lửng 2 Phòng ngủ 2 toilet\nHướng: Đông Bắc\nx_\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "description": "EM Giá thuê 13tr\nNhà hẻm 5x/ Nguyễn Thượng Hiền, P.5, Bình Thạnh ( P. Bình Lợi Trung)\nDiện tích: 3.2 x 7 (CN: 20.2m2) Hiện trạng 24m2 - SỬ DỤNG: 60m2\nKết cấu: Trệt Lầu + Lửng 2 Phòng ngủ 2 toilet\nHướng: Đông Bắc\nx_",
   "images": [
    "data/img/hd_723461c755efa05d.jpg",
    "data/img/hd_a076d5c611ccc392.jpg",
@@ -1252,7 +1252,7 @@
   "available": null,
   "available_date": null,
   "amenities": [],
-  "description": "Vu Tuong Huy - Apex\nQuốc Lộ 13, Bình Thạnh\n2PN 9tr5\nKo giới hạn ng và xe\nThang máy\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "description": "Quốc Lộ 13, Bình Thạnh\n2PN 9tr5\nKo giới hạn ng và xe\nThang máy",
   "images": [
    "data/img/hd_97b204cb7dd69472.jpg",
    "data/img/hd_79b000c65a54aa3d.jpg",
@@ -1284,7 +1284,7 @@
   "amenities": [
    "full nội thất"
   ],
-  "description": "Vu Tuong Huy - Apex\nVị trí: mặt tiền 630 lê quang định bình thạnh. Sát bên đh công nghiệp. Dh hutech và dh văn lang.\nGiá chốt 8tr3\nChi phí: Điện 4k, nước 120k/ người, dịch vụ 150k /người, xe 100k xe. Mã phòng 201, 301. Gồm 2 phòng ngủ.\nFull nội thất. Tủ lanh. Máy lanh. Tu quan ao. May giat. 2 giuong. 2 nệm. Thang máy.\nThú cưng : cho phép có cam kết\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "description": "Vị trí: mặt tiền 630 lê quang định bình thạnh. Sát bên đh công nghiệp. Dh hutech và dh văn lang.\nGiá chốt 8tr3\nChi phí: Điện 4k, nước 120k/ người, dịch vụ 150k /người, xe 100k xe. Mã phòng 201, 301. Gồm 2 phòng ngủ.\nFull nội thất. Tủ lanh. Máy lanh. Tu quan ao. May giat. 2 giuong. 2 nệm. Thang máy.\nThú cưng : cho phép có cam kết",
   "images": [
    "data/img/hd_9a7d73aad83f1be9.jpg",
    "data/img/hd_0c4fed477e8a7860.jpg",
@@ -1323,7 +1323,7 @@
    "máy giặt riêng",
    "bếp"
   ],
-  "description": "Nguyễn Gia Trí, Phường Thạnh Mỹ Tây\nđế- đ~ Mã 301: Căn 2 PN riêng, Bancol rộng, máy giặt riêng, cửa số bếp siêu thoáng Chốt 10T: * 3\nkêu bã người, 2 xe nha\nđf- #- Mã 302: Căn 2 PN riêng, phòng bếp, Giặt sấychung ______ Chốt8.9 Triệu $3 +\nLên ở 4ng. 2 xe nha\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "description": "Nguyễn Gia Trí, Phường Thạnh Mỹ Tây\nđế- đ~ Mã 301: Căn 2 PN riêng, Bancol rộng, máy giặt riêng, cửa số bếp siêu thoáng Chốt 10T: * 3\nkêu bã người, 2 xe nha\nđf- #- Mã 302: Căn 2 PN riêng, phòng bếp, Giặt sấychung ______ Chốt8.9 Triệu $3 +\nLên ở 4ng. 2 xe nha",
   "images": [
    "data/img/hd_75957b29bc168e23.jpg",
    "data/img/hd_ac22d7c4541e96c9.jpg",
@@ -1360,7 +1360,7 @@
   "amenities": [
    "full nội thất"
   ],
-  "description": "Vu Tuong Huy - Apex\n5tr7 trệt\n2PN riêng biệt\nFull nội thất\nFree xe\nPhạm Văn Đồng\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,\nX X X X cănhộ2PN40M2 Full NT Khu D",
+  "description": "5tr7 trệt\n2PN riêng biệt\nFull nội thất\nFree xe\nPhạm Văn Đồng\nX X X X cănhộ2PN40M2 Full NT Khu D",
   "images": [
    "data/img/hd_933eada5f6b7d446.jpg",
    "data/img/hd_edf3153cf5fa180d.jpg",
@@ -1398,7 +1398,7 @@
   "amenities": [
    "full nội thất"
   ],
-  "description": "Vu Tuong Huy - Apex\nĐặng Thuỳ Trâm, Phường 13, Bình Thạnh , HCM\nfÑtPhòng pent - 2 PN - bên cạnh Văn Lang CS3 - trống sẵn\nGiá : 6tr8\nFull NT - mặt tiền ô tô -thang máy - PCCC đạt chuẩn\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "description": "Đặng Thuỳ Trâm, Phường 13, Bình Thạnh , HCM\nfÑtPhòng pent - 2 PN - bên cạnh Văn Lang CS3 - trống sẵn\nGiá : 6tr8\nFull NT - mặt tiền ô tô -thang máy - PCCC đạt chuẩn",
   "images": [
    "data/img/hd_48f515a29dafec74.jpg",
    "data/img/hd_06e895ae066f9e1d.jpg",
@@ -1437,7 +1437,7 @@
    "full nội thất",
    "giờ giấc tự do"
   ],
-  "description": "Vu Tuong Huy - Apex\n2PN ( cửa số, ban công ) lầu 4, thang máy\nGiá : 8tr9 ( chốt nhanh fix 8tr5 )\nĐ/c : đường 9, Hiệp bình Chánh\nFull Nội thất , Giờ giấc tự do , Không chung chủ\nĐiện 4k , nước 100k/ng , dvu 200k/phòng ( Free xe )\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "description": "2PN ( cửa số, ban công ) lầu 4, thang máy\nGiá : 8tr9 ( chốt nhanh fix 8tr5 )\nĐ/c : đường 9, Hiệp bình Chánh\nFull Nội thất , Giờ giấc tự do , Không chung chủ\nĐiện 4k , nước 100k/ng , dvu 200k/phòng ( Free xe )",
   "images": [
    "data/img/hd_0961e76eb805a246.jpg",
    "data/img/hd_9caef9fc1c580bfb.jpg",
@@ -1468,7 +1468,7 @@
   "amenities": [
    "ban công"
   ],
-  "description": "Vu Tuong Huy - Apex\n236 điện biên phủ bình thạnh\n2Pn ban công 12tr2\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "description": "236 điện biên phủ bình thạnh\n2Pn ban công 12tr2",
   "images": [
    "data/img/hd_bd1b51d27041f6e7.jpg",
    "data/img/hd_047575b94ff794f0.jpg",
@@ -1513,7 +1513,7 @@
    "máy lạnh",
    "bếp"
   ],
-  "description": "Vu Tuong Huy - Apex\n150 chu văn an\nh Mã phòng G0! - 2pn\ntách bếp + 1wc_ Giá chốt\n7,5tr _ 2 máy lạnh_ Tầng\ntrệt\nChốt 7tr\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,\nCHDV MỚI 100% (7 căn 2 Phòng ngủ )\nĐịa chỉ : Nguyên Hồng, Phường T1, Bình Thạnh\nP001, Tâng Trệt có 2 phòng ngủ , Cửa sổ, full nội thất\nGiá : 6tr2 (nhận 3xe)\nĐiện: 4k\nNước: 120k/người\nDv: 200k/phòng\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "description": "150 chu văn an\nh Mã phòng G0! - 2pn\ntách bếp + 1wc_ Giá chốt\n7,5tr _ 2 máy lạnh_ Tầng\ntrệt\nChốt 7tr\nCHDV MỚI 100% (7 căn 2 Phòng ngủ )\nĐịa chỉ : Nguyên Hồng, Phường T1, Bình Thạnh\nP001, Tâng Trệt có 2 phòng ngủ , Cửa sổ, full nội thất\nGiá : 6tr2 (nhận 3xe)\nĐiện: 4k\nNước: 120k/người\nDv: 200k/phòng",
   "images": [
    "data/img/hd_5b3663e8cf4fee60.jpg",
    "data/img/hd_66e45033360db92a.jpg",
@@ -1552,7 +1552,7 @@
   "amenities": [
    "full nội thất"
   ],
-  "description": "Quốc Lộ 13 Bình Thạnh\nTRỐNG SẲN STUDIO - 203A - 408 FULL NỘI THẤT GIẢM GIÁ SỐC 5tr TRONG THÁNG\nThang máy\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "description": "Quốc Lộ 13 Bình Thạnh\nTRỐNG SẲN STUDIO - 203A - 408 FULL NỘI THẤT GIẢM GIÁ SỐC 5tr TRONG THÁNG\nThang máy",
   "images": [
    "data/img/hd_c18a17b38f58605f.jpg",
    "data/img/hd_94693c29d35ee718.jpg",
@@ -1588,7 +1588,7 @@
    "giờ giấc tự do",
    "vân tay"
   ],
-  "description": "Dich vu:200k/phong\nGiờ giấc tự do, ra vào vân tay\nKhông nhận xe điện\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,\n445 Nơ Trang Long quận Bình Thạnh ngay văn lang cs3 ( Studio ban công full nội thất giá 5tr )\nThang máy\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,\nKhai trương dự án Nguyễn gia trí. Bình Thạnh\n5tr5\nNội thất: Giường. Nệm. Máy lạnh. Tủ lạnh . Kệ bếp. Máy nóng lạnh. Tủ đồ\nTrống sẵn. Có thể ở liền.\nHẻm ô tô.\nĐiện 4k\nNước 100k/ng\nDV 200k/p\nXe 100k/c\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "description": "Dich vu:200k/phong\nGiờ giấc tự do, ra vào vân tay\nKhông nhận xe điện\n445 Nơ Trang Long quận Bình Thạnh ngay văn lang cs3 ( Studio ban công full nội thất giá 5tr )\nThang máy\nKhai trương dự án Nguyễn gia trí. Bình Thạnh\n5tr5\nNội thất: Giường. Nệm. Máy lạnh. Tủ lạnh . Kệ bếp. Máy nóng lạnh. Tủ đồ\nTrống sẵn. Có thể ở liền.\nHẻm ô tô.\nĐiện 4k\nNước 100k/ng\nDV 200k/p\nXe 100k/c",
   "images": [
    "data/img/hd_0009244a38bf2655.jpg",
    "data/img/hd_1f72071688b565d5.jpg",
@@ -1631,7 +1631,7 @@
   "available": null,
   "available_date": null,
   "amenities": [],
-  "description": "Vu Tuong Huy - Apex\nGiá 4tr6\nĐịa chỉ: Bùi Đình Tuý, Bình Thạnh\nMã phòng: 202 - cuối thang trống\nĐiện: 4k/kWh\n150k/ người",
+  "description": "Giá 4tr6\nĐịa chỉ: Bùi Đình Tuý, Bình Thạnh\nMã phòng: 202 - cuối thang trống\nĐiện: 4k/kWh\n150k/ người",
   "images": [],
   "videos": [],
   "updated": 1795582703
@@ -1659,7 +1659,7 @@
    "tủ lạnh",
    "bếp"
   ],
-  "description": "Địa chỉ dự án: Đường Nơ Trang Long, Phường Gia Định, Thành phố Hồ Chí Minh\nGiá phòng: 5,200,000\nSố tiền cọc: 5tr2\nMã phòng: 202\nNgày dọn đi: 01/12\nNội thất: bếp từ, kệ bếp , bồn rửa chén, tủ bếp, tủ lạnh, tủ áo quần, giường ,nệm, máy lạnh, điều kiển máy lạnh\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "description": "Địa chỉ dự án: Đường Nơ Trang Long, Phường Gia Định, Thành phố Hồ Chí Minh\nGiá phòng: 5,200,000\nSố tiền cọc: 5tr2\nMã phòng: 202\nNgày dọn đi: 01/12\nNội thất: bếp từ, kệ bếp , bồn rửa chén, tủ bếp, tủ lạnh, tủ áo quần, giường ,nệm, máy lạnh, điều kiển máy lạnh",
   "images": [
    "data/img/hd_415c721e0ce8a2de.jpg",
    "data/img/hd_62e218b1d17a488e.jpg",
@@ -1696,7 +1696,7 @@
   "available": null,
   "available_date": null,
   "amenities": [],
-  "description": "Vu Tuong Huy - Apex\nT13 võ duy ninh bình thạnh\nGiảm 5tr5\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "description": "T13 võ duy ninh bình thạnh\nGiảm 5tr5",
   "images": [
    "data/img/hd_c4bb69241e15caf3.jpg",
    "data/img/hd_ae08a9e27ef775d8.jpg",
@@ -1739,7 +1739,7 @@
    "giờ giấc tự do",
    "bảo vệ"
   ],
-  "description": "Địa chỉ: Đặng Thùy Trâm, Bình Thạnh\nN'201: 4tr4 (ĐANG TRỐNG)\nChỉ tiết\nPallet, nệm, tủ bếp, máy lạnh, wc riêng, cửa số\nLưu ý: Những đồ còn lại dùng để decor\nChỉ phí\nĐiện: 4k/kw\nNước: 100k/người\nPhí dịch vụ chung: 200k/phòng\nXe: 120k/chiếc\nToà nhà có bảo vệ, máy giặt chung\nGiờ giấc tự do\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "description": "Địa chỉ: Đặng Thùy Trâm, Bình Thạnh\nN'201: 4tr4 (ĐANG TRỐNG)\nChỉ tiết\nPallet, nệm, tủ bếp, máy lạnh, wc riêng, cửa số\nLưu ý: Những đồ còn lại dùng để decor\nChỉ phí\nĐiện: 4k/kw\nNước: 100k/người\nPhí dịch vụ chung: 200k/phòng\nXe: 120k/chiếc\nToà nhà có bảo vệ, máy giặt chung\nGiờ giấc tự do",
   "images": [
    "data/img/hd_6687908b8709ac48.jpg",
    "data/img/hd_6f6d6e21bd9ad06f.jpg",
@@ -1807,7 +1807,7 @@
   "area": null,
   "district": "Bình Thạnh",
   "ward": null,
-  "street": "Nguyễn Thượng Hiền Bình",
+  "street": "Nguyễn Thượng Hiền",
   "type": null,
   "layout": "Studio",
   "layouts": [
@@ -1818,7 +1818,7 @@
   "available": null,
   "available_date": null,
   "amenities": [],
-  "description": "Nguyễn Thượng Hiền Bình Thạnh\n4tr3\nThang máy\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "description": "Nguyễn Thượng Hiền Bình Thạnh\n4tr3\nThang máy",
   "images": [
    "data/img/hd_9120615e4f9e2e92.jpg",
    "data/img/hd_dd58a253e64de692.jpg",
@@ -1847,7 +1847,7 @@
   "area": null,
   "district": "Bình Thạnh",
   "ward": null,
-  "street": "Nơ Trang Long Bình",
+  "street": "Nơ Trang Long",
   "type": null,
   "layout": "Gác (duplex)",
   "layouts": [
@@ -1858,7 +1858,7 @@
   "available": null,
   "available_date": null,
   "amenities": [],
-  "description": "Nơ Trang Long Bình Thạnh\n5tr\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "description": "Nơ Trang Long Bình Thạnh\n5tr",
   "images": [
    "data/img/hd_bff8f76060d325eb.jpg",
    "data/img/hd_567948eab78ad721.jpg",
@@ -1894,7 +1894,7 @@
    "chỗ để xe",
    "bảo vệ"
   ],
-  "description": "Địa chỉ : Vũ Tùng Bình Thạnh\nGiá : 5tr\nFull nội thất . Thang máy hầm xe bảo vệ 24/24\nDịch vụ : Điện 4k . Nước 100k/ người . Wifi 100k/ phòng . Giặt : 100k/ phòng ( Nếu dùng ) . Xe free 2 chiếc (chiếc\nt3 phụ thu thêm )\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,\nTrống lại mã : 106 ( I1)\nGiá: 5tr\nRộng 30m2\nFull nội thất cơ bản\nGác cao rộng\nĐc: Bình Quới p.Bình Thạnh\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "description": "Địa chỉ : Vũ Tùng Bình Thạnh\nGiá : 5tr\nFull nội thất . Thang máy hầm xe bảo vệ 24/24\nDịch vụ : Điện 4k . Nước 100k/ người . Wifi 100k/ phòng . Giặt : 100k/ phòng ( Nếu dùng ) . Xe free 2 chiếc (chiếc\nt3 phụ thu thêm )\nTrống lại mã : 106 ( I1)\nGiá: 5tr\nRộng 30m2\nFull nội thất cơ bản\nGác cao rộng\nĐc: Bình Quới p.Bình Thạnh",
   "images": [
    "data/img/hd_b1252c6fa2c5b184.jpg",
    "data/img/hd_df62c7333ea591cf.jpg",
@@ -1914,7 +1914,7 @@
   "area": null,
   "district": "Bình Thạnh",
   "ward": null,
-  "street": "Chu Văn An Bình",
+  "street": "Chu Văn An",
   "type": null,
   "layout": "Gác (duplex)",
   "layouts": [
@@ -1925,7 +1925,7 @@
   "available": null,
   "available_date": null,
   "amenities": [],
-  "description": "Chu Văn An Bình Thạnh\nGiảm 4tr8\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,\nChu Văn An Bình Thạnh\nGiảm 4tr2\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "description": "Chu Văn An Bình Thạnh\nGiảm 4tr8\nChu Văn An Bình Thạnh\nGiảm 4tr2",
   "images": [
    "data/img/hd_00400390ad1ad583.jpg",
    "data/img/hd_0cb1994d92aa7b76.jpg",
@@ -1961,7 +1961,7 @@
    "gác",
    "full nội thất"
   ],
-  "description": "Xô Viết Nghệ Tĩnh ngay đại học Hutech ( có gác full nội thất giá 5tr3 )\nThang máy\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "description": "Xô Viết Nghệ Tĩnh ngay đại học Hutech ( có gác full nội thất giá 5tr3 )\nThang máy",
   "images": [
    "data/img/hd_04239e888375c55a.jpg",
    "data/img/hd_6923377a881fde3a.jpg",
@@ -2003,7 +2003,7 @@
    "máy lạnh",
    "bếp"
   ],
-  "description": "Vu Tuong Huy - Apex\nĐặng Thuỳ Trâm, P13, B.Thanh\nDuplex - Cửa Số\n3(P2A2 --> 4tr500\n4tr2 (Trống sẵn)\nNội thất: Máy lạnh, Kệ bếp, tủ bếp dưới, tủ quần áo.\nDién: 3.800 d/kwh\nNước: 100.000 đ/người\nDịch vụ: 150.000 đ/ phòng\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "description": "Đặng Thuỳ Trâm, P13, B.Thanh\nDuplex - Cửa Số\n3(P2A2 --> 4tr500\n4tr2 (Trống sẵn)\nNội thất: Máy lạnh, Kệ bếp, tủ bếp dưới, tủ quần áo.\nDién: 3.800 d/kwh\nNước: 100.000 đ/người\nDịch vụ: 150.000 đ/ phòng",
   "images": [
    "data/img/hd_3b523f86324c05d6.jpg",
    "data/img/hd_95662616de82a378.jpg",
@@ -2047,7 +2047,7 @@
    "máy lạnh",
    "bếp"
   ],
-  "description": "TRỐNG SẴN PHÒNG MỚI - MÃ PHÒNG 47306\nĐịa chỉ: Bùi Đình Túy\nñ T3 nhà mới thang máy - Máy lạnh - Gác - Kệ bếp - Cửa sổ\nBlGiá: 4tr 7tháng.\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,\n5tr trệt\nFull nội thất\n31 Ủng Văn Khiêm\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "description": "TRỐNG SẴN PHÒNG MỚI - MÃ PHÒNG 47306\nĐịa chỉ: Bùi Đình Túy\nñ T3 nhà mới thang máy - Máy lạnh - Gác - Kệ bếp - Cửa sổ\nBlGiá: 4tr 7tháng.\n5tr trệt\nFull nội thất\n31 Ủng Văn Khiêm",
   "images": [
    "data/img/hd_523f766d87db29e0.jpg",
    "data/img/hd_28b1034182e7b9c5.jpg",
@@ -2092,7 +2092,7 @@
    "máy lạnh",
    "bếp"
   ],
-  "description": "Bùi Đình Túy, P.14, Bình Thạnh (gần chợ, khu vực trung tâm, thuận tiện đi q1, gò vấp, q2)\nếˆ Mã phòng: 209 - 5tr - TRỐNG - DuplexgáccOo 77777 7s\nỰ4 Nội thất: Cửa số thông tầng, Máy lạnh, kệ bếp, máy nước nóng lạnh, tủ quần áo\nỰ4 Điện 4/kWh ô Nước 100k/người $> PDV 200k/phòng, xe 150K/ chiếc.\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "description": "Bùi Đình Túy, P.14, Bình Thạnh (gần chợ, khu vực trung tâm, thuận tiện đi q1, gò vấp, q2)\nMã phòng: 209 - 5tr - TRỐNG - DuplexgáccOo 77777 7s\nỰ4 Nội thất: Cửa số thông tầng, Máy lạnh, kệ bếp, máy nước nóng lạnh, tủ quần áo\nỰ4 Điện 4/kWh ô Nước 100k/người $> PDV 200k/phòng, xe 150K/ chiếc.",
   "images": [
    "data/img/hd_3a7306c825e4d41d.jpg",
    "data/img/hd_c98ceb88214a126e.jpg",
@@ -2131,7 +2131,7 @@
    "máy lạnh",
    "bếp"
   ],
-  "description": "Vu Tuong Huy - Apex\nBùi Đình Túy, P.12, Bình Thạnh (gần chợ, khu vực trung tâm, thuận tiện đi q1, gò vấp, q2)\nẤˆ Mã phòng: 208 - 5tr - TRỐNG SẴN- Duplex\nỰ4 Nội thất: Cửa sổ hành lang thoáng mát, Máy lạnh, kệ bếp, máy nước nóng lạnh, tủ quần áo\nĐiện 4/kWh Nước 100K/người PDV 200k/phòng, xe 150K/ chiếc. Giặt: 20.000/1 lần\nBùi Đình Túy, P.12, Bình Thạnh (gần chợ, khu vực trung tâm, thuận tiện đi q1, gò vấp, q2)\nẤˆ Mã phòng: 102 - 4tr8 - TRỐNG - Duplex\nỰ4 Nội thất: Cửa sổ hành lang thoáng mát, Máy lạnh, kệ bếp, máy nước nóng lạnh, tủ quần áo\nẤˆ Điện 4/kWh Nước 100K/người s PDV 200k/phòng, xe 150K/ chiếc.fÊGiặt: 20.000/1 lần\nBùi Đình Túy, P.12, Bình Thạnh (gần chợ, khu vực trung tâm, thuận tiện đi q1, gò vấp, q2)\nẤƒ Mã phòng: 310 - 4tr3 - TRỐNG SẴN - Duplex\nỰ4 Nội thất: Cửa sổ hành lang thoáng mát, Máy lạnh, kệ bếp, máy nước nóng lạnh, tủ quần áo\nẤˆ Điện 4/kWh Nước 100K/người s PDV 200k/phòng, xe 150K/ chiếc.fÊGiặt: 20.000/1 lần",
+  "description": "Bùi Đình Túy, P.12, Bình Thạnh (gần chợ, khu vực trung tâm, thuận tiện đi q1, gò vấp, q2)\nMã phòng: 208 - 5tr - TRỐNG SẴN- Duplex\nỰ4 Nội thất: Cửa sổ hành lang thoáng mát, Máy lạnh, kệ bếp, máy nước nóng lạnh, tủ quần áo\nĐiện 4/kWh Nước 100K/người PDV 200k/phòng, xe 150K/ chiếc. Giặt: 20.000/1 lần\nBùi Đình Túy, P.12, Bình Thạnh (gần chợ, khu vực trung tâm, thuận tiện đi q1, gò vấp, q2)\nMã phòng: 102 - 4tr8 - TRỐNG - Duplex\nỰ4 Nội thất: Cửa sổ hành lang thoáng mát, Máy lạnh, kệ bếp, máy nước nóng lạnh, tủ quần áo\nĐiện 4/kWh Nước 100K/người s PDV 200k/phòng, xe 150K/ chiếc.fÊGiặt: 20.000/1 lần\nBùi Đình Túy, P.12, Bình Thạnh (gần chợ, khu vực trung tâm, thuận tiện đi q1, gò vấp, q2)\nẤƒ Mã phòng: 310 - 4tr3 - TRỐNG SẴN - Duplex\nỰ4 Nội thất: Cửa sổ hành lang thoáng mát, Máy lạnh, kệ bếp, máy nước nóng lạnh, tủ quần áo\nĐiện 4/kWh Nước 100K/người s PDV 200k/phòng, xe 150K/ chiếc.fÊGiặt: 20.000/1 lần",
   "images": [
    "data/img/hd_2a0e838c6889fd90.jpg",
    "data/img/hd_ac0f1880f7c9807f.jpg",
@@ -2173,7 +2173,7 @@
    "máy giặt riêng",
    "chỗ để xe"
   ],
-  "description": "pa Ma : 102\nfÑĐia chỉ: Đặng Thuỳ Trâm\nE]Giá:5tr8( điện 4k, nước 100k/ng, dịch vụ 200k)\nThang máy, hầm xe\nfa Ma : 301\nfÑĐia chỉ: Đặng Thuỳ Trâm\nEmj]Giá :6tr8( điện 4k, nước 100k/ng, dịch vụ 200k)\nThang máy, hầm xe, máy giặt riêng\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "description": "pa Ma : 102\nfÑĐia chỉ: Đặng Thuỳ Trâm\nE]Giá:5tr8( điện 4k, nước 100k/ng, dịch vụ 200k)\nThang máy, hầm xe\nfa Ma : 301\nfÑĐia chỉ: Đặng Thuỳ Trâm\nEmj]Giá :6tr8( điện 4k, nước 100k/ng, dịch vụ 200k)\nThang máy, hầm xe, máy giặt riêng",
   "images": [
    "data/img/hd_da045ec9a33ef15c.jpg",
    "data/img/hd_079a65b6787bb4b2.jpg",
@@ -2218,7 +2218,7 @@
    "ban công",
    "full nội thất"
   ],
-  "description": "Vu Tuong Huy - Apex\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,\n5tr2 ban công\nFull nội thất\nChỉ tính điện nước\nNguyễn Hữu Cảnh\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "description": "5tr2 ban công\nFull nội thất\nChỉ tính điện nước\nNguyễn Hữu Cảnh",
   "images": [
    "data/img/hd_6db319ed5eb2e4ed.jpg",
    "data/img/hd_2c4b66bcf0318f8c.jpg",
@@ -2246,7 +2246,7 @@
   "area": null,
   "district": "Bình Thạnh",
   "ward": "Phường 13",
-  "street": "Điện Biên Phủ Bình",
+  "street": "Điện Biên Phủ",
   "type": "studio",
   "layout": "Studio",
   "layouts": [
@@ -2262,7 +2262,7 @@
    "máy lạnh",
    "bếp"
   ],
-  "description": "Điện Biên Phủ Bình Thạnh\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,\n554 Phạm Văn Đồng, P13, B.Thanh\nế~ Ngay cầu Bình Lợi, Trang bị thang máy.\nStudio - Cửa sổ LỚN\n3 P 101 --> 5tr00\n4tr200\nMáy lạnh, tủ bếp, tủ quần áo, tủ sách, bàn, tủ giày. Máy giặt chung.\nDién: 3.800 d/kwh\nNước: 100.000/người\nDịch vụ: 180.000 đ / phòng\nXe: 2 xe (Free)\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "description": "Điện Biên Phủ Bình Thạnh\n554 Phạm Văn Đồng, P13, B.Thanh\nế~ Ngay cầu Bình Lợi, Trang bị thang máy.\nStudio - Cửa sổ LỚN\n3 P 101 --> 5tr00\n4tr200\nMáy lạnh, tủ bếp, tủ quần áo, tủ sách, bàn, tủ giày. Máy giặt chung.\nDién: 3.800 d/kwh\nNước: 100.000/người\nDịch vụ: 180.000 đ / phòng\nXe: 2 xe (Free)",
   "images": [
    "data/img/hd_3fe59b07f3b50302.jpg",
    "data/img/hd_4d4b54876181f82c.jpg",
@@ -2288,7 +2288,7 @@
   "area": null,
   "district": "Bình Thạnh",
   "ward": null,
-  "street": "Phan Bội Châu Bình",
+  "street": "Phan Bội Châu",
   "type": null,
   "layout": "Studio",
   "layouts": [
@@ -2301,7 +2301,7 @@
   "amenities": [
    "máy lạnh"
   ],
-  "description": "Vu Tuong Huy - Apex\n4tr trệt\nCó máy lạnh\nPhan Bội Châu Bình Thạnh\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,\n3tr6\nCó máy lạnh\nPhan Bội Châu Bình Thạnh\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,\n3tr5\nK nội thất",
+  "description": "4tr trệt\nCó máy lạnh\nPhan Bội Châu Bình Thạnh\n3tr6\nCó máy lạnh\nPhan Bội Châu Bình Thạnh\n3tr5\nK nội thất",
   "images": [
    "data/img/hd_78f35d737a0d415d.jpg",
    "data/img/hd_45372fe67102c843.jpg",
@@ -2327,7 +2327,7 @@
   "area": null,
   "district": "Bình Thạnh",
   "ward": null,
-  "street": "Đinh Bộ Lĩnh Bình",
+  "street": "Đinh Bộ Lĩnh",
   "type": null,
   "layout": "Gác (duplex)",
   "layouts": [
@@ -2341,7 +2341,7 @@
    "ban công",
    "gác"
   ],
-  "description": "Đinh Bộ Lĩnh Bình Thạnh\nĐang trống mã gác ban công\n4tr2\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "description": "Đinh Bộ Lĩnh Bình Thạnh\nĐang trống mã gác ban công\n4tr2",
   "images": [
    "data/img/hd_8138e1a5b60bd91d.jpg",
    "data/img/hd_f621d12c44364a3e.jpg"
@@ -2357,7 +2357,7 @@
   "area": null,
   "district": "Bình Thạnh",
   "ward": null,
-  "street": "Định Bộ Lĩnh Bình",
+  "street": "Định Bộ Lĩnh",
   "type": null,
   "layout": "Studio",
   "layouts": [
@@ -2368,7 +2368,7 @@
   "available": "Trống sẵn",
   "available_date": null,
   "amenities": [],
-  "description": "Vu Tuong Huy - Apex\nĐịnh Bộ Lĩnh Bình Thạnh\nĐang trống 2 mã\n3tr8/ phòng",
+  "description": "Định Bộ Lĩnh Bình Thạnh\nĐang trống 2 mã\n3tr8/ phòng",
   "images": [],
   "videos": [
    {
@@ -2397,7 +2397,7 @@
   "available": null,
   "available_date": null,
   "amenities": [],
-  "description": "Vu Tuong Huy - Apex\nĐặng Thuỳ Trâm\nGiá 3tr5\nĐiện 3k8\nNước khối\nRác wf 90k/1p\nGiặt 100k/1ng - 150k/2ng\nXe free\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,\n295 nguyễn gia trí\nStudio Nhỏ Pull Nội thất\n3tr9 ( đầy đủ Thang máy .\nmáy giặt . nước nóng lạnh\nở ngay cuối Nguyễn\nGia Trí (D2) thuận tiện\nsang các quận khác trung\ntâm gần ngoại thương .\nGTVT. Hutech ...\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "description": "Đặng Thuỳ Trâm\nGiá 3tr5\nĐiện 3k8\nNước khối\nRác wf 90k/1p\nGiặt 100k/1ng - 150k/2ng\nXe free\n295 nguyễn gia trí\nStudio Nhỏ Pull Nội thất\n3tr9 ( đầy đủ Thang máy .\nmáy giặt . nước nóng lạnh\nở ngay cuối Nguyễn\nGia Trí (D2) thuận tiện\nsang các quận khác trung\ntâm gần ngoại thương .\nGTVT. Hutech ...",
   "images": [
    "data/img/hd_e57c75338e0be4a8.jpg"
   ],
@@ -2431,7 +2431,7 @@
    "máy lạnh",
    "bếp"
   ],
-  "description": "Vu Tuong Huy - Apex\nCập Nhật Phòng Trống Nguyễn Văn Đậu @AII\nMã Phòng : 101 - 3tr8 - TRỐNG SẴN.. Dắt khách 24/24\n3tr\nMáy lạnh, kệ bếp\nFree xe",
+  "description": "Cập Nhật Phòng Trống Nguyễn Văn Đậu @AII\nMã Phòng : 101 - 3tr8 - TRỐNG SẴN.. Dắt khách 24/24\n3tr\nMáy lạnh, kệ bếp\nFree xe",
   "images": [
    "data/img/hd_6b5cc90a901ec39b.jpg",
    "data/img/hd_42976f31d2641e4b.jpg",
@@ -2449,7 +2449,7 @@
   "area": null,
   "district": "Gò Vấp",
   "ward": "Phường 1",
-  "street": "Trương Đăng Quế P1",
+  "street": "Trương Đăng Quế",
   "type": null,
   "layout": "Studio",
   "layouts": [
@@ -2464,7 +2464,7 @@
    "bếp",
    "giờ giấc tự do"
   ],
-  "description": "Vu Tuong Huy - Apex\nĐịa chỉ trương Đăng quế p1 Gò Vấp\nNgay Phạm Văn Đồng Bình Thạnh luôn nha\nGiá rẻ\nĐang trống sẵn\nFull NT\nGiá Thuê 4tr2 cho khách ở liền Lầu 1\nĐiện 4k\nNước 100k/ng\nPhí DV 200k/phòng\nXe free 2 xe\nCó máy giặt máy sấy giờ giấc tự do ko chung chủ\nHồ trợ lắm bếp cho khách nếu cần '+ f\\+\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "description": "Địa chỉ trương Đăng quế p1 Gò Vấp\nNgay Phạm Văn Đồng Bình Thạnh luôn nha\nGiá rẻ\nĐang trống sẵn\nFull NT\nGiá Thuê 4tr2 cho khách ở liền Lầu 1\nĐiện 4k\nNước 100k/ng\nPhí DV 200k/phòng\nXe free 2 xe\nCó máy giặt máy sấy giờ giấc tự do ko chung chủ\nHồ trợ lắm bếp cho khách nếu cần '+ f\\+",
   "images": [
    "data/img/hd_e42f2a79d5fbb4d5.jpg",
    "data/img/hd_50174b5f169a697f.jpg",
@@ -2503,7 +2503,7 @@
    "máy giặt riêng",
    "full nội thất"
   ],
-  "description": "Vu Tuong Huy - Apex\n4tr3 trệt\nFull nội thất\nMáy giặt riêng\nT14 Dương Quảng Hàm Gò Vấp\nCạnh Văn Lang cs3\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "description": "4tr3 trệt\nFull nội thất\nMáy giặt riêng\nT14 Dương Quảng Hàm Gò Vấp\nCạnh Văn Lang cs3",
   "images": [
    "data/img/hd_ee2096872ea1cc34.jpg",
    "data/img/hd_a90e2e27dcbffca2.jpg",
@@ -2536,7 +2536,7 @@
   "amenities": [
    "gác"
   ],
-  "description": "L- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,\nVõ Oanh Bình Thạnh\nGác 4tr2\nL- ]DI| 5 4 bi|HI| ^ II Ô 4H] 2| 2 jgiÌEl 2 II Ô| 7[-,",
+  "description": "Võ Oanh Bình Thạnh\nGác 4tr2",
   "images": [
    "data/img/59f0856997400c5e.jpg",
    "data/img/c98f853859b784ea.jpg",
