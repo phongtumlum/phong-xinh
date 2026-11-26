@@ -1,5 +1,240 @@
 [
  {
+  "id": 95,
+  "price": 8500000,
+  "price_max": 8500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Nguyễn Gia Trí",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "chỗ để xe"
+  ],
+  "description": "Nguyễn Gia Trí Bình Thạnh\n8tr5\nThang máy hầm xe",
+  "images": [
+   "data/img/hd_20f433934587cf7c.jpg",
+   "data/img/hd_772313de0716b2ec.jpg",
+   "data/img/hd_a88cf8f721fad243.jpg",
+   "data/img/hd_c2ec0534e15e1465.jpg",
+   "data/img/hd_f260d97cd716cccf.jpg",
+   "data/img/hd_7d016b88c9351273.jpg",
+   "data/img/hd_f114c070944f4e8d.jpg",
+   "data/img/hd_ea6cf5bccedade73.jpg"
+  ],
+  "videos": [],
+  "updated": 1795664848
+ },
+ {
+  "id": 93,
+  "price": 5500000,
+  "price_max": 5500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Lê Quang Định",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "gác",
+   "chỗ để xe",
+   "vân tay"
+  ],
+  "description": "DỰ ÁN MỚI GIẢM GIÁ 500K/PHÒNG\nLê Quang Định - Bình Thạnh\nDuplex 5tr5\nThang máy hầm xe\nCửa vân tay phòng",
+  "images": [
+   "data/img/hd_9b4eacd9874d6158.jpg",
+   "data/img/hd_1faf2cf76aa83a4a.jpg",
+   "data/img/hd_23be286b56b64c80.jpg",
+   "data/img/hd_6885c9ee35f72faf.jpg",
+   "data/img/hd_fed647c5bb828149.jpg",
+   "data/img/hd_7a792f44411c5e7b.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_528554ed5d334704.mp4",
+    "poster": "data/vid/v_528554ed5d334704.jpg"
+   }
+  ],
+  "updated": 1795664778
+ },
+ {
+  "id": 92,
+  "price": 6800000,
+  "price_max": 6800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Lê Quang Định",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "gác",
+   "chỗ để xe",
+   "vân tay"
+  ],
+  "description": "DỰ ÁN MỚI GIẢM GIÁ 500K/PHÒNG\nLê Quang Định - Bình Thạnh\nDuplex 2 khu vực ngủ + máy giặt riêng 6tr8\nThang máy hầm xe\nCửa vân tay phòng",
+  "images": [
+   "data/img/hd_9314308ddf79b285.jpg",
+   "data/img/hd_4a17cb992716c282.jpg",
+   "data/img/hd_a093b4bb1c489b21.jpg",
+   "data/img/hd_48983bc898e7aee8.jpg",
+   "data/img/hd_74d8af9ea2ea0c13.jpg",
+   "data/img/hd_34ea9fa33111134a.jpg",
+   "data/img/hd_ab6ceb5a8c44e1b8.jpg",
+   "data/img/hd_ab6ceb5a8c44e1b8.jpg"
+  ],
+  "videos": [],
+  "updated": 1795664707
+ },
+ {
+  "id": 88,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Lê Quang Định",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "gác",
+   "chỗ để xe",
+   "vân tay"
+  ],
+  "description": "DỰ ÁN MỚI GIẢM GIÁ 500K/PHÒNG\nLê Quang Định - Bình Thạnh\nDuplex 2 khu vực ngủ + máy giặt riêng 6tr5\nThang máy hầm xe\nCửa vân tay phòng",
+  "images": [
+   "data/img/hd_04af573f656fc57d.jpg",
+   "data/img/hd_7c297fa8d5661e87.jpg",
+   "data/img/hd_699b9b97e2fec5d4.jpg",
+   "data/img/hd_ed0c82b3bdd51a9b.jpg",
+   "data/img/hd_075dec5062f28e95.jpg"
+  ],
+  "videos": [],
+  "updated": 1795664659
+ },
+ {
+  "id": 87,
+  "price": 5800000,
+  "price_max": 5800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Lê Quang Định",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "gác",
+   "chỗ để xe",
+   "vân tay"
+  ],
+  "description": "DỰ ÁN MỚI GIẢM GIÁ 500K/PHÒNG\nLê Quang Định - Bình Thạnh\nDuplex Ban Công giảm 5tr8\nThang máy hầm xe\nCửa vân tay phòng",
+  "images": [
+   "data/img/hd_0e906dfd5e38d9db.jpg",
+   "data/img/hd_c71a72f5fef750e0.jpg",
+   "data/img/hd_5f7b76845df00267.jpg",
+   "data/img/hd_996999c095884813.jpg",
+   "data/img/hd_8e6983457c7eda75.jpg",
+   "data/img/hd_ab887c1dda98c7e3.jpg",
+   "data/img/hd_c3e8b08eb936023b.jpg",
+   "data/img/hd_5a68746394983b6d.jpg",
+   "data/img/hd_cc51d1c558477259.jpg",
+   "data/img/hd_76f5319fcfd515f0.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_309264329a63a523.mp4",
+    "poster": "data/vid/v_309264329a63a523.jpg"
+   }
+  ],
+  "updated": 1795664531
+ },
+ {
+  "id": 86,
+  "price": 6000000,
+  "price_max": 6000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Lê Quang Định",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "gác",
+   "chỗ để xe",
+   "vân tay"
+  ],
+  "description": "DỰ ÁN MỚI GIẢM GIÁ 500K/PHÒNG\nLê Quang Định - Bình Thạnh\nDuplex Ban Công giảm 6tr\nThang máy hầm xe\nCửa vân tay phòng",
+  "images": [
+   "data/img/hd_6fdbc2e878779aa5.jpg",
+   "data/img/hd_d71a7b05faa44047.jpg",
+   "data/img/hd_7b37d6478f1281dd.jpg",
+   "data/img/hd_145286390b6f91c4.jpg",
+   "data/img/hd_75e3adc42c7e2566.jpg",
+   "data/img/hd_dd02f4110f466a49.jpg",
+   "data/img/hd_4c14c51c6a82756c.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_1f829bf5918cb9ab.mp4",
+    "poster": "data/vid/v_1f829bf5918cb9ab.jpg"
+   }
+  ],
+  "updated": 1795664453
+ },
+ {
   "id": 85,
   "price": 3800000,
   "price_max": 3800000,
