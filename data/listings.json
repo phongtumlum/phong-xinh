@@ -1,5 +1,195 @@
 [
  {
+  "id": 101,
+  "price": 5000000,
+  "price_max": 5000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường Bình Thạnh",
+  "street": "Đường Đinh Bộ Lĩnh",
+  "type": null,
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "cửa sổ",
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp",
+   "wc riêng"
+  ],
+  "description": "3 Điện 4k, nước 100k, dịch vụ 200k, xe 100k\nẾ› PHÒNG Lầu 2 CỬA SỔ LỚN TÁCH BẾP\nĐịa chỉ: Đường Đinh Bộ Lĩnh, phường Bình Thạnh, TP. Hồ Chí Minh\nPhòng lầu 2 mã 202 có cửa sổ lớn, đầy đủ như hình\nTủ quần áo, nệm, bếp riêng, máy lạnh, tủ lạnh, máy nước nóng, bàn ghế\nToilet riêng\nGiá thuê: 5tr/tháng\nDién: 4.000d/kWh\nNước: 120.000đ/người/tháng\nPhí dịch vụ: 200.000đ/tháng",
+  "images": [
+   "data/img/hd_250982963a5ea1e1.jpg",
+   "data/img/hd_216e520e76e3fba5.jpg",
+   "data/img/hd_216e520e76e3fba5.jpg",
+   "data/img/hd_27788f2e1b616ebe.jpg",
+   "data/img/hd_27788f2e1b616ebe.jpg",
+   "data/img/hd_61e6836cf97fdbe7.jpg",
+   "data/img/hd_61e6836cf97fdbe7.jpg",
+   "data/img/hd_68cab9d16cf8e597.jpg",
+   "data/img/hd_60b011a4da79491d.jpg",
+   "data/img/hd_a51e4ac9efb491a3.jpg",
+   "data/img/hd_a73765643510841c.jpg",
+   "data/img/hd_025a599e212cbeae.jpg",
+   "data/img/hd_5ab0362d396da936.jpg",
+   "data/img/hd_f5aaf64c2ba2a3c9.jpg",
+   "data/img/hd_c6c00b0356cf3229.jpg",
+   "data/img/4b98a50cb82cfc99.jpg",
+   "data/img/240528e30ef9f447.jpg"
+  ],
+  "videos": [],
+  "updated": 1795665561
+ },
+ {
+  "id": 100,
+  "price": 4200000,
+  "price_max": 4200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 12",
+  "street": "Nơ Trang Long",
+  "type": null,
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [],
+  "description": "Nơ Trang Long P12 Bình Thạnh\nPhòng 201 giá 4tr2 (1/12 trống)\n3% Nội thất: như hình\n3 CHỈ NHẬN TỐI ĐA 2 XE",
+  "images": [],
+  "videos": [],
+  "updated": 1795665560
+ },
+ {
+  "id": 99,
+  "price": 5000000,
+  "price_max": 5000000,
+  "price_deal": null,
+  "area": 30.0,
+  "district": "Bình Thạnh",
+  "ward": "Phường 13",
+  "street": "Bình Lợi",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "gác",
+   "máy lạnh",
+   "bếp"
+  ],
+  "description": "Bình Lợi, P13, Bình Thạnh\nGiá 5tr\n15 phòng gác cao 2m,\nMới 100%, 30m2\nBếp trên bếp dưới, máy lạnh\nView sông sài gòn thoáng mát ... vào ở ngay\nỞ tối đa 4 người , 4 xe máy .\nđ đ - Thêm nội thất theo yêu cầu có phí\nTrống sản vào ở liền",
+  "images": [
+   "data/img/hd_ba0b0336e46d98f2.jpg",
+   "data/img/hd_edd103306a3f54df.jpg",
+   "data/img/hd_5358a62767239ee6.jpg",
+   "data/img/hd_14188f7ec001ed06.jpg",
+   "data/img/hd_84c818557d441621.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_913e4b666cbc36fd.mp4",
+    "poster": "data/vid/v_913e4b666cbc36fd.jpg"
+   }
+  ],
+  "updated": 1795665501
+ },
+ {
+  "id": 98,
+  "price": 4000000,
+  "price_max": 4500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Xô Viết Nghệ Tĩnh",
+  "type": null,
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt chung"
+  ],
+  "description": "Xô Viết Nghệ Tĩnh, Bình Thạnh\nGiá từ 4tr5 fix 4tr\nNước: 100k/ người\nWifi, rác, thang máy, máy giặt chung: 100k/ phòng\nTrống sẵn\nKhai Trương dự án mới gần ĐH Văn Lang",
+  "images": [
+   "data/img/c73ee4f331cdb62a.jpg",
+   "data/img/7c486750f8cf8450.jpg",
+   "data/img/ab4268b4adc234eb.jpg",
+   "data/img/10bac70847bdfd59.jpg",
+   "data/img/d0a104feb3c9aa5a.jpg",
+   "data/img/hd_8be0941fc4b41204.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_327b30ef9d132c12.mp4",
+    "poster": "data/vid/v_327b30ef9d132c12.jpg"
+   }
+  ],
+  "updated": 1795665244
+ },
+ {
+  "id": 97,
+  "price": 3800000,
+  "price_max": 5000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Nguyễn Xí",
+  "type": null,
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "máy lạnh",
+   "tủ lạnh"
+  ],
+  "description": "Nguyễn Xí Bình Thạnh\ntrống sẵn\nMã 303 giá 4tr6 có mL, tỈ\nmã 413 giá 3tr8 có máy lạnh\nmã 401 giá 5tr có máy lạnh, tủ lạnh\nĐiện 3k8, nước 120k/ng, dv 100k/phòng, xe 100k/xe.\n2 Phòng 505, 307 full đồ",
+  "images": [
+   "data/img/hd_358d29d118cbc02c.jpg",
+   "data/img/hd_51f6e0aa269e53e5.jpg",
+   "data/img/hd_f12625d9ef03358d.jpg",
+   "data/img/hd_ef4b34eeeaa68945.jpg",
+   "data/img/hd_a51acc5fd8976a51.jpg",
+   "data/img/hd_b67a089c98ce0805.jpg",
+   "data/img/hd_d3d3326eb68c0a3d.jpg",
+   "data/img/hd_9095eabadc22364d.jpg",
+   "data/img/hd_e052117589861f6f.jpg",
+   "data/img/hd_fa7cfb15d2c81dba.jpg",
+   "data/img/hd_75f5cd09bd9f23df.jpg",
+   "data/img/hd_5b1c557b03a2d798.jpg"
+  ],
+  "videos": [],
+  "updated": 1795665142
+ },
+ {
   "id": 95,
   "price": 8500000,
   "price_max": 8500000,
