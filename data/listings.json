@@ -1,5 +1,123 @@
 [
  {
+  "id": 112,
+  "price": 15000000,
+  "price_max": 15000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 2",
+  "ward": null,
+  "street": "Nguyễn Bá Huân",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "Cập nhật phòng trống: Nguyễn Bá Huân Quận 2\nLoại phòng: 1 phòng ngủ ban công lầu 4\nGiá thuê: 15,000,000 VND/tháng ( giá thuê bao gồm VAT) thương lượng.\nCọc: 1 tháng\nĐiện: 4,800/ kwh\nNước: 210,000/ người\nTòa nhà có thang máy.\nĐang trống sẵn.",
+  "images": [
+   "data/img/hd_b54b518f10d04364.jpg",
+   "data/img/hd_849442f342cddd51.jpg",
+   "data/img/hd_bff8721976e5e3a7.jpg",
+   "data/img/hd_e642fb5941d37b15.jpg",
+   "data/img/hd_877c5f0cffe0cc8d.jpg",
+   "data/img/hd_6479b76233e8a8b8.jpg",
+   "data/img/hd_b96177bc0f30f7b1.jpg",
+   "data/img/hd_6ea3ad9445955f3c.jpg",
+   "data/img/hd_fbc05a395be7805c.jpg",
+   "data/img/hd_7b55661913c3ad95.jpg",
+   "data/img/hd_eaf882c45d084d62.jpg",
+   "data/img/hd_15e50ce45d8966f7.jpg"
+  ],
+  "videos": [],
+  "updated": 1795666727
+ },
+ {
+  "id": 111,
+  "price": 14500000,
+  "price_max": 14500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 2",
+  "ward": "Phường An Khánh",
+  "street": "Đường",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "X Đá Chỉ : Đường số 9, Khu Phố 4, Phường An Khánh , Quận 2\n14.500.000\nB Dan khach\nX Toà nhà thang máy , camera , vân tay , hẽm oto , an ninh 24/7\nChính sách dịch vụ và quy định của tòa nhà\nĐiện: 4K/kwh\nNước: 30k/m3\nPhí dịch vụ: 200k/phòng\nFree xe ( xe thứ 3 150k/chiếc )\nChính sách cọc và thanh toán tiền nhà\nCọc 1 tháng và 1,5 tháng\nKhách hàng vào thanh toán đủ tiền cọc và tiền nhà ngay khi kí hợp đồng đến cuối tháng. Các tháng\nsau sẽ thanh toàn từ 01-05 tây hàng tháng.\nGiao dịch thành công khi khách hàng đóng đủ tiền cọc và tiền nhà tháng đầu tiên.\nxv Trường hợp khách huỷ cọc không chia\nGiao dịch thành công khi khách hàng đóng đủ tiền cọc và tiền nhà tháng đầu tiên.",
+  "images": [
+   "data/img/hd_4eb749454bb3851d.jpg",
+   "data/img/hd_4eb749454bb3851d.jpg",
+   "data/img/hd_4671f58ed4495675.jpg",
+   "data/img/hd_15fd227f255146d2.jpg",
+   "data/img/hd_0b3ad78fb858a4a4.jpg",
+   "data/img/hd_b9babab0a1bd75d7.jpg",
+   "data/img/hd_1c9be032d5cf8f4d.jpg",
+   "data/img/hd_bea4f3a5f47db173.jpg",
+   "data/img/hd_7fb62bc6402b1ba7.jpg",
+   "data/img/hd_0f0e1d2ca99019ce.jpg",
+   "data/img/hd_5e0e163bf48bb1d1.jpg",
+   "data/img/hd_78863fcb30adb782.jpg",
+   "data/img/hd_4178bd75f27edf88.jpg"
+  ],
+  "videos": [],
+  "updated": 1795666622
+ },
+ {
+  "id": 110,
+  "price": 6000000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": 24.0,
+  "district": "Quận 7",
+  "ward": "Phường 1",
+  "street": "Đường Số",
+  "type": "căn hộ dịch vụ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": "Căn hộ dịch vụ",
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "giờ giấc tự do",
+   "bảo vệ"
+  ],
+  "description": "Tin nhắn chưa đọc\nCHDV CAO CẤP ĐƯỜNG SỐ 27, TÂN QUY ĐÔNG, QUẬN 7.\nCách LOTTE MART QUẬN 7 và Phú Mỹ Hưng chỉ 5 phút di chuyển\nCHỐT TRONG THÁNG T11 THƯỞNG NÓNG †1 TRIỆU (nguyên giá phòng)\nPhòng P01 - 24m2 - Tầng trệt\nNội thất đầy đủ, có cửa số, máy giặt sử dụng chung\n(TỐI ĐA 2 XE MÁY, cửa khóa vân tây 2 lớp an ninh, giờ giấc tự do.\nGiao phòng NGAY\nGiá thuê: 6tr5 (6 THÁNG ĐẦU 6tr)\nDịch vụ (vệ sinh chung, rác, Wifi): 120k/người\nNhận khách nước ngoài, thương lượng chủ nhà.\nNhận thú cưng (không quá to, tiêm phòng đầy đủ) - Nhận trẻ em\nŒ8 Liên hệ xem phòng",
+  "images": [
+   "data/img/hd_0aa065f78e163ce5.jpg",
+   "data/img/hd_9b7e33556657d801.jpg",
+   "data/img/hd_1e437040e7b23a4a.jpg",
+   "data/img/hd_c9b1d16e85078503.jpg",
+   "data/img/hd_a74d1d18cc9cc7b3.jpg",
+   "data/img/hd_595c2b1cfb63ec72.jpg"
+  ],
+  "videos": [],
+  "updated": 1795666573
+ },
+ {
   "id": 109,
   "price": 4600000,
   "price_max": 4600000,
