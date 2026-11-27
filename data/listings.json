@@ -1,5 +1,298 @@
 [
  {
+  "id": 185,
+  "price": 9500000,
+  "price_max": 9500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": "Phường Nhiêu\nLộc",
+  "street": "Cách",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Dự án Cách\nMạng Tháng Tám, P. Nhiêu\nLộc. TPHCM Quận 3\nForest 1 giá 9.500.000đ\ncọc 1,5 tháng - giá phòng\ndài hạn 6-12 tháng\nĐiện 4k / kwh\nNước 100k/ người\nPhí dịch vụ 200k/ phòng\nXe máy thứ 2: 100k/ xe\nKhách pass do chuyển\ncông tác, dự kiến xem\nphòng và có thể in được\ntừ 1/12\nMời các chiến thần chạy\nkhách dần @AIl",
+  "images": [],
+  "videos": [
+   {
+    "src": "data/vid/v_869636ac25149e6d.mp4",
+    "poster": "data/vid/v_869636ac25149e6d.jpg"
+   }
+  ],
+  "updated": 1795753404
+ },
+ {
+  "id": 184,
+  "price": 11000000,
+  "price_max": 11000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": null,
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "2/6 nguyễn thị minh khai Quận 1. 11tr. Xe 200k/chiếc",
+  "images": [
+   "data/img/hd_d0a18df38fbe38f7.jpg",
+   "data/img/hd_562099505faaa4d1.jpg",
+   "data/img/hd_a17fa0a4d7a1ea59.jpg",
+   "data/img/hd_e31d110817fdba93.jpg",
+   "data/img/hd_fb79d40541b87d0d.jpg",
+   "data/img/hd_0526cda8960471a3.jpg",
+   "data/img/hd_9005fa97ab16bbcd.jpg",
+   "data/img/hd_0a46dc046ac76ab8.jpg",
+   "data/img/71c4b108ad8adcbc.jpg",
+   "data/img/e4fb363990c0f606.jpg"
+  ],
+  "videos": [],
+  "updated": 1795753333
+ },
+ {
+  "id": 183,
+  "price": 13000000,
+  "price_max": 13000000,
+  "price_deal": null,
+  "area": 48.0,
+  "district": "Bình Thạnh",
+  "ward": "Phường 17",
+  "street": "Nguyễn Cửu Vân",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "cửa sổ",
+   "máy lạnh",
+   "tủ lạnh",
+   "chỗ để xe",
+   "giờ giấc tự do",
+   "nuôi thú cưng",
+   "vân tay"
+  ],
+  "description": "1. Giá thuê : 13.000.000 VNĐ/tháng Phòng 101 khách Pass HĐ 6 tháng\nĐịa chỉ: Nguyễn Cửu Vân, Phường 17,Q Bình Thạnh\n3. Nội thất: đầy đủ ( Giường , Nệm, tủ lạnh , máy lạnh ,máy nước nóng, Bàn Ghế, tủ đồ , nóng lạnh mặt trời )\n5. Thang máy: có\n6.Diện tích: 48m2 8. Cửa sổ : có ban công\n9. Nuôi thú cưng : ko pet\n10. Hợp đồng thuê: 6-12 tháng\nT1. Đặt cọc: 1-1.5háng\n12. Số Người ở tối đa: 2người\n13. Chỗ để xe\n15. Máy giặt:Máy giặt, Sấy Trên Sân thượng có giặt cho khách\n17. Phí Dịch Vụ: free ( Dọn Phòng 2 lần/tuần , thay ga giường 1 tuần 1 lần)\n18. Điện, nước: Điện 4k2/kw , nước free\n20. Ghi chú: Giờ giấc tự do, ra vào vân tay",
+  "images": [
+   "data/img/hd_b9f2e8e2b43a5d0a.jpg",
+   "data/img/hd_0d5917d323d44d4f.jpg",
+   "data/img/hd_2df51f6bfb7c28b6.jpg",
+   "data/img/hd_e638260098ff122a.jpg",
+   "data/img/hd_ded8eb780a90a0c4.jpg",
+   "data/img/hd_71a607574f845a7c.jpg",
+   "data/img/hd_175321e111f81234.jpg",
+   "data/img/hd_c255e20445901ec9.jpg",
+   "data/img/cd248b19b1b4f840.jpg",
+   "data/img/708a2607eb09ece5.jpg",
+   "data/img/245f17728294d6d0.jpg"
+  ],
+  "videos": [],
+  "updated": 1795753265
+ },
+ {
+  "id": 182,
+  "price": 15000000,
+  "price_max": 15000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "Nguyễn Cư Trinh",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 27/11",
+  "available_date": "2026-11-27",
+  "amenities": [
+   "ban công",
+   "bếp",
+   "chỗ để xe"
+  ],
+  "description": "Căn 1 PHÒNG NGỦ, lầu 2 nhà\n214B1a Nguyễn Trãi, p Nguyễn Cư Trinh, Q1\nthang máy,bếp rộng, cửa số to và nhiều, ban công\nXÍGiá : 15 triệu\nX{ Điện 4000d/kw,nước 100k/người\nX{Miễn phí : chỗ để xe, wifi, phí bảo trì, quản lí,\nTrống: 27/11/2026\nHẹn trước khi đến xem",
+  "images": [
+   "data/img/hd_23cc6bdf94f946d4.jpg",
+   "data/img/hd_422d5cfeefe94ec5.jpg",
+   "data/img/hd_5c042dd965cce435.jpg",
+   "data/img/hd_c70aeeba03e42fa8.jpg",
+   "data/img/hd_c342763b3946b2af.jpg",
+   "data/img/hd_b5ba83b1cb136d4b.jpg",
+   "data/img/hd_cb9bebfb50c9990f.jpg",
+   "data/img/d7d2091cf65260e0.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_d73df65dc606c352.mp4",
+    "poster": "data/vid/v_d73df65dc606c352.jpg"
+   }
+  ],
+  "updated": 1795753173
+ },
+ {
+  "id": 181,
+  "price": 10000000,
+  "price_max": 10000000,
+  "price_deal": null,
+  "area": 30.0,
+  "district": "Quận 10",
+  "ward": "Phường 14",
+  "street": "Thành Thái",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [
+   "máy lạnh",
+   "bếp"
+  ],
+  "description": "( Thành Thái, Phường 14, Quận 10\nPhòng 301 - 10 triệu - 1PN tách bếp, ánh sáng tự nhiên, 30m2, TRỐNG 1/12\nNội thất mới: giường nệm, tủ quần áo, máy lạnh, máy giặt lồng ngang, máy sấy, bếp từ đôi, hút mùi bếp, tủ\nlạnh, kệ bếp - tủ bếp, bàn ghế lv, bàn ăn, tủ giày, nóng lạnh năng lượng mặt trời, module wifi từng phòng.\nTiện ích: Hẻm xe hơi, nhà xe rộng, mảng xanh - ghế chờ, PCCC đạt chuẩn (lối thoát nạn thứ 2, hồ sơ pccc,\nmặt nạ chống độc, hệ thông báo cháy,...)\nPhí: điện 4.000/kw, nước 100.000/người, phí DV 200k/phòng, xe free 2 chiếc,",
+  "images": [
+   "data/img/hd_937b6e037ab02731.jpg",
+   "data/img/hd_945cf3f47910d7ca.jpg",
+   "data/img/hd_bc099f699b550080.jpg",
+   "data/img/hd_912a27e85bd30ec3.jpg",
+   "data/img/hd_96bd32a77c191c7b.jpg",
+   "data/img/hd_d6a9acc9006d9a6c.jpg",
+   "data/img/hd_ae7e2caa903c91ca.jpg",
+   "data/img/hd_1b3a9cf16d60c62f.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_317b0c15925e1e60.mp4",
+    "poster": "data/vid/v_317b0c15925e1e60.jpg"
+   }
+  ],
+  "updated": 1795753080
+ },
+ {
+  "id": 180,
+  "price": 10500000,
+  "price_max": 11000000,
+  "price_deal": null,
+  "area": 35.0,
+  "district": "Quận 10",
+  "ward": "Phường 12",
+  "street": "Thành Thái",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp"
+  ],
+  "description": "X Thành Thái, Phường 12, Quận 10\nPhòng 201 - 11 triệu - 1PN tách bếp, ban công lớn, 35m2, TRỐNG SĂN\nKhách ở ngay 10.5tr chốt.\nNội thất mới: giường nệm, tủ quần áo, máy lạnh, máy giặt lồng ngang, bếp từ đôi, hút mùi bếp, tủ lạnh, kệ\nbếp - tủ bếp, bàn ghế lv, bàn trang điểm, bàn ăn, tủ giày, nóng lạnh năng lượng mặt trời,\nTiện ích: Hẻm xe hơi, nhà xe rộng, mảng xanh - ghế chờ, PCCC đạt chuẩn (lối thoát nạn thứ 2, hồ sơ pccc,\nmặt nạ chống độc, hệ thông báo cháy,...)\nPhí: điện 4.000/kw, nước 100.000/người, phí DV 200k/phòng, xe free 2 chiếc,\nTin nhắn chưa đọc",
+  "images": [
+   "data/img/hd_6203e8d701c04911.jpg",
+   "data/img/hd_fed9987b275f8f44.jpg",
+   "data/img/hd_1e32a96fe5b4bae6.jpg",
+   "data/img/hd_de51723f8cfac425.jpg",
+   "data/img/hd_cc6527e40b742d5f.jpg",
+   "data/img/hd_c87ab723c710a29c.jpg",
+   "data/img/hd_8997d29de738b2c2.jpg",
+   "data/img/hd_3c8848c38469e9ba.jpg",
+   "data/img/bd91c6c1906403ad.jpg",
+   "data/img/90c24af9d4d4459f.jpg",
+   "data/img/c00814c6ffb8d849.jpg",
+   "data/img/b4f0156d7153d289.jpg",
+   "data/img/a888ca2e2493a487.jpg",
+   "data/img/d7101449decfb068.jpg",
+   "data/img/1ebec8a8af817f87.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_6bd2d70113cfc51f.mp4",
+    "poster": "data/vid/v_6bd2d70113cfc51f.jpg"
+   }
+  ],
+  "updated": 1795752991
+ },
+ {
+  "id": 179,
+  "price": 9500000,
+  "price_max": 9500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Aaaa Thông",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [
+   "nuôi thú cưng",
+   "vân tay"
+  ],
+  "description": "Aaaa Thông báo mới\nvõ thị sáu q3\nMã 202 (1/12 trống)\nGiá 9tr5\nxe 100k 1c\n4 điện 4k\nnước 150k/ 1 người\ndịch vụ: 200k/ 1phòng ( rác, lao dọn hành lang, wifi, thang máy...v...V)\nthang máy, nhà xe, k giới hạn, dc nuôi pet, ra vào vân tay\ncọc †1 tháng , thanh toán 1 tháng\nphòng nào nuôi pet cọc 1 tháng rưỡi giúp minh",
+  "images": [
+   "data/img/hd_447e0ed12cf4ec7b.jpg",
+   "data/img/hd_dce9ad7fe86890f6.jpg",
+   "data/img/hd_46c1eafa518a51a0.jpg",
+   "data/img/hd_f0e1c113440bd0b9.jpg",
+   "data/img/hd_eee156f808fd4ada.jpg",
+   "data/img/hd_e125299449addad2.jpg",
+   "data/img/hd_323a8b45c376614f.jpg",
+   "data/img/hd_b01aaaaa48421bd8.jpg",
+   "data/img/716a1bed49ea20ea.jpg",
+   "data/img/833aff319cf9443f.jpg",
+   "data/img/d47ac97c1cf62ebf.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_6a413f07d9be1e23.mp4",
+    "poster": "data/vid/v_6a413f07d9be1e23.jpg"
+   }
+  ],
+  "updated": 1795752908
+ },
+ {
   "id": 178,
   "price": 6500000,
   "price_max": 6500000,
