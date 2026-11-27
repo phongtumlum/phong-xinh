@@ -1,5 +1,275 @@
 [
  {
+  "id": 213,
+  "price": 4600000,
+  "price_max": 4600000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Đặng Thùy Trâm",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "4tr6 cửa số\nNội thất như hình\nFree xe\nĐặng Thùy Trâm\n21:50 x",
+  "images": [
+   "data/img/hd_4afcf13e67083eb5.jpg",
+   "data/img/hd_38b65ab9e94d5711.jpg",
+   "data/img/hd_ce521aafe4295ced.jpg",
+   "data/img/hd_f4549fbdb0625c59.jpg",
+   "data/img/hd_3b43811b2848f62e.jpg",
+   "data/img/hd_585d3dbc37b4bd40.jpg",
+   "data/img/hd_d4ad2566dc145e28.jpg",
+   "data/img/hd_d42a8e1f909e1380.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_fb874322dca1d1d2.mp4",
+    "poster": "data/vid/v_fb874322dca1d1d2.jpg"
+   }
+  ],
+  "updated": 1795793940
+ },
+ {
+  "id": 211,
+  "price": 4800000,
+  "price_max": 4800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 13",
+  "street": "Xô Viết Nghệ Tĩnh",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "giờ giấc tự do",
+   "bảo vệ"
+  ],
+  "description": "215 Nguyễn Xí - P13 - Bình Thạnh\ns« Full Nội Thất Như Hình\nHẻm Xe Tải\ns PCCC Tốt , Camera An Ninh\nGiờ Giấc Tự Do , Ko Chung Chủ\nĐiện: 4k , nước 100k, Dịch Vụ 200k\nXVNT BÌNH THẠNH\nSÁT UNG VĂN KHIÊM\nNHƯ VIDEO 4tr8\nThang máy\nan@(@nq n@nnGn @nnG@a",
+  "images": [
+   "data/img/hd_f14b25edbedfdc8b.jpg",
+   "data/img/hd_b344b17ba45b34fb.jpg",
+   "data/img/hd_d7c44a54cd1b442d.jpg",
+   "data/img/hd_ae65034a61dd95a9.jpg",
+   "data/img/hd_65243698c41f073b.jpg",
+   "data/img/hd_04859510cfdbfa8e.jpg",
+   "data/img/hd_405f2644e5a4499d.jpg",
+   "data/img/hd_a7509cafe8fff94c.jpg",
+   "data/img/12a5eaf3fa2f5fcd.jpg",
+   "data/img/377ebcc5176c004a.jpg",
+   "data/img/bb84944a80e06d7c.jpg",
+   "data/img/f8695ca49e5a0f3f.jpg",
+   "data/img/2e685851c4a31c35.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_61643a57d5836d3a.mp4",
+    "poster": "data/vid/v_61643a57d5836d3a.jpg"
+   }
+  ],
+  "updated": 1795793840
+ },
+ {
+  "id": 210,
+  "price": 5400000,
+  "price_max": 5800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Nơ Trang Long",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống đầu tháng 12",
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "Nơ Trang Long Bình Thạnh\nPhòng studio 03- 5tr3cửa số giếng trời lớn\nPhòng studio 01-5tr4 cửa số ban công lớn\nCó thang máy\nĐầu tháng 12 trống 5tr8",
+  "images": [
+   "data/img/hd_6285121bdd9c3058.jpg",
+   "data/img/hd_d25e512224b49032.jpg",
+   "data/img/hd_62ec94b5f6e5770d.jpg",
+   "data/img/hd_9c0de45fae109f47.jpg",
+   "data/img/hd_57c14397de1b2145.jpg",
+   "data/img/hd_9a0f8cc8df7b0142.jpg",
+   "data/img/hd_02c09a2f5812f0c1.jpg",
+   "data/img/hd_276ff9d2400e2f9f.jpg",
+   "data/img/90201a4e3bd95821.jpg",
+   "data/img/dd0f599a489bfc54.jpg",
+   "data/img/c6df9653ec94b2c0.jpg",
+   "data/img/86ea5f586fbf204d.jpg",
+   "data/img/4766b059ca93f70d.jpg"
+  ],
+  "videos": [],
+  "updated": 1795793768
+ },
+ {
+  "id": 209,
+  "price": 5600000,
+  "price_max": 5600000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 17",
+  "street": "Điện Biên Phủ",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Điện Biên Phủ p17 Bình Thạnh sát UEF\nNước 100k/ng\nPhí dv :150k/phòng\nĐiện 4k/kwh\nP302\nGiá : 5tr6\nDỰ ÁN MỚI@ ?*",
+  "images": [
+   "data/img/hd_a824b9e0842d77d5.jpg",
+   "data/img/hd_3e582a124b5e6869.jpg",
+   "data/img/hd_7f120085fef1f471.jpg",
+   "data/img/hd_79c0616254e7e20a.jpg",
+   "data/img/hd_1b81da8c2c755a52.jpg",
+   "data/img/hd_468f75a214ed3a0e.jpg",
+   "data/img/hd_08583bb07356cf0d.jpg"
+  ],
+  "videos": [],
+  "updated": 1795793703
+ },
+ {
+  "id": 208,
+  "price": 5500000,
+  "price_max": 5500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Nguyễn Xí",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất"
+  ],
+  "description": "O < Thông Báo 3% Ô 3\nNguyễn Xí\ntrống P102 full nội thất.\nXí Giá 5tr5\nĐiện 4k\nNước 150k/ người\nDV: 200k/ phòng\nFree 1 xe\nDang trống",
+  "images": [
+   "data/img/hd_6716d74b17f86e57.jpg",
+   "data/img/hd_59ea347fc21a11ad.jpg",
+   "data/img/hd_319b8e8dff1e46ca.jpg",
+   "data/img/hd_52cce5919c1e21b9.jpg",
+   "data/img/hd_71a524b030b257f8.jpg",
+   "data/img/hd_da8bcb02314041f8.jpg",
+   "data/img/hd_ce74d9663188b7f6.jpg"
+  ],
+  "videos": [],
+  "updated": 1795793635
+ },
+ {
+  "id": 207,
+  "price": 4500000,
+  "price_max": 5200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 15",
+  "street": "Bạch Đằng",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp"
+  ],
+  "description": "BẠCH ĐẰNG, P15, BÌNH THẠNH\nGIÁ 5.200.000 --> SALE 4tr7\nNội thất: máy lạnh, tủ lạnh, giường, nệm, tủ quần áo, tủ bếp\nCHE€K IN 1/12 (103)\nTRỐNG 1/12\nStudio cửa số giá 4tr5\n494 LÊ QUANG ĐỊNH\n(Œ? Mã 02 - Tầng †\nŒ? Điện 3k8 nước 100k dv 150k xe 100k",
+  "images": [
+   "data/img/hd_45401cb1e2f27761.jpg",
+   "data/img/hd_21f36c547b56840d.jpg",
+   "data/img/hd_56e3b7d8c5bdd58f.jpg",
+   "data/img/hd_279ccd3c7b5940aa.jpg",
+   "data/img/hd_d6a45abc3967a68a.jpg",
+   "data/img/hd_0ac2ec00d23cddc0.jpg",
+   "data/img/hd_1874d06feae78d6c.jpg",
+   "data/img/hd_8844132e5e83bed1.jpg",
+   "data/img/11adf35ba8f3df06.jpg",
+   "data/img/c9cf281bd8cbc062.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_eb0bd595eb77be9c.mp4",
+    "poster": "data/vid/v_eb0bd595eb77be9c.jpg"
+   }
+  ],
+  "updated": 1795793541
+ },
+ {
+  "id": 206,
+  "price": 4900000,
+  "price_max": 4900000,
+  "price_deal": null,
+  "area": 40.0,
+  "district": "Bình Thạnh",
+  "ward": "Phường 7",
+  "street": "Hoàng Hoa Thám",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "cửa sổ",
+   "full nội thất",
+   "bảo vệ"
+  ],
+  "description": "Hoàng Hoa Thám, P7, Bình Thạnh.\nPhòng 43 (lầu 4) rộng 40m2, full nội thất, ban công cửa sổ thoáng mát, thang bộ\nGiá 4tr9 (không giới hạn người, xe)\nĐiện 4000\nNước 120k\nDv 200\nXe 130k (có bảo vệ 24/24)\nCUỐI THÁNG TRỐNG",
+  "images": [
+   "data/img/hd_5f403433c83f79c6.jpg",
+   "data/img/hd_41eaa7bbd1449c97.jpg",
+   "data/img/hd_5c6e17885c4e8d20.jpg",
+   "data/img/hd_f20f5630bc3c98d5.jpg",
+   "data/img/hd_6d8c64799c324f70.jpg"
+  ],
+  "videos": [],
+  "updated": 1795793496
+ },
+ {
   "id": 205,
   "price": 5600000,
   "price_max": 6100000,
