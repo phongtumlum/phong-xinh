@@ -1,5 +1,182 @@
 [
  {
+  "id": 193,
+  "price": 4200000,
+  "price_max": 4200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Bùi Đình Tuý",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Bùi Đình Tuý Bình Thạnh\n4tr2",
+  "images": [
+   "data/img/hd_3114fe201192d9d4.jpg",
+   "data/img/hd_903c889f91fcf2a1.jpg",
+   "data/img/hd_0d38f5533cb45600.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_71dfa69c5b4ff3a4.mp4",
+    "poster": "data/vid/v_71dfa69c5b4ff3a4.jpg"
+   }
+  ],
+  "updated": 1795791997
+ },
+ {
+  "id": 192,
+  "price": 4000000,
+  "price_max": 4000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 26",
+  "street": "Nguyễn Xí",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "cửa sổ",
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp",
+   "wc riêng"
+  ],
+  "description": "Địa chỉ Nguyễn xí, p.26, Bình Thạnh\nNội thất: máy lạnh, kệ bếp, tủ lạnh\nPhí dịch vụ: điện 3,8k/số. Nước 100k/người. Dịch vụ 200k/phòng. Giặt phơi free, xe free 2 chiếc.\nPHÒNG MỚI Ở ĐƯỢC NGAY & Èˆ\nĐịa chỉ: Nguyễn Gia Trí, Bình Thạnh\nGiá:4tr/ tháng\nTình trạng\nCửa sổ trời thoáng\nBồn rửa\nToilet riêng\ns» M chi phí\nĐiện 3.8k/Kwh; Nuớc: 120k/người; Dịch vụ: 200k/phòng 2 người",
+  "images": [
+   "data/img/hd_433fa7978dd9e411.jpg",
+   "data/img/hd_dd43a76757a85ce1.jpg",
+   "data/img/hd_c80f7b9ae458355c.jpg",
+   "data/img/hd_685d47f037c58597.jpg",
+   "data/img/hd_0066f97ed267c135.jpg",
+   "data/img/hd_0e94f22102ea7deb.jpg",
+   "data/img/hd_5128523a96cba51c.jpg",
+   "data/img/hd_568f8a1a55e237d4.jpg",
+   "data/img/90f7aff4e14bdebb.jpg",
+   "data/img/2f0471b7df68b0ab.jpg",
+   "data/img/27b70506146334f3.jpg",
+   "data/img/5216566d5c973745.jpg",
+   "data/img/d0401753223da058.jpg",
+   "data/img/107fd6266c16be98.jpg"
+  ],
+  "videos": [],
+  "updated": 1795791910
+ },
+ {
+  "id": 191,
+  "price": 3800000,
+  "price_max": 3800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 26",
+  "street": "26",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [
+   "ban công",
+   "gác",
+   "máy lạnh",
+   "tủ lạnh"
+  ],
+  "description": "3tr8 Gác cao 1m6 nội thất cơ bản sẵn máy lạnh vs tủ lạnh + cửa số hành lang thông thoáng + kế Bách Hoá Xanh\nphường 26 Bình Thạnh\nNgày 1/12 trống phòng 104\n(kế phòng ban công với khu phơi đồ nên hưởng ké đk ít nắng với thoáng)\nỞ được 2 người 2 xe",
+  "images": [],
+  "videos": [],
+  "updated": 1795791909
+ },
+ {
+  "id": 190,
+  "price": 4200000,
+  "price_max": 4200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Xô Viết Nghệ Tĩnh",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "gác",
+   "máy lạnh"
+  ],
+  "description": "643 XVNT BÌNH THẠNH\nDuplex ban công 4tr2\nCó máy lạnh luôn",
+  "images": [
+   "data/img/hd_aa0319b934351178.jpg",
+   "data/img/hd_c005e9e4bdbc3658.jpg",
+   "data/img/hd_4f095890298e04f6.jpg",
+   "data/img/hd_13052008b9112318.jpg",
+   "data/img/hd_165f4e1a3332fee5.jpg"
+  ],
+  "videos": [],
+  "updated": 1795791861
+ },
+ {
+  "id": 188,
+  "price": 3100000,
+  "price_max": 4300000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Nơ Trang Long",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp"
+  ],
+  "description": "Nơ Trang Long.\nMã phòng 401 - trống sẵn\nGiá 4tr3\nbiện 4k/ số\nloi Nước 100k/ người\nle) Dịch vụ 150k/phòng\nxe 100k/xe\nle) Nội thất: Máy lạnh, tủ lạnh, tủ áo quần, tủ bếp, tắm nóng lạnh năng lượng mặt trời.\n45 nguyễn văn đậu bình thạnh\n3tr1",
+  "images": [
+   "data/img/hd_a16ede7877e9dad1.jpg",
+   "data/img/hd_e01b58ef71209843.jpg",
+   "data/img/hd_100eb78378e14a13.jpg",
+   "data/img/hd_2c5f6fc5e0402f3b.jpg",
+   "data/img/hd_07b3cf33a1689e94.jpg",
+   "data/img/8c8e61f65abdd058.jpg",
+   "data/img/3c6ac4c4d158b29b.jpg"
+  ],
+  "videos": [],
+  "updated": 1795791786
+ },
+ {
   "id": 187,
   "price": 5500000,
   "price_max": 5500000,
