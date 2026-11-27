@@ -1,5 +1,71 @@
 [
  {
+  "id": 187,
+  "price": 5500000,
+  "price_max": 5500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Nguyễn Văn Đậu",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Nguyễn Văn Đậu q Bình Thạnh\nĐiện 3.8k\nNước 100k người\nXe 180k chiếc\nKhông nhận xe điện\n5.500.000",
+  "images": [
+   "data/img/hd_d1e4814e69118969.jpg",
+   "data/img/hd_ba28bfb75299787c.jpg",
+   "data/img/hd_61c3ae2e8ef33853.jpg",
+   "data/img/hd_809006a69c8bf14a.jpg",
+   "data/img/hd_a511475d9e993191.jpg",
+   "data/img/hd_f199af092e69c4bb.jpg"
+  ],
+  "videos": [],
+  "updated": 1795753530
+ },
+ {
+  "id": 186,
+  "price": 6000000,
+  "price_max": 6000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Cửa Sổ Ánh Sáng",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "cửa sổ"
+  ],
+  "description": "CẬP NHẬT PHÒNG MỚI CỬA SỔ ÁNH SÁNG TỰ NHIÊN ( GIÁ 6TR)\nXÔ VIẾT NGHỆ TĨNH BÌNH THẠNH (1/12)\nPhí dịch vụ: 200k.\nNước: 100k/ người.\nXe : 100k/xe( tối đa 2 xe 3 người).\nSấy: 50k/người.\nĐiện: 4k/kW.\nmáy giặt riêng + 200k @AII",
+  "images": [
+   "data/img/hd_5fe482440b53ccea.jpg",
+   "data/img/hd_2ecc4e4974538836.jpg",
+   "data/img/hd_39d62e5e39c76bd9.jpg",
+   "data/img/hd_4255e6b467132e50.jpg",
+   "data/img/hd_04178954191f9eb3.jpg"
+  ],
+  "videos": [],
+  "updated": 1795753490
+ },
+ {
   "id": 185,
   "price": 9500000,
   "price_max": 9500000,
