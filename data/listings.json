@@ -1,5 +1,194 @@
 [
  {
+  "id": 136,
+  "price": 4700000,
+  "price_max": 4700000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Xô Viết Nghệ Tĩnh",
+  "type": null,
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "chỗ để xe"
+  ],
+  "description": "699 XVNT BÌNH THANH\n4tr7\nThang máy hầm xe",
+  "images": [],
+  "videos": [],
+  "updated": 1795749058
+ },
+ {
+  "id": 135,
+  "price": 4000000,
+  "price_max": 4300000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 30",
+  "street": "Trống",
+  "type": null,
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 30/11",
+  "available_date": "2026-11-30",
+  "amenities": [],
+  "description": "1⁄12 TRỐNG\nẾB› 116 Phan Văn Trị - Bình Thạnh\nMã 102\ntế~ Giá 4tr3\nSdién 3k8\nŸŸ Nước 28k/m3\nŸŸ Dịch vụ 200k/p\nTRỐNG\nL đội T16 Phan Văn Trị - Bình Thạnh\nMa G11\nế~ Giá 4tr\nĐiện 3k8\nNước 28k/m3\nŸ Dịch vụ 200k/p",
+  "images": [
+   "data/img/hd_1d616ad4a225c945.jpg",
+   "data/img/hd_2b1a56b02ac086ac.jpg",
+   "data/img/hd_f27afc4131f26891.jpg",
+   "data/img/hd_e9b53e9845277879.jpg",
+   "data/img/hd_20fb58fe8d0ed14f.jpg",
+   "data/img/hd_e0636213e769fe63.jpg",
+   "data/img/hd_8bb3ab905d735779.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_64b93daff16ff250.mp4",
+    "poster": "data/vid/v_64b93daff16ff250.jpg"
+   }
+  ],
+  "updated": 1795748977
+ },
+ {
+  "id": 134,
+  "price": 6300000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Võ Oanh",
+  "type": null,
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Võ Oanh Bình Thạnh\nMã 104\nGiá 6tr3 ( nếu ở 3 người giá 6tr5)",
+  "images": [
+   "data/img/hd_9ef51a930cc189e6.jpg",
+   "data/img/hd_dd7ff91bb5fea3b4.jpg",
+   "data/img/hd_cd5a9956161553ff.jpg",
+   "data/img/hd_fff075cb2791cf5e.jpg",
+   "data/img/hd_7b9a72bdd0de23d0.jpg",
+   "data/img/hd_766d03df48c3f86c.jpg",
+   "data/img/hd_26e971b51f6537f2.jpg",
+   "data/img/hd_145f9d2485706960.jpg",
+   "data/img/369c1d07e1604e76.jpg",
+   "data/img/0d69bc2627704a85.jpg",
+   "data/img/f9c66e6650f33fb6.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_f6dd5fce9e63d9f0.mp4",
+    "poster": "data/vid/v_f6dd5fce9e63d9f0.jpg"
+   }
+  ],
+  "updated": 1795748898
+ },
+ {
+  "id": 133,
+  "price": 4600000,
+  "price_max": 5300000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 5",
+  "street": "Bùi Đình Tuý",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [
+   "ban công",
+   "gác",
+   "full nội thất",
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp"
+  ],
+  "description": "Bùi Đình Tuý Bình\nThạnh\nDuplex ban công 4tr6\n208 nguyễn thượng hiền p5 Bình Thạnh\n5tr3\nPHÒNG TÁCH BẾP CÓ GÁC FULL NỘI THẤT , có máy nước nóng\nđiện 4k\nnước 100k/ ngừoi\nphí dịch vụ 200k\nfree 2 xe\ncho ở 3-4 ngừoi\n01/12 trống phòng 203\nnhà xô viết nghệ tĩnh bình thạnh\nNội thất: Máy lạnh, tủ quần áo, kệ bếp, tủ lạnh.\nGiá 4tr6 (Fix giá gọi ạ)\nĐiện 4k/kw, Nước 100k/ng, xe free, dịch vụ 150k/phòng\nGiặt chung sân thượng",
+  "images": [
+   "data/img/hd_4a3b13b77b2f83bc.jpg",
+   "data/img/hd_a68923a5b7747090.jpg",
+   "data/img/hd_17789f6b5c634364.jpg",
+   "data/img/hd_5003e3ed1f302e5a.jpg",
+   "data/img/hd_958cf311d3f437cc.jpg",
+   "data/img/hd_9f3f5771b9ef11fb.jpg",
+   "data/img/hd_b712f2ea02cfc23f.jpg",
+   "data/img/hd_91e58132d7b01b8c.jpg",
+   "data/img/67f92ccb6063b967.jpg",
+   "data/img/bd313f2469a40d1a.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_e96635672a2643ef.mp4",
+    "poster": "data/vid/v_e96635672a2643ef.jpg"
+   }
+  ],
+  "updated": 1795748808
+ },
+ {
+  "id": 132,
+  "price": 5700000,
+  "price_max": 5700000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Cư Xá Phan Đăng",
+  "type": null,
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [],
+  "description": "4 Phòng G0Ị, 102, 202, 302\nCư Xá Phan Đăng Lưu Bình Thạnh\nGiá: 5tr7\nĐiện: 4k\nNước: 100k/người\nDịch vụ chung: 100k/phòng\nTrống sẵn",
+  "images": [
+   "data/img/hd_b0f80e7a529a7aae.jpg",
+   "data/img/hd_500a1c2ac25fb4a4.jpg",
+   "data/img/hd_0a2fb462423b2cfb.jpg",
+   "data/img/hd_f8a28d12663ad7c3.jpg",
+   "data/img/hd_9feb02e624b3d3ab.jpg",
+   "data/img/hd_f0112e08fcc91a28.jpg",
+   "data/img/hd_a6fb4961b627a91a.jpg",
+   "data/img/hd_297972331f6decf3.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_bb4a35b49ec3a8f8.mp4",
+    "poster": "data/vid/v_bb4a35b49ec3a8f8.jpg"
+   }
+  ],
+  "updated": 1795748721
+ },
+ {
   "id": 131,
   "price": 6600000,
   "price_max": 6600000,
