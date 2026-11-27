@@ -1,5 +1,367 @@
 [
  {
+  "id": 145,
+  "price": 4500000,
+  "price_max": 4500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 24",
+  "street": "217/ Bùi Đình Túy",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt chung",
+   "máy lạnh",
+   "bếp",
+   "wc riêng",
+   "giờ giấc tự do",
+   "nuôi thú cưng",
+   "vân tay"
+  ],
+  "description": "Địa chỉ: 217/ Bùi Đình Túy, P24, Bình Thạnh.\nP1: 4tr5 (Bắt đầu từ ngày mai dẫn khách được)\nChi tiết\nMáy lạnh, khu vực nấu ăn tách riêng biệt, wc riêng.\nChi phí\nĐiện: 4k/kw\nNước: 100k/người\nPhí dịch vụ chung: 150k/phòng (có máy giặt chung)\nMáy giặt chung, khoá vân tay\nCho nuôi pet\nGiờ giấc tự do",
+  "images": [
+   "data/img/hd_78084d5d6fe0aa04.jpg",
+   "data/img/hd_bdd38ae67f3adb02.jpg",
+   "data/img/hd_05f01bcbee66127a.jpg",
+   "data/img/hd_41abe005c49d84d1.jpg",
+   "data/img/hd_11007651a14222fa.jpg",
+   "data/img/hd_38cfa12415cc3d4f.jpg",
+   "data/img/hd_b361f6d70f09e1be.jpg",
+   "data/img/hd_10778f19e40c0b81.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_d4e2c663338062cb.mp4",
+    "poster": "data/vid/v_d4e2c663338062cb.jpg"
+   }
+  ],
+  "updated": 1795749769
+ },
+ {
+  "id": 144,
+  "price": 5200000,
+  "price_max": 5200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Bùi Đình Túy",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất"
+  ],
+  "description": "Bùi Đình Túy, Bình Thạnh\nDạng: 1PN\nTầng 1, mặt sau, Full nt\nGiá: 5tr2\nTrống sẵn",
+  "images": [
+   "data/img/hd_50e5e7a5c1e1850a.jpg",
+   "data/img/hd_3eff45d0203e42a0.jpg",
+   "data/img/hd_3c904273857566dd.jpg",
+   "data/img/hd_ae79af0e8888ba1e.jpg",
+   "data/img/hd_b755cf5ed4f3992e.jpg",
+   "data/img/hd_60bb0db20b761e4d.jpg",
+   "data/img/hd_590d6022bcdd4782.jpg",
+   "data/img/hd_f465eee150f4f825.jpg",
+   "data/img/ae72fb36ee9b6fda.jpg",
+   "data/img/bd2cfd446f39db9b.jpg"
+  ],
+  "videos": [],
+  "updated": 1795749697
+ },
+ {
+  "id": 143,
+  "price": 4820000,
+  "price_max": 4830000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Bùi Đình Túy",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "full nội thất"
+  ],
+  "description": "Bùi Đình Túy, Bình Thạnh\nPhòng: 3B, mặt sau\nDạng: 1PN, full nội thất\nGiá: 4tr820\n30/11 trống\nBùi Đình Túy, Bình Thạnh\nDạng: 1PN, Ban công\nTầng 3, mặt sau, Full nt\nGiá: 4tr830\nTrống sẵn",
+  "images": [
+   "data/img/hd_07aeb2ada83374f1.jpg",
+   "data/img/hd_43f0bed1436e1f01.jpg",
+   "data/img/hd_981430061a3491b0.jpg",
+   "data/img/hd_47177a6f0cf595b2.jpg",
+   "data/img/hd_7372bb3b7eb7d43b.jpg",
+   "data/img/hd_52cebce4953c880d.jpg",
+   "data/img/hd_e2de4b815830ca24.jpg",
+   "data/img/hd_3e5016281fa54769.jpg",
+   "data/img/ea6d1eaa37bd89bc.jpg",
+   "data/img/fb3ef9e3e9397a74.jpg",
+   "data/img/eadd164c9f879992.jpg",
+   "data/img/b1b866bc8dfefb06.jpg",
+   "data/img/744ab20d88fd51a5.jpg",
+   "data/img/e1f19ecc2331b274.jpg",
+   "data/img/a054fe12cf4d9336.jpg",
+   "data/img/81aa58d9fb317393.jpg",
+   "data/img/d73e1e7431108410.jpg",
+   "data/img/4e9f5d9e6f860d78.jpg",
+   "data/img/392f3f0539f6cbce.jpg",
+   "data/img/7213e5abf643d134.jpg",
+   "data/img/293fae5fa0e01d89.jpg",
+   "data/img/70040fb6954a2b57.jpg",
+   "data/img/8d7df1c24a204e61.jpg",
+   "data/img/cde57842d94965f5.jpg",
+   "data/img/1cfcef7cb2c9c1b1.jpg",
+   "data/img/01e1dcf4cddf738a.jpg",
+   "data/img/3ec8dc4b4a2ba2bd.jpg",
+   "data/img/e0b56f1ce7f0916e.jpg",
+   "data/img/721afa34f15d8090.jpg",
+   "data/img/4b745fbda701d7cf.jpg",
+   "data/img/c8705934400ee45b.jpg",
+   "data/img/32c78112a70c534e.jpg",
+   "data/img/dab3e95762e123a1.jpg",
+   "data/img/fca0a67f7e48f8ac.jpg",
+   "data/img/5897d5cf16174301.jpg",
+   "data/img/441b591ba4f2061a.jpg",
+   "data/img/00dd675dd9c692e1.jpg",
+   "data/img/d410fbdab01b0bb0.jpg",
+   "data/img/dd561c65907c72ff.jpg",
+   "data/img/3d4e8d4ff2843426.jpg",
+   "data/img/33a584bec26e8be6.jpg",
+   "data/img/6ed53460b6702921.jpg",
+   "data/img/67b44cd98b33704b.jpg",
+   "data/img/a4a5fb09958de9be.jpg",
+   "data/img/0b2c8d050c1dc577.jpg",
+   "data/img/3d863a082196d91f.jpg",
+   "data/img/5465158ccc317332.jpg",
+   "data/img/9c25ca20ebcaaf5e.jpg",
+   "data/img/276e968aa2ba6cba.jpg",
+   "data/img/e82f2264d3ef37a5.jpg",
+   "data/img/4a67b991e1d8f844.jpg",
+   "data/img/b9a79c86679160c9.jpg",
+   "data/img/50efc054d93277a4.jpg",
+   "data/img/fdf09f908a456cba.jpg",
+   "data/img/96bf09b07ae50f42.jpg"
+  ],
+  "videos": [],
+  "updated": 1795749629
+ },
+ {
+  "id": 142,
+  "price": 5600000,
+  "price_max": 5600000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Bình Lợi",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "chỗ để xe",
+   "bảo vệ"
+  ],
+  "description": "Bình Lợi - Bình Thạnh\n5tr6\nThang máy hầm xe\nBảo vệ",
+  "images": [
+   "data/img/hd_1cb68b990531b474.jpg",
+   "data/img/hd_6e39a16616bab9a7.jpg",
+   "data/img/hd_ac988cc3db36ecb6.jpg",
+   "data/img/hd_ca4c73efb3431cd6.jpg",
+   "data/img/hd_8b33ebbd4ed9a759.jpg",
+   "data/img/hd_a172b9f054d2e395.jpg",
+   "data/img/hd_8057086e9397966e.jpg",
+   "data/img/hd_76b450997d7a10cf.jpg"
+  ],
+  "videos": [],
+  "updated": 1795749557
+ },
+ {
+  "id": 141,
+  "price": 5400000,
+  "price_max": 5400000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Chu Văn An",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Chu Văn An Bình Thạnh\n5tr4 lầu 3.5 thang bộ\nœnØGn nGn.nGn nØG@n n@nnö@a",
+  "images": [
+   "data/img/hd_b64945bb8f11dc46.jpg",
+   "data/img/hd_36f6514e3742efee.jpg",
+   "data/img/hd_ecbe2d1d4e5fdde2.jpg",
+   "data/img/hd_711fb9854bba76a4.jpg",
+   "data/img/hd_c79e731765624174.jpg",
+   "data/img/hd_ecf6fc18b8c98efc.jpg",
+   "data/img/hd_e8f93fa332aba265.jpg",
+   "data/img/hd_fa6d41d47abca550.jpg"
+  ],
+  "videos": [],
+  "updated": 1795749484
+ },
+ {
+  "id": 140,
+  "price": 6000000,
+  "price_max": 6000000,
+  "price_deal": 5500000,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 14",
+  "street": "Nơ",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "1-12 trống\nNơ trang long p14 Bình Thạnh\nGiá 6tr giá chốt 5tr5\nMã 101 lầu 2\nĐiện 4k\nNước 100k/ng\nPhí dịch vụ 200k/phòng\nXe free 2xe",
+  "images": [
+   "data/img/hd_05ace0ed11e77264.jpg",
+   "data/img/hd_5c4b8d81f8240829.jpg",
+   "data/img/hd_ecd7e6987501ba56.jpg",
+   "data/img/hd_29e8523587885db1.jpg",
+   "data/img/hd_786359d443af849f.jpg"
+  ],
+  "videos": [],
+  "updated": 1795749439
+ },
+ {
+  "id": 139,
+  "price": 5100000,
+  "price_max": 5100000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Nguyễn Văn Đậu",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Nguyễn Văn Đậu Bình Thạnh\n5tr1\nThang máy\nan@(@nq n@nnGn @nnG@a",
+  "images": [
+   "data/img/hd_309751cd29cc1a84.jpg",
+   "data/img/hd_2cca38d553f2db6f.jpg",
+   "data/img/hd_f45ab6bdf382aace.jpg",
+   "data/img/hd_4466d7fa45ddd855.jpg",
+   "data/img/hd_8e1a1a3ac279ba83.jpg",
+   "data/img/hd_7404a9d368a90fc9.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_00005a6e436dbe5b.mp4",
+    "poster": "data/vid/v_00005a6e436dbe5b.jpg"
+   }
+  ],
+  "updated": 1795749371
+ },
+ {
+  "id": 138,
+  "price": 4300000,
+  "price_max": 4300000,
+  "price_deal": null,
+  "area": 30.0,
+  "district": "Bình Thạnh",
+  "ward": "Phường 5",
+  "street": "Lê Quang Định",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "cửa sổ",
+   "full nội thất"
+  ],
+  "description": "Địa chỉ: Lê Quang Định, P5, Bình Thạnh\nphòng 302 lầu 3, rộng 30m2, cửa sổ thoáng mát, full nội thất giá 4tr3 (2 xe )\nĐiện 4000\nNước 120k\nDv 200k\nĐANG TRỐNG",
+  "images": [
+   "data/img/hd_421aa68985ee9c8a.jpg",
+   "data/img/hd_3a5536c5d8f0f70b.jpg",
+   "data/img/hd_f4b59ff3b462fa90.jpg",
+   "data/img/hd_09f6e7e39f0def83.jpg"
+  ],
+  "videos": [],
+  "updated": 1795749333
+ },
+ {
+  "id": 137,
+  "price": 5800000,
+  "price_max": 5800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Nơ Trang Long",
+  "type": "chung cư",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": "Chung cư",
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "[đội Chung cư mini có phòng tập gym, khu thư giãn địa chỉ: Nơ Trang Long Bình thạnh\n5tr8 Điện 3.5k.\nNước 100ng.\nHỗ trợ đổi giường đơn/tầng\nDịch vụ: free năm đầu tiên, sau 1 năm phí dv ( phòng gym, khu thư giãn, giặt sấy, nước lọc,...) 180k/phòng.",
+  "images": [
+   "data/img/hd_1df321c074e6d2ef.jpg",
+   "data/img/hd_084004d1c7712ab0.jpg",
+   "data/img/hd_86107be721be810a.jpg",
+   "data/img/hd_65c3a85cccfd9f97.jpg"
+  ],
+  "videos": [],
+  "updated": 1795749298
+ },
+ {
   "id": 136,
   "price": 4700000,
   "price_max": 4700000,
