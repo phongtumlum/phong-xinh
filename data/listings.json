@@ -1,5 +1,147 @@
 [
  {
+  "id": 231,
+  "price": 6800000,
+  "price_max": 6800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": "Phường 7",
+  "street": "Phùng Văn Cung",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [],
+  "description": "Phùng Văn Cung, P7, Phú Nhuận ( Nhà Mặt Tiền )\nXí6tr8\n( 3Ý Đầu đường là Phan Đăng Lưu, cuối đường là Phan Xích Long )\nđổ Hở 12th : 50, ( trống sẵn )\nĐiện 4k, nước 100k/ người, PQL 200k/ phòng\ns xe íree cho 2 chiếc ( chiếc thứ 3 100k/ chiếc )",
+  "images": [],
+  "videos": [],
+  "updated": 1795795701
+ },
+ {
+  "id": 232,
+  "price": 6500000,
+  "price_max": 6800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "Nguyễn Đình Chính",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "cửa sổ",
+   "full nội thất"
+  ],
+  "description": "Đia chỉ: Nguyễn Đình Chính, Phú Nhuận (trống sẵn)\n1Pn - cửa sổ lớn\nĐiện: 4.000/Kwh\nNước 150.000/ Người\nY Dịch Vụ: 200k/Phòng( rác, Wifi, máy giặt sấy chung)\nXe Free 1-2 Chiếc\nNội thất đầy đủ\nThang bộ lầu 1 (mã 102)\nFE Giảm mạnh còn 6tr5 (trống sẵn) hd 1 năm\nSale chốt đc giá 6tr8 lì xì 500k",
+  "images": [
+   "data/img/hd_b43c0d339ab35610.jpg",
+   "data/img/hd_49c5f5440bf5596b.jpg",
+   "data/img/hd_918d8832a4e55b28.jpg",
+   "data/img/hd_0b9db809d8330b0f.jpg",
+   "data/img/hd_034eb7d07ed17620.jpg",
+   "data/img/hd_4cd1715688e56763.jpg",
+   "data/img/hd_49fa047f103a2f0e.jpg",
+   "data/img/hd_0ea80291b8491ff4.jpg",
+   "data/img/5923ea17f90b6d69.jpg"
+  ],
+  "videos": [],
+  "updated": 1795795701
+ },
+ {
+  "id": 230,
+  "price": 8000000,
+  "price_max": 8000000,
+  "price_deal": null,
+  "area": 35.0,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "Phan Đăng Lưu",
+  "type": "studio",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "full nội thất",
+   "bếp",
+   "vân tay"
+  ],
+  "description": "GIẢM GIÁ KỊCH SÀN\nTrống sẵn phòng 101 Studio Ban Công\nGiá giảm còn 8.000.000\nĐiện 4k/kwh\nNước 150k/người\nPQL 200k/phòng\nDiện tích 35m2\nPhòng full nội thất mới 100%\nCửa phòng vân tay, thẻ từ. @AII\nX tưu ý: Bên nhà này không nhận khách người nước ngoài nhé\nPhan Đăng Lưu , Phú Nhuận\nXem phòng báo trước 60“.\nKhông nhận khách nước ngoài.\nNgắn hạn 1-2-3 tháng luôn nhé cả nhà.\nNhờ mng chạy sale giúp nhận ỹ ỹ liền tay nhé. Thanks.\nô9ô9ô9ô#ô®ô9®ô9ô®ô9®ô9®ô®ô9®ô 9ô sai\nVõ Minh Thuận Vnest\nTHƯỞNG 1TR KHI CHỐT TRONG THÁNG T1\nCăn Hộ 1PN Tách Bếp",
+  "images": [
+   "data/img/hd_dbebf0cf169993fa.jpg",
+   "data/img/hd_b840e2a00e246319.jpg",
+   "data/img/hd_f6904ba88622a997.jpg",
+   "data/img/hd_3390ecf19dd89593.jpg",
+   "data/img/hd_7a43663bef421f40.jpg",
+   "data/img/hd_037f3b43d6787610.jpg",
+   "data/img/hd_6d5eb30c92dbc15b.jpg",
+   "data/img/hd_bdcf78420b697e72.jpg",
+   "data/img/7790a8712e308586.jpg",
+   "data/img/fb2ab7b0d778d7a8.jpg",
+   "data/img/6161e903fd2b49f3.jpg"
+  ],
+  "videos": [],
+  "updated": 1795795633
+ },
+ {
+  "id": 229,
+  "price": 7800000,
+  "price_max": 7800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 11",
+  "ward": "Phường Phú Thọ",
+  "street": "Lữ Gia",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "CÔNG BỐ DỰ ÁN MỚI '-*\nLữ Gia, Phường Phú Thọ , Quận 11 , TpHCM\nÊ Toà nhà : Trệt + 3 lầu _ Thang Bộ\nCHI PHÍ\nĐiện: 4.000/KWH\nô Nước: 120.000/người\nÝ Dịch vụ: 200.000/tháng\nXe : íree\nChính sách cọc\nÉ.È CHÍNH SÁCH KHÁC\nThú cưng: / không\nNgười nước ngoài: / không\nXe điện: / không\n201 - 7.800.000",
+  "images": [
+   "data/img/hd_982cd13575494610.jpg",
+   "data/img/hd_ef844aa810ea0c29.jpg",
+   "data/img/hd_e9811e4e7c2160d8.jpg",
+   "data/img/hd_ba00c0189a8678e3.jpg",
+   "data/img/hd_29002b64ff8df873.jpg",
+   "data/img/hd_f17cebc1f2dbf7d4.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_83f31411ca024deb.mp4",
+    "poster": "data/vid/v_83f31411ca024deb.jpg"
+   }
+  ],
+  "updated": 1795795551
+ },
+ {
   "id": 228,
   "price": 4500000,
   "price_max": 4500000,
