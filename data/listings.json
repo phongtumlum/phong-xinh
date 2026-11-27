@@ -1,5 +1,133 @@
 [
  {
+  "id": 241,
+  "price": 6400000,
+  "price_max": 6400000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 11",
+  "street": "Lê Quang Định",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "tủ lạnh"
+  ],
+  "description": "Lê Quang Định ,P11, Bình Thạnh . (HẺM XE HƠI CHÙA GIÀ LAM 494)\nHĐ 12T",
+  "images": [],
+  "videos": [],
+  "updated": 1795796525
+ },
+ {
+  "id": 240,
+  "price": 6000000,
+  "price_max": 6200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Bạch Đằng",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "bếp",
+   "nuôi thú cưng"
+  ],
+  "description": "Bạch Đằng, Bình Thạnh ( Nhà Ngay Mặt tiền )\nGiá : 6tr2 (2 ng 1xe )\nchốt trong tháng T1, giá 6tr\nLầu 1, phòng 201\nĐiện 4k, nước 100k/ người, còn lại free\nPhòng đã trang bị đầy đủ như ảnh và video\n[ Chỉ nhận tối đa 2 người, 1 xe ( 2 xe thương lượng )\nKhông nuôi pet, ko xe điện, ko bếp gas",
+  "images": [],
+  "videos": [],
+  "updated": 1795796524
+ },
+ {
+  "id": 239,
+  "price": 6000000,
+  "price_max": 6000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Gò Vấp",
+  "ward": null,
+  "street": "Nguyễn",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [],
+  "description": "TRỐNG SẴN NGÀY 1/12\nNguyễn thái sơn. Gò Vấp\nLầu 3 tháng bộ\nGiá: 6.000k\nĐiên: 4k\nNước 100k/1người\nDịch vụ: 200k/1phòng\nCọc :1.5tháng\nTin nhắn chưa đọc",
+  "images": [
+   "data/img/hd_b3a9de381386721c.jpg",
+   "data/img/hd_aac00e670890d9a8.jpg",
+   "data/img/hd_a3ad7b2c1d2db890.jpg",
+   "data/img/hd_dddc9b99c5788c78.jpg",
+   "data/img/hd_7ecbdb4a2fe584f8.jpg",
+   "data/img/hd_97b1e4a59514f37a.jpg",
+   "data/img/hd_df5c76ca7cee8147.jpg",
+   "data/img/hd_916564c1d108a1e1.jpg",
+   "data/img/91e2a6ddc8d66b14.jpg",
+   "data/img/f1328c5bc9ea1537.jpg"
+  ],
+  "videos": [],
+  "updated": 1795796455
+ },
+ {
+  "id": 238,
+  "price": 7200000,
+  "price_max": 7200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường Tân Sơn",
+  "street": "Hoàng Văn Thụ",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [],
+  "description": "Hoàng Văn Thụ, P.Tân Sơn Nhất, Tân Bình\nP101: 7.200.000đ/tháng (Trống )\nĐiện: 4000đ/kWh\nNước: 100.000đ/người\nDịch vụ: 250.000đ/phòng\nXe: Miễn phí 02 xe",
+  "images": [
+   "data/img/hd_12470e2f514a8c9f.jpg",
+   "data/img/hd_8be2a1e518fa9ddd.jpg",
+   "data/img/hd_d2edd8b9418e4b49.jpg",
+   "data/img/hd_e47d81b0a05a1499.jpg",
+   "data/img/hd_c336893e3d94ed90.jpg",
+   "data/img/hd_2346a21f9fd0136a.jpg",
+   "data/img/hd_7acac1cab5484d6e.jpg",
+   "data/img/hd_b024abfc96e554e5.jpg",
+   "data/img/d871f3a20d40dd35.jpg",
+   "data/img/ccbda73e3285a8c0.jpg",
+   "data/img/71882194ab6926cc.jpg"
+  ],
+  "videos": [],
+  "updated": 1795796391
+ },
+ {
   "id": 237,
   "price": 17050000,
   "price_max": 17050000,
