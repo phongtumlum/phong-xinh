@@ -1,5 +1,113 @@
 [
  {
+  "id": 262,
+  "price": 8500000,
+  "price_max": 8500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 8",
+  "ward": null,
+  "street": null,
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 30/11",
+  "available_date": "2026-11-30",
+  "amenities": [
+   "ban công"
+  ],
+  "description": "dương bá trạc quận 8- mã 302- lầu 3\nMã 101- ban công giá 8.5tr -30/11 trống\nBlCó fix cho khách thiện chí\nThưởng nóng ai chốt cọc sớm † triệu luôn nha.",
+  "images": [
+   "data/img/hd_d6f34f8b0b2c4408.jpg",
+   "data/img/hd_a1ad568e03e5cc4d.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_de41bf481efa2cbf.mp4",
+    "poster": "data/vid/v_de41bf481efa2cbf.jpg"
+   }
+  ],
+  "updated": 1795822218
+ },
+ {
+  "id": 261,
+  "price": 6400000,
+  "price_max": 6400000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": null,
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [
+   "máy giặt riêng",
+   "chỗ để xe"
+  ],
+  "description": "1/12 trống mã P501\n40 đặng văn ngữ - phú nhuận\nPhòng có máy giặt riêng\nNhà có hầm xe\nthang máy\nGiá 6.400.000\nĐiện 4k\nNước 100k/ng\nPhí dv 200k/p\nXe free\nCọc †",
+  "images": [
+   "data/img/hd_56ebad3b9e2cfeec.jpg",
+   "data/img/hd_14dc1b0f52750ddb.jpg",
+   "data/img/hd_2662ed5a878fdfcc.jpg",
+   "data/img/hd_2da7888800610ee5.jpg",
+   "data/img/hd_9a665814a26b5896.jpg",
+   "data/img/hd_b12c9bb2262afe39.jpg",
+   "data/img/hd_881f3908f06842af.jpg"
+  ],
+  "videos": [],
+  "updated": 1795822151
+ },
+ {
+  "id": 260,
+  "price": 30110000,
+  "price_max": 30110000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Quan",
+  "type": "studio",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất"
+  ],
+  "description": "J Cudi thang 30.11 tr6ng ma Ban céng 301- nha dung Quan 10\nStudio đầy đủ nội thất lầu 2\nGiá 6.5tr\nXe:2xe\nPhí dv: 200k/ phòng\nĐiện 4k, nước 100k/ người\nCác bạn sale giúp chị nha! @AII\nTin nhắn chưa đọc",
+  "images": [
+   "data/img/hd_6cc46ec585b10284.jpg",
+   "data/img/hd_a4d5201a4dce6fb2.jpg",
+   "data/img/hd_407d353bf6a2f9af.jpg",
+   "data/img/hd_63f0e62d38e36a8e.jpg",
+   "data/img/hd_a29ad00d30d1770e.jpg",
+   "data/img/hd_d90d7dc87ea2fd8e.jpg",
+   "data/img/hd_88f397c7a98f6e5e.jpg",
+   "data/img/hd_edd9490f4d25ccb4.jpg",
+   "data/img/b03cf948e7da93f8.jpg"
+  ],
+  "videos": [],
+  "updated": 1795822078
+ },
+ {
   "id": 259,
   "price": 5200000,
   "price_max": 5200000,
