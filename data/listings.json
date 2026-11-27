@@ -1,5 +1,79 @@
 [
  {
+  "id": 228,
+  "price": 4500000,
+  "price_max": 4500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": "Phường 14",
+  "street": "Đặng Văn Ngữ",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "chỗ để xe"
+  ],
+  "description": "102 : 4tr5 ( Trống sẵn )\nĐặng Văn Ngữ, P.14, P.Nhuận\nMiễn phí giữ xe (2 chiếc)\nNgay Nhà thờ 3 Chuông\nThuận tiện qua các quận trung tâm: Q3, Q5, Q10, Q1\nChi phí dịch vụ\nĐiện: 3k8\nnước : 100k/ng\nXe: miễn phí\nDịch vụ: 150k/người (nước, rác, máy giặt, wifi, lao công, bảo trì định kỳ thiết bị nội thất)",
+  "images": [
+   "data/img/hd_696aff8071d9f19a.jpg",
+   "data/img/hd_c9a8e1f278804113.jpg",
+   "data/img/hd_4472523882e79f84.jpg",
+   "data/img/hd_5685d8eb4a49c203.jpg",
+   "data/img/hd_1bf4f1dc9b2afb57.jpg",
+   "data/img/hd_896897c3bf57066f.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_eebe240d3b532159.mp4",
+    "poster": "data/vid/v_eebe240d3b532159.jpg"
+   }
+  ],
+  "updated": 1795795299
+ },
+ {
+  "id": 226,
+  "price": 6000000,
+  "price_max": 6000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 11",
+  "ward": "Phường Phú Thọ",
+  "street": "Lữ Gia",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "CÔNG BỐ DỰ ÁN MỚI '-*\nLữ Gia, Phường Phú Thọ , Quận 11 , TpHCM\nÊ Toà nhà : Trệt + 3 lầu _ Thang Bộ\nCHI PHÍ\nĐiện: 4.000/KWH\nô Nước: 120.000/người\nÝ Dịch vụ: 200.000/tháng\nXe : íree\nChính sách cọc\nÉ.È CHÍNH SÁCH KHÁC\nThú cưng: / không\nNgười nước ngoài: / không\nXe điện: / không\n202,302\n6.000.000",
+  "images": [
+   "data/img/hd_9a41987d364e727f.jpg",
+   "data/img/hd_f2a458b77d9fbd1f.jpg",
+   "data/img/hd_a17e83a50c226950.jpg",
+   "data/img/hd_f2d4ce0da64426d8.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_20626df00438690f.mp4",
+    "poster": "data/vid/v_20626df00438690f.jpg"
+   }
+  ],
+  "updated": 1795795240
+ },
+ {
   "id": 225,
   "price": 9300000,
   "price_max": 9300000,
