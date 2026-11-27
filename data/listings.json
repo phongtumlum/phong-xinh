@@ -1,5 +1,175 @@
 [
  {
+  "id": 178,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": "Phường Nct",
+  "street": null,
+  "type": "studio",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "cửa sổ"
+  ],
+  "description": "212a/a41 Nguyễn Trãi, P. NCT Quận 1 ( dự án mới)- trống sẵn\nMã: 302 ( studio cửa sổ)\nGiá: 6.500.000\nĐiện: 4.000/kw\nNuớc: 130.000/ nguời\nDịch vụ: 200.000/ phòng\nFree 1 xe",
+  "images": [
+   "data/img/hd_21d0379075b391d3.jpg",
+   "data/img/hd_8e83300262f78a58.jpg",
+   "data/img/hd_a3b1cc2e2e6f3ebe.jpg",
+   "data/img/hd_3ca5386d3f3d6fbe.jpg",
+   "data/img/hd_9ce4a89717e89420.jpg",
+   "data/img/hd_196cf0b025c59707.jpg"
+  ],
+  "videos": [],
+  "updated": 1795752652
+ },
+ {
+  "id": 177,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "Thach Thị Thanh",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Thach Thị Thanh, tân định, q1. cuối thang T1 trống Phòng 204, gia 6,5tr các em sale giup anh nhé",
+  "images": [
+   "data/img/hd_88e30886e82f9628.jpg",
+   "data/img/hd_093dad1d07fd481d.jpg"
+  ],
+  "videos": [],
+  "updated": 1795752634
+ },
+ {
+  "id": 176,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Điện Biên Phủ",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Điện Biên Phủ Quận 10 - P206\n6.500\n1/12 checkin\nDV 200k/phòng, Free xe, Điện 4k, Nước T110k/người",
+  "images": [
+   "data/img/hd_1f18abf56e065064.jpg",
+   "data/img/hd_83cb77b485594676.jpg",
+   "data/img/hd_17867625124defb5.jpg",
+   "data/img/hd_69682aa9ee99f532.jpg",
+   "data/img/hd_93666e94417fc3f9.jpg",
+   "data/img/hd_f717db0253862c46.jpg",
+   "data/img/hd_1719806a9f0a9c29.jpg",
+   "data/img/hd_853b1554bb0e0e2f.jpg"
+  ],
+  "videos": [],
+  "updated": 1795752561
+ },
+ {
+  "id": 175,
+  "price": 8600000,
+  "price_max": 8600000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Lê Văn Sỹ",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [],
+  "description": "Lê Văn Sỹ Quận 3\nP202 - giá 8tr6 ( trống sẵn )\nThêm bớt nội thất tuỳ ý",
+  "images": [
+   "data/img/hd_feb6c900301b478a.jpg",
+   "data/img/hd_3f08f03845596122.jpg",
+   "data/img/hd_4c2343580ba64961.jpg",
+   "data/img/hd_95d73b3216bc501c.jpg",
+   "data/img/hd_d498d34618f5773c.jpg",
+   "data/img/hd_ea4605725899233c.jpg",
+   "data/img/hd_576aa9b2e9b0b486.jpg",
+   "data/img/hd_a67d439c52af96a1.jpg",
+   "data/img/c928bd351a522a94.jpg"
+  ],
+  "videos": [],
+  "updated": 1795752487
+ },
+ {
+  "id": 174,
+  "price": 7200000,
+  "price_max": 7200000,
+  "price_deal": null,
+  "area": 25.0,
+  "district": "Quận 10",
+  "ward": "Phường 15",
+  "street": "Bắc Hải",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "full nội thất",
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp"
+  ],
+  "description": "Nhà: Bắc Hải, P15, Quận 10, TpHCM - Phòng rộng 20-25m2\nGần ĐH Bách Khoa, Hoa Sen, UEH, Y dược,...\nŸÊ PHÒNG P05: Ban công + Full nội thất _ Giá 7tr2_Cuối tháng T1 trống\nNội thất: Tivi, tủ lạnh, lò vi sóng, bếp từ, máy lạnh, quạt,..\nĐiện 4k\nNước 100k/người\nPhí dv 200k/1phòng\nXe 100k/xe, miễn phí 1 xe, ko xe điện\nCọc 1th\nCảm ơn các bạn @AIl\nTin nhắn chưa đọc",
+  "images": [
+   "data/img/hd_39f2a292603ec053.jpg",
+   "data/img/hd_246b42adab1d67b6.jpg",
+   "data/img/hd_afccca3a1ea83e62.jpg",
+   "data/img/hd_1001da98aceb9408.jpg",
+   "data/img/hd_c653926ba584e703.jpg",
+   "data/img/hd_054a163cc611e120.jpg",
+   "data/img/hd_f7e1b61e490dbfb8.jpg"
+  ],
+  "videos": [],
+  "updated": 1795752421
+ },
+ {
   "id": 172,
   "price": 5500000,
   "price_max": 5500000,
