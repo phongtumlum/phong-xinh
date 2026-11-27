@@ -1,5 +1,254 @@
 [
  {
+  "id": 259,
+  "price": 5200000,
+  "price_max": 5200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": "Phường 5",
+  "street": "Hồ Hảo Hớn",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống tháng 12",
+  "available_date": null,
+  "amenities": [
+   "giờ giấc tự do"
+  ],
+  "description": "Hồ Hảo Hớn Quận 1 (Phường Cầu Ông Lãnh) - tháng 12 trống\nTrung tâm quận 1, cách Bitexco 5”, hẻm xe hơi, giờ giấc tự do k chung chủ.\nCửa số trời, phòng chill chill rất dễ thương, nuôi net OK! dữ Qý Q l\nGiá phòng\nPhòng P.05 Lầu 2 5.200.000đ\nĐiện: 4k/ Kwh\nNước: 120k/ 1 người\nDịch vụ: 200k/ phòng\nXe: 100k/xe",
+  "images": [
+   "data/img/hd_5728fb986aed844a.jpg",
+   "data/img/hd_2c7040e620e8624c.jpg",
+   "data/img/hd_c38ac3b0019c30e1.jpg",
+   "data/img/hd_84e394e7194f0ae9.jpg",
+   "data/img/hd_88bbaef80f601bac.jpg",
+   "data/img/hd_1c2ce7dbdbe05294.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_101cca7abf515f63.mp4",
+    "poster": "data/vid/v_101cca7abf515f63.jpg"
+   }
+  ],
+  "updated": 1795821895
+ },
+ {
+  "id": 258,
+  "price": 5500000,
+  "price_max": 5500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": null,
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "cửa sổ",
+   "full nội thất"
+  ],
+  "description": "4.Cuối tháng trống siêu phẩm Phòng 5.02 thang bộ ở 176/ đặng văn ngữ Phú Nhuận thích hợp ở 1 xe giá 5tr5\nthương lượng, phòng thoáng 3 mặt cửa sổ, full view ko bị che chắn, đầy đủ nội thất, điện 4k, nước 100k/ng, pdv\n200k.",
+  "images": [
+   "data/img/hd_42d9bc1ba38a7dbc.jpg",
+   "data/img/hd_5e181742b6e653de.jpg",
+   "data/img/hd_7b3d2ae01eac78a0.jpg",
+   "data/img/hd_8834976b0b1e7a43.jpg",
+   "data/img/hd_901ec5722c5a8506.jpg"
+  ],
+  "videos": [],
+  "updated": 1795821845
+ },
+ {
+  "id": 257,
+  "price": 30110000,
+  "price_max": 30110000,
+  "price_deal": 5800000,
+  "area": null,
+  "district": "Quận 10",
+  "ward": "Phường 14",
+  "street": "Lý Thường",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp",
+   "vân tay"
+  ],
+  "description": "Mã Phòng 301\nTinh trang: 30.11 Tr6ng\nHD 12 tháng Cọc 1.5 Tháng\nNội Thất Máy lạnh, Giường, Tủ Lạnh, Tủ Quần Áo, Tủ Bếp\nÐ/C Lý Thường kiệt p14 q10\nHạ Giá còn 5.8tr\nĐiện 4k/ky\nNước 100k/người\nPdv 150k/phòng\nTiêu chuẩn 1-2 xe máy\nRa vào tự do bằng khoá vân tay\nCó thể vào ngay",
+  "images": [
+   "data/img/hd_14899109d0c4a98d.jpg",
+   "data/img/hd_5226875f2de720e3.jpg",
+   "data/img/hd_3c44f67689e9829a.jpg",
+   "data/img/hd_818f29969d806682.jpg",
+   "data/img/hd_a29e301054c05ef4.jpg",
+   "data/img/hd_aea8cb6621d64c6a.jpg",
+   "data/img/hd_fff02d883ecbb04b.jpg",
+   "data/img/hd_cea896d248e0efe3.jpg"
+  ],
+  "videos": [],
+  "updated": 1795821773
+ },
+ {
+  "id": 256,
+  "price": 5200000,
+  "price_max": 5200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": "Phường 6",
+  "street": null,
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [],
+  "description": "đường 3/2, Quận 10\nŸ Điện 4k, Nước 100k, Dvu 200k\nP06: 5.200.000 (1/12 trống)",
+  "images": [
+   "data/img/hd_f39d9a20e5ef296e.jpg",
+   "data/img/hd_812ae6f3dbd915c7.jpg",
+   "data/img/hd_b7f558e33a44d91b.jpg",
+   "data/img/hd_c7d238c5ec601d40.jpg",
+   "data/img/hd_c56984a0cde7e0b7.jpg",
+   "data/img/hd_5f09a2b5a8886db0.jpg"
+  ],
+  "videos": [],
+  "updated": 1795821719
+ },
+ {
+  "id": 255,
+  "price": 5500000,
+  "price_max": 5500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": null,
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [],
+  "description": "TRỐNG SẴN VÔ Ở LIỀN\nÊn Ên86/15b Nguyễn Công Hoan,Cầu Kiệu Phú Nhuận\nPhòng 201(thang bộ)\nÏ @Giá 5tr5\nĐiện 4k\nNước người\nXe chiếc\nDV phòng\nHä 6th coc 1 tháng,hđ 1 năm cọc 1,5 tháng",
+  "images": [
+   "data/img/hd_56d5709792e7d202.jpg",
+   "data/img/hd_32963542b132b881.jpg",
+   "data/img/hd_80e324d318902bdd.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_f2540f19ca4e712b.mp4",
+    "poster": "data/vid/v_f2540f19ca4e712b.jpg"
+   }
+  ],
+  "updated": 1795821668
+ },
+ {
+  "id": 254,
+  "price": 5600000,
+  "price_max": 5600000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": "Phường 2",
+  "street": null,
+  "type": "studio",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "cửa sổ",
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp"
+  ],
+  "description": "AII Yˆ 486 đường Quận 10, Trống sẵn phong P2.6 -lầu 2 cửa sổ trời lớn.\nGiá 5tr6\nPhòng studio sẵn máy lạnh, tủ lạnh, kệ bếp, tủ đồ, giường.\nĐiện 4k, dịch vụ 200k/p, nước 100k/ng, miễn phí 1 xe, xe 2 +100k.",
+  "images": [
+   "data/img/hd_5bfaa16595903728.jpg",
+   "data/img/hd_68c79aabafc73825.jpg",
+   "data/img/hd_dafb810b634d3852.jpg",
+   "data/img/hd_5ed5c17104446a53.jpg",
+   "data/img/hd_af8fe232422f1150.jpg"
+  ],
+  "videos": [],
+  "updated": 1795821622
+ },
+ {
+  "id": 253,
+  "price": 4700000,
+  "price_max": 4700000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Thành Thái",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Cuối tháng T1 trống\nĐịa chỉ: Thành Thái, Quận 10, Tp.HCM (q10)\nSố phòng: 202\nGiá thuê: 4tr7/tháng\nDịch vụ: 200k/phòng\nXe: 100k/chiếc\nNước 100k/người\nĐiện: 4k/kw\nHĐ Pass nhé anh em\nTin nhắn chưa đọc",
+  "images": [
+   "data/img/hd_3b9656b0be63462c.jpg",
+   "data/img/hd_f855e478c0724b19.jpg",
+   "data/img/hd_970bda7fcb46863e.jpg",
+   "data/img/hd_ffe677e0a701edd3.jpg",
+   "data/img/hd_25df665cba65817f.jpg",
+   "data/img/hd_c9c0e0da1b73f1d4.jpg",
+   "data/img/hd_92619266a0321edd.jpg",
+   "data/img/hd_60618953ee9f053d.jpg",
+   "data/img/8a2d34cdc5328083.jpg"
+  ],
+  "videos": [],
+  "updated": 1795821546
+ },
+ {
   "id": 247,
   "price": 10800000,
   "price_max": 10800000,
