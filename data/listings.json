@@ -1,5 +1,286 @@
 [
  {
+  "id": 272,
+  "price": 8500000,
+  "price_max": 8500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 19",
+  "street": "Huỳnh Mẫn Đạt",
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [],
+  "description": "Huỳnh Mẫn Đạt, P.19, Q.Bình Thạnh\nGiá chốt: 8tr5 cho khách thiện chí ở liền\nCó nhận pet, cọc 2tr phí 100k/con\n1 Phòng ngủ, 1 phòng khách tách biệt\nChính sách\nĐiện: 4300/kWh\nNước: 150k/ng\nđề Dịch vụ: 200k/phòng\nXe : free 2 xe, đề tầng hầm",
+  "images": [
+   "data/img/hd_32e8dfa09fa829d7.jpg",
+   "data/img/hd_b125040af4c493db.jpg",
+   "data/img/hd_72eafd9106b8f23c.jpg",
+   "data/img/hd_a9b2a22aae992fe2.jpg",
+   "data/img/hd_810961103ee9e5c4.jpg",
+   "data/img/hd_c2a68e4b84155a56.jpg",
+   "data/img/hd_4a973dbb3802090c.jpg",
+   "data/img/hd_70a48227e46346a6.jpg",
+   "data/img/61b534a4021c493e.jpg",
+   "data/img/b06b93f8964a6e75.jpg",
+   "data/img/66c2ee2c76c96008.jpg",
+   "data/img/fbb98bc912921983.jpg"
+  ],
+  "videos": [],
+  "updated": 1795823098
+ },
+ {
+  "id": 271,
+  "price": 15000000,
+  "price_max": 15000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường Thạnh Mỹ",
+  "street": "Điện Biên Phủ",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất"
+  ],
+  "description": "Địa chỉ: Điện Biên Phủ, phường Thạnh Mỹ Tây, HCM Bình Thạnh\nToà nhà thang máy\nTrang bị đầy đủ nội thất\nĐiện: 4.200kwh\nNước: 150.000/người\nDịch vụ: 200.000/phòng nha cả nhà\n15.000.000",
+  "images": [
+   "data/img/hd_f272a2b12dce2acc.jpg",
+   "data/img/hd_4ada0f6e2d9dfd57.jpg",
+   "data/img/hd_fddfe9c3ce8a0416.jpg",
+   "data/img/hd_9a7db20aac00c193.jpg",
+   "data/img/hd_26e2860bd24d3be6.jpg",
+   "data/img/hd_e93c101017d20622.jpg",
+   "data/img/hd_50a6cb7f3023d7de.jpg",
+   "data/img/7586fecfd845e921.jpg",
+   "data/img/dd123e1593d72e97.jpg",
+   "data/img/ec702be80f7b5586.jpg",
+   "data/img/439740a419e09dc2.jpg",
+   "data/img/40a92a5620d755a3.jpg",
+   "data/img/2a6eecbb0dc29fd6.jpg",
+   "data/img/01461d36b1d725ea.jpg",
+   "data/img/0db99274fb0e3c05.jpg",
+   "data/img/df4e93b0b12f913d.jpg",
+   "data/img/e6f4839160b090d2.jpg",
+   "data/img/4fb94e4256f87973.jpg"
+  ],
+  "videos": [],
+  "updated": 1795823030
+ },
+ {
+  "id": 270,
+  "price": 6000000,
+  "price_max": 6000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường Bảy Hiền",
+  "street": "Phạm Phú Thứ",
+  "type": "studio",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "ban công",
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp",
+   "giờ giấc tự do",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "Phạm Phú Thứ, phường Bảy Hiền (quận Tân Bình cũ), TP.HCM\nta Trống sẵn phòng studio ban công P201 tầng 2: P201 - 6tr (có máy giặt riêng). Giảm 100k nếu ở 1 mình\nlà Quy mô: 5 Tầng, 8 phòng, Thang Bộ\nĐiện 3.8kw, Nước 150k/ng\nDịch vụ 200k/ph\nXe free 1 xe (xe t2 +100k/xe)\nGiặt sấy phơi chung tầng 5\nCamera an ninh, PCCC, khoá cổng vân tay\nGiờ giấc tự do, không chung chủ\nèPet: có, không xe điện, không bếp gas\nNội thất: Máy lạnh, kệ bếp, tủ đồ, nóng lạnh NLMT, tủ lạnh, máy giặt, bàn trang điểm, gương soi toàn thân,\ngiường gỗ + nệm",
+  "images": [
+   "data/img/hd_bffd6d003669bd57.jpg",
+   "data/img/hd_32cc6353df3de069.jpg",
+   "data/img/hd_ebc18d5de1fee67d.jpg",
+   "data/img/hd_01451c47b8e9a7a1.jpg",
+   "data/img/hd_e9e1ea61760c8530.jpg",
+   "data/img/hd_0f550c1ad284ae73.jpg",
+   "data/img/hd_3b82cf599c721977.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_c20a80d0b38168cc.mp4",
+    "poster": "data/vid/v_c20a80d0b38168cc.jpg"
+   }
+  ],
+  "updated": 1795822952
+ },
+ {
+  "id": 268,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 7",
+  "street": "Chu Văn An",
+  "type": "studio",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "bếp",
+   "nuôi thú cưng",
+   "bảo vệ"
+  ],
+  "description": "Địa chỉ: Chu Văn An, P7, Bình Thạnh\nStudio khuất bếp trệt G01\nKhách pass hợp đồng 6 tháng\nGiá: 6.500.000/tháng\nCọc 1.5 tháng\nĐiện 4k/kw\nNước 100k/người\nPhí dịch vụ: 200k/phòng\nFree 1 xe\nKo nuôi pet\nCó giặt sấy, hẻm oto, yên tĩnh, an ninh",
+  "images": [
+   "data/img/hd_fb68c0856f5b5319.jpg",
+   "data/img/hd_93cd1c646524c64b.jpg",
+   "data/img/hd_9c9c4e84ec9f0762.jpg",
+   "data/img/hd_d0a7326289082617.jpg",
+   "data/img/hd_9c2a823fb08fd2ab.jpg",
+   "data/img/hd_be99b4961e1dbf2c.jpg",
+   "data/img/hd_7c2d4931842fd654.jpg",
+   "data/img/hd_2aa06d70a2a1eca0.jpg"
+  ],
+  "videos": [],
+  "updated": 1795822885
+ },
+ {
+  "id": 267,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường Bảy Hiền",
+  "street": "Cộng Hòa",
+  "type": "studio",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "bếp"
+  ],
+  "description": "STU ĐẸP RẺ DỄ THƯƠNG@\nHẻm xe tải: CỘNG HÒA, P. Bảy Hiền (sát ga T3) Tân Bình\nMã search: 102CH - Giá 6tr5\nNổi Bật\nĐầy đủ tiện nghi ko thiếu gì, thiết kế thông minh\nTủ bếp trên dưới\nRộng thoáng, tiện đi lại mọi hướng\nView cửa số thoáng sáng rực rỡ\nHĐ8-12/cọc 1-1.5\nĐiện 4 - Nước 100 - DV 200 - Free xe\nAII",
+  "images": [
+   "data/img/hd_cf004a7b797d279c.jpg",
+   "data/img/hd_8c80f78cd69cbee2.jpg",
+   "data/img/hd_c0c50c833b19127c.jpg",
+   "data/img/hd_65136de357919a7f.jpg",
+   "data/img/hd_51377cb9ab0a344f.jpg",
+   "data/img/hd_07a73d7993beb5dc.jpg",
+   "data/img/hd_8ea884423510371e.jpg",
+   "data/img/hd_746358fa1139df99.jpg",
+   "data/img/fc4860b63f536a05.jpg",
+   "data/img/dbaa8262b0be36e1.jpg",
+   "data/img/8f9dd3b65ffca299.jpg",
+   "data/img/70bc2fa1765d37f5.jpg",
+   "data/img/2bc27db2cf6bed1c.jpg",
+   "data/img/b5ba6df24f3c6c0b.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_bf44bff127970839.mp4",
+    "poster": "data/vid/v_bf44bff127970839.jpg"
+   }
+  ],
+  "updated": 1795822801
+ },
+ {
+  "id": 266,
+  "price": 8600000,
+  "price_max": 8600000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường Gia Định",
+  "street": null,
+  "type": "căn hộ",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 18/12",
+  "available_date": "2026-12-18",
+  "amenities": [
+   "máy giặt riêng",
+   "ban công",
+   "cửa sổ"
+  ],
+  "description": "Toà nhà vạn kiếp, phường gia định( bình thạnh cũ)\nThang máy, đề xe free\nMã phòng 203, căn 1 phòng ngủ máy giặt riêng, ban công cửa sổ\nGiá chỉ 8tr6\nXem nhà ngay hôm nay\nTrống từ 18/12",
+  "images": [
+   "data/img/hd_2f8215d28ab3582c.jpg",
+   "data/img/hd_8c56641b8c5b29a0.jpg",
+   "data/img/hd_f895b29bc10aacd2.jpg",
+   "data/img/hd_7705bee5d3a6690e.jpg"
+  ],
+  "videos": [],
+  "updated": 1795822764
+ },
+ {
+  "id": 265,
+  "price": 8000000,
+  "price_max": 8000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": null,
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 1/1",
+  "available_date": "2027-01-01",
+  "amenities": [
+   "full nội thất"
+  ],
+  "description": "Phòng 1/1trống\n30/45 nguyễn cửu vân Bình thạnh\nLầu 2\nGiá 8tr\nFull nội thất\nĐiện 4k\nNước 100k\nDịch vụ 200k",
+  "images": [
+   "data/img/hd_f1dd355c9ab68786.jpg",
+   "data/img/hd_12e50e913cd692b3.jpg",
+   "data/img/hd_5e03ed5e00dd7865.jpg"
+  ],
+  "videos": [],
+  "updated": 1795822736
+ },
+ {
   "id": 264,
   "price": 16900000,
   "price_max": 16900000,
