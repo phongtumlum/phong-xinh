@@ -1,5 +1,218 @@
 [
  {
+  "id": 225,
+  "price": 9300000,
+  "price_max": 9300000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Ngô Tất Tố",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống 30/11",
+  "available_date": "2026-11-30",
+  "amenities": [
+   "máy giặt riêng",
+   "ban công",
+   "full nội thất",
+   "bếp"
+  ],
+  "description": "9tr3 ban công\n1PN tách bếp\nFull nội thất\nMáy giặt riêng\nNgô Tất Tố\n30/11 trống lầu 4 thang bộ |",
+  "images": [
+   "data/img/hd_c4d346811a9ac348.jpg",
+   "data/img/hd_8591af877ce313cf.jpg",
+   "data/img/hd_e59824af812b62e3.jpg",
+   "data/img/hd_8b3ead63f34d69a9.jpg",
+   "data/img/hd_2a3f1a6c46003ced.jpg",
+   "data/img/hd_acbb0e586b0d0573.jpg",
+   "data/img/hd_154a5c3cd8d8fec2.jpg",
+   "data/img/hd_bfe281fdbbf02e5a.jpg",
+   "data/img/5dfe59240a7e0237.jpg",
+   "data/img/d4ae02f22406163f.jpg",
+   "data/img/58d99bc2b348771e.jpg",
+   "data/img/dfbf3b0db70aa418.jpg",
+   "data/img/7edc907271a13d23.jpg",
+   "data/img/b5c30538d602883e.jpg",
+   "data/img/712026ece750ba5d.jpg",
+   "data/img/a429ac5f7ba11ac6.jpg",
+   "data/img/612e5b3fea4c4e98.jpg",
+   "data/img/b4b8249a1861492c.jpg",
+   "data/img/215d05ffdb1656a4.jpg",
+   "data/img/6557d9e734c61814.jpg",
+   "data/img/27d1680c040c56e3.jpg",
+   "data/img/4aa278ba1aa6c591.jpg",
+   "data/img/f08fcab4c21d8710.jpg",
+   "data/img/82f6506c2ac70265.jpg",
+   "data/img/15a04e16513f913b.jpg",
+   "data/img/f8b087cf1ab494d9.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_f6b764fd65d363d3.mp4",
+    "poster": "data/vid/v_f6b764fd65d363d3.jpg"
+   }
+  ],
+  "updated": 1795795055
+ },
+ {
+  "id": 224,
+  "price": 8500000,
+  "price_max": 8500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Ung Văn Khiêm",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "bếp"
+  ],
+  "description": "8tr5 cửa số\n1PN tách bếp\nThang máy\nFull nội thất\nMáy giặt riêng\nUng Văn Khiêm",
+  "images": [
+   "data/img/hd_4a45182d40a96157.jpg",
+   "data/img/hd_cfecbead24f112e8.jpg",
+   "data/img/hd_fe1d62a108133fb9.jpg",
+   "data/img/hd_41d713b1a36ba03d.jpg",
+   "data/img/hd_b2b64c27fc9097a2.jpg",
+   "data/img/hd_ad3fb558f2ddd68d.jpg",
+   "data/img/hd_1e548be708aa7fda.jpg",
+   "data/img/1f2bf41c58e0fff8.jpg",
+   "data/img/f681f8d0a4de9066.jpg",
+   "data/img/7e33d9c66894c3ec.jpg",
+   "data/img/cc06f4cf35625e96.jpg",
+   "data/img/180e5583863d6825.jpg",
+   "data/img/686ea8a139df556c.jpg"
+  ],
+  "videos": [],
+  "updated": 1795794982
+ },
+ {
+  "id": 223,
+  "price": 10000000,
+  "price_max": 10000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Trân Bình Trọng",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [
+   "máy giặt riêng",
+   "ban công",
+   "full nội thất",
+   "bếp"
+  ],
+  "description": "10tr ban công\n1PN tách bếp\nThang máy\nFull nội thất\nMáy giặt riêng\nTrân Bình Trọng\n1/12 trống",
+  "images": [
+   "data/img/hd_504773d328dfbc24.jpg",
+   "data/img/hd_cfb7f924878e024a.jpg",
+   "data/img/hd_48745b70f9e471c8.jpg",
+   "data/img/hd_fb290f06c41a4d21.jpg",
+   "data/img/hd_fc3bc54d6f7f382e.jpg",
+   "data/img/hd_3f44f4414c6863a6.jpg",
+   "data/img/hd_ef65b1b08acd5a09.jpg",
+   "data/img/hd_70e305204d8ff000.jpg"
+  ],
+  "videos": [],
+  "updated": 1795794908
+ },
+ {
+  "id": 222,
+  "price": 8800000,
+  "price_max": 8800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Bùi Đình Túy",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "ban công",
+   "full nội thất",
+   "bếp"
+  ],
+  "description": "8tr8 ban công\n1PN tách bếp\nFull nội thất\nMáy giặt riêng\nBùi Đình Túy",
+  "images": [
+   "data/img/hd_4181c7627ef12e95.jpg",
+   "data/img/hd_7186f21dab485dab.jpg",
+   "data/img/hd_98a048cf494b7ec4.jpg",
+   "data/img/hd_2cb6bdeaa076e76c.jpg",
+   "data/img/hd_f28f75145cdeb174.jpg",
+   "data/img/hd_802f140e11f76df8.jpg",
+   "data/img/hd_01ec5697cfbc5735.jpg"
+  ],
+  "videos": [],
+  "updated": 1795794839
+ },
+ {
+  "id": 221,
+  "price": 6300000,
+  "price_max": 6300000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Bình Lợi",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [
+   "ban công",
+   "full nội thất",
+   "bếp"
+  ],
+  "description": "Tin nhắn chưa đọc\nKhánh - Apex Saigon Living\n6tr3 ban công\n1PN tách bếp\nFull nội thất\nBình Lợi\n1/12 trống",
+  "images": [
+   "data/img/hd_a24f6c10091a148c.jpg",
+   "data/img/hd_cfb22eacdb38148e.jpg",
+   "data/img/hd_cca7b89d8152ec2a.jpg",
+   "data/img/hd_5b26378ddd7e8950.jpg",
+   "data/img/hd_ad15915390c24d1f.jpg",
+   "data/img/hd_28e23f835367f411.jpg"
+  ],
+  "videos": [],
+  "updated": 1795794777
+ },
+ {
   "id": 220,
   "price": 10500000,
   "price_max": 28000000,
