@@ -1,5 +1,39 @@
 [
  {
+  "id": 264,
+  "price": 16900000,
+  "price_max": 16900000,
+  "price_deal": null,
+  "area": 50.0,
+  "district": "Quận 4",
+  "ward": null,
+  "street": "Khánh Hội",
+  "type": "studio",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 3/12",
+  "available_date": "2026-12-03",
+  "amenities": [
+   "full nội thất"
+  ],
+  "description": "[Mã 6B: căn Rooftop, sân thượng riêng tư + sân vườn siu xanh mát, view Bitexco, pháo bông\n50m2 studio rooftop + 15m2 sân vườn, đầy đủ nội thất, máy giặt sân phơi có sẵn trong căn\nb Ác 16,9tr/tháng, ký tối thiểu 6 tháng. Chủ nhà nhận tiền mặt, ko nhận ck\n(Giá đã gồm tất cả các phí, điện 4500vnd/kwh, nước sinh hoạt 150k/khách, dọn dẹp 100k/giờ)\nCọc 2, thanh toán 1, cho phép sang hd\nKo nhận khách có trẻ em dưới 10 tuổi - xe hơi - xe điện - thú cưng\nÊÂ Khánh Hội, Q4\nCăn trống từ 3/12, có thể check sau đó",
+  "images": [
+   "data/img/hd_cf93f89d7d00e1c7.jpg",
+   "data/img/hd_bf6e04e7b2c0abb2.jpg",
+   "data/img/hd_e6844edbdb8afcbe.jpg",
+   "data/img/hd_4e711b76296d7354.jpg",
+   "data/img/hd_ffd8504fac66db1c.jpg",
+   "data/img/hd_7c76b8ccfac2892e.jpg"
+  ],
+  "videos": [],
+  "updated": 1795822451
+ },
+ {
   "id": 262,
   "price": 8500000,
   "price_max": 8500000,
