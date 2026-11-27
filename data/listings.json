@@ -1,5 +1,250 @@
 [
  {
+  "id": 172,
+  "price": 5500000,
+  "price_max": 5500000,
+  "price_deal": null,
+  "area": 20.0,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Trường Sa",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất"
+  ],
+  "description": "Quận 3, Trường Sa (siêu thị Co.op Mart Trường Sa lại 50m)\nŸ 1TH/HĐ12TH\nTHƯỞNG NÓNG DEAL/12 TH\nÉ£ Mã 401 - TRỐNG SẴN - 5.500.000 (FULL NT)\nsứ PN có bancon, siêu thoáng mát, rộng 20m2, cửa số nhìn bờ kè lộng gió",
+  "images": [
+   "data/img/hd_516e5d97d732ad10.jpg",
+   "data/img/hd_c866900b7bfc162a.jpg",
+   "data/img/hd_e43d79565ad44d10.jpg",
+   "data/img/hd_d3ef0cb57636cbdd.jpg",
+   "data/img/hd_907163a4a0ba092f.jpg",
+   "data/img/hd_9da10ea3a5437176.jpg",
+   "data/img/hd_4d4c731d2deeaf8e.jpg",
+   "data/img/hd_ef5a2feb166d4d56.jpg",
+   "data/img/31fe27145ceb98df.jpg"
+  ],
+  "videos": [],
+  "updated": 1795752043
+ },
+ {
+  "id": 171,
+  "price": 5800000,
+  "price_max": 5800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường 7",
+  "street": "Đặng Lộ",
+  "type": "studio",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "ban công"
+  ],
+  "description": "Ÿ17 Đặng Lộ, P.7, Tân Bình\n( Gần Cv Lê Thị Riêng, Quận 10)\ntrống sẵn căn Studio ban công, máy giặt riêng, 5.800.000 mã 401\nChỉ nhận 1xe máy",
+  "images": [
+   "data/img/hd_27f783e8242eaf23.jpg",
+   "data/img/hd_643e9bbb35b7c130.jpg",
+   "data/img/hd_cb162844df807626.jpg",
+   "data/img/hd_b244767357cbd83d.jpg",
+   "data/img/hd_54a4a60939684493.jpg"
+  ],
+  "videos": [],
+  "updated": 1795751997
+ },
+ {
+  "id": 170,
+  "price": 4800000,
+  "price_max": 4800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": null,
+  "street": "Lê Hồng Phong",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống đầu tháng 12",
+  "available_date": null,
+  "amenities": [],
+  "description": "Phòng ở Lê Hồng Phong , Quận 10\nPhòng 202 lầu 2: giá 4.8tr\nĐầu tháng 12 trống, khách đang ở hẹn khách xem liên hệ trước đề sắp xếp thời gian.",
+  "images": [
+   "data/img/hd_11c8ae8f573ed998.jpg",
+   "data/img/hd_cb0e0439af77fc0c.jpg",
+   "data/img/hd_97be9cc41377abbf.jpg",
+   "data/img/hd_79e193e75829c77e.jpg",
+   "data/img/hd_e771660193a92040.jpg"
+  ],
+  "videos": [],
+  "updated": 1795751952
+ },
+ {
+  "id": 169,
+  "price": 4500000,
+  "price_max": 4500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Tân Bình",
+  "ward": "Phường Tân Sơn",
+  "street": "Cách Mạng Tháng 8",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [],
+  "description": "(Xem hình phía trên)\nPhòng 102, 103 - Cách Mạng Tháng 8, Phường Tân Sơn Nhất Quận Tân Bình\nGiá: 4.500.000\nĐiện: 4k\nNước: 100k/người\nDịch vụ chung: 100k/phòng\nTrống sẵn",
+  "images": [
+   "data/img/hd_3dd2df93aeda22ec.jpg",
+   "data/img/hd_4c1e54e6e6d8ed21.jpg",
+   "data/img/hd_58b85c8745c16638.jpg",
+   "data/img/hd_b30440ce8b197382.jpg",
+   "data/img/hd_c90038061b773d4f.jpg",
+   "data/img/hd_a9009dec9581c2b7.jpg",
+   "data/img/hd_18937b8ba431a8ea.jpg",
+   "data/img/hd_587ded7ae2b3b014.jpg",
+   "data/img/100c85a495b0574e.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_2bd9653dcaf23829.mp4",
+    "poster": "data/vid/v_2bd9653dcaf23829.jpg"
+   }
+  ],
+  "updated": 1795751858
+ },
+ {
+  "id": 168,
+  "price": 5400000,
+  "price_max": 5400000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": "Phường 8",
+  "street": "Hoàng Văn Thụ",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [
+   "cửa sổ",
+   "tủ lạnh",
+   "bảo vệ"
+  ],
+  "description": "Ê) HOÀNG VĂN THỤ, P8, Q.PHÚ NHUẬN, HCM\ny Mã phòng: 201 - 201HVT - Cửa sổ, (Trống 1/12/2026)\nđề Nội thất: NT cơ bản, Bộ bàn ghế, Máy nước nóng, Tủ lạnh\nÊ› Giá thuê: 5.400.000đ\n4 Điện 4k/kWh Ô_ Nước 100k/người s# PDV 200k/phòng Free 2 chiếc\nƯu điềm\nPhòng đẹp, rộng\nKhu vực nội bộ, an ninh\nGần sân bay, cách trung tâm 10 phút",
+  "images": [
+   "data/img/hd_f86daf93d2ed0815.jpg",
+   "data/img/hd_784ae8d67e9ae73e.jpg",
+   "data/img/hd_a157594dc261939a.jpg",
+   "data/img/hd_00bd7d804545177e.jpg",
+   "data/img/hd_0d518ae71c44f27f.jpg"
+  ],
+  "videos": [],
+  "updated": 1795751808
+ },
+ {
+  "id": 167,
+  "price": 5700000,
+  "price_max": 5700000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": null,
+  "street": "Lê Văn Sỹ",
+  "type": "studio",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [],
+  "description": "Lê Văn Sỹ Quận 3\n(@?104-Trống\nŒ? Studio thang bộ lầu1\nÊ⁄ Giá: 5tr7\nĐiện 4k Nước 100k Dv 200k free xe, giặt riêng, không pet, không xe điện\n(Ae hẹn trước khi dắt)",
+  "images": [
+   "data/img/hd_cb15f200ff67379b.jpg",
+   "data/img/hd_a6a268fcb86447a3.jpg",
+   "data/img/hd_947083b30a2531a9.jpg",
+   "data/img/hd_8f0c0f627857e9e6.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_7c964462413a6920.mp4",
+    "poster": "data/vid/v_7c964462413a6920.jpg"
+   }
+  ],
+  "updated": 1795751743
+ },
+ {
+  "id": 165,
+  "price": 5500000,
+  "price_max": 5500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 10",
+  "ward": "Phường Diên Hồng",
+  "street": "Nguyễn Tiểu La",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Nguyễn Tiểu La - P. Diên Hồng - TP.HCM Quận 10\nĐiện: 4.000/Kwh\nNước 120.000đ/Người\nØ$ Dịch vụ: 150.000đ/Phòng\nSay do: 50.000d/Ngudi\nFree 1 xe\n5/12 5.500.000\nTin nhắn chưa đọc",
+  "images": [
+   "data/img/hd_e3930a74deac54f7.jpg",
+   "data/img/hd_89771887cb0301db.jpg",
+   "data/img/hd_f4c0e0e3581a1247.jpg",
+   "data/img/hd_a25e2ba00a7fe7b3.jpg",
+   "data/img/hd_a2955d8f29afa0e5.jpg",
+   "data/img/hd_0d0fdfc2d3b7ad14.jpg",
+   "data/img/hd_cd44a39183dafdf1.jpg"
+  ],
+  "videos": [],
+  "updated": 1795751675
+ },
+ {
   "id": 164,
   "price": 7300000,
   "price_max": 7300000,
