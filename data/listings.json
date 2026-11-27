@@ -1,5 +1,306 @@
 [
  {
+  "id": 154,
+  "price": 20000000,
+  "price_max": 20000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 5",
+  "street": "Hoàng Hoa Thám",
+  "type": "căn hộ",
+  "layout": "3PN",
+  "layouts": [
+   "3PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất"
+  ],
+  "description": "187,Hoàng Hoa Thám P.5 Q.Bình Thạnh\nhxt 5x14 trệt 2 lầu 3pn 3wc Full nội thất\n20tr",
+  "images": [
+   "data/img/hd_60f08003728be812.jpg",
+   "data/img/hd_3deeafd39e208017.jpg",
+   "data/img/hd_c2fc71b854929e7a.jpg",
+   "data/img/hd_49256d7028f38936.jpg",
+   "data/img/hd_ab5ab2ac50c4c638.jpg",
+   "data/img/hd_a8354a573022dbe8.jpg"
+  ],
+  "videos": [],
+  "updated": 1795750668
+ },
+ {
+  "id": 153,
+  "price": 8210000,
+  "price_max": 8210000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Bùi Đình Túy",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất"
+  ],
+  "description": "BÙI ĐÌNH TÚY\nMặt trước, Full NT\nDạng: 2PN\nGiá: 8tr210\nTrống sẵn",
+  "images": [
+   "data/img/hd_57f6b6ae348e87e3.jpg",
+   "data/img/hd_0f52978e6967193a.jpg",
+   "data/img/hd_fe88bb2d922fae70.jpg",
+   "data/img/hd_55cb219351642df3.jpg",
+   "data/img/hd_decb5ca4eb1384c0.jpg",
+   "data/img/hd_6adcce524440b7b6.jpg",
+   "data/img/hd_fde663e42171a1ca.jpg",
+   "data/img/hd_e04ea8b80d0dc285.jpg",
+   "data/img/0aedf42488e6ffda.jpg",
+   "data/img/83e58e1448280000.jpg",
+   "data/img/915e061e6dc523eb.jpg",
+   "data/img/6a79d03dc97e3770.jpg",
+   "data/img/7f818d390790cba3.jpg",
+   "data/img/576aa9483cc926e3.jpg",
+   "data/img/b634a8afbdda8d41.jpg",
+   "data/img/56d7c3f53d6af6e8.jpg"
+  ],
+  "videos": [],
+  "updated": 1795750600
+ },
+ {
+  "id": 152,
+  "price": 12000000,
+  "price_max": 15800000,
+  "price_deal": null,
+  "area": 70.0,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Nguyễn Xí",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "cửa sổ"
+  ],
+  "description": "126 phan đăng lưu, phú nhuận\nPhòng G04, 2PN 2wc cửa sổ, tầng trệt\nGiá 12tr, 30.11 trống\nĐiện 4k, nước 150k/1ng, phí dv 200k/1ph\nj Nguyễn Xí, p Bình Thạnh\nPhòng 301, 2PN ban công, 70m,lầu 3 thang máy\nGiá 15tr8, 30.11 trống( xem sau 18h)\nĐiện 4k, nước 150k/1ng, phí dv 200k/1ph",
+  "images": [
+   "data/img/hd_e92db9259261b185.jpg",
+   "data/img/hd_b882935bedafe186.jpg",
+   "data/img/hd_8d6a8be8361c372e.jpg",
+   "data/img/hd_a1fcd83b598b6eac.jpg",
+   "data/img/hd_d914b428e70e9db0.jpg",
+   "data/img/hd_52feb0605183d811.jpg",
+   "data/img/hd_2c24b971b831c19f.jpg",
+   "data/img/hd_beef9c8a13f36762.jpg",
+   "data/img/923cea66057c6c3f.jpg",
+   "data/img/51e0710cb8b3cf1c.jpg",
+   "data/img/c3d66b113bad8a7b.jpg",
+   "data/img/5be367ff9c1d2e4e.jpg",
+   "data/img/52897a9e5d731368.jpg",
+   "data/img/c22b9cb8a35a2a12.jpg",
+   "data/img/5fd808787e0082e1.jpg",
+   "data/img/7f6555b43aa3ad90.jpg",
+   "data/img/93726ee3c978f2e5.jpg",
+   "data/img/f7d11c6945e3fcf2.jpg",
+   "data/img/26aca280a95f8b21.jpg",
+   "data/img/4d0f5253cd323c40.jpg",
+   "data/img/c031d66d6de9d552.jpg",
+   "data/img/48c38ad0a22e4de5.jpg",
+   "data/img/9a4e6cbab7ea8521.jpg",
+   "data/img/103c1e285b7cd8b0.jpg",
+   "data/img/1bdd9ac1f0c49036.jpg",
+   "data/img/61af56f44c0b83ed.jpg",
+   "data/img/dfef6a4e9459bbf1.jpg",
+   "data/img/c0793c36a94cfc96.jpg",
+   "data/img/b5e1485367b3d2a0.jpg",
+   "data/img/a0b51a69cfbada54.jpg",
+   "data/img/9c59293476aa69e1.jpg",
+   "data/img/37deb308e0c197dd.jpg",
+   "data/img/13b617a43ca9258c.jpg",
+   "data/img/90cad6183778f924.jpg",
+   "data/img/63204cd12db6e5a9.jpg",
+   "data/img/ce57f9a342d7d9e8.jpg",
+   "data/img/294206f3d1e32d6b.jpg",
+   "data/img/69c12586207c559e.jpg",
+   "data/img/967daaa7494e38c6.jpg",
+   "data/img/ae60c0421fa3ad67.jpg",
+   "data/img/c20fc4a13981476b.jpg",
+   "data/img/327f77d60efe34e1.jpg",
+   "data/img/76edbc5c8c1b5262.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_d0a1d3e533938d3a.mp4",
+    "poster": "data/vid/v_d0a1d3e533938d3a.jpg"
+   }
+  ],
+  "updated": 1795750520
+ },
+ {
+  "id": 151,
+  "price": 14000000,
+  "price_max": 14000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": null,
+  "type": "căn hộ",
+  "layout": "3PN",
+  "layouts": [
+   "3PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "5x / yên đỗ. bình thạnh\n4x14 trệt lầu 3pn 3wc\n14tr",
+  "images": [
+   "data/img/hd_b55d1ae80bcca236.jpg",
+   "data/img/hd_f7205392592542f3.jpg",
+   "data/img/hd_cf71e0f63be792dd.jpg",
+   "data/img/e1f489904830cbed.jpg",
+   "data/img/hd_f4ac49a13c360f0f.jpg"
+  ],
+  "videos": [],
+  "updated": 1795750475
+ },
+ {
+  "id": 150,
+  "price": 9800000,
+  "price_max": 9800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Hoa Sứ",
+  "type": null,
+  "layout": "2PN / 3PN",
+  "layouts": [
+   "2PN",
+   "3PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống đầu tháng 1",
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "ban công",
+   "full nội thất",
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp",
+   "giờ giấc tự do",
+   "bảo vệ"
+  ],
+  "description": "Lầu 1 - Ban công cửa số rộng\nHoa Sứ Phú Nhuận\nĐầu tháng 1 trống\nFull nội thất: 2 giường —- 2 nệm - 2 tủ quần áo - 2 máy lạnh -tủ lạnh -- kệ bếp trên dưới, máy giặt riêng, chỗ phơi\nđồ riêng, nước nóng NLMT\nNhà sạch - an ninh - giờ giấc tự do\nGiá: 9.8tr\nĐiện: 4k\nNước: 100k/người\nPDV: 200k/phòng\nFREE xe, wifi",
+  "images": [
+   "data/img/hd_700b49693caa6426.jpg",
+   "data/img/hd_9a369148bb691c61.jpg",
+   "data/img/hd_140fa1dfffeaabdf.jpg",
+   "data/img/hd_26ce325e292c9500.jpg",
+   "data/img/hd_2c7da114737cd4c5.jpg",
+   "data/img/hd_f9a34e45cb55cc5e.jpg",
+   "data/img/hd_e277893b48904245.jpg",
+   "data/img/hd_559249babe5a110b.jpg",
+   "data/img/4c3fee436d083130.jpg"
+  ],
+  "videos": [],
+  "updated": 1795750400
+ },
+ {
+  "id": 148,
+  "price": 8600000,
+  "price_max": 8600000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 14",
+  "street": "Bùi Đình Túy",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp"
+  ],
+  "description": "Bùi Đình Túy P14 Bình Thạnh .\nf~ Căn 2 Phòng ngủ - Ban Công Mã phòng 101( Lầu 1) - cuối tháng Trống\nGiá Phòng : Giá Chốt: 8tr6 - Nội Thất cơ bản - 2 Máy Lạnh + Tủ Quần áo - Tủ Lạnh, 2 nệm, kệ bếp + máy\ngiặt riêng.\nÂÀ Chi Phí\nĐiện 4k/số\nNước 100/nguoi\nDịch vụ 200/phong ( rác , wifi , vệ sinh chung, bảo trì thiết bị ...)\nXe free 2C\nTin nhắn chưa đọc",
+  "images": [
+   "data/img/hd_4211604dc8926368.jpg",
+   "data/img/hd_68fa53bccfdec75d.jpg",
+   "data/img/hd_5e49294f7ccd4117.jpg",
+   "data/img/hd_366efc26be6be62e.jpg",
+   "data/img/hd_fb280a51f6ffca65.jpg",
+   "data/img/hd_327ed2c0edc1f0da.jpg",
+   "data/img/hd_8a6a5cc2cfaeab52.jpg",
+   "data/img/hd_f9c89789203f84de.jpg"
+  ],
+  "videos": [],
+  "updated": 1795750252
+ },
+ {
+  "id": 147,
+  "price": 7500000,
+  "price_max": 8500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Quốc Lộ",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "ban công",
+   "full nội thất"
+  ],
+  "description": "DỰ ÁN MỚI ĐANG HOÀN\nTHIỆN\nQuốc Lộ 13, Bình\nThạnh\n2PN LẦU 1.2 8tr5, lầu 3\n7tr5\nấy Dự án mới\n8tr5\n2PN riêng biệt\nFull nội thất\nQuốc Lộ 13 Bình Thạnh\ny Dự án mới\n7tr5 ban công\n2PN riêng biệt\nFull nội thất\nMáy giặt riêng\nQuốc Lộ 13 Bình Thạnh\n16:T1",
+  "images": [
+   "data/img/hd_b004f7db814253ac.jpg",
+   "data/img/hd_332573899d0b34f0.jpg",
+   "data/img/hd_9815e9b835c6fbc8.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_ac9645a770f7fe62.mp4",
+    "poster": "data/vid/v_ac9645a770f7fe62.jpg"
+   }
+  ],
+  "updated": 1795750210
+ },
+ {
   "id": 145,
   "price": 4500000,
   "price_max": 4500000,
