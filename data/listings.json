@@ -1,5 +1,199 @@
 [
  {
+  "id": 237,
+  "price": 17050000,
+  "price_max": 17050000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "Bedroom",
+  "type": "studio",
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 6/12",
+  "available_date": "2026-12-06",
+  "amenities": [
+   "bếp",
+   "bảo vệ"
+  ],
+  "description": "Bedroom, bồn tắm- bao dịch vụ, bao tiện ích, bao vat\nBao gồm nội thất, đồ dùng bếp\nDọn phòng: 365 lần/ năm, Giặt quần áo 2lần/ tuần\nThay drap 2 lần/ tuần\nNước sử dụng,Wiffi. Cabl Tivi\nBảo vệ 24/24, Xe máy 1 xe\nPhí Quản lý, Thuế\nTiền điện: 4,980 vnd/kwh\nĐặt cọc 1 tháng\n( giá không bao gồm thuế)\nSSS\nCập nhật: dự kiến 6/12 trống\nCập nhật nhà SHome Apartment\nNguyễn Văn Trỗi, Phú Nhuận\nStudio - bao dịch vụ, bao tiện ích, bao vat - 17tr050/tháng\nBao gồm nội thất, đồ dùng bếp\nDọn phòng: 365 lần/ năm, Giặt quần áo 2lần/ tuần\nThay drap 1 lần/ tuần\nNước sử dụng,Wiffi. Cabl Tivi\nBảo vệ 24/24, Xe máy 1 xe\nPhí Quản lý, Thuế\nTiền điện: 4,980 vnd/kwh\nĐặt cọc 1 tháng\n( giá không bao gồm thuế)",
+  "images": [
+   "data/img/hd_2673060ba9a215da.jpg",
+   "data/img/hd_59676003e59f2445.jpg",
+   "data/img/hd_b596bd4ca7d9c80f.jpg",
+   "data/img/hd_cd411847d695c635.jpg",
+   "data/img/hd_31b8185efb66dc3f.jpg",
+   "data/img/hd_9553d4de462d32c1.jpg",
+   "data/img/hd_efdfc9e9ec3852f5.jpg",
+   "data/img/hd_0844f2107dfa7d9a.jpg",
+   "data/img/af451e59e1b3a5d9.jpg",
+   "data/img/278a3fa80dd80887.jpg",
+   "data/img/948f1e8684662066.jpg",
+   "data/img/ad62f2307e832750.jpg",
+   "data/img/6cab1bede3948d4e.jpg",
+   "data/img/b8f145f19ef9737b.jpg",
+   "data/img/8816c0e58ae1388c.jpg",
+   "data/img/440469f1a85a06ad.jpg",
+   "data/img/8fb1620dced8f8f2.jpg",
+   "data/img/649f9d0dbdf72127.jpg",
+   "data/img/545438e8554b5c62.jpg",
+   "data/img/fe0c7806abd8586c.jpg",
+   "data/img/db7b4a566070dd11.jpg"
+  ],
+  "videos": [],
+  "updated": 1795796198
+ },
+ {
+  "id": 236,
+  "price": 22900000,
+  "price_max": 22900000,
+  "price_deal": null,
+  "area": null,
+  "district": "Phú Nhuận",
+  "ward": null,
+  "street": "Nguyễn Văn Trỗi",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 2/12",
+  "available_date": "2026-12-02",
+  "amenities": [],
+  "description": "Cập nhật: dự kiến 2/12 trống\nSHome Apartment\nNguyễn Văn Trỗi, Phú Nhuận\n3 }À“}Èˆ 22tr9/tháng",
+  "images": [],
+  "videos": [],
+  "updated": 1795796197
+ },
+ {
+  "id": 235,
+  "price": 9500000,
+  "price_max": 10000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 3",
+  "ward": "Phường 3",
+  "street": "Tqd",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất"
+  ],
+  "description": "Full nội thất có Sofa & giặt riêng\nCó giặt sấy chung sân thượng\nToà nhà thang bộ\nđŒ Nhà ở TQD (Đi Lê Văn Sỹ Q3)\nĐiện 4k, nước 100k/người, dịch vụ 200k/phòng\nX{ P03 lầu 2\n10tr\nX{P02 lầu 1\nÑ9tr5",
+  "images": [
+   "data/img/hd_0efc3ab551109cc6.jpg",
+   "data/img/hd_512c17987def3ea5.jpg",
+   "data/img/hd_aa6d5148ae058adb.jpg",
+   "data/img/hd_8ea4c229be1e00ae.jpg",
+   "data/img/hd_b91a59f8bfeaaf5d.jpg",
+   "data/img/hd_11f2ba8034cf4e26.jpg",
+   "data/img/hd_a9cd48a3b690a779.jpg",
+   "data/img/hd_9db263e4cc17d2bd.jpg",
+   "data/img/c625ab5e44f4b674.jpg",
+   "data/img/2be2e69a30e64176.jpg",
+   "data/img/398b06696b521643.jpg",
+   "data/img/c7e9c38e152240c6.jpg",
+   "data/img/b77beb92a841f2cc.jpg",
+   "data/img/f4c65509fc6ef650.jpg",
+   "data/img/97928643704f2777.jpg",
+   "data/img/d897c99e8ca30a22.jpg",
+   "data/img/dc04334330f91763.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_7d57b4736b085d22.mp4",
+    "poster": "data/vid/v_7d57b4736b085d22.jpg"
+   }
+  ],
+  "updated": 1795796105
+ },
+ {
+  "id": 234,
+  "price": 14500000,
+  "price_max": 14500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường Gia Định",
+  "street": "Nguyễn Cửu Vân",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Nguyễn Cửu Vân, Phường Gia Định, Quận Bình Thạnh\n14.500.000",
+  "images": [
+   "data/img/81b15e9a30ff2ae2.jpg",
+   "data/img/hd_a75feee8f89b7c7a.jpg",
+   "data/img/hd_013a3242e4b34d0f.jpg",
+   "data/img/hd_ce7f7643184d45cf.jpg",
+   "data/img/hd_06bc6bba32ecaa3c.jpg",
+   "data/img/hd_367e03e71d9f5918.jpg",
+   "data/img/hd_fe96029845747432.jpg",
+   "data/img/3e85af22d6a97f1e.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_7b2de3e211932c5f.mp4",
+    "poster": "data/vid/v_7b2de3e211932c5f.jpg"
+   }
+  ],
+  "updated": 1795796015
+ },
+ {
+  "id": 233,
+  "price": 10500000,
+  "price_max": 10500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Quận 1",
+  "ward": null,
+  "street": "Nguyễn Trãi",
+  "type": null,
+  "layout": "Studio / 1PN",
+  "layouts": [
+   "Studio",
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Tin nhắn chưa đọc\nNguyễn Trãi Quận 1",
+  "images": [
+   "data/img/hd_13bf53022819bb2e.jpg",
+   "data/img/hd_a10895abd29935cd.jpg",
+   "data/img/hd_60a15862e77ad75a.jpg",
+   "data/img/hd_adaebbd8007d8950.jpg"
+  ],
+  "videos": [],
+  "updated": 1795795978
+ },
+ {
   "id": 231,
   "price": 6800000,
   "price_max": 6800000,
