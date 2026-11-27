@@ -1,5 +1,350 @@
 [
  {
+  "id": 122,
+  "price": 3500000,
+  "price_max": 3500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường Bình Thạnh",
+  "street": "Định Bộ Lĩnh",
+  "type": null,
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 30/11",
+  "available_date": "2026-11-30",
+  "amenities": [
+   "cửa sổ",
+   "gác",
+   "bếp",
+   "wc riêng",
+   "nuôi thú cưng"
+  ],
+  "description": "3 cuối tháng trống p302 (Cửa sổ trời)\nÊ Giá 3tr5\nĐ/c: Định Bộ Lĩnh, phường Bình Thạnh, TP.HCM\nê. Tình trạng phòng: Có gác, kệ bếp, bồn rửa, toilet riêng, cửa số\nŸ$Chi phí: Điện 3.8k/Kwh; Nước 120k/người; Dịch vụ 200k/phòng 2-3 người; Miễn phí 2 xe.\nKhông nhận người lớn tuổi\nKhông xe điện, k bếp gas\nKhông nuôi thú cưng.\nTRỐNG\nL đội T16 Phan Văn Trị - Bình Thạnh\nMa G11\nĐiện 3k8\nNước 28k/m3\nŸ Dịch vụ 200k/p",
+  "images": [
+   "data/img/hd_7e19186d81721d39.jpg",
+   "data/img/hd_9fbf450a8d144443.jpg",
+   "data/img/hd_bf9be1a0a91ddeaa.jpg",
+   "data/img/hd_ff61ac07d69f121b.jpg",
+   "data/img/hd_e0636213e769fe63.jpg",
+   "data/img/1fbe5cc768d4dd97.jpg"
+  ],
+  "videos": [],
+  "updated": 1795747439
+ },
+ {
+  "id": 121,
+  "price": 4000000,
+  "price_max": 4000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Định Bộ Lĩnh",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất"
+  ],
+  "description": "4tr\nFull nội thất\nĐịnh Bộ Lĩnh",
+  "images": [
+   "data/img/hd_68203c5a59369f0a.jpg",
+   "data/img/hd_3598d88590762559.jpg",
+   "data/img/hd_3e82e30deb8eef89.jpg",
+   "data/img/hd_d66cc2639e8ffdfe.jpg",
+   "data/img/hd_31e813c7ced0832f.jpg",
+   "data/img/hd_60c0d8e032bd699d.jpg",
+   "data/img/751c21e8f5b362cc.jpg"
+  ],
+  "videos": [],
+  "updated": 1795747380
+ },
+ {
+  "id": 120,
+  "price": 4000000,
+  "price_max": 4000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường Thạnh Mỹ",
+  "street": "Trống Phòng",
+  "type": null,
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "gác",
+   "bếp",
+   "wc riêng"
+  ],
+  "description": "1⁄12 TRỐNG PHÒNG 302\nÐc: 157 Nguyễn Gia Trí , phường Thạnh Mỹ Tây\nGiá: 4tr\nTình trạng mới xây\nKệ bếp, wc riêng, gác,cửa số thoáng\nĐiện 3k8, nước 120k/ người, dv 200k/ phòng, xe free 2c",
+  "images": [
+   "data/img/hd_b3ab7bd63be79203.jpg",
+   "data/img/hd_287b299b227dbca4.jpg",
+   "data/img/hd_6e8469890e3aa7fc.jpg",
+   "data/img/hd_448021817928ab9a.jpg",
+   "data/img/hd_c6eb8394fb58f554.jpg"
+  ],
+  "videos": [],
+  "updated": 1795747335
+ },
+ {
+  "id": 119,
+  "price": 3100000,
+  "price_max": 3100000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 13",
+  "street": "Nguyễn Xí",
+  "type": null,
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "cửa sổ",
+   "gác",
+   "wc riêng"
+  ],
+  "description": "Địa chỉ: Nguyễn xí, p13 Bình thạnh\nGiá:3tr1/ tháng\nTình trạng phòng: không gác\nCửa sổ trời thoáng\nBồn rửa\nToilet riêng\ns» M chi phí\nĐiện 3.5k/Kwh; Nuớc: 120k/người; Dịch vụ: 200k/phòng 2 người",
+  "images": [
+   "data/img/hd_cda694dbbae1cf98.jpg",
+   "data/img/hd_19a8fe336b30bed6.jpg",
+   "data/img/hd_31e2f72754d7838d.jpg",
+   "data/img/hd_0d4d111b1799ab0f.jpg",
+   "data/img/hd_06aa05ec57507e07.jpg",
+   "data/img/hd_6229711e18ef57c5.jpg",
+   "data/img/hd_85be8b356e591a26.jpg"
+  ],
+  "videos": [],
+  "updated": 1795747272
+ },
+ {
+  "id": 118,
+  "price": 4000000,
+  "price_max": 4000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 26",
+  "street": "Xô Viết Nghệ Tĩnh",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "cửa sổ",
+   "wc riêng"
+  ],
+  "description": "Trống sẵn phòng 304\nĐịa chỉ: xô viết nghệ tĩnh, p26 Bình thạnh( d2 nối dài)\nGiá:4tr/ tháng\nTình trạng\nCửa sổ trời thoáng\nBồn rửa\nToilet riêng\ns» M chi phí\nĐiện 3.8k/Kwh; Nuớc: 120k/người; Dịch vụ: 200k/phòng 2 người\ntrống phòng 403",
+  "images": [
+   "data/img/hd_c35325b32670a37b.jpg",
+   "data/img/hd_0710a827336eda61.jpg",
+   "data/img/hd_619b8ad426017f11.jpg",
+   "data/img/hd_1c898b61dba832bc.jpg"
+  ],
+  "videos": [],
+  "updated": 1795747236
+ },
+ {
+  "id": 117,
+  "price": 3800000,
+  "price_max": 4000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường Thạnh Mỹ",
+  "street": "Trống Phòng",
+  "type": null,
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống 1/12",
+  "available_date": "2026-12-01",
+  "amenities": [
+   "gác",
+   "bếp"
+  ],
+  "description": "TRỐNG PHÒNG 204\nÐc 74 Võ Oanh, phường Thạnh Mỹ Tây\nGiá 4tr\nTình trạng\nMới xây, gác, kệ bếp, cửa số thoáng\nĐiện3k8, nước 120k/ người, dv 200k/ phòng\nXe free 2c\ntrống phòng 205\nÐc: 758 Xô Viết Nghệ Tĩnh, phường Thạnh Mỹ Tây\nGiá 3tr8\nTình trạng\nMới xây, gác, kệ bếp, cửa số thoáng\nĐiện3k8, nước 120k/ người, dv 200k/ phòng\nXe free 2c",
+  "images": [
+   "data/img/hd_83daba9b3220645e.jpg",
+   "data/img/hd_5e6ad468474b833f.jpg",
+   "data/img/hd_d58a09812c7de1dc.jpg",
+   "data/img/hd_394d1e58b0207620.jpg",
+   "data/img/hd_b697994fe36b2080.jpg",
+   "data/img/hd_1be00a2cb4c4efb0.jpg",
+   "data/img/hd_01c9e0886c85071f.jpg",
+   "data/img/hd_a5577767e5649960.jpg",
+   "data/img/9ab7adbea99002c9.jpg"
+  ],
+  "videos": [],
+  "updated": 1795747163
+ },
+ {
+  "id": 116,
+  "price": 3500000,
+  "price_max": 3500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": null,
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy lạnh",
+   "bếp"
+  ],
+  "description": "8 đinh bộ lĩnh bình thạnh\nMã 005\nCuối tháng trống giá 3tr5\nP107: 3tr5 có máy lạnh + kệ bếp",
+  "images": [
+   "data/img/hd_bd1e9c0f5aaccda6.jpg",
+   "data/img/hd_799e05dcad773104.jpg",
+   "data/img/hd_a024873155a12818.jpg",
+   "data/img/hd_55938908131d131c.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_c98a8f2be7e3cafc.mp4",
+    "poster": "data/vid/v_c98a8f2be7e3cafc.jpg"
+   }
+  ],
+  "updated": 1795747114
+ },
+ {
+  "id": 115,
+  "price": 4000000,
+  "price_max": 4000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 11",
+  "street": "Phan Văn Trị P11 Q.",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất"
+  ],
+  "description": "Địa chỉ: Phan Văn Trị p11 Q. Bình Thạnh\nTRỐNG SẴN\nGiá thuê 4tr Full Nội Thất\nĐiện: 4k\nNước: 100K/ 1 người\nFree 1 xe\nPhí Dịch Vụ : 200k/ 1 phòng",
+  "images": [
+   "data/img/hd_81280d21ac7e6574.jpg",
+   "data/img/hd_6423ae2e4b2988f9.jpg",
+   "data/img/hd_caa283ac5e77fa32.jpg",
+   "data/img/hd_2640e98c48d1a878.jpg"
+  ],
+  "videos": [],
+  "updated": 1795747079
+ },
+ {
+  "id": 114,
+  "price": 4100000,
+  "price_max": 4100000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": null,
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "91 bình lợi bình Thạnh.\n3 (Ê Giá 4TR1\nĐiện 4k\nNước 100k/người\nDvu 200k/p",
+  "images": [
+   "data/img/hd_48329ccfe3e5c1ca.jpg",
+   "data/img/hd_f6eecad2ae849568.jpg",
+   "data/img/hd_1002c11a91bc04a4.jpg",
+   "data/img/hd_adc0b39a5d72760a.jpg"
+  ],
+  "videos": [],
+  "updated": 1795747044
+ },
+ {
+  "id": 113,
+  "price": 4000000,
+  "price_max": 4000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Võ Oanh",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Võ Oanh Bình Thạnh\n4tr",
+  "images": [
+   "data/img/hd_90b78ab056906e0d.jpg",
+   "data/img/hd_ecec563b1dd73c81.jpg",
+   "data/img/hd_b78ec122b5030010.jpg",
+   "data/img/hd_7041cff49a3b3567.jpg",
+   "data/img/hd_802f9876fe0a5956.jpg",
+   "data/img/hd_3822328afab3717a.jpg",
+   "data/img/hd_85b5d2742c387e58.jpg",
+   "data/img/hd_ef016d4b58c231fe.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_dd92f301b789adfb.mp4",
+    "poster": "data/vid/v_dd92f301b789adfb.jpg"
+   }
+  ],
+  "updated": 1795746953
+ },
+ {
   "id": 112,
   "price": 15000000,
   "price_max": 15000000,
