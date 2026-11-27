@@ -1,5 +1,268 @@
 [
  {
+  "id": 220,
+  "price": 10500000,
+  "price_max": 28000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Gò Vấp",
+  "ward": null,
+  "street": "Đường Số 27",
+  "type": "căn hộ dịch vụ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": "Căn hộ dịch vụ",
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp",
+   "giờ giấc tự do"
+  ],
+  "description": "2PN - 1p khachd bếp - ban công cửa số\nGiá : 10tr5\nĐ/c : Đường số 27 , Hiệp bình Chánh , thủ đức\nNội thất bao gồm : bếp điện , máy hút mùi, tủ lạnh , máy lạnh , giường tủ nệm\nGiờ giấc tự do , Không chung chủ\nĐiện 4k , nước 25k/khối, dvu 200k/phòng ( Free xe )\nNguyễn Bỉnh Khiêm Q.Gò Vấp\n6x8 trệt 3 lầu 6pn 6wc cho chdv\n28tr hhtt/2\n20:06 x",
+  "images": [
+   "data/img/hd_9be78f12a331a100.jpg",
+   "data/img/hd_61a52cfccef34e6e.jpg",
+   "data/img/hd_e82f37e4560795ec.jpg",
+   "data/img/hd_6d79da24fa8997b9.jpg",
+   "data/img/hd_86a2ae26bac1d077.jpg",
+   "data/img/hd_ff5237ca14c50dac.jpg",
+   "data/img/hd_8959753d29fdb3d3.jpg",
+   "data/img/hd_5bd11b04521f140a.jpg",
+   "data/img/acd1dc420c4712f4.jpg",
+   "data/img/7c0fb6a00fb15c75.jpg",
+   "data/img/a7aeecd405c1ce6a.jpg",
+   "data/img/5a3d252e9e458024.jpg",
+   "data/img/ffecc94d56778753.jpg",
+   "data/img/dde72d0318a9b02f.jpg",
+   "data/img/d645f9d7de61e443.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_981a750ba4411747.mp4",
+    "poster": "data/vid/v_981a750ba4411747.jpg"
+   }
+  ],
+  "updated": 1795794516
+ },
+ {
+  "id": 219,
+  "price": 7000000,
+  "price_max": 7000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Vạn Kiếp",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Dang trống\nVạn Kiếp Bình Thạnh\nNước 100k/ng\nPhí dv :150k/phòng\nĐiện 4k/kwh\nG01 2PN\nGiá : 7tr",
+  "images": [
+   "data/img/hd_7b6203bd0b2c7d73.jpg",
+   "data/img/hd_f7157e00bcd13598.jpg",
+   "data/img/hd_c59ca1f40e142fa2.jpg",
+   "data/img/hd_14409718ab154fdf.jpg",
+   "data/img/hd_917a43e4eb8802a9.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_9c67de704f39cf7b.mp4",
+    "poster": "data/vid/v_9c67de704f39cf7b.jpg"
+   }
+  ],
+  "updated": 1795794457
+ },
+ {
+  "id": 218,
+  "price": 8200000,
+  "price_max": 8200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Võ Oanh",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "Đ/C: Võ Oanh (D3 cũ), Bình Thạnh\n2 PN -1WC Bancol rộng\nGiá : 8tr2\nĐiện 4k/Kwh, Nước: 100k/người, Dvu 200k.\nFull Nội thất: 2 giường + nệm, tủ lạnh, tủ bếp trên dưới, tủ quần áo, máy giặt, bộ bàn ghế ăn, máy lạnh, máy\ntắm nước nóng, rèm, khoá vân tay...\nKhu vực sầm uất, cạnh ĐH GTVT, tiện di chuyền Metro, Q2, Q1,...,hẻm xe hơi đậu tận cửa, an ninh tốt dân trí cao.",
+  "images": [
+   "data/img/hd_205c69aeead1ef6b.jpg",
+   "data/img/hd_18aa9ae1fbc97336.jpg",
+   "data/img/hd_4524c4300b12ba8c.jpg",
+   "data/img/hd_bb64c7e215150941.jpg",
+   "data/img/hd_7a69c5eca367acb4.jpg",
+   "data/img/hd_c8e15a34ea88e71e.jpg",
+   "data/img/hd_d6d62cc4c6aeddec.jpg",
+   "data/img/hd_b06547a56ffd3456.jpg"
+  ],
+  "videos": [],
+  "updated": 1795794385
+ },
+ {
+  "id": 217,
+  "price": 12500000,
+  "price_max": 12500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Nguyễn Xí",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bếp"
+  ],
+  "description": "Nguyễn Xí Bình Thạnh\ncòn đang trống 1 phòng 2pn 2wc 1 bếp 1 phòng giặt sấy full nội thất giá 12tr5",
+  "images": [],
+  "videos": [],
+  "updated": 1795794384
+ },
+ {
+  "id": 216,
+  "price": 10500000,
+  "price_max": 10500000,
+  "price_deal": null,
+  "area": 50.0,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Đường",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy lạnh",
+   "tủ lạnh"
+  ],
+  "description": "ĐƯỜNG D5 BÌNH THẠNH (Siêu siêu HOT, MẶT TIỀN KHU D NHỘN NHỊP, TIỆN ÍCH)\n2PN 10tr5\nFull tiện ích: 02 máy lạnh (inverter), 1 tủ lạnh (inverter), 1 máy giặt (inverter), 02 nệm, 02 giường, bàn làm việc,\nbàn ăn, máy nước nóng, chỗ phơi quần áo\nPhí: Điện 3k3- Nước: 150k / 1 người.\nDv: 200k /1 phòng\nXe: gửi bãi cách nhà 50m (hỗ trợ khách 01 xe)",
+  "images": [
+   "data/img/hd_b3a95007e99e2566.jpg",
+   "data/img/hd_a27ab62a0671313a.jpg",
+   "data/img/hd_93d51a739bb20a24.jpg",
+   "data/img/hd_9139428cef7232a8.jpg",
+   "data/img/hd_d9fe913ed06ee6e0.jpg",
+   "data/img/hd_ead98fe69b9591e0.jpg",
+   "data/img/hd_85930673f3fef4a6.jpg",
+   "data/img/hd_094c04de7e0e635e.jpg",
+   "data/img/d9f90943b9c09d03.jpg",
+   "data/img/a0919ccd0b074596.jpg",
+   "data/img/e79dbda75b7fd0c5.jpg"
+  ],
+  "videos": [],
+  "updated": 1795794316
+ },
+ {
+  "id": 215,
+  "price": 8000000,
+  "price_max": 8000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường Gia Định",
+  "street": "Bùi Hữu Nghĩa",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "bếp"
+  ],
+  "description": "Còn đúng 2pn. Giảm giá\nĐịa Chỉ : Bùi Hữu Nghĩa, Phường Gia Định , Bình Thạnh\nBlack Friday Giảm giá mạnh còn: 8tr\n2 Phòng Ngủ - Ban công - Tách bếp - Nội thất : ( Tủ đồ , Ballet + nệm , Kệ bếp )",
+  "images": [],
+  "videos": [
+   {
+    "src": "data/vid/v_5487aabf48b78a4a.mp4",
+    "poster": "data/vid/v_5487aabf48b78a4a.jpg"
+   }
+  ],
+  "updated": 1795794298
+ },
+ {
+  "id": 214,
+  "price": 13600000,
+  "price_max": 13600000,
+  "price_deal": null,
+  "area": 68.0,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Điện Biên Phủ",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Dự án mới\nĐiện Biên Phủ Bình Thạnh\nCăn G01 dạng 2PN -2WC rộng 68m2 giá hạt dẻ quá cả nhà\n13tr6",
+  "images": [
+   "data/img/hd_684021e405065bea.jpg",
+   "data/img/hd_fbc7a5e01b0d2cd9.jpg",
+   "data/img/hd_e5acb964884f79b2.jpg",
+   "data/img/hd_35539e25d7d42101.jpg",
+   "data/img/hd_cb2d1719cb841a56.jpg",
+   "data/img/hd_269ca528fd3a7955.jpg",
+   "data/img/hd_d403ad0da7f3e793.jpg",
+   "data/img/hd_d7c6b28e130d2e0e.jpg",
+   "data/img/1264ed13dffb7706.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_2c41568c316c8719.mp4",
+    "poster": "data/vid/v_2c41568c316c8719.jpg"
+   }
+  ],
+  "updated": 1795794208
+ },
+ {
   "id": 213,
   "price": 4600000,
   "price_max": 4600000,
