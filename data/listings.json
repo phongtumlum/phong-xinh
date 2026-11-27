@@ -1,5 +1,212 @@
 [
  {
+  "id": 247,
+  "price": 10800000,
+  "price_max": 10800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Tân Cảng",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "bếp"
+  ],
+  "description": "Tân Cảng, Q. Bình Thạnh\nMã TC - 101: 10tr8\n1 phòng ngủ tách bếp, máy giặt riêng",
+  "images": [
+   "data/img/hd_4a8c1008271feb54.jpg",
+   "data/img/hd_caf275edabe5aa10.jpg",
+   "data/img/hd_df0ca38c1207751f.jpg",
+   "data/img/hd_9fe03e7af806a037.jpg",
+   "data/img/hd_e22c5a56a87400ba.jpg",
+   "data/img/hd_c5cedab0c2689424.jpg",
+   "data/img/hd_7e424acfcfe93429.jpg",
+   "data/img/hd_9f9db04b6c826039.jpg",
+   "data/img/5484e57121f41825.jpg"
+  ],
+  "videos": [],
+  "updated": 1795820947
+ },
+ {
+  "id": 246,
+  "price": 10900000,
+  "price_max": 10900000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 2",
+  "street": "Võ Trường Toản",
+  "type": "căn hộ",
+  "layout": "1PN",
+  "layouts": [
+   "1PN"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "nuôi thú cưng"
+  ],
+  "description": "Địa chỉ:Võ Trường Toản, Phường 2, Quận Bình Thạnh\nđịa chỉ mới: Võ Trường Toản, Phường Gia Định)\n1PN BAN CÔNG 10tr9\nKết cấu toà nhà: Sảnh xe + 6 tầng\nTiện ích\nThang máy: Có\nGiặt Sấy: Hành Lang\nNuôi Pet: Cam Kết\nChi Phí Toà Nhà\nĐiện: 4000 vnd/ kw\nNước: 100.000vnd/ người\nPhí Dịch Vụ: 200.000vnd/ Phòng\nXe: Miễn Phí ( tối đa 2 chiếc)",
+  "images": [
+   "data/img/hd_a00493fe2bc0ca7a.jpg",
+   "data/img/hd_11c70d5078e89189.jpg",
+   "data/img/hd_5430696f3589edd0.jpg",
+   "data/img/hd_522284ca2b57e444.jpg",
+   "data/img/hd_afd495cb01fe457b.jpg",
+   "data/img/hd_185748d8c16db57a.jpg",
+   "data/img/hd_51c4102aacd9d6ba.jpg",
+   "data/img/hd_4e54e931e98d33be.jpg",
+   "data/img/30630204356a973b.jpg",
+   "data/img/7aff7627fcd5797a.jpg",
+   "data/img/2fa3b7f7775383f8.jpg",
+   "data/img/d63690c0a988c353.jpg",
+   "data/img/7009d74c4ffddebc.jpg",
+   "data/img/6066d1409ebbeba5.jpg",
+   "data/img/bffefb11db69798a.jpg",
+   "data/img/f3eb84e0874f09e5.jpg",
+   "data/img/0734e87d4788098c.jpg",
+   "data/img/fee966425c5fb25d.jpg",
+   "data/img/7043e91fde65a8b8.jpg",
+   "data/img/ae488123d5bf3e4b.jpg"
+  ],
+  "videos": [],
+  "updated": 1795820876
+ },
+ {
+  "id": 245,
+  "price": 7800000,
+  "price_max": 7800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Ngô Tất Tố",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "Ngô Tất Tố - Bình Thạnh\n7tr8 ban công",
+  "images": [
+   "data/img/hd_ddde44e449652c02.jpg",
+   "data/img/hd_ed82a8bd23bd4c35.jpg",
+   "data/img/hd_8c525196af48bf46.jpg",
+   "data/img/hd_1efff080ae86942c.jpg",
+   "data/img/hd_7c8f02db3118749f.jpg",
+   "data/img/hd_947682b3083f259f.jpg",
+   "data/img/hd_14092aba5da7dbef.jpg",
+   "data/img/hd_94d51982b9bef1f5.jpg",
+   "data/img/95e0d956546d0a79.jpg",
+   "data/img/b331fb885d73b952.jpg",
+   "data/img/4a58b86e67a8d3e2.jpg",
+   "data/img/e49cbeac8cd17505.jpg"
+  ],
+  "videos": [],
+  "updated": 1795820801
+ },
+ {
+  "id": 244,
+  "price": 6500000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Vạn Kiếp",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công"
+  ],
+  "description": "Vạn Kiếp Bình Thạnh\n6tr5 ban công",
+  "images": [
+   "data/img/hd_9cffafbfd7a99e04.jpg",
+   "data/img/hd_2ea13b421de71e91.jpg",
+   "data/img/hd_8a46873465fbc9f1.jpg",
+   "data/img/hd_5a416cee1ab1de95.jpg",
+   "data/img/hd_ef81063c4a9c4f07.jpg",
+   "data/img/hd_a83062361b621eb7.jpg",
+   "data/img/hd_bb83641ca6a18474.jpg"
+  ],
+  "videos": [],
+  "updated": 1795820741
+ },
+ {
+  "id": 243,
+  "price": 5500000,
+  "price_max": 7400000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Xô Viết Nghệ Tĩnh",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "ban công",
+   "full nội thất"
+  ],
+  "description": "7tr4 ban công\nFull nội thất\nFree xe\nXô Viết Nghệ Tĩnh\nTin nhắn chưa đọc\n210 vạn kiếp bình thạnh\nP202. Lau 2 thang bo\nGia : 5tr5 full nội thất\nđ? ( không thú cưng, xe điện )\nĐiện 4k\nNước 100k/ng\nPdv : 200k/ phòng\n449 lê quang định bình thạnh\nPhòng trệt máy giặt riêng có sấy công nghệ AI\n6tr8",
+  "images": [
+   "data/img/hd_346cf739818db90d.jpg",
+   "data/img/hd_e96aee43028d20ee.jpg",
+   "data/img/hd_1caebf2a73838761.jpg",
+   "data/img/hd_ce702ba085c9cb5a.jpg",
+   "data/img/hd_b0e70f3787cb711c.jpg",
+   "data/img/hd_e5c903031682a441.jpg",
+   "data/img/hd_464ec186d7db0b51.jpg",
+   "data/img/hd_eba3335c0cb09d2f.jpg",
+   "data/img/71b0fada0b51be0f.jpg",
+   "data/img/9d7fb49d65de24be.jpg",
+   "data/img/2843e7ed9bb3b473.jpg",
+   "data/img/2dedda64c3a20a94.jpg",
+   "data/img/8b2c01651536f3cf.jpg",
+   "data/img/b096fa5a3591c71b.jpg",
+   "data/img/36515bae0ab03a61.jpg",
+   "data/img/194e1631c8c2e7f8.jpg",
+   "data/img/38dd5da33828314d.jpg",
+   "data/img/3defc19b3846ee97.jpg",
+   "data/img/2eb066ccf650ee09.jpg",
+   "data/img/ccb46c959fed85ba.jpg"
+  ],
+  "videos": [],
+  "updated": 1795820670
+ },
+ {
   "id": 241,
   "price": 6400000,
   "price_max": 6400000,
